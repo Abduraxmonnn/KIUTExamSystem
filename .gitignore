@@ -1,0 +1,10 @@
+.idea
+.venv
+venv
+*.pyc
+/static/
+/media/
+.env
+db.sqlite3
+/docker/
+/docker-compose-old.yml
