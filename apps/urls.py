@@ -2,6 +2,8 @@
 from django.urls import include, path
 
 urlpatterns = [
+    # path('login/', )
+
     path('answer/', include('apps.answers.urls')),
     path('exam_schedule/', include('apps.exam_schedule.urls')),
     path('questions/', include('apps.questions.urls')),

@@ -24,8 +24,8 @@ DEBUG = os.environ.get('DEBUG')
 ALLOWED_HOSTS = ['*']
 
 INTERNAL_IPS = [
-        '127.0.0.1'
-    ]
+    '127.0.0.1'
+]
 
 # Application definition
 
@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    
+
     # Libraries
     'debug_toolbar',
     'django_filters',
@@ -45,12 +45,13 @@ INSTALLED_APPS = [
     'corsheaders',
 
     # Apps
-	'apps.answers',
-	'apps.exam_schedule',
-	'apps.questions',
-	'apps.students',
-	'apps.subjects',
-	'apps.teachers'
+    'apps.answers',
+    'apps.exam_schedule',
+    'apps.questions',
+    'apps.students',
+    'apps.subjects',
+    'apps.teachers',
+    'apps.auth_tokens'
 ]
 
 MIDDLEWARE = [
@@ -61,7 +62,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-	'debug_toolbar.middleware.DebugToolbarMiddleware'
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
+    'custom_middleware.token_middleware.TokenAuthenticationMiddleware',
 ]
 
 ROOT_URLCONF = 'config.urls'
@@ -84,7 +86,6 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'config.wsgi.application'
-
 
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
@@ -189,4 +190,3 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOW_HEADERS = default_headers + (
     'cache-control',
 )
-
