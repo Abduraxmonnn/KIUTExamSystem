@@ -45,7 +45,13 @@ INSTALLED_APPS = [
     'corsheaders',
 
     # Apps
-    ]
+	'apps.answers',
+	'apps.exam_schedule',
+	'apps.questions',
+	'apps.students',
+	'apps.subjects',
+	'apps.teachers'
+]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
