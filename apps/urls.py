@@ -1,13 +1,15 @@
 # Django
 from django.urls import include, path
 
-urlpatterns = [
-    # path('login/', )
+from apps.main.exam_schedule.views.login import LogInAPIView
 
-    path('answer/', include('apps.answers.urls')),
-    path('exam_schedule/', include('apps.exam_schedule.urls')),
-    path('questions/', include('apps.questions.urls')),
-    path('students/', include('apps.students.urls')),
-    path('subjects/', include('apps.subjects.urls')),
-    path('teachers/', include('apps.teachers.urls')),
+urlpatterns = [
+    path('login/', LogInAPIView.as_view()),
+
+    path('answer/', include('apps.main.answers.urls')),
+    path('exam_schedule/', include('apps.main.exam_schedule.urls')),
+    path('questions/', include('apps.main.questions.urls')),
+    path('students/', include('apps.main.students.urls')),
+    path('subjects/', include('apps.main.subjects.urls')),
+    path('teachers/', include('apps.main.teachers.urls')),
 ]

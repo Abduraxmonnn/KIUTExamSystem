@@ -1,6 +1,6 @@
 from django.http import HttpResponseForbidden
 
-from apps.auth_tokens.models import CustomToken
+from apps.main.auth_tokens.models import CustomToken
 
 
 class TokenAuthenticationMiddleware:

@@ -45,13 +45,13 @@ INSTALLED_APPS = [
     'corsheaders',
 
     # Apps
-    'apps.answers',
-    'apps.exam_schedule',
-    'apps.questions',
-    'apps.students',
-    'apps.subjects',
-    'apps.teachers',
-    'apps.auth_tokens'
+    'apps.main.answers',
+    'apps.main.exam_schedule',
+    'apps.main.questions',
+    'apps.main.students',
+    'apps.main.subjects',
+    'apps.main.teachers',
+    'apps.main.auth_tokens'
 ]
 
 MIDDLEWARE = [
@@ -144,8 +144,7 @@ REST_FRAMEWORK = {
     ],
 
     'DEFAULT_AUTHENTICATION_CLASSES': [
-        'rest_framework.authentication.TokenAuthentication',
-        'rest_framework.authentication.SessionAuthentication',
+        # 'rest_framework.authentication.SessionAuthentication',
     ],
 
     'DEFAULT_PERMISSION_CLASSES': [
