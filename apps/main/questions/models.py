@@ -1,3 +1,6 @@
+# Python
+from datetime import datetime
+
 # Django
 from django.core.validators import MinValueValidator, MaxValueValidator
 from django.db import models
@@ -7,7 +10,7 @@ from apps.main.subjects.models import Subject
 
 
 def upload_file_to(instance, filename):
-    return f'questions/{instance.subject.full_name}/%Y/%m/{filename}'
+    return f'questions/{instance.subject.full_name}/{datetime.now().year}/{datetime.now().month}/{filename}'
 
 
 class Question(models.Model):

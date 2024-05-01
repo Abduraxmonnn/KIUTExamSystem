@@ -23,6 +23,7 @@ class TokenAuthenticationMiddleware:
 def is_token_valid(token):
     try:
         exam_token = CustomToken.objects.get(key=token)
-        return exam_token.is_valid()
+        if exam_token:
+            return True
     except CustomToken.DoesNotExist:
         return False

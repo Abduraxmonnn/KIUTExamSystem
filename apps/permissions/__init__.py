@@ -1,1 +1,2 @@
 from apps.permissions.login_permission import LogInUserPermission
+from apps.permissions.is_authenticated_permission import IsCustomTokenAuthenticatedPermission
