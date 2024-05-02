@@ -20,7 +20,13 @@ class QuestionRetrieveAPIView(views.APIView):
         subject = serializer.validated_data.get('subject')
         stage = serializer.validated_data.get('stage')
 
-        get_questions = self.model.objects.get(subject__full_name=subject, stage=stage)
+        try:
+            get_questions = self.model.objects.get(subject__full_name=subject, stage=stage)
+        except Question.DoesNotExist:
+            return Response({
+                'status': 'error',
+                'message': 'Check subject or stage and Try Again'
+            }, status=status.HTTP_400_BAD_REQUEST)
 
         if stage != 2:
             response = dict({
