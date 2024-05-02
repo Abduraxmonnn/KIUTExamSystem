@@ -24,7 +24,7 @@ class QuestionRetrieveAPIView(views.APIView):
 
         if stage != 2:
             response = dict({
-                'file': get_questions.file.encoding
+                'file': get_questions.file.path
             })
 
             return Response({
