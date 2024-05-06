@@ -23,7 +23,7 @@ class QuestionRetrieveAPIView(views.APIView):
         number_of_questions = serializer.validated_data.get('number_of_questions')
 
         try:
-            get_questions = self.model.objects.get(subject__full_name=subject, stage=stage)
+            get_questions = self.model.objects.get(subject__full_name=subject)
         except Question.DoesNotExist:
             return Response({
                 'status': 'error',
@@ -38,7 +38,7 @@ class QuestionRetrieveAPIView(views.APIView):
                 'specialization': get_questions.specialization,
                 'language': get_questions.language,
                 'academic_semester': get_questions.academic_semester,
-                'file': get_questions.file.path
+                'file': get_questions.file.url
             })
 
             return Response({
