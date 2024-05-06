@@ -12,16 +12,18 @@ from apps.services.get_user_by_token_service import get_student_by_token
 
 
 class AnswerCreateAPIView(viewsets.ModelViewSet):
-    queryset = Answer.objects.all()
+    model = Answer
+    queryset = model.objects.all()
     serializer_class = AnswerCreateSerializer
     permission_classes = [IsCustomTokenAuthenticatedPermission]
 
     def create(self, request, *args, **kwargs):
-        serializer = AnswerCreateSerializer(data=request.data)
+        serializer = self.serializer_class(data=request.data)
         serializer.is_valid(raise_exception=True)
 
         question_id = serializer.validated_data.get('question_id')
         subject = serializer.validated_data.get('subject')
+        stage = serializer.validated_data.get('stage')
         answer_text = serializer.validated_data.get('answer_text', None)
         file = serializer.validated_data.get('file', None)
 
@@ -37,9 +39,9 @@ class AnswerCreateAPIView(viewsets.ModelViewSet):
             }, status=status.HTTP_400_BAD_REQUEST)
 
         try:
-            created_answer = Answer.objects.create(
+            created_answer = self.model.objects.create(
                 subject=get_subject,
-                stage=get_question.stage,
+                stage=stage,
                 question=get_question,
                 student=get_student,
                 answer_text=answer_text,
