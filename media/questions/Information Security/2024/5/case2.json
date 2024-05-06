@@ -1,0 +1,6590 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"TF-IDF\""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": " nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matndagi so`zning ahamiyatini uning hujjat korpusida tez-tezligi va paydo bo`lishiga qarab baholash usuli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnlarni tasniflash algoritmi."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matndagi sinonim va antonimlarni aniqlash texnologiyasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gaplar ohangini aniqlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"So' z ma' nosini ajratish\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kontekstda so`z ma'nosini ajratib ko`rsatish texnikasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gapning semantik tuzilishini aniqlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matndagi tayanch iboralarni ajratib olish algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnni vektor "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "sifatida ifodalash modeli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "\"Sintaksis daraxti\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gapning sintaktik tuzilishini ifodalovchi daraxt.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matndagi so`zlar orasidagi semantik munosabatlarni aks ettiruvchi tuzilma.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matnni grafik shaklida tasvirlash modeli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matndagi kalit so`zlarni ajratib ko`rsatish usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"Sentiment Analysis\" nima?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matn hissiyotini tahlil qilish va aniqlash vazifasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matndagi gap qismlarini aniqlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So`zlar orasidagi sintaktik munosabatlarni ajratib ko`rsatish algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gapdagi tayanch iboralarni ajratib ko`rsatish usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tabiiy tilni "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "qayta ishlash kontekstida \"Transfer Learning\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bilim va tajribani bir muammoni hal qilishdan boshqasiga o' tkazish usuli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Har bir yangi vazifaga noldan modellarni tayyorlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matnli ma'lumotlarni tasvirlash uchun grafiklardan foydalanadigan texnika."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnlarni tasniflash algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPdagi ``Sequence-to-Sequence'' (Seq2Seq) modeli nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kirishlar ketma-ketligida "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "ishlaydigan va chiqishlar ketma-ketligini hosil qiluvchi "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "model.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kirish sifatida ma'lumotlar ketma-ketligini oladigan va bitta chiqishni qaytaruvchi model.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gaplarning sintaktik tuzilishini ajratib olish texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matndagi tayanch iboralarni ajratib ko`rsatish algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tabiiy tilni qayta ishlash kontekstida \"Diqqat mexanizmi\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qayta ishlash jarayonida matnning turli qismlarining ahamiyatini hisobga oluvchi usul.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matndagi sinonim va antonimlarni aniqlash algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gaplarning semantik tuzilishini tahlil qilish texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vektor sifatida matnni ifodalovchi model.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"Tilni modellashtirish\" nima?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oldingi so`zlar asosida ketma-ketlikda keyingi so`zning paydo bo`lish ehtimolini bashorat qiluvchi model."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matndagi tayanch iboralarni ajratib ko`rsatish algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gapdagi so`zlar orasidagi semantik munosabatni aniqlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gaplarning sintaktik tuzilishini tahlil qilish texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"GloVe\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So`zlarni ifodalash uchun vektorlardan foydalanadigan model.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gaplarning semantik tuzilishini ajratib ko' rsatish texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matnlarni tasniflash algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Usul\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tabiiy tilni qayta "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "ishlashda nutq qismini belgilash (POS) vazifasi nima?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matndagi so' zlarning nutq qismlarini avtomatik aniqlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnning ohangini aniqlash."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gapdagi so`zlar orasidagi sintaktik munosabatlarni aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnli hujjatlarni klasterlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tabiiy tilni "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "qayta ishlash (NLP) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kompyuter algoritmlari yordamida tabiiy tildagi matnni tahlil qilish va qayta ishlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yangi tillarni yaratish jarayoni.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarga tabiiy tilni tushunish va yaratishga o' rgatish bilan bog' liq texnologiya.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tabiiy tillarda dasturlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Savol: NLPda tokenizatsiya nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matnni tokenlar yoki so`zlar ketma-ketligiga aylantirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnning ohangini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gap mazmunini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matndan kalit so`zlarni ajratib olish jarayoni.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda qaysi vazifa "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "so' zlarning ma' nosini va gapdagi munosabatlarini aniqlash bilan bog' liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Semantik tahlil.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Morfologik tahlil.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " To' planish."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"So' z xaltasi\" usuli nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So`zning ma'nosini aniqlash uchun kontekstdan foydalanadigan model.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnni tartibsiz so`zlar yig`indisi sifatida ifodalovchi texnika.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Modellarni o' rgatish uchun etiketli ma' lumotlardan foydalanadigan usul.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gaplarning sintaktik tuzilishini ajratib oluvchi algoritm.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"stemming\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So`zlarni asl shakliga yoki ildiziga aylantirish jarayoni.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gapdagi so`zlar orasidagi sintaktik munosabatlarni aniqlash texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zlarning ma' no jihatdan o' xshashligini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gapdagi gap bo`laklari haqida ma'lumot olish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP-dagi qaysi vazifa matnni berilgan toifalar yoki teglarga tasniflash bilan bog' liq?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matnlarni tasniflash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nomlangan ob' ektni ajratib olish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnlarni klasterlash."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"N-gram\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matndagi N so`z yoki leksemalarning ketma-ketligi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnni tahlil qilishda bir nechta grammatik qoidalardan foydalanadigan model.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So`zlar orasidagi semantik munosabatni belgilovchi usul.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matndagi so`zlarning uchrash chastotasini hisoblovchi algoritm.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"So' zlarni joylashtirish\" nima?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So`zlarni vektor sifatida son qiymatlari bilan ifodalovchi model."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matndagi gaplar tuzilishini baholovchi texnika.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So`zlar orasidagi semantik yaqinlikni hisoblovchi algoritm.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnli ma'lumotlarni tasvirlash uchun grafiklardan foydalanadigan usul."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP-da nutq qismini belgilash (POS teging) vazifasi nima?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gap bo`laklariga tegishli teglarni gapda belgilash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gap tarkibidagi so`zlarning ma'nosini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gapning semantik tuzilishini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matndagi tayanch iboralarni ajratib ko`rsatish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tabiiy tilni qayta ishlash (NLP) nima?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kompyuter algoritmlari yordamida tabiiy tildagi matnni tahlil qilish va qayta ishlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yangi tillarni yaratish jarayoni."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarga tabiiy tilni tushunish va yaratishga o' rgatish bilan bog' liq texnologiya.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tabiiy tillarda dasturlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda tokenizatsiya nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matnni tokenlar yoki so`zlar ketma-ketligiga aylantirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnning ohangini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gap mazmunini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matndan kalit so`zlarni ajratib olish jarayoni.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda qaysi vazifa so' zlarning "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "ma' nosini va gapdagi munosabatlarini aniqlash bilan bog' liq?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Semantik tahlil "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Morfologik tahlil.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " To' planish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"So' z xaltasi\" usuli nima?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So`zning ma'nosini aniqlash uchun kontekstdan foydalanadigan model.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnni tartibsiz so`zlar yig`indisi sifatida ifodalovchi texnika.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Modellarni o' rgatish uchun etiketli ma' lumotlardan foydalanadigan usul.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gaplarning sintaktik tuzilishini ajratib oluvchi algoritm."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image2.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"stemming\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So`zlarni asl shakliga yoki ildiziga aylantirish jarayoni.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gapdagi so`zlar orasidagi sintaktik munosabatlarni aniqlash texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zlarning ma' no jihatdan o' xshashligini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gapdagi gap bo`laklari haqida ma'lumot olish."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP-dagi qaysi vazifa matnni berilgan toifalar yoki teglarga tasniflash bilan bog' liq?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matnlarni tasniflash."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nomlangan ob' ektni ajratib olish."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnlarni klasterlash."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"N-gram\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matndagi N so`z yoki leksemalarning ketma-ketligi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnni tahlil qilishda bir nechta grammatik qoidalardan foydalanadigan model.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So`zlar orasidagi semantik munosabatni belgilovchi usul.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matndagi so`zlarning uchrash chastotasini hisoblovchi algoritm.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"So' zlarni joylashtirish\" nima?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So`zlarni vektor sifatida son qiymatlari bilan ifodalovchi model.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matndagi gaplar tuzilishini baholovchi texnika.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So`zlar orasidagi semantik yaqinlikni hisoblovchi algoritm.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnli ma'lumotlarni tasvirlash uchun grafiklardan foydalanadigan usul.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP-da nutq qismini belgilash (POS teging) vazifasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gap bo`laklariga tegishli teglarni gapda belgilash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gap tarkibidagi so`zlarning ma'nosini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gapning semantik tuzilishini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matndagi tayanch iboralarni ajratib ko`rsatish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"Nomli shaxsni tan olish\" (NER) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matndan nomlar, manzillar va sanalar kabi nomli ob' ektlarni ajratib olish vazifasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matndagi gap qismlarini tahlil qilish usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gapdagi kalit so`zlarni aniqlash texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnni grafik struktura sifatida ifodalovchi model.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"TF-IDF\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matndagi so`zning ahamiyatini uning hujjat korpusida tez-tezligi va paydo bo`lishiga qarab baholash usuli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnlarni tasniflash algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matndagi sinonim va antonimlarni aniqlash texnologiyasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gaplar ohangini aniqlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"So' z ma' nosini ajratish\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kontekstda so`z ma'nosini ajratib ko`rsatish texnikasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gapning semantik tuzilishini aniqlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matndagi tayanch iboralarni ajratib olish algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnni vektor sifatida ifodalash modeli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"Sintaksis daraxti\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gapning sintaktik tuzilishini ifodalovchi daraxt.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matndagi so`zlar orasidagi semantik munosabatlarni aks ettiruvchi tuzilma.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matnni grafik shaklida tasvirlash modeli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matndagi kalit so`zlarni ajratib ko`rsatish usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"Sentiment Analysis\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matn hissiyotini tahlil qilish va aniqlash vazifasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matndagi gap qismlarini aniqlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So`zlar orasidagi sintaktik munosabatlarni ajratib ko`rsatish algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gapdagi tayanch iboralarni ajratib ko`rsatish usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tabiiy tilni qayta ishlash kontekstida \"Transfer Learning\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bilim va tajribani bir muammoni hal qilishdan boshqasiga o' tkazish usuli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Har bir yangi vazifaga noldan modellarni tayyorlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matnli ma'lumotlarni tasvirlash uchun grafiklardan foydalanadigan texnika.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnlarni tasniflash algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPdagi ``Sequence-to-Sequence'' (Seq2Seq) modeli nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kirishlar ketma-ketligida ishlaydigan va chiqishlar ketma-ketligini hosil qiluvchi model.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kirish sifatida ma'lumotlar ketma-ketligini oladigan va bitta chiqishni qaytaruvchi model.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gaplarning sintaktik tuzilishini ajratib olish texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matndagi tayanch iboralarni ajratib ko`rsatish algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"Tilni modellashtirish\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oldingi so`zlar asosida ketma-ketlikda keyingi so`zning paydo bo`lish ehtimolini bashorat qiluvchi model.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matndagi tayanch iboralarni ajratib ko`rsatish algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gapdagi so`zlar orasidagi semantik munosabatni aniqlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gaplarning sintaktik tuzilishini tahlil qilish texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"GloVe\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So`zlarni ifodalash uchun vektorlardan foydalanadigan model.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gaplarning semantik tuzilishini ajratib ko' rsatish texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matnlarni tasniflash algoritmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Usul\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tabiiy tilni qayta ishlashda nutq qismini belgilash (POS) vazifasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matndagi so' zlarning nutq qismlarini avtomatik aniqlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnning ohangini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gapdagi so`zlar orasidagi sintaktik munosabatlarni aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnli hujjatlarni klasterlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda kalit so' zni normallashtirish, kalit so' zni asosiy shaklga aylantirish jarayoni uchun quyidagi usullardan qaysi biri ishlatilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Lemmatizatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Soundex\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kosinus o' xshashligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " N-gramm\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP-da ikkita so' z vektorlari orasidagi masofani hisoblash uchun quyidagi usullardan qaysi biri ishlatilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kosinus o' xshashligi va Evklid masofasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Evklid masofasi va "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "Soundex\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Lemmatizatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " N-gramm va Kosinus o' xshashligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP-da matn korpusining mumkin bo' lgan xususiyatlari qanday?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So' zning vektor belgisi"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nutq tegining bir qismi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Asosiy qaramlik grammatikasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuqoridagilarning barchasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Matnni tahlil qilish usullaridan qaysi biri ot iborasini aniqlash, fe' l iborani aniqlash, mavzuni aniqlash va NLPda ob' ektni aniqlash uchun ishlatilishi mumkin.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nutq belgilarining bir qismi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gram va N-Gram ekstraktsiyasini o' tkazib yuboring\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Doimiy so' zlar sumkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tobelikni tahlil qilish va saylov okrugini tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " N ta hujjatdan iborat jamlanmada tasodifiy tanlangan bitta hujjat jami T atamalarni o' z ichiga oladi va ``salom'' atamasi K marta paydo bo' ladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K * Log(3) / T\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " KT * Log(3)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " T * Log(3) / K\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Log(3) / KT"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP-da qaysi algoritm tez-tez ishlatiladigan so' zlarning og' irligini pasaytiradi va hujjatlar to' plamida juda ko' p ishlatilmaydigan so' zlarning og' irligini oshiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Teskari hujjat chastotasi (IDF)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muddat chastotasi (TF)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Word2Vec\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yashirin Dirixlet taqsimoti (LD)"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri NLP dan foydalanish holatlari hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matnni umumlashtirish"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tasvirdan ob' ektlarni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yuzni tanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Biometrik nutq"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " N ta hujjatdan iborat jamlanmada tasodifiy tanlangan bitta hujjat jami T atamalarni o\u02bbz ichiga oladi va ``salom'' atamasi K marta paydo bo\u02bbladi. TF (termin chastotasi) va IDF (teskari hujjat chastotasi) ko\u02bbpaytmasi uchun qanday qiymat to\u02bbg\u02bbri bo\u02bblsa, agar \"salom\" atamasi umumiy hujjatlarning taxminan uchdan bir qismida uchraydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " T * Log(3) / K\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " KT * Log(3)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " K * Log(3) / T"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Log(3) / KT\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda \"va\", \"is\", \"a\", \"an\", \"the\" kabi so' zlarni jumladan olib tashlash jarayoni deyiladi?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Stop word\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Stemming\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Lemmatization\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Soundex"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda nomlarni, tashkilotni ma' lum bir jumladan, paragrafdan aniqlash jarayoni deyiladi?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nomlangan ob' ektni tan olish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " To' planish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Lemmatizatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " So' zni olib tashlashni to' xtating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri NLP da oldindan ishlov berish texnikasi"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": " emas\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hissiyot tahlili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kichik harfga aylantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tinish belgilarini olib tashlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " To' xtash so' zlarini olib tashlash"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Matnni qazib olishda matnni tokenlarga aylantirish va keyin ularni butun songa yoki suzuvchi nuqtali vektorlarga aylantirish qanday amalga oshirilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " CountVectorizer\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " TF-IDF\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bag of Words\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " NERs\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mashina o\u02bbrganish modeli uchun 20K hujjatlarning kirish ma\u02bclumotlarida hujjat atamasi matritsasi yaratdingiz. Quyidagilardan qaysi biri ma' lumotlar o' lchamlarini kamaytirish uchun ishlatilishi mumkin?\n"
+            },
+            {
+                "type": "text",
+                "content": "1. Kalit so' zlarni normallashtirish"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "2. Yashirin semantik indekslash\n"
+            },
+            {
+                "type": "text",
+                "content": "3. Yashirin Dirixlet taqsimoti\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1, 2, 3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "faqat 1\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2, 3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1, 3\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Stemming da Ba' zi potentsial cheklovlar qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Stemming haqiqiy so' zlar bo' lmagan o' zaklarni keltirib chiqarishi mumkin, bu esa ba' zihollarda noto' g' ri natijalarga olib keladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Stemming algoritmlari hisoblash qimmat va sekin.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Stemming faqat qisqa matnlar uchun samarali bo' lib, katta hajmdagi hujjatlar bilan ishlay olmaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Stemming mashinani o' rganish modellarini o' rgatish uchun etiketli ma' lumotlar to' plamini talab qiladi."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O`zak"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": " yasashda qo`shimchalar yoki old qo`shimchalar olib tashlangan so`zlar bilan nima sodir bo`ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So`zlar boshqa tilga tarjima qilinadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " so' zlar lug' at shakliga kirgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " so`zlar o`zining asos yoki ildiz shakliga aylanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " So`zlar nomli shaxs sifatida aniqlanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP-da qaysi asosiy stemming algoritm odatda qo' llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Porter Stemmer\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sodda Bayes Stemmer\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " TF-IDF Stemmer\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vektor mashinasi Stemmerni qo' llab-quvvatlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP-da stemmingning asosiy afzalligi nimada?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Stemming qo`shilgan so`zlarni asosiy shaklga keltiradi, bu esa matnni tahlil qilish va axborot izlash vazifalarini bajarishda yordam beradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Stemming mashina tarjimasi tizimlarining aniqligini oshirishga yordam beradi."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Stemming ikki nusxadagi so' zlarni yo' q qilish orqali lug' at hajmini kamaytiradi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Stemming matn ichidagi nomli ob' ektlarni aniqlash imkonini beradi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP-ni stemmingni shakllantirishning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " matnni tahlil qilish va qidirishni yaxshilash uchun so' zlarni asosiy yoki ildiz shakligaqisqartirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnni bir tildan boshqa tilga tarjima qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matn ichidagi nomli ob' ektlarni oldindan belgilangan toifalarga aniqlash va tasniflash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " matnda ifodalangan fikrni tahlil qilish."
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Turli sohalarda NLP ilovalaridan foydalanishning qanday afzalliklari bor?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mijozlarga xizmat ko' rsatishni yaxshilash, qarorlar qabul qilishni yaxshilash, takroriy vazifalarni avtomatlashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Uglerod izlarini kamaytirish, tashish yo' nalishlarini optimallashtirish, tabiiy resurslarni saqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy tarmoqlarda faollikni oshirish, virtual haqiqat tajribasini rivojlantirish, ta' minot zanjiri boshqaruvini optimallashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Global bozorlarni kengaytirish, shaxsiy reklama kampaniyalarini yaratish, energiya ishlab chiqarish va taqsimlashni optimallashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ko' pgina NLP ilovalarida mashinani o' rganish qanday rol o' ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mashinani o' rganish modellari katta ma' lumotlar to' plamlarida matn tasnifi, nomli ob' ektni tanib olish va mashina tarjimasi kabi turli NLP vazifalarini bajarish uchun"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": " o' qitiladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mashinani o' rganish usullari matnda ifodalangan inson his-tuyg' ularini tahlil qilish uchun ishlatiladi"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mashinani o' rganish algoritmlari kompyuterlar uchun sun' iy tillarni yaratish uchun qo' llaniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mashinani o' rganish NLP uchun qo' llanilmaydi"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP ilovalaridagi chatbotlarning maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Foydalanuvchilar bilan tabiiy tilda suhbatlar o' tkazish va avtomatlashtirilgan javoblarni taqdim etish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gaplarning grammatik tuzilishini tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Uzoq hujjatlarning xulosalarini yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matn ichidagi nomli ob' ektlarni oldindan belgilangan toifalarga aniqlash va tasniflash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Named Entity Recognition\" (Nomlangan Entity aniqlash) nima uchun foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tanlangan shaxslar, joylar va narsalarni aniqlash uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yozuvni kichik qatorlarga ajratish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zlarni translit qilish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Maqolalarni tartiblash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xom matnning \"preprocessing\" qismida nima amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma' lumotlarni tafsifyalash va tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma' lumotlarni shifrlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma' lumotlarni to' plash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma' lumotlarni saqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Lemmatization\" nima uchun foydalaniladi?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So' zning asl shaklini aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " So' zlar orasidagi o' xshashlikni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zning ma' nasini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " So' zlarni turkumlash"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Term Frequency\" "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bir matnda so' zlar miqdori\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnlarni tizimlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zlarni taxminiy qatorlarga ajratish"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " So' zlar orasidagi o' xshashlikni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi jarayon matnlardagi so' zlar orasidagi bog' lovchi qat' iylikni aniqlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Part-of-Speech Tagging\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Stemming\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tokenization\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Named Entity Recognition"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Syntax Analysis\" (sintaksis tahlili) nima uchun foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matnning grammatik tuzilishini tushuntirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnning ma' nosini tushuntirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zlar orasidagi bog' lovchi qat' iylikni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " So' zlar ma' nolarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Pragmatic Analysis\" (Pragmatik tahlil) nima uchun foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matndagi so' zlar orasidagi mantiqiy aloqani aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnni tizimlash"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zlar ma' nolarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " So' zning o' zini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Syntactic Parsing\" (Sintaksis tahlili) qanday maqsadga xizmat qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So' zlar orasidagi bog' lovchi qat' iyliklarni aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " So' zlar ma' nolarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zning o' zini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnni tizimlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Semantic Role Labeling\" (Ma' noni belgilash) qanday maqsadga xizmat qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So' zlarning qo' llanish xilma-xilligini aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " So' zlar orasidagi bog' lovchi qat' iyliklarni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zlar ma' nolarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnni tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Word Embeddings\" (So' zlar Matnni ifodalovchi modellar) qanday maqsadga xizmat qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So' zlar va ularning ma' nolarini ifodalovchi model yaratish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " So' zlar orasidagi bog' lovchi qat' iyliklarni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zlar ma' nolarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " So' zning o' zini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Alomatlarga asoslangan grammatika modellari qanday usullar bilan o' rganiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Lingvistik usullar bilan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matematik usullar bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Statistik usullar bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Biologik usullar bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Alomatlarga asoslangan grammatika modellari qaysi maqsadga xizmat qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yozuvlarni yordamida so' zlar va so' z birikmalarining qurilishini ta' minlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " So' zlar orasidagi bog' lovchi qat' iylikni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zlar ma' nolarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matnni tizimlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Phrase Chunking\" nima uchun foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matnni yorliqqa ajratish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " So' zlar ma' nolarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " So' zlar orasidagi bog' lovchi qat' iylikni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " So' zlar o' rtasidagi aloqani aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mashinani o' rganishda me'yoridan ortiq o'rgatib yuborish (overfitting)nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " - bu algoritm o' quv ma' lumotlariga juda yaqin yoki hatto to' liq mos kelganda, ortiqcha moslashish sodir bo' ladi, natijada o' quv ma' lumotlaridan boshqa har qanday\n"
+            },
+            {
+                "correct": true
+            },
+            {
+                "type": "text",
+                "content": "ma' lumotlardan aniq bashorat yoki xulosalar qila olmaydigan model paydo bo' ladi.\n"
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " - bu ma' lumotlar fanidagi stsenariy bo' lib, unda ma' lumotlar modeli kirish va chiqish o' zgaruvchilari o' rtasidagi munosabatlarni aniq tasvirlay olmaydi, bu o' quv to' plamida ham, ko' rinmas ma' lumotlarda ham yuqori xatoliklarni keltirib chiqaradi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " - bu mashinani o' rganish modeli ma' lumotlar to' plamidagi barcha haqiqiy ijobiy namunalardan ijobiy misollarni (haqiqiy musbatlar) qanchalik tez-tez to' g' ri aniqlashini o' lchaydigan ko' rsatkich. Haqiqiy ijobiy holatlar sonini ijobiy holatlar soniga bo' lish orqali eslab qolishni hisoblashingiz mumkin.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " - bu mashinani o' rganish modeli samaradorligining ko' rsatkichlaridan biri - model tomonidan qilingan ijobiy bashorat sifati. Aniqlik haqiqiy musbatlar sonining ijobiy bashoratlarning umumiy soniga bo' linishini bildiradi (ya' ni, haqiqiy musbatlar soni va noto' g' ri musbatlar soni).\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mashinani o' rganishda yetarlicha o'rgatmaslik (underfitting)nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Algoritm o' quv ma' lumotlariga juda yaqin yoki hatto to' liq mos kelganda, ortiqcha moslashish sodir bo' ladi, natijada o' quv ma' lumotlaridan boshqa har qanday\n"
+            },
+            {
+                "correct": true
+            },
+            {
+                "type": "text",
+                "content": "ma' lumotlardan aniq bashorat yoki xulosalar qila olmaydigan model paydo bo' ladi.\n"
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bu ma' lumotlar fanidagi stsenariy bo' lib, unda ma' lumotlar modeli kirish va chiqish o' zgaruvchilari o' rtasidagi munosabatlarni aniq tasvirlay olmaydi, bu o' quv to' plamida ham, ko' rinmas ma' lumotlarda ham yuqori xatoliklarni keltirib chiqaradi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " - bu mashinani o' rganish modeli samaradorligining ko' rsatkichlaridan biri - model tomonidan qilingan ijobiy bashorat sifati. Aniqlik haqiqiy musbatlar sonining ijobiy bashoratlarning umumiy soniga bo' linishini bildiradi (ya' ni, haqiqiy musbatlar soni va noto' g' ri musbatlar soni).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " - bu mashinani o' rganish modeli ma' lumotlar to' plamidagi barcha haqiqiy ijobiy namunalardan ijobiy misollarni (haqiqiy musbatlar) qanchalik tez-tez to' g' ri aniqlashini o' lchaydigan ko' rsatkich. Haqiqiy ijobiy holatlar sonini ijobiy holatlar soniga bo' lish orqali eslab qolishni hisoblashingiz mumkin.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi baholash ko' rsatkichi odatda regressiya muammolari uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mean Squared Error (MSE)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Accuracy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Precision\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " F1-score "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Aniqlik (precision) va eslab qolish (recall) o' rtasidagi farq nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aniqlik modelning tegishli natijalarni qaytarish qobiliyatini o' lchaydi, eslab qolish esa barcha tegishli natijalarni qaytarish qobiliyatini o' lchaydi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aniqlik haqiqiy ijobiy bashoratlarning foizini o' lchaydi, eslab qolish esa haqiqiy salbiylarning foizini o' lchaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aniqlik modelning aniqligini, eslab qolish esa bashoratlarning izchilligini o' lchaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "farqlari yo'q, bir xil vazifani bajaradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mashinani o' rganish modellarida regularizationmaqsadi nima?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Modelning murakkabligini kamaytirish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Modelni tayyorlashni tezlashtirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tarafsizlikni oshirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Modelning murakkabligini oshirish uchun"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tasniflashda confusion matritsasi qanday rol o' ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Confusion matritsasi tasniflash modeli tomonidan qilingan to' g' ri(true) va noto' g' ri(false) bashoratlarning qisqacha mazmunini beradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror chegaralarini vizualizatsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Giperparametrlarni tanlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O'tkazib yuborilgan ma' lumotlarni qayta ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mashinani o' rganishdavalidation to' plamining asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Validatsiya to' plami o' quv jarayonida modelning ishlashini baholash va giperparametrlarni tanlash uchun ishlatiladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Modelni test qilish uchun ishlatiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko'plab modellarni taqqoslash uchun ishlatiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Modelni o'rgatish (training) uchun ishlatiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Yo' qotish funktsiyasini (loss function) tanlash mashinani o' rganish modelini o' qitishga qanday ta' sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yo' qotish funktsiyasi optimallashtirish maqsadini belgilaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yo' qotish funktsiyasi mashg' ulotga ta' sir qilmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yo' qotish funktsiyasi modelning arxitekturasini belgilaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yo' qotish funktsiyasini tanlash faqat modelni baholashga ta' sir qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Naive Bayes klassifikatori algoritmi haqida qaysi fikr to`g`ri emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikkilik (binary) va ko' p sinfli tasniflar uchun foydalanish mumkin emas\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bu matnni tasniflash masalalari uchun eng mashhur tanlovdir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Boshqa algoritmlarga nisbatan ko' p sinfli bashoratda yaxshi ishlaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bu test ma' lumotlar to' plami sinfini bashorat qilish uchun tez va oson mashinani o' rganish algoritmlaridan biridir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Logistik regressiya muammosida 300 ta misol mavjud. 270 kishi ovoz berdi. 30 kishi ovoz bermadi. Ovoz bergan odamni topish ehtimoli qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 0,9\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 10\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 90\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 0,1\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Logistik regressiya qachon ixtiro qilingan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1958 yil\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1948 yil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1988 yil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1968 yil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Model yaratish jarayoni nima deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Training\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Teaching\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Explaining\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Supervised Learning qanday muammolar uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Klassifikatsiya, Regressiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klassterlash, ma'lumoto`lchamini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qonuniyatlarni topish, anomal qiymatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Klassifikatsiya, anomal qiymatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " K-Means Unsupervised Learning ning qaysi bo`limining algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar o`lchamini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qonuniyatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Anomal qiymatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " DBSCAN Unsupervised Learning ning qaysi bo`limining algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar o`lchamini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qonuniyatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Anomal qiymatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Hierarchical Cluster Analysis Unsupervised Learning ning qaysi bo`limining algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar o`lchamini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qonuniyatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Anomal qiymatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " One-class SVMUnsupervised Learning ning qaysi bo`limining algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Anomal qiymatlarni topish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar o`lchamini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qonuniyatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Isolation ForestUnsupervised Learning ning qaysi bo`limining algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Anomal qiymatlarni topish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar o`lchamini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qonuniyatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Principal Component Analysis Unsupervised Learning ning qaysi bo`limining algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O`lchamlarni kamaytirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar o`lchamini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Anomal qiymatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kernel PCA Unsupervised Learning ning qaysi bo`limining algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O`lchamlarni kamaytirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar o`lchamini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Anomal qiymatlarni toppish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " AprioriUnsupervised Learning ning qaysi bo`limining algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qonuniyatlarni topish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar o`lchamini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Anomal qiymatlarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Eclat Unsupervised Learning ning qaysi bo`limining algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qonuniyatlarni topish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar o`lchamini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Anomal qiymatlarni toppish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Semi-superised Learning nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qisman nazorat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nazorat ostida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nazoratsiz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to`liq nazorat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Minglab tasvir va audio ishlash uchun millionlab ma'lumotlar talab etilishi qanday muammo hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yetarli ma'lumotlar to`play olmaslik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar barcha mavjud variantlarni qamrab olmaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sifatsiz ma'lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoga aloqasi yo`q parametrlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Model bir tarafga og`ib ketishi qanday muammo hisoblanadi?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar barcha mavjud variantlarni qamrab olmaslik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yetarli ma'lumotlar to`play olmaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sifatsiz ma'lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoga aloqasi yo`q parametrlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xato, ``shovqin'' yoki noodatiy qiymatlar qanday muammo hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sifatsiz ma'lumotlar"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yetarli ma'lumotlar to`play olmaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar barcha mavjud variantlarni qamrab olmaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoga aloqasi yo`q parametrlar"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Parametrlarni xato tanlash qanday muammo hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yetarli ma'lumotlar to`play olmaslik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlar barcha mavjud variantlarni qamrab olmaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sifatsiz ma'lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoga aloqasi yo`q parametrlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Haddan tashqari moslashish bu - ?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Overfitting"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Underfitting\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Topfitting\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bottomfitting\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mos kelmaslik bu - ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Underfitting\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Overfitting\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Topfitting\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bottomfitting\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Loyihani tayyorlashning birinchi bosqichi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jarayonlarni tushunish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Analitik yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Modellash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Loyihani tayyorlashning ikkinchi bosqichi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Analitik yondashuv\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Jarayonlarni tushunish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Modellash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Loyihani tayyorlashning uchinchi bosqichi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarga qo`yilgan talablar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Jarayonlarni tushunish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Analitik yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarga qo`yilgan talablar bosqichidan keyin qaysi boshqich keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni yig`ish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Analitik yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Modellash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni yig`ish bosqichidan keyin qaysi boshqich keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni talqin qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Analitik yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Modellash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni talqin qilish bosqichidan keyin qaysi boshqich "
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "type": "text",
+                "content": "keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni talqin qilish"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Analitik yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Modellash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash bosqichidan keyin qaysi boshqich keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Modellash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni talqin qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Analitik yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Loyihani ishga tushirish bosqichidan oldin qaysi boshqich keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Modelni baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni talqin qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Analitik yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Modelni baholash bosqichidan keyin qaysi boshqich keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihani ishga tushirish bosqichi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni talqin qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Analitik yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Loyihaning eng oxirgi bosqichi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Fikr-mulohazalar tahlili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni talqin qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Analitik yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma'lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pythonda grafiklar bilan ishlash uchun eng mashhur kutubxonalar bu \\ldots{} kutubxonalaridir.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " matplotlib va seaborn\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " numpy va pandas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sklearn va seaborn\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " keras va matplotlib\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri trening namunasiga tegishli?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " javoblari ma' lum bo' lgan ob' ektlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " funksiyani yechish algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " darajaga ko' ra xususiyatning tartibini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ma' lumotlar tasnifi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mashinali o' qitishda ma' lumotlar qanday nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " matritsalar, ob' ektlar, belgilar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " algoritm\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " funktsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " belgilar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tasniflash vazifasi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sinflarga bo' lingan ob' ektlar to' plami\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bir yoki bir nechta xususiyatlarning ob' ektga ta' sirini o' rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " darajaga ko' ra xususiyatning tartibini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " javoblari ma' lum bo' lgan ob' ektlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Regressiya muammosi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir yoki bir nechta xususiyatlarning ob' ektga ta' sirini o' rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " darajaga ko' ra xususiyatning tartibini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " javoblari ma' lum bo' lgan ob' ektlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " sinflarga bo' lingan ob' ektlar to' plami\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Empirik xavf - bu ob' ektga o' rtacha yo' qotish.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yo'q\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bo'lishi mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yo'qotish emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " To' g' ri ta'rifni tanlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sinf - bu ma' lum bir qiymatga ega bo' lgan barcha ob' ektlar to' plami.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " regressiya masalalarida haqiqiy javob butun son yoki raqamli vektor hisoblanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " masalalarni tartiblashda javoblar darhol sinflar to' plami bo' yicha olinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yetarlicha silliq chegaraga ega bo' lgan minimal hajmli maydonlar reyting muammolarining asosiy tarkibiy qismidir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagi vazifalardan qaysi biri tartibli vazifalar hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " spamni aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xulosa chiqarish vazifalarini qidirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " davolashning eng nomaqbul usulini aniqlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kuchli zilzilalar sanasini matematik bashorat qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagi xususiyatlardan qaysi biri tasniflash modelining aniqligini oshirish uchun ishlatilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bularning barchasi to'g'ri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Frequency count of terms (Terminlarning chastotalar soni)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Vector Notation of sentence (Gapning vektor belgisi)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Part of Speech Tag (Nutq tegining bir qismi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ikki mustaqil LSTM tili modelini chapdan o' ngga va o' ngdan chapga o' rgatadi va ularni sayoz ravishda birlashtiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ELMo\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " GPT\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " BERT\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ULMFit"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagi arxitekturadan qaysi biri tezroq o' qitilishi mumkin va kamroq o' quv ma' lumotlarini talab qiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Transformator arxitekturasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Word2Vec"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " LSTM asosidagi tilni modellashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " BERT\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Logistic Regression qaysi o'qitish algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Supervised Learning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Reinforcement Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Deep Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Unsupervised Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Support Vector Machines qaysi o'qitish algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Supervised Learning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Reinforcement Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Deep Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Unsupervised Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Decision Trees qaysi o'qitish algoritmi hisoblanadi?"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Supervised Learning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Unsupervised Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Reinforcement Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Deep Learning"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Random Forests qaysi o'qitish algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Supervised Learning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Unsupervised Learning"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Reinforcement Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Deep Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Neural Networks qaysi o'qitish algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Deep Learning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Unsupervised Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Supervised Learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Reinforcement Learning"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Model aniqligida qanday xatoliklar mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O`rtacha absolyut xatolik, O`rtacha nisbiy xatolik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O`rtacha absolyut xatolik, o`rtacha kvadrat xatolik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O`rtacha absolyut xatolik, O`rtacha matematik xatolik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O`rtacha absolyut xatolik, O`rtacha arifmetik xatolik"
+            },
+            {
+                "type": "image",
+                "content": [
+                    "media/image1.png"
+                ]
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]
