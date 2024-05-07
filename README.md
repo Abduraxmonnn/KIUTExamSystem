@@ -62,7 +62,7 @@ $ pip install -r requirements.txt
 ### Configure `PostgreSQL`
 Create clear database named `master_sys_db`.
 
-Create `master_sys_user` db user with password `master_1234` and grand privileges to him.
+Create `master_sys_user` db user with password `master_12345` and grand privileges to him.
 
 If you want to create a database with a different name, user and password, you can change the initial configuration to your own configuration.
 ```shell
@@ -70,7 +70,7 @@ $ sudo -u postgres psql
 postgres=# ...
 CREATE DATABASE master_sys_db;
 CREATE USER master_sys_user WITH PASSWORD 'master_12345';
-ALTER ROLE master_sys__user SET client_encoding TO 'utf8';
+ALTER ROLE master_sys_user SET client_encoding TO 'utf8';
 ALTER ROLE master_sys_user SET default_transaction_isolation TO 'read committed';
 ALTER ROLE master_sys_user SET timezone TO 'UTC';
 GRANT ALL PRIVILEGES ON DATABASE master_sys_db TO master_sys_user;
