@@ -15,7 +15,7 @@ from django.conf import settings
 T = TypeVar('T')
 
 
-def get_question_case_1(subject: T, stage: T, num_questions: int = 5) -> Response:
+def get_question_case_1(subject: T, stage: T, question_id: T = None, num_questions: int = 5) -> Response:
     get_question = Question.objects.get(subject__full_name=subject, stage=stage)
     file_path = get_question.file.name
     try:
@@ -29,7 +29,6 @@ def get_question_case_1(subject: T, stage: T, num_questions: int = 5) -> Respons
         }, status=status.HTTP_404_NOT_FOUND)
 
     question_ids = [question['id'] for question in json_data if 'question' in question]
-    questions = random.sample(question_ids, min(num_questions, len(question_ids)))
     result = [
         {
             'specialization': get_question.specialization,
@@ -40,8 +39,14 @@ def get_question_case_1(subject: T, stage: T, num_questions: int = 5) -> Respons
 
     for item in json_data:
         if 'question' in item:
-            if item['id'] in questions:
-                result.append(item)
+            if question_id:
+                if int(question_id) == item['id']:
+                    result.append(item)
+                    break
+            else:
+                questions = random.sample(question_ids, min(num_questions, len(question_ids)))
+                if item['id'] in questions:
+                    result.append(item)
 
     return Response({
         'status': 'successfully',
