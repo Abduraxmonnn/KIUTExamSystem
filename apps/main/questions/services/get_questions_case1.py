@@ -29,24 +29,24 @@ def get_question_case_1(subject: T, stage: T, question_id: T = None, num_questio
         }, status=status.HTTP_404_NOT_FOUND)
 
     question_ids = [question['id'] for question in json_data if 'question' in question]
-    result = [
-        {
-            'specialization': get_question.specialization,
-            'language': get_question.language,
-            'academic_semester': get_question.academic_semester,
-        }
-    ]
+    result = {
+        'specialization': get_question.specialization,
+        'language': get_question.language,
+        'academic_semester': get_question.academic_semester,
+        'questions': []
+    }
+    valid_questions = [item for item in json_data if 'question' in item]
 
-    for item in json_data:
-        if 'question' in item:
-            if question_id:
-                if int(question_id) == item['id']:
-                    result.append(item)
-                    break
-            else:
-                questions = random.sample(question_ids, min(num_questions, len(question_ids)))
-                if item['id'] in questions:
-                    result.append(item)
+    if question_id:
+        for item in valid_questions:
+            if int(question_id) == item['id']:
+                result['questions'].append(item)
+                break
+
+    while len(result['questions']) < num_questions:
+        remaining_candidates = [q for q in valid_questions if q not in result['questions']]
+        random_question = random.choice(remaining_candidates)
+        result['questions'].append(random_question)
 
     return Response({
         'status': 'successfully',
