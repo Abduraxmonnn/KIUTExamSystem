@@ -1,0 +1,5752 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robototexnikada sun' iy aqlning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish tezligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Energiya sarfini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarga murakkab vazifalarni mustaqil bajarish imkonini berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlarni arzonlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robototexnikada harakatni nazorat qilishning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aniq harakatni ta' minlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tezlikni oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Energiya samaradorligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Rangni tan olishni yaxshilash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sensorlar robot tizimida qanday rol o' ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Energiya ta' minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma' lumotlarni qayta ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tezlikni oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Atrof muhit haqida ma' lumot to' plash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP inson-robot o' zaro ta' sirida qanday qo' llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotning harakatlanishini yaxshilash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Inson tilini tushunish va javob berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Batareyaning umrini uzaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qayta ishlash quvvatini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlarning inson hissiyotlarini tushunishda asosiy qiyinchilik nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hardware dizayni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Batareyaning umri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " His-tuyg' ularni aniq talqin qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qayta ishlash tezligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri robot ko' rishi uchun qo' llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nutqni tanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ob' ektni aniqlash va tanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Batareyaning samaradorligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Simsiz aloqa\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlardagi hissiy intellekt (emotional intelligence) inson va robot o' zaro ta' sirining qaysi jihatini yaxshilash uchun eng muhim hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Vazifalarning samaradorligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Axloqiy qarorlar qabul qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Hissiy aloqadorlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tilni tushunish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robot bu nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Murakkab harakatlarni avtomatik tarzda bajarishga qodir bo' lgan mashina.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Inson xatti-harakatlarini takrorlaydigan kompyuter dasturi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Har qanday elektron qurilma.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Masofadan boshqariladigan mashina.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robot navigatsiyasining asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Iloji boricha ko' proq energiya iste' mol qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Eng qisqa yo' l bilan maqsadli joyga yetib olish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oldindan dasturlangan ko' rsatmalarni kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Insonlar bilan o' zaro munosabatda bo' lish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " A-star algoritmining asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Eng kam xotira sarflaydigan yo' lni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ikki nuqta orasidagi eng qisqa yo' lni topish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Noma' lum hududning xaritasini yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotning maksimal batareya quvvatidan foydalanishini ta' minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Human-Robot Interaction (HRI) da asosiy e' tibori nimaga qaratiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Samarali robot dvigatellarini loyihalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarni insonlardan mustaqil ravishda ishlashini ta' minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Insonlar va robotlar o' rtasida samarali muloqot va hamkorlikni ta' minlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nazoratsiz vazifalarni bajarish uchun robotlarni dasturlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri ijtimoiy robotga misol bo' la oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Do' konda mijozlarga yordam beruvchi robot\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Zavodda avtomobil qismlarini payvandlash roboti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Havoda rasmga olish uchun ishlatiladigan dron\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qurilish maydonchasida mustaqil ishlovchi buldozer\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robot inson his-tuyg' ularini tushunish uchun qaysi texnologiya muhim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ultratovush texnologiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yuzni tanish dasturi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " GPS kuzatuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gidravlik tizimlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotika sohasida tabiiy tilni qayta ishlashning ahamiyati nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlarga o' zlarini ta' mirlash imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarga inson tilini tushunish va unda muloqot qilish imkonini beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotning batareya umrini uzaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat dasturlash maqsadlarida foydali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada ' imo-ishora' ni tanish'{} nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlar insonning imo-ishoralarini tushunib, javob berishiga imkon beruvchi texnologiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarni quvvatlantirish usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlar uchun dasturlash tili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robot komponentlarini qurish vositasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Natural Language Processing (NLP) asosan Human-Robot Interaction (HRI)da nima uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robot motorlarini boshqarish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarga inson tilini tushunish va javob berish imkonini berish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robot batareyasining samaradorligini oshirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robot tashqi ko' rinishini loyihalash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlarda ovozli interfeyslarni yoqish uchun qaysi texnologiya muhim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bluetooth\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Wi-Fi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nutqni tan olish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Infratovush sensorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda jumla hissiyotini tahlil qilish uchun qaysi algoritm keng qo' llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " QuickSort\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Binary Search\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bubble Sort\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " LSTM (Long Short-Term Memory) tarmoqlari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlarda NLP samarali ishlashi uchun qaysi komponent zarur?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " GPS moduli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matn qayta ishlash algoritmlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tez quvvatlanish tizimlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuqori aniqlikdagi kameralar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada CNNlarning asosiy qo' llanilishi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robot harakatlarini boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Batareya samaradorligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma' lumotlarni saqlashni boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vizual ma' lumotlarni qayta ishlash va tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " CNNlar tomonidan eng ko' p qayta ishlanadigan ma' lumotlar turi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Audio fayllar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matn hujjatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Table ma' lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tasvirlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada hissiyotlarni tanish nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlarni vazifalarni bajarish uchun dasturlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarga inson hissiyotlarini aniqlash va ularga javob berish imkonini berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarning tezligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlarning batareya samaradorligini yaxshilash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada hissiyotlarni aniqlash uchun qaysi sensor keng qo' llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Giroskop\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Akselerometr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kamera\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Termometr\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada hissiyotlarni tan olish uchun asosan qaysi sun' iy intellekt texnologiyasi qo' llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A star algoritm\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Genetik algoritmlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mashina o' rganish (Machine learning)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Dijkstara algoritm\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlarda hissiyotlarni tan olish tizimlarini yaxshilash uchun qanday ilg' or texnika qo' llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Deep learning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Cloud computing\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Blockchain\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kvant hisoblash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotika kontekstida Reinforcement learning nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlarni aniq vazifalarni bajarish uchun dasturlash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlar sinov va xato orqali qaror qabul qilishni o' rganadigan mashina o' rganish turi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarning batareya umrini yaxshilash texnikasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlarning og' irligini kamaytirish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sanoat robotlarning keng tarqalgan turi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Taomlar tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mahsulotlarni yig' ish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Dars o' tish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kitob yozish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlar sog' liqni saqlash sohasiga qanday ta' sir ko' rsatmoqda?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hamshiralarga bo' lgan ehtiyojni kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Dorixonalarni almashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tibbiyot talabalarni o' qitish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aniqlik bilan jarrohlik amaliyotlarini o' tkazish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " YOLOning qaysi jihati uni mobil robotlar uchun samarali qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Batareya umriga minimal ta' siri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Arzon sensorlar bilan mosligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarda kichik maydonni egallashi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Uning harakatda tez va aniq ob' ekt aniqlash qobiliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutqdagi murakkab hissiy holatlarni tan olish uchun qaysi mashina o' rganish texnikasi eng samarali?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Linear Regression\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Deep Learning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Decision Tree\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Clustering algoritmlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robototexnikada aniq nazorat uchun qaysi turdagi aktuatorlar keng qo' llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gidravlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pnevmatik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Elektr\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Termal\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robototexnikada harakat va sensor modellashtirishning maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harakatlarning natijalarini bashorat qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotning tezligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish xarajatlarini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robot dizaynlarini soddalashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotik navigatsiyada yo' lni rejalashtirish uchun qanday algoritm keng qo' llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Deykstra algoritmi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tez tartiblash algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Genetik algoritm\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Chiziqli dasturlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Markov Decision Processes robototexnikada qanday holatda ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Noaniqlik sharoitida qaror qabul qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kamerani kalibrlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sensorning ishlash muddatini bashorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Harakat malakalarini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlardagi sensorlarning maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Energiya ta' minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma' lumotlarni qayta ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Atrof-muhitdagi o' zgarishlarni aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Harakat yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotik tizimlarda masofani o' lchash uchun qaysi turdagi sensor odatda ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Termometr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Akselerometr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Giroskop\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ultratovushli sensor\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada ' SLAM'{} nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ovoz Lokalizatsiyasi va Xaritalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bir vaqtda Lokalizatsiya va Xaritalash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tizimli O' rganish va Boshqaruv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sinxron Lokalizatsiya va Kuzatuv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Yo' l rejalashtirishda ' to' siqdan chetlash'{} nima degani?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotning tezroq harakatlanish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " To' siqlarni aniqlash va atrofida harakatlanish qobiliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To' g' ri yo' l bo' ylab harakatlanish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vazifalarni bajarish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlar navigatsiyada ' yo' l nuqtalari' ni qanday ishlatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robot to' xtab, quvvatini to' ldirish uchun dam oladigan nuqtalar sifatida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Buyumlarni yetkazib berish uchun mo' ljallangan joylar sifatida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yo' lni aniqlashga yordam beradigan o' rtacha nuqtalar sifatida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Navigatsiya paytida chetlab o' tilishi kerak bo' lgan nuqtalar sifatida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " A-star algoritmi quyidagilari bilan tanilgan:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hisoblashga qimmat va sekin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ko' p hollarda aniqlikd\u0430\u043d qoladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Grafda yo' l topish uchun samarali va aniq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat statik va kichik hajmdagi xaritalar uchun foydali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Dijkstra algoritmining kontekstida ' vertex'{} nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bir turdagi sensor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Grafda chiziqlar kesishgan nuqta yoki tugun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotning qo' li qismi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Chetlab o' tilishi kerak bo' lgan to' siq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sensorlar human-robot interaction (HRI)da qanday rol o' ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlarga asosiy quvvat manbai taqdim etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarga murakkab hisob-kitoblarni bajarishga yordam beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarga atrof-muhitni sezish va inson mavjudligiga javob berish imkonini beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat texnik xizmat ko' rsatish uchun ishlatiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Human-robot interaction (HRI) kontekstida ko' p muhokama qilinadigan e'tik masala qaysi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Maxfiylik va kuzatuv bilan bog' liq tashvishlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robot ishlab chiqarish narxi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlar qanchalik tez ishlashi mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlar rangi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda birinchi qadam nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tokenlash, matnni so' zlar yoki iboralarga ajratish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tarjima\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Semantik tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nutqni tan olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda ' semantik tahlil'{} nima degani?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " So' zlar va jumladagi ma' noni tushunish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Matnda so' zlar sonini sanash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Jumlada grammatik xatolarni to' g' rilash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nutqni matnga aylantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotika uchun NLP kontekstida ' tokenlash'{} nima degani?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matnni so' zlar yoki iboralar kabi kichik qismlarga bo' lish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotni quvvatlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robot komponentlarini yig' ish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotning harakatlarini dasturlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLP modellari robotikada turli tillarni qanday qilib qayta ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Har bir til uchun alohida modellardan foydalanish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ko' p tilli trening va qo' llab-quvvatlash orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ingliz tilidan tashqari tillarni e' tiborsiz qoldirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qo' lda tarjima qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Zamonaviy NLP modellari inson-robot muloqotini yaxshilash uchun qanday ilg' or xususiyatni taqdim etadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Batareya sig' imini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tezroq harakat tezligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yaxshiroq kamera aniqligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Real vaqt rejimida tilni tarjima qilish va yaratish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotika kontekstida, nima uchun tabiiy tilni tushunish NLP modellari uchun qiyin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Chunki robotlar faqat raqamli ma' lumotlarni qayta ishlay oladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mavjud ma' lumotlar yetishmasligi tufayli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bu sezilarli energiya resurslarini talab qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Inson tilining noaniqligi va o' zgaruvchanligi tufayli\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Deep learning robotikada NLP vazifalarini qanday yaxshilaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlarning og' irligini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarni to' liq mustaqil qilish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Aniqroq va kontekstga sezgir tafsirlarni imkon qilish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlarning bardoshliligini oshirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada RNN modellardan foydalanishning asosiy afzalligi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Past quvvat sarfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yuqori tezlikda ma' lumotlarni qayta ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma' lumotlar ketma-ketligini qayta ishlash qobiliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Oddiy tarmoq tuzilishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikadagi nutqni tanish vazifalarida RNNlarni mos qiladigan xususiyat qaysi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ularning statik arxitekturasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Vaqt o' tishi bilan ma' lumotni xotirada saqlash qobiliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ikkilik chiqishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Konvolutsion qatlamlardan foydalanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada ishlatiladigan an' anaviy RNNlarni qiyinlashtiradigan keng tarqalgan muammo qaysi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gradient descent muammosi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Haddan tashqari ko' p energiya sarfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tasvirlarni qayta ishlolmaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Cheklangan ulanish variantlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotika ilovalarida LSTM an' anaviy RNNlarga qaraganda qanday yaxshilanishlarni taklif etadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Uzoq muddatli bog' liqliklarni yaxshiroq boshqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Past hisoblash talablari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oson apparat amalga oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tezroq real vaqt javoblari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " CNNlarning qaysi xususiyati ularni robotikada tasvirni tan olish vazifalari uchun mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tez qayta ishlash tezligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Past quvvat sarfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kichik hajmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tasvirlarda muhim xususiyatlarni avtomatik ravishda aniqlash qobiliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada vizual ma' lumotlarni qayta ishlashda CNNlar an' anaviy neyron tarmoqlariga qaraganda qanday afzallikka ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ular konvolutsion qatlamlardagi umumiy vaznlar tufayli o' qitish uchun kamroq parametrlarni talab qiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Dasturlash osonroq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kamroq energiya iste' mol qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kichikroq o' lchamga ega\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " CNNlar robotikada ob' ekt aniqlash aniqligini qanday yaxshilaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oddiyroq algoritmlardan foydalanish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tarmoq o' lchamini oshirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Vizual ma' lumotlarning ierarxik xususiyat taqdimotlarini o' rganish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kirish tasvirlarining aniqligini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada real vaqt ilovalari uchun CNNlardan foydalanishda asosiy qiyinchilik nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tarmoqni o' qitish uchun mavjud ma' lumotlarning etishmasligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tez-tez qayta dasturlash zarurati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kechikish muammolariga olib keladigan hisoblash murakkabligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Boshqa robot tizimlari bilan integratsiyalash qiyinligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikadagi CNNlarda ' ReLU'{} faollashtirish funksiyasi qanday foyda keltiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Barcha kirishlarni chiziqli qiladi, tarmoq me' morchiligini soddalashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " U modelga chiziqsizlik kiritadi, bu esa ma' lumotlardagi murakkab naqshlarni o' rganishga yordam beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tarmoqning energiya iste' molini minimallashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qatlamlar sonini kamaytirish orqali tarmoq o' qitish tezligini oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " CNNlarni o' qitishda ' dropout'{} texnikasi qanday rol o' ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O' qitish jarayonida birliklarni tasodifiy tashlab, overfittingdan (ortiqcha moslashuvdan) saqlanishga yordam beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Neyronlar sonini kamaytirib, hisoblash tezligini oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tasvir aniqligini yaxshilaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Model me' morchiligini soddalashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Batch normalizatsiya CNN ishlashini qanday yaxshilaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faollashlarni sozlash va miqyoslash orqali kirish qatlamini normalizatsiya qilish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kirish qatlamlarining sonini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tarmoq chuqurligini oshirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Umumiy tarmoq hajmini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tasvirlardagi makon ierarxiyasini tan olishda qaysi CNN komponenti muhim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Konvolutsion qatlamlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " To' liq bog' langan qatlamlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kirish qatlamlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Chiqish qatlamlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Konvolutsion qatlamda filtr o' lchamini oshirishning tasvirni qayta ishlashga ta' siri qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qayta ishlash vaqtini tezlashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aniqlikni kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tasvirning keng xususiyatlarini ushlab turadi, lekin makon aniqligini kamaytiradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tarmoq chuqurligini kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada CNNlarda aktivatsiya funksiyasi qanday rol o' ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kirish ma' lumotlarini chiziqlashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tarmoqqa kirish kuchlanishini tartibga soladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tarmoq me' morchiligini soddalashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tarmoqqa chiziqsizlik kiritadi, bu esa murakkab naqshlarni o' rganish imkonini beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada hissiyotlarni tan olish nima uchun muhim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " U robotlarning tez harakatlanishiga yordam beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " U insonlar va robotlar o' rtasidagi o' zaro ta' sirni yaxshilaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarning narxini kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlarni og' irlashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learning robotikada hissiyotlarni tan olishga qanday hissa qo' shadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Algoritmlarni insonning yuz ifodalarini va ovoz ohanglarini talqin qilish uchun o' qitish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarga mustaqil ravishda ishlash imkonini berish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarning ma'lumotlarni qayta ishlash quvvatini oshirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlarning energiya iste' molini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ovoz ohangidagi qaysi xususiyat hissiyotlarni ko' rsatishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ovoz hajmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tezlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ohang balandligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aniqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlar uchun yuzdagi hissiyotlarni tan olish odatda qanday amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kompyuter ko' rish texnikalari orqali yuzdagi muhim belgilarni tahlil qilish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yuz xususiyatlarining orasidagi masofani o' lchash orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Teri haroratini yozib olish va tahlil qilish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ko' z harakatlarini kuzatish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Turli yoritish sharoitlari robotlar hissiyotlarni tan olish uchun qanday qiyinchiliklar tug' diradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ular robotlarning javob berish tezligini pasaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ular hisoblash talablarini oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Aniqlanadigan hissiyotlar diapazonini cheklaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ular yuz ifodalarining ko' rinishini o' zgartirishi mumkin, bu aniqlikning pasayishiga olib keladi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotika uchun reinforcement learningda qaysi element zarur?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tez internet aloqasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kuchli protsessorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mukofot tizimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yengil ma'lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotika uchun reinforcement learning ning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlarni fikr-mulohaza asosida o' z xatti-harakatlarini optimallashtirishga o' rgatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarni aniq ko' rsatmalarga amal qilishga dasturlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarning tezligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robot ishlab chiqarish narxini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Reinforcement learningda ' agent' ning roli qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harakatlarni bajaradigan va mukofotlarni oladigan sub' ekt\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotni quvvatlantiradigan tizim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotga harakatlanish imkonini beruvchi apparat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " WiFi ulanishini ta' minlaydigan dasturiy ta' minot\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada reinforcement learning modelining muvaffaqiyati uchun qaysi omil muhim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotning tezligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotning hajmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mukofot funktsiyasining dizayni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Atrof muhitning maydon hajmi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Reinforcement learningda ' qiymat funksiyalari'{} qanday yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotning har bir harakati uchun kutilayotgan mukofotni aniqlashga yordam beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Vazifalar uchun kerakli aniq harakatlarni hisoblab chiqadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotning quvvat ta' minotini boshqaradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Operatorlarga real vaqt rejimida fikr-mulohaza beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ish joyida robototexnikaning ijtimoiy ta'siri qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xodimlarning ishdan qoniqishini yaxshilash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo' l mehnatini ko' paytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xodimlarning bo' sh vaqtini ko' paytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Potentsial ish o' rinlarini yo' qotish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ofatlar sharoitida robotlar qanday rol o' ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ob-havo yangiliklarini uzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Moliyaviy yordam ko' rsatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qidiruv va qutqaruv operatsiyalarini amalga oshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Huquqiy maslahat berish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robototexnika bilan bog' liq e'tik muammo nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jismoniy kuchni oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Hisoblash tezligini yaxshilash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Maxfiylik va kuzatuv masalalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Internetga ulanishni kengaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Atrof-muhitga ta' siri nuqtai nazaridan robototexnikaning potentsiali qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Issiqxona gazlari chiqindilarini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aniq ishlab chiqarish orqali chiqindilarni kamaytirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qayta tiklanuvchi energiyaga bog' liqlikni kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Havo sifatini yomonlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada LiDARning asosiy qo' llanilishi maqsadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ob' ektlarning kimyoviy tarkibini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Atrof-muhitning batafsil xaritalarini yaratish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ob' ektlarning haroratini o' lchash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ovoz to' lqinlarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Radar LiDARdan aniqlash qobiliyatlari jihatidan qanday farq qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Radar LiDARdan kichikroq ob' ektlarni aniqlay oladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Radar aniqlash uchun ultrabinafsha nurdan foydalanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Radar yomon ob-havo sharoitlarida samaraliroq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Radar masofani o' lchashda kamroq aniqlikka ega\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nega LiDAR haydovchisiz avtomobil texnologiyasida afzal ko' riladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " U atrofdagi ob' ektlarning masofa va o' lchamlarini aniq o' lchaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Boshqa sensorlarga qaraganda arzonroq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kamroq hisoblash quvvatini talab qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kunduzi samarali ishlaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " LiDAR texnologiyasining robotlarda o'rnatishda asosiy cheklovi qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yuqori narx\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kichik aniqlash diapazoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Rangni aniqlay olmaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuqori energiya iste' moli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Radar bilan LiDARni birlashtirish robotlar sezishni qanday yaxshilaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tizimning ma'lumotlarni qayta ishlashini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tizimga tushadigan og' irlikni kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Turli sharoitlarda ishonchlilikni oshirish uchun ortiqcha ma' lumotlarni taqdim etish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Dasturiy ta' minot talablarini soddalashtirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " AI robotikada real vaqt rejimida qaror qabul qilishda qanday qiyinchilikka duch keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robot elektr energiyasiz ishlashi mumkinligini ta' minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " E'tik va umumiy qabul qilingan qarorlar qabul qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qarorlarni insonlar uchun tushunarli tilda uzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Real vaqt rejimida harakat qilish uchun katta hajmdagi ma' lumotlarga tez ishlov berish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlarning ko' rish tizimlarida chuqur neyron tarmoqlarining roli nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qayta ishlash tezligini oshirish uchun tasvirlarning aniqligini pasaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ko' rish maydonini aniq hududlarga cheklash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarda kameralarning ehtiyojini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ob' ekt tanish va navigatsiya kabi vazifalar uchun murakkab vizual kirishlarni qayta ishlash va talqin qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " AI robot tizimlarining kengaytirilishiga qanday ta' sir ko' rsatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " AI algoritmlari vaqt o' tishi bilan yangilanib va takomillashib, apparatni o' zgartirmasdan tizim qobiliyatlarini oshirish mumkin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " AI doimiy ravishda yangi apparat komponentlarini qo' shishni talab qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " AI robot tizimlarining umumiy hajmini kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " AI robotlarning energiya iste' molini sezilarli darajada oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " YOLO modeli robotikada ob' ekt aniqlash uchun qanday afzallikga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " U qayta ishlash uchun bir nechta GPUlardan foydalanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " U real vaqt rejimida aniqlash uchun butun tasvirni bir vaqtda qayta ishlaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " U qo' l bilan sozlashni talab qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " U minimal o' quv ma' lumotlaridan foydalanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robot nutq orqali hissiyotlarni tanishning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tillarni avtomatik tarjima qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nutq namunalaridan inson hissiyotlarini aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nutq javoblarini yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Suhbatlarni yozib olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutq orqali hissiyotlarni tanish modellarini o' qitish uchun qanday ma' lumotlar muhim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yorliqlangan hissiyotlar bilan belgilangan nutq ma' lumotlar to' plamlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yuqori aniqlikdagi video yozuvlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Suhbatlarning matnli transkriptlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nutq so' zlovchilardan olingan biometrik ma' lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotlarda nutq orqali hissiyotlarni tanishni ishlab chiqishda qanday muhim qiyinchiliklar mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mustahkam algoritmlarning yo' qligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlardagi etarli bo' lmagan ishlov berish quvvati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Turli tillar va madaniyatlarda inson hissiy ifodalarining o' zgaruvchanligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Amalga oshirishning yuqori narxi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robototexnikada ehtimollikni sezish nima uchun muhim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aniq qaror qabul qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Noaniq yoki to' liq bo' lmagan ma' lumotlar bilan ishlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Energiya samaradorligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish xarajatlarini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Samarali robot navigatsiyasi va yo' lni rejalashtirish uchun nima zarur?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qayta ishlash tezligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yuqori batareya quvvati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Atrof muhitni aniq xaritalash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yo'lning uzunligini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robototexnikada LIDAR sensorlar asosan nima uchun qo' llaniladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Haroratni o' lchash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ovozni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Rangni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Masofa va xaritalash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robototexnikada Reinforcement learning dan foydalanishning asosiy afzalligi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish xarajatlarini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarga atrof-muhitdan o' rganish imkonini berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Dizaynni soddalashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yo'l uzunligini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robot harakatini boshqarishda PID kontrollerlarining asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aniq harakatlanishni ta' minlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robot tezligini oshirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotning holatini tartibga solish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Energiya samaradorligini oshirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " SLAM (Simultaneous Localization and Mapping) texnologiyasi robotlar uchun qaysi kontekstda zarur?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy o`zaro ta'sir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Dinamik muhit navigatsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Muntazam vazifani bajarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Energiyani boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi sensor turi robotning atrof-muhit va to' siqlarni aniqlashi uchun zarur?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harorat sensorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Proximity sensorlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yoritish sensorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bosim sensorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robot uchun Reinforcement learning da \"Policy\" nimani belgilaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mukofot funktsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O' rganish tezligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Muhit modeli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Holatlardagi amalga oshirilgan harakatlar majmuasi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robototexnika sohasida Q-Learning qanday tavsiflanadi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ruxsat etilgan siyosatdan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nazorat ostida o`rganishni talab qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oldindan belgilangan qoidalarga bog' liqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muhit modelisiz o'rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotdagi qaysi komponent harakat uchun javobgardir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sensor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktuator\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Protsessor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Batareya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri robotikada yopiq tsiklli (closed loop) boshqaruv tizimiga misol bo' la oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kamera orqali qaror qilish va boshqaruv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Avtomatik eshik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To' siqlarni aniqlay oladigan robot changyutgich\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Quyosh paneli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada ' end effector'{} nima deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotning bazasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Boshqaruv algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Atrof-muhit bilan o' zaro ta' sir qiluvchi robotning qismi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Quvvat manbai\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi boshqaruv strategiyasi amallar maqsadga erishganligini aniqlash uchun feedback (qayta aloqa)ga tayanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ochiq tsiklli boshqaruv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yopiq tsiklli boshqaruv\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Feedforward boshqaruv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yoqish-o' chirish boshqaruv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri ' robot kinematikasi'{} tushunchasini eng yaxshi tavsiflaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robot dasturlashni o' rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Harakat kuchlarini hisobga olmagan holda robot harakatini o' rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlardagi quvvat manbasini o' rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlardagi ma' lumotlarni qayta ishlashni o' rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada Jakobian matritsasi qanday ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotning batareya muddatini hisoblash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Har bir bo' g' imning kerakli joyga joylashuvini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bo' g' im tezliklari va end effektor tezliklari orasidagi munosabatni topish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotning sun' iy intellektini dasturlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ilg' or robotikada ' kuch nazorati'{} ' pozitsiya nazorati' ga qaraganda nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotga ta' sir etuvchi kuchlarni bashorat qilishga asoslangan nazorat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat robotning orientatsiyasiga e' tibor qaratuvchi nazorat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Atrof-muhitga robot qo' llaydigan kuchlar bilan shug' ullanadigan nazorat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat robotning geografik joylashuviga asoslangan nazorat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada ' xarita-asosida navigatsiya'{} nima degani?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robot nishonni topguncha tasodifiy harakatlanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robot navigatsiya uchun oldindan mavjud xaritadan foydalanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robot avvaldan ma' lumotga ega bo' lmagan holda real vaqt rejimida xarita yaratadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robot inson qo' llanmasini ergashadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Dijkstra algoritmi quyidagilardan qaysi biri uchun ishlatiladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Grafda bitta manba nuqtadan boshqa barcha nuqtalargacha eng qisqa yo' llarni topish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ichki muhitlarning xaritasini chizish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robot tezligini optimallashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " To' siqlarni aniqlash va chetlab o' tish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Dijkstra algoritmi va A-star algoritmi orasidagi farq nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Dijkstra algoritmi og' irlangan graflarni qayta ishlolmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " A-star eng qisqa yo' l algoritmi emas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Dijkstra algoritmi A-stardan tezroq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " A-star yanada optimallashtirilgan yechim izlashda evristikadan foydalanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " A-star algoritmi ochiq to' plamni boshqarish uchun asosan qaysi ma' lumotlar tuzilmasidan foydalanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Massiv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Stack (xotira qatlami)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Prioritetli Navbat (Priority Queue)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bog' langan Ro' yxat (Linked List)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " HRI da ' kontekstni anglash'{} nima degani?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotning atrof-muhit va ijtimoiy kontekstiga asoslanib tushunish va javob berish qobiliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robot ma' lumotlarni vaqt o' tishi bilan saqlash qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotning texnik xizmat holati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robot sensorlarining aniqligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Yordamchi robotlar sanoat robotlaridan qanday farq qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ularning orasida sezilarli farq yo' q; ikkala turdagi robotlar bir xil vazifalarni bajaradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yordamchi robotlar kattaroq va quvvatliroq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sanoat robotlari asosan uy sharoitida ishlatiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yordamchi robotlar kundalik vazifalarda shaxslarga yordam berish uchun mo' ljallangan, sanoat robotlari esa ishlab chiqarish jarayonlarida takroriy vazifalarni bajaradi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " HRI-da haptik feedback (taktil javob)ning roli nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Foydalanuvchilarga taktil javoblar taqdim etish orqali muloqot tajribasini yaxshilaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarning ko' rish qobiliyatini oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robot ishlab chiqarish narxini kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlarning batareya muddatini uzaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " NLPda sintaksis tahlili uchun qaysi texnika keng qo' llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Chiziqli regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sektorli diagrammalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tahlil qiluvchilar (Parsers)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tezlatgichlar (Accelerometers)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotika bilan insonaro muloqotda NLP qanday qilib mashinani o' rganish bilan integratsiya qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlarga muloqotlardan o' rganish va tilni tushunish qobiliyatini yaxshilash imkonini beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarga insonlar bilan jismoniy muloqot qilish imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarni inson buyruqlariga kamroq bog' liq qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat apparatni yaxshilashga e' tibor qaratadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada RNNlar eng yaxshi qayta ishlay oladigan ma' lumotlar qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Statik tasvirlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yagona ma' lumot nuqtalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Vaqt ketma-ketligi ma' lumotlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tuzilmasiz ma' lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Robotikada RNNlar turli uzunlikdagi kirish ketma-ketliklarini qanday qayta ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Barcha kirishlarni bir xil uzunlikka qisqartirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Turli uzunlikdagi ketma-ketliklarni qayta ishlash uchun holatni saqlab qolish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Turli uzunliklar uchun bir nechta tarmoqlardan foydalanish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Barcha kirishlarni ikkiylik formatga o' girish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " An' anaviy RNNlarning dizaynini Gated Recurrent Unit (GRUs) qanday qilib yaxshilaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Takroriy arxitekturani soddalashtirish va gradient descent muammosini hal qilish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tarmoq hajmini oshirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Grafikani qayta ishlash qobiliyatini oshirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tizimning umumiy narxini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " CNNlar robotikada turli o' lchamdagi kirish tasvirlarini qanday qayta ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qatlamlar sonini ko' paytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barcha tasvirlarni standart o' lchamga keltirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pooling qatlamidan foydalanib, makon o' lchamlarini kamaytirish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O' lcham o' zgarishlarini e' tiborsiz qoldirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " CNNlarda qatlamlar haqida gap ketganda ' chuqurlik'{} atamasi nima ma' noni anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ishlatiladigan apparatning jismoniy chuqurligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tarmoqning turli darajadagi xususiyatlarni o' rganishga hissa qo' shadigan qatlamlar soni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ranglarni qayta ishlash chuqurligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tasvirlardagi maydon chuqurligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " AlexNet modeli tasvirni qayta ishlashda non-linearity holatini qanday boshqaradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ReLU (To' g' rilangan Chiziqli Birligi) aktivatsiya funktsiyasini qo' llash orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barcha joyda chiziqli aktivatsiya funktsiyalaridan foydalanish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Har qanday aktivatsiya funktsiyalaridan foydalanishdan qochish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " An' anaviy sigmoid aktivatsiya funktsiyalaridan foydalanish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutq orqali hissiyotlarni tan olishni qo' llash xizmat ko' rsatuvchi robotlarning funktsional imkoniyatlarini qanday yaxshilaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlarga foydalanuvchining hissiy holatiga qarab o' z xulq-atvorini sozlash imkonini berish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Robotlarga inson kiritmasiz mustaqil ishlash imkonini berish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotlarda jismoniy sensorlarning ehtiyojini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlarning hissiyotlarni aniqlash davomiyligini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " His tuyg' ular konteksti inson-robot o' zaro ta' sirini qanday yaxshilaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlarga tegishli bo' lmagan hissiy signallarni e' tiborsiz qoldirishga imkon berish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O' zaro ta' sir tezligini oshirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Robotning javob berish vaqtini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlarga inson hissiyotlariga mos ravishda javob berishga imkon berib, muloqotni yaxshilash orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " AI robotikada xavfsizlik xususiyatlarini qanday yaxshilaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robotlarga xavfli sharoitlarni mustaqil ravishda aniqlash va ularga javob berish imkonini berish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xavfsizlik sensorlarining aniqligini pasaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xavfsizlik protokollarining sonini kamaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robot harakatchanligini cheklash orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " AI boshqaruvidagi robotlar o' z atrofidagi o' zgarishlarga qanday moslashadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Dasturlangan ko' rsatmalarni o' zgartirmay bajarish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Atrofdagi o' zgarishlarni butunlay e' tiborsiz qoldirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O' zaro ta' sirlardan o' rganib, o' z xatti-harakatlarini mos ravishda sozlash orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kutilmagan o' zgarishlar yuz berganda o' chirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

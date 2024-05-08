@@ -28,7 +28,6 @@ def get_question_case_1(subject: T, stage: T, question_id: T = None, num_questio
             'message': 'File Does Not Exist!'
         }, status=status.HTTP_404_NOT_FOUND)
 
-    question_ids = [question['id'] for question in json_data if 'question' in question]
     result = {
         'specialization': get_question.specialization,
         'language': get_question.language,

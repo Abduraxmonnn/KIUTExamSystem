@@ -6,16 +6,18 @@ from apps.main.answers.models import Answer
 
 
 class AnswerCreateSerializer(serializers.ModelSerializer):
-    question_id = serializers.IntegerField()
-    subject = serializers.CharField(max_length=255)
+    subject_name = serializers.CharField(max_length=255)
     stage = serializers.IntegerField()
+    question_id = serializers.IntegerField()
+    picked = serializers.CharField(max_length=50, required=False)
 
     class Meta:
         model = Answer
         fields = [
             'question_id',
-            'subject',
+            'subject_name',
             'stage',
-            'answer_text',
+            'picked',
+            'answer_json',
             'file',
         ]

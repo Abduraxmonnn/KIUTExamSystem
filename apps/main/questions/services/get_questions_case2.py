@@ -1,16 +1,13 @@
 # Python
 import random
 
-# Django
-from django.core.cache import cache
-
 # Rest-Framework
 from rest_framework import status
 from rest_framework.response import Response
 
 # Project
 from apps.main.questions.models import Question
-from apps.services import load_and_cache_json_data
+from apps.services.load_json_to_cache_service import get_json_data_from_cache
 
 
 def get_question_case_2(subject_name, stage, file_path, question_id=None, num_questions: int = 20) -> Response:
@@ -21,17 +18,12 @@ def get_question_case_2(subject_name, stage, file_path, question_id=None, num_qu
         # Retrieve question based on subject_name and stage
         get_question = Question.objects.get(subject__full_name=subject_name, stage=stage)
 
-        # Retrieve JSON data from cache or load and cache if not found
-        json_data = cache.get(file_path)
-        if json_data is None:
-            load_and_cache_json_data(file_path)
-            json_data = cache.get(file_path)
+        json_data = get_json_data_from_cache(file_path=file_path)
 
-        if not json_data:
+        if 'error' in json_data:
             return Response({
-                'status': 'error',
-                'message': f'JSON data ({file_path}) not available'
-            }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+                        json_data
+                    }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
         # Filter valid questions with rates from JSON data
         valid_questions = [item for item in json_data if 'rate' in item]
