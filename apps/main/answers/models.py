@@ -22,8 +22,8 @@ class Answer(models.Model):
     question = models.ForeignKey(Question, on_delete=models.SET_NULL, null=True)
     score = models.PositiveIntegerField(default=0)
     answer_json = models.JSONField(blank=True, null=True)
-    file = models.FileField(upload_to=upload_file_to, blank=True, null=True)
-    created_date = models.DateField(auto_now_add=True)
+    answer_text = models.TextField(blank=True, null=True)
+    created_date = models.DateTimeField(auto_now_add=True)
     last_updated = models.DateTimeField(auto_now=True)
 
     def __str__(self):

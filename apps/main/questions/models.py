@@ -30,7 +30,7 @@ class Question(models.Model):
     file = models.FileField(upload_to=upload_file_to)
 
     def __str__(self):
-        return f'ID: {self.id} {self.subject.full_name} {self.stage}'
+        return self.specialization
 
     class Meta:
         verbose_name = 'Question'

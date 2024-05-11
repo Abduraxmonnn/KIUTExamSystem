@@ -13,7 +13,7 @@ class Subject(models.Model):
 	teacher = models.ForeignKey(Teacher, on_delete=models.CASCADE)
 
 	def __str__(self):
-		return f'name: {self.full_name} | stage: {self.stage}'
+		return self.full_name
 
 	class Meta:
 		verbose_name = 'Subject'

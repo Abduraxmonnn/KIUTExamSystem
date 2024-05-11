@@ -15,7 +15,7 @@ from apps.main.answers.models import Answer
 
 @admin.register(Answer)
 class AnswerAdmin(ModelAdmin):
-    list_display = ['id', 'subject', 'stage', 'student', 'question', 'score']
+    list_display = ['id', 'subject', 'stage', 'student', 'question', 'score', 'created_date']
     list_display_links = ['subject', 'student']
     readonly_fields = ('pretty_json', )
     exclude = ('answer_json', )

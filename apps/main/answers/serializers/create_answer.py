@@ -18,6 +18,5 @@ class AnswerCreateSerializer(serializers.ModelSerializer):
             'subject_name',
             'stage',
             'picked',
-            'answer_json',
-            'file',
+            'answer_text',
         ]
