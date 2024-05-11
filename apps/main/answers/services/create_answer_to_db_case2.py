@@ -51,6 +51,15 @@ def create_answer_to_db_case_2(
         stage=stage,
     ).first()
 
+    is_correct = False
+    if question_id:
+        for item in valid_questions:
+            if int(question_id) == item['id']:
+                question[f'question_id__{question_id}']['question'].append(item)
+                question[f'question_id__{question_id}']['is_true'] = item[picked][1]['correct']
+                is_correct = item[picked][1]['correct']
+                break
+
     if not existing_answer:
         created_answer = model.objects.create(
             subject=get_subject,
@@ -59,31 +68,23 @@ def create_answer_to_db_case_2(
             student=get_student,
             answer_json=question
         )
-
-        if question_id:
-            for item in valid_questions:
-                if int(question_id) == item['id']:
-                    question[f'question_id__{question_id}']['question'].append(item)
-                    question[f'question_id__{question_id}']['is_true'] = item[picked][1]['correct']
-                    break
-
-        created_answer.save()
-
-        if not question[f'question_id__{question_id}']['question']:
-            return Response({
-                'status': 'error',
-                'message': 'Question ID incorrect, Please Check and Try Again!'
-            }, status=status.HTTP_400_BAD_REQUEST)
+        obj = created_answer
     else:
         tmp_answer_json = existing_answer.answer_json
-        if question_id:
-            for item in valid_questions:
-                if int(question_id) == item['id']:
-                    question[f'question_id__{question_id}']['question'].append(item)
-                    question[f'question_id__{question_id}']['is_true'] = item[picked][len(item[picked]) - 1]['correct']
-                    break
+        obj = existing_answer
+
         tmp_answer_json[f'question_id__{question_id}'] = question[f'question_id__{question_id}']
-        existing_answer.save()
+
+    if is_correct:
+        obj.score += 1
+
+    obj.save()
+
+    if not question[f'question_id__{question_id}']['question']:
+        return Response({
+            'status': 'error',
+            'message': 'Question ID incorrect, Please Check and Try Again!'
+        }, status=status.HTTP_400_BAD_REQUEST)
 
     return Response({
         'status': 'successfully',
