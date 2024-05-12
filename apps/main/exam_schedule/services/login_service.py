@@ -50,6 +50,7 @@ def login_data_checker(schedule):
         'token': generate_token if created else token.key,
         'fullname': schedule.student.full_name,
         'subject': schedule.subject.full_name,
+        'subject_stage': schedule.subject.stage,
         'duration': schedule.subject.duration
     }
 
