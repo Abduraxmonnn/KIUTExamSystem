@@ -25,9 +25,20 @@ def create_answer_case_1_3(stage: int,
     :param answer_text: student's answer to a question
     :return Response:
     """
+    groups_picker = {
+        'U': 'UZ',
+        'R': 'RU',
+        'E': 'EN',
+        'K': 'KR'
+    }
+
     try:
         get_student = get_student_by_token(request)
-        get_question = Question.objects.get(subject__full_name=subject_name, stage=stage)
+        student_group_letter = get_student.student_group[-1]
+        get_question = Question.objects.get(
+            subject__full_name=subject_name,
+            stage=stage,
+            language=groups_picker[student_group_letter])
         get_subject = Subject.objects.get(full_name=subject_name)
     except Exception as ex:
         print('---------> 27 line: create_answer_case1_service: ', ex)

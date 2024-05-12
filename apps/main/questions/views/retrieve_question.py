@@ -34,6 +34,7 @@ class QuestionRetrieveAPIView(views.APIView):
 
         if stage == 1:
             response = get_question_case_1(
+                request=request,
                 subject=subject,
                 stage=stage,
                 question_id=question_id,

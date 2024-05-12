@@ -7,6 +7,7 @@ from rest_framework.response import Response
 
 # Project
 from apps.main.auth_tokens.models import CustomToken
+from apps.main.questions.models import Question
 
 
 def login_data_checker(schedule):
@@ -46,11 +47,14 @@ def login_data_checker(schedule):
             'message': ex
         }, status=status.HTTP_400_BAD_REQUEST)
 
+    q = Question.objects.filter(subject=schedule.subject)
+    print(q)
+
     data = {
         'token': generate_token if created else token.key,
         'fullname': schedule.student.full_name,
         'subject': schedule.subject.full_name,
-        'subject_stage': schedule.subject.stage,
+        # 'subject_stage': q,
         'duration': schedule.subject.duration
     }
 

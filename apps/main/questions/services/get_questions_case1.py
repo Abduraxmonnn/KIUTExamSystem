@@ -2,6 +2,7 @@
 import os
 import json
 import random
+import requests
 from typing import TypeVar
 
 # Rest-Framework
@@ -10,23 +11,47 @@ from rest_framework.response import Response
 
 # Project
 from apps.main.questions.models import Question
-from django.conf import settings
+
+from apps.services.get_user_by_token_service import get_student_by_token
+from apps.services.load_json_to_cache_service import get_json_data_from_cache
 
 T = TypeVar('T')
 
 
-def get_question_case_1(subject: T, stage: T, question_id: T = None, num_questions: int = 5) -> Response:
-    get_question = Question.objects.get(subject__full_name=subject, stage=stage)
-    file_path = get_question.file.name
+def get_question_case_1(
+        request: requests,
+        subject: T,
+        stage: T,
+        question_id: T = None,
+        num_questions: int = 5) -> Response:
+
+    groups_picker = {
+        'U': 'UZ',
+        'R': 'RU',
+        'E': 'EN',
+        'K': 'KR'
+    }
+
     try:
-        absolute_file_path = os.path.join(settings.MEDIA_ROOT, file_path)
-        with open(absolute_file_path, 'r') as f:
-            json_data = json.load(f)
-    except FileNotFoundError:
+        student_group_letter = get_student_by_token(request).student_group[-1]
+        get_question = Question.objects.get(
+            subject__full_name=subject,
+            stage=stage,
+            language=groups_picker[student_group_letter])
+    except Exception as ex:
+        print('---------> 42 line: get_question_case1_service: ', ex)
         return Response({
             'status': 'error',
-            'message': 'File Does Not Exist!'
-        }, status=status.HTTP_404_NOT_FOUND)
+            'message': f'Student / Question Does Not Exists or Error! {ex}'
+        }, status=status.HTTP_400_BAD_REQUEST)
+
+    file_path = get_question.file.name
+    json_data = get_json_data_from_cache(file_path=file_path)
+
+    if 'error' in json_data:
+        return Response({
+            json_data
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
     result = {
         'specialization': get_question.specialization,
