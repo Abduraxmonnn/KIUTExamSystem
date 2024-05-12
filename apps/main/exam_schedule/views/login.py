@@ -1,4 +1,6 @@
 # RestFramework
+from rest_framework import status
+from rest_framework.response import Response
 from rest_framework.views import APIView
 
 # Project
@@ -20,6 +22,12 @@ class LogInAPIView(APIView):
         login = serializer.validated_data.get('login')
         password = serializer.validated_data.get('password')
 
-        schedule = ExamSchedule.objects.get(login=login, password=password)
+        try:
+            schedule = ExamSchedule.objects.get(login=login, password=password)
+        except ExamSchedule.DoesNotExist:
+            return Response({
+                'status': 'error',
+                'message': 'User does not Exists!'
+            }, status=status.HTTP_401_UNAUTHORIZED)
 
         return login_data_checker(schedule)
