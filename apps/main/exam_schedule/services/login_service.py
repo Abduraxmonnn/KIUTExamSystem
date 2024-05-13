@@ -24,6 +24,11 @@ def login_data_checker(schedule):
             'status': 'error',
             'message': 'Exam Time is Expired'
         }, status=status.HTTP_401_UNAUTHORIZED)
+    elif schedule.start_time:
+        return Response({
+            'status': 'error',
+            'message': 'User can Login Once'
+        }, status=status.HTTP_401_UNAUTHORIZED)
 
     try:
         generate_token = CustomToken().generate_key()
