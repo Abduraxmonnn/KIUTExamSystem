@@ -51,7 +51,10 @@ INSTALLED_APPS = [
     'apps.main.students',
     'apps.main.subjects',
     'apps.main.teachers',
-    'apps.main.auth_tokens'
+    'apps.main.auth_tokens',
+    'apps.main.directions',
+    'apps.main.student_groups',
+    'apps.main.teachers_subjects',
 ]
 
 MIDDLEWARE = [
@@ -166,9 +169,9 @@ TIME_ZONE = 'Asia/Tashkent'
 
 USE_I18N = True
 
-USE_L10N = True
+USE_L10N = False
 
-USE_TZ = True
+USE_TZ = False
 
 CORS_ORIGIN_ALLOW_ALL = True
 
