@@ -1,5 +1,5 @@
 # Python
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # RestFramework
 from rest_framework import status
@@ -24,7 +24,8 @@ def login_data_checker(schedule):
             'status': 'error',
             'message': 'Exam Time is Expired'
         }, status=status.HTTP_401_UNAUTHORIZED)
-    elif schedule.start_time:
+
+    if schedule.start_time:
         return Response({
             'status': 'error',
             'message': 'User can Login Once'
@@ -51,9 +52,6 @@ def login_data_checker(schedule):
             'status': 'error',
             'message': ex
         }, status=status.HTTP_400_BAD_REQUEST)
-
-    q = Question.objects.filter(subject=schedule.subject)
-    print(q)
 
     data = {
         'token': generate_token if created else token.key,
