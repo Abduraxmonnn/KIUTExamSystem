@@ -10,7 +10,7 @@ class ExamSchedule(models.Model):
     subject = models.ForeignKey(Subject, on_delete=models.CASCADE)
     start_time = models.DateTimeField(blank=True, null=True)
     is_passed = models.BooleanField(default=False)
-    room = models.PositiveIntegerField(max_length=10)
+    room = models.PositiveIntegerField()
     exam_date = models.DateTimeField()
     is_paused = models.BooleanField(default=False)
     is_finished = models.BooleanField(default=False)

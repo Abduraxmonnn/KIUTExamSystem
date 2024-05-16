@@ -33,7 +33,7 @@ def get_question_case_1(
     }
 
     try:
-        student_group_letter = get_student_by_token(request).student_group[-1]
+        student_group_letter = get_student_by_token(request).group.code[-1]
         get_question = Question.objects.get(
             subject__full_name=subject,
             stage=stage,
