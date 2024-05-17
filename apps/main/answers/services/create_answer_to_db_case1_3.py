@@ -34,7 +34,7 @@ def create_answer_case_1_3(stage: int,
 
     try:
         get_student = get_student_by_token(request)
-        student_group_letter = get_student.student_group[-1]
+        student_group_letter = get_student.group.code[-1]
         get_question = Question.objects.get(
             subject__full_name=subject_name,
             stage=stage,

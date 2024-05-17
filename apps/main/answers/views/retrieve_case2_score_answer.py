@@ -32,13 +32,19 @@ class RetrieveCase2ScoreViewSet(ModelViewSet):
 
     def create(self, request, *args, **kwargs):
         instance = self.get_object()
+        if not instance:
+            return Response({
+                'status': 'error',
+                'message': f'Answer Does Not Exists or Error!'
+            }, status=status.HTTP_404_NOT_FOUND)
+
         return Response({
             'status': 'successfully',
             'message': {
                 'subject': instance.subject.full_name,
                 'student': instance.student.full_name,
                 'student_id': instance.student.student_id,
-                'student_group': instance.student.student_group,
+                'student_group': instance.student.group.code,
                 'score': instance.score,
             }
         }, status=status.HTTP_200_OK)
