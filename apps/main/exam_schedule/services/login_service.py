@@ -32,11 +32,8 @@ def login_data_checker(schedule):
         }, status=status.HTTP_401_UNAUTHORIZED)
 
     try:
-        generate_token = CustomToken().generate_key()
-        token, created = CustomToken.objects.get_or_create(schedule=schedule)
-        if created:
-            token.key = generate_token
-            token.save()
+        question_stages = list(Question.objects.filter(subject=schedule.subject).values_list('stage', flat=True))
+
     except Exception as ex:
         return Response({
             'status': 'error',
@@ -44,6 +41,12 @@ def login_data_checker(schedule):
         }, status=status.HTTP_400_BAD_REQUEST)
 
     try:
+        generate_token = CustomToken().generate_key()
+        token, created = CustomToken.objects.get_or_create(schedule=schedule)
+        if created:
+            token.key = generate_token
+            token.save()
+
         if schedule.start_time is None:
             schedule.start_time = current_time
             schedule.save()
@@ -57,7 +60,7 @@ def login_data_checker(schedule):
         'token': generate_token if created else token.key,
         'fullname': schedule.student.full_name,
         'subject': schedule.subject.full_name,
-        # 'subject_stage': q,
+        'subject_stage': question_stages,
         'duration': schedule.subject.duration
     }
 
