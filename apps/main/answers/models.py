@@ -12,7 +12,7 @@ from apps.main.questions.models import Question
 
 
 def upload_file_to(instance, filename):
-    return f'answers/{instance.subject.full_name}/{datetime.now().year}/{datetime.now().month}/{filename}'
+    return f'answers/{instance.subject.code}/{filename}'
 
 
 class Answer(models.Model):

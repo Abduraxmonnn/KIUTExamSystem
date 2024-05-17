@@ -11,7 +11,7 @@ from apps.main.subjects.models import Subject
 
 
 def upload_file_to(instance, filename):
-    return f'questions/{instance.subject.full_name}/{datetime.now().year}/{datetime.now().month}/{filename}'
+    return f'questions/{instance.subject.code}/{filename}'
 
 
 class Question(models.Model):
