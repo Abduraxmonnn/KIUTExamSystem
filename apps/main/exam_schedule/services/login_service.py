@@ -19,11 +19,11 @@ def login_data_checker(schedule):
             'status': 'error',
             'message': 'User does not Exists!'
         }, status=status.HTTP_401_UNAUTHORIZED)
-    elif exam_date_obj < current_time:
-        return Response({
-            'status': 'error',
-            'message': 'Exam Time is Expired'
-        }, status=status.HTTP_401_UNAUTHORIZED)
+    # elif exam_date_obj < current_time:
+    #     return Response({
+    #         'status': 'error',
+    #         'message': 'Exam Time is Expired'
+    #     }, status=status.HTTP_401_UNAUTHORIZED)
 
     if schedule.start_time:
         return Response({
