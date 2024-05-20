@@ -9,7 +9,7 @@ def load_and_cache_json_data(file_path):
     absolute_file_path = os.path.join(settings.MEDIA_ROOT, file_path)
 
     try:
-        with open(absolute_file_path, 'r') as f:
+        with open(absolute_file_path, 'r', encoding='utf-8') as f:
             json_data = json.load(f)
             cache.set(file_path, json_data)
     except FileNotFoundError:
