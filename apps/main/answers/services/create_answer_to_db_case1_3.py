@@ -60,6 +60,7 @@ def create_answer_case_1_3(stage: int,
             stage=stage,
             student=get_student,
             question=get_question,
+            question_ids=question_id,
             answer_text=answer_text
         ).save()
     except Exception as ex:

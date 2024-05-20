@@ -8,7 +8,7 @@ from apps.main.answers.models import Answer
 class AnswerCreateSerializer(serializers.ModelSerializer):
     subject_name = serializers.CharField(max_length=255)
     stage = serializers.IntegerField()
-    question_id = serializers.IntegerField()
+    question_id = serializers.CharField(max_length=125)
     picked = serializers.CharField(max_length=50, required=False)
 
     class Meta:

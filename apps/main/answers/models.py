@@ -20,6 +20,7 @@ class Answer(models.Model):
     stage = models.PositiveIntegerField(validators=[MinValueValidator(1), MaxValueValidator(3)])
     student = models.ForeignKey(Student, on_delete=models.CASCADE)
     question = models.ForeignKey(Question, on_delete=models.SET_NULL, null=True)
+    question_ids = models.CharField(max_length=155, blank=True, null=True)
     score = models.PositiveIntegerField(default=0)
     answer_json = models.JSONField(blank=True, null=True)
     answer_text = models.TextField(blank=True, null=True)
