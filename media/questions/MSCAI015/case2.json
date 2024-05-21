@@ -1,0 +1,5752 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Reinforcement Learning (RL) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Masofaviy ta’ limning bitta turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar tahlili usullaridan biri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda o’ zini ishlatish uchun algoritmlar turi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Natural Language Processing (NLP) bo’ yicha algoritm\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday holatlar uchun RL qo‘llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Maqsadli masalalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xavfsizlikni ta’ minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Imkoniyatlar qiyosiy ravishda kuzatilishi kerak bo’ lgan muhitlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Optimal ravishda maqbul natijalarga ega bo’ lgan vaziyatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi RL algoritmlari mashhur?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalarining algoritmlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Markov qabul qilish jamlanmalarining algoritmlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Girdlar ustida gradient oshish (Gradient Ascent) algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " RL muhitda nima mas’ uliyatlar o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan harakatlarni amalga oshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " To’ g’ ri javobni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday qilib RL muhitini model qilish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Shablonlar orqali ma’ lumotni qabul qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ta’ limni o’ zini boshlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " RL-dan foydalanilayotgan sohalar qaysilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robototexnika, o’ yinlar, finanslar va yengil mashinalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muzeylar, kongresslar, radio ishlari va televideniya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Chet tillar tarjimasi, matematika va ilmiy tadqiqotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ish joylari, shahar infrastruktura va yuk tashish servislari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " RL-da qanday o’rgatish turlaridan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " maqbul natijalarni topish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " notog’ri natijalarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " To’ g’ ri javobni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " RL-da qanday maqsadni kuzatish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Maqsadli natijalarni qo’ llab-quvvatlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan bo’ lgan natijalarni qo’ llab-quvvatlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Markov qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi muammolar RL-da yechiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " To’ g’ ri variantni qo’ llash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Harakatlarni tasdiqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Boshqa harakatlar bilan solishtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qo‘llab-quvvatlanadigan harakatlar bazasi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " RL nima uchun foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda o’ zini ishlatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ta’ lim olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Dasturlash tilini o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi algoritm RL-dagi muammolarni yechish uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalarining algoritmlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gaussian Mixture Model (GMM)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Linear Regression\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " RL-da qanday o’ zgaruvchan bo’ lgan muhitni tushunish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muhandislik maqsadlar uchun ma’ lumotlar tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Harakatlar soni va tartibini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan qiymatlar bilan ta’ riflangan muhit\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matritsa ta’ riflari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Agent\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Dunyo o’ rtasidagi muhit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilishni o’ rganadigan obyekt\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qiluvchi algoritm\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Dunyo o’ rtasidagi obyekt\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"State\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Dunyo o’ rtasidagi holat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Harakatlar qatorini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Agentning qarorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Agentning amallari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Environment\" va \"Agent\" o’ rtasidagi aloqani aniqlash uchun nima kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " \"Reward\" va \"Punishment\"\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " \"Agent\"ning \"state\"-ti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " \"Agent\"ning harakatlarini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " \"Agent\"ning qarorlarini\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Agent\"ning vazifasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harakatlar qatorini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar qabul qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jarayonlarini boshqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " \"State\"larni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"State\" qanday ma’ lumotni aks ettiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harakatlar qatorini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " \"Agent\"ning jarayonlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " \"Agent\"ning holatini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " \"Environment\"ning xususiyatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Agent\" va \"Environment\" qanday muhitda ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Har qanday muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Agent\"ning \"state\"ini aniqlashda qanday ma’ lumotlardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Agent\" va \"Environment\" aloqasi qanday aniqlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " \"State\"lar o’ rtasidagi farq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " \"Agent\"ning amallari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " \"Agent\" va \"Environment\" o’ rtasidagi harakatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " \"State\"lar o’ rtasidagi bog’liklik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " RL-da qanday qilib o’ zgaruvchan harakatlar qabul qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalaridan foydalanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan qiymatlarni hisoblash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Maksimum qiyinlikni qo’ llash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Harakatlar ustida gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday holatlar uchun RL modellari eng yaxshi ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " maqbul natijalarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " To’ g’ ri javobni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda o’ zini ishlatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " So’ rovlar tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " RL-da foydalaniladigan ma’ lumot turlari nimalar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sonli o’ zgaruvchan bo’ lgan ma’ lumotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " To’ g’ ri javoblar bazasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Maqsadga mos ravishda mukammal javob\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar bazasi tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " RL-da qanday qilib maqsadli natijalarni yechish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Optimallashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan bo’ lgan natijalarni qo’ llab-quvvatlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday qilib RL modellari o’ rganiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zini boshlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalaridan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qavs yoki maqbul natijalarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Agent\" va \"Environment\" (muhit) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Agent - o’ zgaruvchan muhit, Environment - harakatni o’ rganish vositasidan foydalanuvchi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Agent - harakatni o’ rganish vositasi, Environment - o’ zgaruvchan muhit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Agent - RL algoritmi, Environment - qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Agent - qo’ llab-quvvatlangan harakatlar, Environment - o’ zgaruvchan qiymatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Agentning vazifasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harakatlarni qo’ llab-quvvatlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muhitni o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Boshqa agentlar bilan solishtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qabul qilish jamlanmasini yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Muhitning belgilangan holatlariga qanday munosabat ko’ rsatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qavs yoki maqbul natijalarni topish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi va qavs yoki maqbul natijalar bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar tahlili orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Agentning harakati nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muhitga kiritilgan ma’ lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muhitdan olish uchun so’ rovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Muhitga qaratilgan ta’ sir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muhitning o’ zgarishlariga asoslangan ishlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday muhitlar \"Agent\"ga qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qavs yoki maqbul natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " To’ g’ ri javobni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Agentning muhit bilan munosabatining har qanday bosqichi nima uchun kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Balandlikka qarshi harakat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Balandlikni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Harakatlarni tasdiqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday muhitda Agent faoliyat yuritadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat o’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat statik va maqbul natijalarga asoslangan muhitda muhitlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " maqbul natijalarga asoslangan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’ zgaruvchan, statik va maqbul natijalarga asoslangan muhitda muhitlarda\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Action\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Agentning muhitga yuborishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Harakat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Maqsadli natija\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday holatlar uchun \"Action\"lar aniqlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Balandlikka qarshi harakatni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Optimal ravishda maqbul natijalarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda o’ zini sinab ko’ rish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Action\"lar qanday shakllantiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat sonlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sonlar va o’ zgaruvchan qiymatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Harakatlar qatorlari va o’ zgaruvchan qiymatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " sonlar, o’ zgaruvchan qiymatlar va harakatlar qatorlari variantlarda\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday belgilar \"Agent\" va \"Environment\" (muhit)ning aloqalarini ifodalaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muhandislik so’ rovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Markov qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " \"Agent\"ning harakati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Agent va muhitning aloqalari qanday ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Agent muhitga o’ zgaruvchan bo’ lgan harakatlar yuboradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muhit agentga qo’ shimcha ma’ lumotlar yuboradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Agent muhitni o’ rganadi va uning asosida harakatlarini aniqlaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muhit agentni nazorat qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday muhitlar RL uchun ma’ qul bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat o’ zgaruvchan muhitlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat statik muhitlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Har ikkala muhit turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan va optimallashtirilgan muhitlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Agent va muhitning munosabatlari qanday aniq qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan qiymatlar asosida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Agentning harakati asosida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muhitning harakati asosida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Action\"larni aniqlashda qaysi usullar muhim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan qiymatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan harakatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Statik qiymatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Agent\" qanday muhitda faoliyat yuritadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat o’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Har ikkala muhit turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Har qanday muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday qilib \"Action\"lar o’ rganiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harakatlarni tasdiqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’rganish algoritmi orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Harakat qatorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday holatlar uchun \"Action\"lar belgilanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Optimal ravishda maqbul natijalarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda o’ zini sinab ko’ rish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Statik muhitlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Agent\"ning faoliyatini o’rganishda qaysi maqsadni olish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " maqbul natijalar bilan solishtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " noto’gri harakatni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qaror qabul qilish jamlanmasini yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " harakatni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi algoritmlar asosan Reinforcement Learning uchun foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " maqbul natijalar topish algoritmlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient Ascent va Gradient Descent algoritmlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritmlar RL-da muhim ahamiyatga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " maqbul natijalar topish algoritmlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Harakat qatorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " To’ g’ ri javobni topish algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritmlar optimallashtirishda yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qavs yoki maqbul natijalar topish algoritmlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritmlar harakat qatorlarini belgilashda foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " maqbul natijalar topish algoritmlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritm Reinforcement Learning muhitini optimallashtirishda yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritmlar qo’ llab-quvvatlanadigan harakatlarni aniqlashda foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " maqbul natijalar topish algoritmlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritmlar harakatni o’ rganishda foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritmlar qaror qabul qilish jamlanmalarini yaratishda foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " maqbul natijalar topish algoritmlari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritmlar Reinforcement Learningda asosiy optimallashtirish usullari hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi algoritm RL-da muhim harakatlar qatorini belgilashda foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritm harakat qatorlarini belgilashda ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritm harakatni optimallashtirishda yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritm harakatni o’ rganishda qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritm Reinforcement Learning muhitini optimallashtirishda ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritm harakatni o’ rganishda foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday algoritm Reinforcement Learningda asosiy optimallashtirish usullari hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan algoritmlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient Descent\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday maqsadga yo’ naltirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harakatlar ketma-ketligini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan harakatlar yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasini yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar qabul qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning qanday muhitda o’ zini sinab ko’ radi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday qilib ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasini o’ rganadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Harakatlar ketma-ketligini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Optimallashtirish uchun optimal qarorlar o’ rganadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan harakatlarni yaratadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday ma’ lumotlar ustida ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi natijalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qavs yoki maqbul natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " To’ g’ ri javobni aniqlash natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday natijalarni qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " siyosat (‘‘policy’’) yoki maqbul natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday qilib o’ zgaruvchan muhitni tushunadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan qiymatlar bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday holatlar uchun eng yaxshi ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday holatlar uchun eng qodir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Har qanday muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday qilib o’ zgaruvchan bo’ lgan harakatlar qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Harakat qatorlarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday qilib optimal qarorlar qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qavs yoki maqbul natijalar bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qaysi muhitlarda amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat o’ zgaruvchan muhitlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat statik muhitlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan va statik muhitlarda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday jarayon orqali optimal qarorlar qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ta’ lim dasturlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eksploratsiya (exploretion) va ekspluatatsiya (explotation) jarayonida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday maqsadni kuzatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Maksimal foyda olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitni tushunish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar qabul qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Harakatlar qatorini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday xususiyatni optimallashtiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlarini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan bo’ lgan harakatlar qabul qilishni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Harakatlar ketma-ketligini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday harakatlar ketma-ketligini aniqlashda qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’rgatish algoritmlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday jarayon orqali siyosat (policy) yoki maqbul natijalarni topadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’rgatish algoritmlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eksploratsiya va ekspluatatsiya jarayonida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qaysi qaror qabul qilish jamlanmasi asosida ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday muhitda eng yaxshi ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Q-Learning algoritmi qanday qilib harakatni o’ rganadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " SARSA algoritmi qanday muhitda ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qo’ llab-quvvatlanadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " SARSA algoritmi qanday qilib optimal qarorlar qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar bilan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " SARSA algoritmi qanday natijalarni qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " SARSA algoritmi qanday muhit ma’ lumotlari ustida ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi natijalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qavs yoki maqbul natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " SARSA algoritmi qanday jarayon orqali optimal qarorlar qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ta’ lim dasturlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eksploratsiya (exploration) va ekspluatatsiya (exploitation) jarayonida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " SARSA algoritmi qanday qilib siyosat (policy) yoki maqbul natijalarni topadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ta’ lim dasturlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eksploratsiya (exploration) va ekspluatatsiya (exploitation) jarayonida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " SARSA algoritmi qanday muhitda eng yaxshi ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " SARSA algoritmi qanday holatlar uchun eng qodir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " SARSA algoritmi qanday qilib harakatni o’ rganadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " DQN algoritmi qanday muhitda ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Har qanday muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " DQN algoritmi qanday maqsadga yo’ naltirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar qabul qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Harakatlar qatorini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " DQN algoritmi qanday jarayon orqali optimal qarorlar qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eksploratsiya va ekspluatatsiya jarayonida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " DQN algoritmi qanday muhit ma’ lumotlari ustida ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " DQN algoritmi qanday natijalarni qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " DQN algoritmi qanday muhitda eng yaxshi ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " DQN algoritmi qanday holatlar uchun eng qodir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " DQN algoritmi qanday qilib harakatni o’ rganadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Discount factor\" (chegaralangan daraja) qanday maqsadga yo’ naltirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harakatlarni baholashda ishlatiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi moliyaviy ishonchning o’ lchovini ifodalaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitni aniqlashda yordam beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar qabul qilishda yordam beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Discount factor\" (chegaralangan daraja) qanday oraliqda bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 0 dan 1 gacha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 0 dan 100 gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " -1 dan 1 gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1 dan 10 gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Discount factor\" (chegaralangan daraja) qanday holatlar uchun eng qodir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Har qanday muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Discount factor\" (chegaralangan daraja) qanday qilib harakatni o’ rganadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " MDP qanday holatlar uchun eng qodir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan holatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik holatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan holatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Har qanday holatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " MDP-da qanday qilib harakatni o’ rganadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " MDP qanday muhitda eng yaxshi ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " MDP qanday qilib optimal qarorlar qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar bilan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " TD Learning qaysi maqsadga yo’ naltirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar qabul qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Harakatlar qatorini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Markov holatni yechish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " TD Learning qanday muhitda ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Har qanday muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " TD Learning qanday natijalarni qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " TD Learning qanday muhit ma’ lumotlari ustida ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " TD Learning qanday holatlar uchun eng qodir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " TD Learning qanday qilib harakatni o’ rganadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " TD Learning qanday jarayon orqali optimal qarorlar qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ta’ lim dasturlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eksploratsiya (exploration) va ekspluatatsiya (exploitation) jarayonida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " TD Learning qanday qilib qavs yoki maqbul natijalarni topadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’rgatish algoritmlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eksploratsiya (exploration) va ekspluatatsiya (exploitation) jarayonida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " TD Learning qanday muhitda eng yaxshi ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " TD Learning qanday qilib siyosat (policy) yoki maqbul natijalarni topadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ta’ lim dasturlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eksploratsiya (exploration) va ekspluatatsiya (exploitation) jarayonida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploration va exploitation qanday maqsadlar uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harakatlar qatorini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ rganish va o’ zlashtirish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Natijalarni qabul qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploration nima uchun kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Harakatlar qatorini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar qabul qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " siyosat yoki maqbul natijalar topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploitation qanday maqsadga yo’ naltirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar qabul qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Harakatlar qatorini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploration va exploitation qanday o’ zaro aloqador?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bir-biridan xoli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bir-biriga qarshi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bir-biriga qo’ llanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bir-biriga raqobatlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploration va exploitation qaysi muhitlarda qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Har qanday muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploration va exploitation qanday jarayonlarda foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ta’ lim jarayonida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eksploratsiya va ekspluatatsiya jarayonida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish jarayonida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploration qanday muhit ma’ lumotlari ustida ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmasi natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " siyosat (policy) yoki maqbul natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploitation qanday natijalarni qabul qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Optimal qarorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " maqbul natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploration va exploitation qanday muhitda eng yaxshi ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhitda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Statik muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ liq ma’ lumotli muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muammoning qaror qabul qilinadigan muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploration va exploitation qanday qilib harakatni o’ rganadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilish jamlanmalari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gradient oshish bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchan muhit ma’ lumotlari orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Exploration va exploitation qaysi jarayonlarda eng ko’ p qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ta’ lim jarayonida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Randomlikning o’ rtasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eksploratsiya va ekspluatatsiya jarayonida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gradient oshish jarayonida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,5768 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kichik hajmdagi ma’ lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar bazasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Katta hajmdagi va kompleks ma’ lumotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat statistik ma’ lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data tahlil qilishda qanday vosita foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Traditsion statistik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Raxbariyat tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar o’ lchovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Dasturlash tillari va algoritmlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data ni qaysi maqsadlar uchun foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Datani aniqlash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni saqlash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sifatli ma’ lumotlarni saqlash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tahlil va prognostika uchun\n"
+            },
+            {
+                "type": "text",
+                "content": "To’ g’ ri javob: d) Tahlil va prognostika uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data tahlili qanday vositalar orqali amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " MATLAB\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Hadoop\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Excel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " SPSS\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data tahlilida qanday jarayonlarga e’ tibor beriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muhimlik va xavfsizlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Boshqaruv va hodisalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tahlil va tasdiqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni saqlash va qo’ llab-quvvatlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data analitikasi uchun qaysi algoritmlar foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Backpropagation\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Decision Tree\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " QuickSort\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data muammolarni qanday yechishning asosiy bosqichi bu:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Data scraping\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Data sampling\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Data visualization\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Data encryption\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Hadoop nima uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Big Data ma’ lumotlarini saqlash va boshqarish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar bazasini yaratish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Internet protokollari uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " K-means algoritmi uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data muammolarini yechishda qanday ma’ lumotlar tahlil qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Strukturli va struktursiz ma’ lumotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tashqi va ichki ma’ lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Badiiy va fanaviy ma’ lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Statistik va matematik ma’ lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data analitikasi uchun qaysi dasturlash tillaridan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Python, Java\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Java, Assempler\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " C, HTML\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " CSS\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data analitikasi uchun qaysi ma’ lumotlar bazalaridan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oracle, MySQL\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " MS Access\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " C++\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Assempler\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data tahlilida qaysi ML algoritmi foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " K-means\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Decision Tree\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Support Vector Machines\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Naive Bayes\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Big Data analitikasida qaysi ML algoritmi foydalaniladi, masalan, ma’ lumotlar tahlilida klasterlash uchun?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " LogisticRegression\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " LinearRegression\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " RandomForest\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Agglomerative Clustering\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandasda to’g’ri yaratilgan Data Frameni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pd.dataframe(data)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pd.df(data)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pd.data.DataFrame()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pd.DataFrame(data)\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandas yordamida DataFramening birinchi satrini qaytaruvchi kod qismini belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "df.get(0)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "df{[}0{]}\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "df.loc{[}0{]}\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "df.iloc\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandas yordamida DataFramening dastlabki 2 satrini qaytaruvchi kod qismini belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "df.loc{[}{[}0, 1{]}{]}\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "df.{[}{[}0-1{]}{]}\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "df.{[}{[}0, 1{]}{]}\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "f.loc{[}{[}0 2{]}{]}\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " DataFramega csv faylni qaysi metod yordamida yuklab olish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "read_file()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ReadFile()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ReadCSV()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "read_csv()\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " DataFramedan dastlabki 20 ta satrni ko’rish uchun qaysi metoddan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "df.head(20)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "df.row(20)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "df.start(20)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "df.top(20)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " DataFrameni to’liq qaytaruvchi metodni belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "df.dump()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "df.Full()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "df.to_string()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "df.print_full()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " DataFramega JSON faylni qaysi metod yordamida yuklab olish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "read_file()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ReadJSON()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ReadCSV()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "read_json()\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kompyuterlarga aniq dasturlashtirilmagan holda ma’ lumotlardan o’ rganish qobiliyatini beruvchi tadqiqotlar sohasi quyidagilardan qaysi biri\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Data science\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni qayta ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Machine learning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Computer vision\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandasda head() metodi qanday vazifani bajaradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Jadval sarlavhasini qaytaradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yuqoridan boshlab dastlabki 5 ta satrni qaytaradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Satrlar sonini qaytaradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ustunlar sonini qaytaradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandasda head() metodiga argument bermasak, u qancha satrni qaytaradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "10 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "5 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Barcha satrlarni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "20 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandasda oxirgi satrlarni qaysi metod yordamida ko’rish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "last()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tail()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "foot()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "back()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bo’sh maydonlar mavjud bo’lgan satrlarni olib tashlovchi pandas metodini ko’rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "delete_null\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "clear\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "dropna()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "remove_null()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bo’ sh maydonlarni yangi qiymat bilan to’ ldirishning to’ g’ ri metodi qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "replacena()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "insertna()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "fillna()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "value_null()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandasda dropna() metodidan foydalanganda qaysi argument yangisini qaytarish o’ rniga asl DataFrameni o’ zgartirishga imkon beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "dropna(original = True)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dropna(keep = True)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "dropna(inplace = True)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "dropna(df=True)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandas DataFrame-dan dublikatlarni olib tashlashning to’ g’ ri usuli qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "df.remove_duplicates()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "df.delete_duplicates()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "df.duplicates()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "df.drop_duplicates()\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " DataFrame-da dublikat bor yoki yo’ qligini qaysi metod yordamida aniqlaymiz?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "df.duplicate()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "df.dup()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "df.duplicated()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "duplicated(df)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " DataFrame-dagi ustunlar orasidagi bog’liqliklarni topishning to’ g’ ri metodi qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "df.rel()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "df.relation()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "df.correlation()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "df.corr()\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " DataFrame-dagi ma’ lumotlar asosida diagrammalarni chizish uchun qaysi metoddan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "df.plot()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "df.draw()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "df.print()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "df.show()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " To’g’ri yaratilgan numpy massivni ko’rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "np.object({[}1, 2, 3, 4, 5{]})\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "np.createArray({[}1, 2, 3, 4, 5{]})\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "np.nparray{[}1,2,3,4,5{]}\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "np.array({[}1, 2, 3, 4, 5{]})\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Massivdagi o’ lchamlar sonini tekshirish uchun to’ g’ ri sintaksis nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "arr.ndim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "arr.dim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "arr.dim()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "arr.ndim()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Turli manbalardan ma’ lumotlarni yig’ ish va o’ lchash jarayoni qanday nomlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni qayta ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni to’ plash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda o’rganish usullarini ko’rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Supervised va Unsupervised learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Supervised, Unsupervised va Semi-supervised learning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Supervised, Unsupervised, Semi-supervised va Reinforcement learning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Supervised, Unsupervised va Reinforcement learning\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Supervised learning nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bu machine learningda o’rganish turi bo’lib, unda ma’ lumotlar kirish vektorlari (features) va ularga mos keladigan javob qiymatlari (label) asosida o’rganish turi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bu machine learningda o’rganish turi bo’lib, unda ma’ lumotlar kirish vektorlaridan (features) iborat, lekin mos keladigan javob qiymatlari (label) yo’ q.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bu xatti-harakatlarni mukofotlash va jazolashga asoslangan machine learning usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " reinforcement bilan bir xil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Unsupervised learning nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bu machine learningda o’rganish turi bo’lib, unda ma’ lumotlar kirish vektorlari (features) va ularga mos keladigan javob qiymatlari (label) asosida o’rganish turi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bu machine learningda o’rganish turi bo’lib, unda ma’ lumotlar kirish vektorlaridan (features) iborat, lekin mos keladigan javob qiymatlari (label) yo’ q.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bu xatti-harakatlarni mukofotlash va jazolashga asoslangan machine learning usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " reinforcement bilan bir xil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Reinforcement learning nima\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bu machine learningda o’rganish turi bo’lib, unda ma’ lumotlar kirish vektorlari (features) va ularga mos keladigan javob qiymatlari (label) asosida o’rganish turi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bu machine learningda o’rganish turi bo’lib, unda ma’ lumotlar kirish vektorlaridan (features) iborat, lekin mos keladigan javob qiymatlari (label) yo’ q.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bu xatti-harakatlarni mukofotlash va jazolashga asoslangan machine learning usuli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " supervised learning bilan bir xil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandas bu nima…?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pythonda ma’lumotlarni grafiklar bilan visualizatsya qilish uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pythonda ma’ lumotlarni tahlil qilish va manipulyatsiya qilish uchun kutubxona\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pythonda matematik operatsiyalarni bajarish uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Machine learning uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Numpy bu nima …?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pythonda ma’lumotlarni grafiklar bilan visualizatsya qilish uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pythonda ma’ lumotlarni tahlil qilish va manipulyatsiya qilish uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pythonda matematik operatsiyalarni bajarish uchun kutubxona\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Machine learning uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Scikit-learn bu nima …?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pythonda ma’lumotlarni grafiklar bilan visualizatsya qilish uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pythonda ma’ lumotlarni tahlil qilish va manipulyatsiya qilish uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pythonda matematik operatsiyalarni bajarish uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Machine learning uchun kutubxona\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Matplotlib bu nima …?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pythonda ma’lumotlarni grafiklar bilan visualizatsya qilish uchun kutubxona\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pythonda ma’ lumotlarni tahlil qilish va manipulyatsiya qilish uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pythonda matematik operatsiyalarni bajarish uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Machine learning uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda ‘Example’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Example larga biriktirilgan qiymat yoki kategoriya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ rganish yoki baholash uchun ishlatiladigan ma’ lumotlardan namuna yoki holat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko’ pincha vektor sifatida ifodalanadigan atributlar to’ plami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni tahlil qilish va manipulyatsiya qilish uchun kutubxona\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda ‘training sample’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarga biriktirilgan qiymat yoki kategoriya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ rganish yoki baholash uchun ishlatiladigan ma’ lumotlar namunalari yoki holatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko’ pincha vektor sifatida ifodalanadigan atributlar to’ plami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Algoritmni o’ rgatish (training) uchun ishlatiladigan misollar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda ‘label’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Example larga biriktirilgan qiymat yoki kategoriya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ rganish yoki baholash uchun ishlatiladigan ma’ lumotlar namunalari yoki holatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko’ pincha vektor sifatida ifodalanadigan atributlar to’ plami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Algoritmni o’ rgatish (training) uchun ishlatiladigan misollar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda ‘features’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Example larga biriktirilgan qiymat yoki kategoriya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ rganish yoki baholash uchun ishlatiladigan ma’ lumotlar namunalari yoki holatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko’ pincha vektor sifatida ifodalanadigan atributlar to’ plami\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Algoritmni o’ rgatish (training) uchun ishlatiladigan misollar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda ‘test sample’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Example larga biriktirilgan qiymat yoki kategoriya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ rganish yoki baholash uchun ishlatiladigan ma’ lumotlar namunalari yoki holatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko’ pincha vektor sifatida ifodalanadigan atributlar to’ plami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Algoritmning o’rganish samaradorligini baholash uchun ishlatiladigan example lar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda ‘loss function’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bashorat qilingan natija va haqiqiy natija orasidagi farqni, yoki yo’ qotishni o’ lchaydigan funksiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ rganish yoki baholash uchun ishlatiladigan funksiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko’ pincha vektor sifatida ifodalangan atributlar to’ plami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ quv algoritmining samaradorligini baholash uchun ishlatiladigan funksiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Supervised learning algoritmlarini tanlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hierarchical Clustering, Logistic Regression, Naive Bayes, K-means\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Linear Regression, K-Nearest Neighbors, Random Forest, Decision Tree\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Logistic Regression, K-Nearest Neighbors, Naive Bayes, K-means\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Linear Regression, Logistic Regression, K-means, Naive Bayes\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Unsupervised learning algoritmlarini tanlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Principal Component Analysis, Hierarchical Clustering, K-means\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Linear Regression, K-means, Mean-Shift Clustering\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Logistic Regression, K-Nearest Neighbors, Principal Component Analysis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mean-Shift Clustering, K-means, Naive Bayes\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Supervised learningdagi o’ rganish turlarini tanlang\n"
+            },
+            {
+                "type": "text",
+                "content": "Klassifikatsiya\n"
+            },
+            {
+                "type": "text",
+                "content": "Regressiya\n"
+            },
+            {
+                "type": "text",
+                "content": "Klasterlash\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1, 2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 3, 2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1, 4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1, 2, 3\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Klassifikatsiya bu nima …?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikki yoki undan ko’ p bo’lgan o’ zgaruvchilar orasidagi statistik munosabatni aniqlash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Berilgan ma’ lumotlar to’ plamini sinflarga tasniflash jarayoni.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlardagi ichki guruhlashni kashf qilish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Klasterlash va regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Klasterlash bu nima …?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikki yoki undan ko’ p bo’lgan o’ zgaruvchilar orasidagi statistik munosabatni aniqlash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlardagi ichki guruhlashni kashf qilish jarayoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Berilgan ma’ lumotlar to’ plamini sinflarga tasniflash jarayoni.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ quv algoritmining samaradorligini baholash jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Regressiya bu nima …?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikki yoki undan ko’ p bo’lgan o’ zgaruvchilar orasidagi statistik munosabatni aniqlash usuli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlardagi ichki guruhlashni kashf qilish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Berilgan ma’ lumotlar to’ plamini sinflarga tasniflash jarayoni.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ quv algoritmining samaradorligini baholash jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Klasterlash algoritmlarini tanlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Principal Component Clustering, Hierarchical Clustering, K-means\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mean-Shift Clustering, K-means, Linear Clustering\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "K-means, Mean-Shift Clustering, D-B Spatial Clustering\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "K-Nearest Neighbors, Mean-Shift Clustering, D-B Spatial Clustering\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Unsupervised learningda o’rganish vazifalarini toping\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Klassifikatsiya, Regressiya va Klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klasterlash, Assotsiatsiya va Regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Klasterlash, Dimensionality reduction va Assotsiatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Klassifikatsiya, Dimensionality reduction va Assotsiatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Reinforcement learning elementlarini ko’ rsating?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Labeled data, Agent, Environment\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Agent, Unlabeled data, State, Reward\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Labeled data, Unlabeled data, Agent\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "State, Reward, Environment, Agent\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni vizualizatsiya qilish bu …?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni matn kontekstiga o’ girish amaliyoti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlardagi ichki guruhlashni kashf qilish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni vizual kontekstga o’ girish amaliyoti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Turli manbalardan ma’ lumotlarni yig’ ish va o’ lchash jarayoni.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar bilan analitik o’ zaro bog’lanish usullarini ko’ rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Taqqoslash, Labellash va Agregatlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Taqqoslash, Saralash va Filtrlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ajratib ko’ rsatish, Agregatlash va Qayta ifodalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Taqqoslash, Saralash, Filtrlash, Ajratib ko’ rsatish, Agregatlash va Qayta ifodalash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni vizualizatsiya qilish uchun eng ko’ p ishlatiladigan vositalarni ko’ rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pandas, Tableau va Matplotlib\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Power BI, Seaborn va Github\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Matplotlib, Tableau va Power BI\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Pygal, Github va Seaborn\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Matplotlibda plt.bar() funksiyasining maqsadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jadvalni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bar grafikni chiqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pie chart diagrammasini chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Chiziqli grafikni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Matplotlibda plt.pie() funksiyasining maqsadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jadvalni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bar grafikni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pie chart diagrammasini chiqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Chiziqli grafikni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Matplotlibda plt.line() funksiyasining maqsadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jadvalni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bar grafikni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pie chart diagrammasini chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Chiziqli grafikni chiqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandasda DataFrame.describe() metodining maqsadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Descriptive statistikalarni chiqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bir o’ zgaruvchili tahlilni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ikki o’ zgaruvchili tahlilni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ko’ p o’ zgaruvchili tahlilni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandasda DataFrame.info() metodining maqsadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Descriptive statistikalarni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Dataframe haqida qisqacha ma’ lumot berish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ikki o’ zgaruvchili tahlilni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ko’ p o’ zgaruvchili tahlilni chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Matplotlib kutubxonasini qanday import qilish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Import matplotlib.pyplot as plt\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " From plt import pyplot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Import matplotlib.plt as pyplot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " import plt as plt\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Logistik regressiya tahlil turlarini tanlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Binary va Mulinomial\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Binary va Chiziqli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Chiziqli va Mulinomial\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat Chiziqli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Modelni baholash usullarini ko’ rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hold-out\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Cross-validation\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Prediction\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Hold-out va Cross-validation\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Chiziqli Regressiya bu …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Supervised learning dagi usul\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Unsupervised learning dagi usul\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Semi-supervised learning dagi usul\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Reinforcement learning dagi usul\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Logistik Regressiya bu …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Supervised learning dagi usul\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Unsupervised learning dagi usul\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Semi-supervised learning dagi usul\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Reinforcement learning dagi usul\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Overfitting bu …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Machine learningdagi keng tarqalgan muammo bo’ lib, bu yerda model training jarayonida ma’ lumotlarni shovqin va outlierlari bilan juda yaxshi o’ rganadi, bu esa yangi ma’ lumotlar bo’ yicha yomon ishlashiga olib keladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Machine learningdagi keng tarqalgan muammo bo’ lib, bu yerda model training jarayonida ma’ lumotlarni o’rganish va yangi ma’lumotlar bilan test qilish aniqligi past bo’ladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " birinchi va ikkinchi javoblar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Machine learningda keng tarqalgan muammo bo’ lib, bu yerda yuqori aniqlikka ishora qiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Matplotlibda scatter plot grafigini qanday ko’ rsatish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sns.scatterplot()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Plt.scatter()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Plt.scater()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Plot.scatter()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Logistik regressiya bu …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Klassifikatsiya muammosi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klasterlash muammosi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bitta o’ zgaruvchili muammo\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Reinforecement learning turi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilarning qaysi biri machine learningda klassifikatsiya algoritmi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Chiziqli Regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Principal Component Analysis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Random Forest\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " K-means\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Klassifikatsiya algoritmining asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Uzluksiz natijani bashorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ xshash ma’ lumot nuqtalarini guruhlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yangi ma’ lumot nuqtasining qaysi kategoriyaga tegishli ekanligini bashorat qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchilar orasidagi munosabatni baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Binar klassifikatsiya muammosida ’ False Positive’{} degani nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Model manfiy sinfni to’ g’ ri bashorat qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Model ijobiy sinfni noto’ g’ ri bashorat qiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Model ijobiy sinfni to’ g’ ri bashorat qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Model manfiy sinfni noto’ g’ ri bashorat qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ’ Machine learning’{} nima bilan shug’ ullanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mashinalarning o’ zini ta’ mirlashi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kompyuterlarning o’ zini dasturlashi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tizimlarning ma’ lumotlardan o’ rganishi va bashorat qilishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Robotlarning inson vazifalarini bajarishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ’ DataFrame’{} ko’ pincha qayerda ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Excel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " SQL\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pythonning Pandas kutubxonasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " HTML\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda ’ Cross-Validation’{} nima uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Parolni himoya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Modelning ishlashini baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni shifrlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni uzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Data scienceda ’ K-Means’{} nimani bildiradi ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Dasturlash tili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni saqlash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Klasterlash algoritmi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar bazasi turi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Data scienceda ’ Ma’ lumotlarni Tozalash’{} ning roli qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tarmoq tezligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Grafik taqdimotlarni yaxshilash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar saqlash quvvatini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xatoliklar va nomuvofiqliklarni olib tashlab, ma’ lumotlar sifatini yaxshilash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilarning qaysi biri Data scienceda asosiy jarayonlardan biri?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar to’ plash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tezis yozish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tarmoq sozlamalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yangi uskunalar sotib olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Underfitting bu …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Machine learningdagi keng tarqalgan muammo bo’ lib, bu yerda model training jarayonida ma’ lumotlarni shovqin va outlierlari bilan juda yaxshi o’ rganadi, bu esa yangi ma’ lumotlar bo’ yicha yomon ishlashiga olib keladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Machine learningdagi keng tarqalgan muammo bo’ lib, bu yerda model training jarayonida ma’ lumotlarni o’rganish va yangi ma’lumotlar bilan test qilish aniqligi past bo’ladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " birinchi va ikkinchi javoblar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Machine learningda keng tarqalgan muammo bo’ lib, bu yerda yuqori aniqlikka ishora qiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda Aniqlik (Accuracy) bu …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " barcha ma’ lumot nuqtalari orasidan to’ g’ ri bashorat qilingan ma’ lumotlar soni.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " model tomonidan amalga oshirilgan ijobiy bashoratning sifati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " machine learning modeli haqiqiy ijobiy namunalardan qanchalik tez to’ g’ ri aniqlanishini o’ lchaydigan metrika.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ikkinchi va uchunchi javoblar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda Precision nima …?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " barcha ma’ lumot nuqtalari orasidan to’ g’ ri bashorat qilingan ma’ lumotlar soni.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " model tomonidan amalga oshirilgan ijobiy bashoratning sifati.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " machine learning modeli haqiqiy ijobiy namunalardan qanchalik tez to’ g’ ri aniqlanishini o’ lchaydigan metrik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " birinchi va uchunchi javoblar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda Recall nima …?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " barcha ma’ lumot nuqtalari orasidan to’ g’ ri bashorat qilingan ma’ lumotlar soni.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " model tomonidan amalga oshirilgan ijobiy bashoratning sifati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " machine learning modeli haqiqiy ijobiy namunalardan qanchalik tez to’ g’ ri aniqlanishini o’ lchaydigan metrika.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " birinchi va uchunchi javoblar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Precision hisoblash formulasini ko’rsating?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "P=TP/(TP+FP)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "P=TP/(TP+FN)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "P=(2×TP)/(TP+FP)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "P=(2×TP)/(TP+FN)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Recall hisoblash formulasini ko’rsating?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "R=TP/(TP+FP)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "R=TP/(TP+FN)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "R=(2×TP)/(TP+FP)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "R=(2×TP)/(TP+FN)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " F1-Score hisoblash formulasini ko’rsating?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "F1=(Precision×Recall)/(Precision+Recall)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "F1=2×(Precision×Recall)/(Precision+Recall)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "F1=2×(Precision+Recall)/(Precision×Recall)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "F1=(Precision+Recall)/(Precision×Recall)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Confusion matrix\" nima uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Katta miqdordagi ma’ lumotlarni saqlash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klassifikatsiya algoritmining ishlashini baholash uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Grafikda ma’ lumotlarni chizish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Machine learning modelini chalkashtirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"K-Nearest Neighbors\" algoritmining asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni siqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tarmoq sozlamalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumot nuqtalarining o’ xshashligiga asoslanib klassifikatsiya yoki regressiya qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni shifrlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Binar klassifikatsiya muammosi uchun qaysi algoritm mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Chiziqli regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " K-means klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Logistik regressiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Principal Component analysis\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Data scienceda \"outlier detection\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Dasturlash kodidagi xatolarni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar to’ plamidagi g’ ayrioddiy ma’ lumot nuqtalarini aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tasvirlarning aniqligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni o’ sish tartibida saralash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilarning qaysi biri EDA (Exploratory data analysis) ning qismi emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni Tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni Vizualizatsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Modelni yaratish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Namunalar aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " EDA kontekstida ma’ lumot to’ plashdan keyingi birinchi qadam qaysi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni Vizualizatsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni Tozalash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni Model qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni Tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Supervised learningda algoritm …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Labellanmagan ma’ lumotlarni o’ rganadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Labellangan ma’ lumotlar to’ plami bo’ yicha o’rganadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni o’ rganish orqali namunalar topadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarisiz ishlaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilarning qaysi biri Reinforcement learningni ifodalaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Labellangan ma’ lumotlar to’ plami bo’ yicha o’rganadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarsiz o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sinab ko’ rish va xatoliklar orqali o’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Labellanmagan ma’ lumotlarni o’ rganadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Logistik regressiyada ‘‘Decision boundary’’ qanday maqsad uchun ishlatiladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Turli regressiya chiziqlarini ajratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Davomli natijalarni bashorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xatolik darajasini o’ lchash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Turli sinflarni ajratish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Confusion matrxda (False Positive) atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " To’ g’ ri aniqlangan ijobiy holatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Noto’ g’ ri aniqlangan salbiy holatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ g’ ri aniqlangan salbiy holatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Noto’ g’ ri aniqlangan ijobiy holatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar to’ plamidagi ‘‘missing values’’ ni qanday boshqarish mumkin:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Doimo ma’ lumot yo’ q qatorlarni olib tashlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat regressiya usullaridan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tahlil jarayonida ‘‘missing values’’ ni e’ tiborsiz qoldirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’zgartirish (to’ldirish) yoki ‘‘missing values’’ ni olib tashlash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Reinforecement learning ning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni toifalarga bo’ lish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Katta ma’ lumotlar to’ plamlarida namunalar topish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi tendentsiyalarni bashorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Rag’batlantirish va jazolar orqali optimal harakatlarni o’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Reinforecement learning da agent muhitda (environment) quyidagilardan qaysi biri orqali o’ rganadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oldindan belgilangan qoidalar bo’ yicha harakat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muhit bilan o’ zaro ta’ sir qilish va feedback olish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Boshqa agentni kuzatish va taqlid qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tarixiy ma’ lumotlarni tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Reinforecement learning da \"Reward\" nimani anglatadi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Modelning yakuniy natijasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lum bir harakat uchun agentga berilgan feedback yoki rag’bat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Agentga taqdim etilgan kirish ma’ lumotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Agent tomonidan qilingan bashorat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Supervised learningda \"test data\" quyidagilardan qaysi biri uchun ishlatiladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Modelning yangi ma’ lumotlar bo’ yicha ishlashini baholash yoki bashorat qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Modelni o’ qitish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Model uchun xususiyatlarni tanlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Unsupervised learninda Quyidagilarning qaysi biri keng tarqalgan ilovasi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Regressiya tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni oldindan belgilangan toifalarga tasniflash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchining kelajakdagi qiymatlarini bashorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Unsupervised learninda \"Dimensionality reduction\" qanday maqsad uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar to’ plamidagi xususiyatlar sonini kamaytirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Modelning aniqligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ rganish jarayonini tezlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni vizualizatsiya qilishning aniqligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learning \"Support Vector machine\" qanday maqsadlar uchun ishlatiladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Klassifikatsiya va regressiya vazifalari uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni vizualizatsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xususiyatlarni tanlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pythonning Pandas kutubxonasida CSV faylini o’ qish uchun qaysi funksiya ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pandas.read_csv()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pandas.open_csv()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pandas.csv_reader()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pandas.get_csv()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pythonda ’ data’{} deb nomlangan ro’ yxatning uzunligini qanday olish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " data.length()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " len(data)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " data.size()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " length(data)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandasda ’ Age’{} deb nomlangan ustunni tanlash uchun qaysi sintaksis to’ g’ ri?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " DataFrame{[}’ Age’{]}\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " DataFrame.select(’ Age’)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " DataFrame.get(’ Age’)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " DataFrame.column(’ Age’)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilarning qaysi biri Exploratory Data Analysis (EDA) da asosiy qadam hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Machine learning modelini joriy etish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Batafsil hisobot yozish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni vizualizatsiya qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni xavfsizlik uchun shifrlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " EDA da ‘missing values’ni aniqlash nima uchun muhim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hisoblash tezligini oshirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar to’ plamining sifatini yaxshilash uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar to’ plamining hajmini kamaytirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qo’ llaniladigan mashinasozlik modeli turini o’ zgartirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandasda \"missing values\" qanday ifodalanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " -1\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 0\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " null\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " NaN (Not a Number)\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandas’ da DataFrame’ dagi takroriy qatorlarni aniqlash uchun qaysi funksiya ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " df.duplicates()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " df.unique()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " df.duplicated()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " df.repeat()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandas’ da DataFrame’ ning ’ salary’{} deb nomlangan ustunining o’ rtacha qiymatini hisoblash uchun qaysi usul ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " df{[}’ salary’{]}.mean()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " df.mean(’ salary’)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mean(df{[}’ salary’{]})\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " df.salary().mean()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda o’ lchamlarni kamaytirish uchun qaysi algoritm ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Chiziqli Regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " K-Means Klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Principal Component Analysis (PCA)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Decision tree\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Machine learningda modelning o’rganish ‘‘training’’ jarayonida aniqlik yaxshi, ammo yangi ma’ lumotlar bilan ‘test’ jarayonida past ishlash holati qanday ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Underfitting\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Overfitting\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bias\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Variance\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Oddiy chiziqli regressiya va ko’ p o’ zgaruvchili chiziqli regressiya o’ rtasidagi asosiy farq nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oddiy chiziqli regressiya ko’ p o’ zgaruvchili chiziqli regressiyadan tezroq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Oddiy chiziqli regressiya faqat kichik ma’ lumotlar to’ plamlari uchun ishlatilishi mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oddiy chiziqli regressiyada bitta erkli o’ zgaruvchi mavjud, ko’ p o’ zgaruvchili chiziqli regressiyada ikki yoki undan ko’ p o’ zgaruvchilar mavjud\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ko’ p o’ zgaruvchili chiziqli regressiya oddiy chiziqli regressiyadan kam aniqlikda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilarning qaysi biri Supervised learning vazifasi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ lchamlarni kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klassifikatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Klasterlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Assotsiatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Supervised learningda ’ training dataset’{} nimalardan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat xususiyatlar (kiruvchi o’ zgaruvchilar)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xususiyatlar (kiruvchi o’ zgaruvchilar) va labellar (chiquvchi natija)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faqat labellar (chiquvchi natijalar)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xususiyatlar ham, labellar ham yo’ q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Supervised learning ning umumiy maqsadi qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi tendentsiyalarni bashorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarda yashirin namunalarni kashf etish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni ma’ lum toifalarga tasniflash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar uchun to’ g’ ri labellarni topish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Klasterlash\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchining qiymatini bashorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ xshash ma’ lumot nuqtalarini bir guruhga birlashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Turli ma’ lumot nuqtalarini labellash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar to’ plamidagi xususiyatlar sonini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pandas’ da ‘missing values’ (NaN) larni olib tashlash uchun qaysi usul ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " delete()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " dropna()\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " remove_nan()\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " clean()\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Biznes kontekstida Data science ning asosiy vazifasi qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Veb-saytlar va mobil ilovalarni yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni vizualizatsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlardan foydalanib murakkab biznes muammolarini hal qilish va ma’ lumotlarga asoslangan qarorlar qabul qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ilmiy tadqiqotlar olib borish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Data science da gipotezani sinashning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni vizualizatsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Machine learning modellarini yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar to’ plamiga asoslangan statistik xulosalar chiqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yo’ qotilgan ma’ lumotlar bilan ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

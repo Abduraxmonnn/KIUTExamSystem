@@ -1,0 +1,5878 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is risk in the context of investment?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Possibility of capital loss\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Possibility of wasting time\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Possibility of loss of income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Possibility of job loss\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which tool is used to measure portfolio risk?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Standard Deviation\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Average return\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Median return\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Standard deviation\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is diversification?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Distribution of investments among various assets\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investing all capital in one asset\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Concentration of investment in one industry\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Selection of exclusively high-risk assets\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is the investing in stocks, bonds and other financial instruments in order to generate income and increase capital?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Portfolio investing\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Speculation\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Arbitration\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Deposit\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What type of risk cannot be eliminated through diversification?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Market risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Unique risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Specific risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Diversifiable risk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What does financial econometrics study?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Application of mathematical methods to analyze financial data\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Behavior of investors in the market\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Rules for the operation of financial markets\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Economic cycles\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which indicator is most important when evaluating bonds?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Credit rating\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Dividend income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Number of shares outstanding\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Product price history\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is the Sharpe ratio?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A measure of the return on an investment relative to its risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Method of assessing a company’ s credit rating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Calculation of average portfolio return\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Dividend payment valuation method\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What does the concept of ‘‘liquidity’’ mean in the context of investments?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " The ability of an asset to be quickly sold without significant loss of value\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " The ability of an asset to generate income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Asset resistance to market fluctuations\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Long-term growth potential of the asset value\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is a bond?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A debt instrument that provides the owner with the right to receive fixed interest payments\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Share in the company’ s capital\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Agreement to purchase shares in the future\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Type of financial derivative\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is the purpose of using hedging in investment risk management?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Protection against potential losses\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Guaranteed high income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Speculation on market changes\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Increase in market share\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which asset valuation method takes into account the present value of future cash flows?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Discounted Cash Flow (DCF)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Market multiplier method\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Cost approach\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Residual value method\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is a portfolio with minimal risk at a given level of return?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Effective portfolio\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Diversified portfolio\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Balanced portfolio\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aggressive portfolio\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which financial analysis tool is used to compare the return of an asset with its risk?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sharpe ratio\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sortino coefficient\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Beta coefficient\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Alpha coefficient\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is beta coefficient?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A measure of the market risk of an asset\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ratio of asset return to market return\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " A measure of an asset’ s return relative to its risk-free return\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ratio of asset volatility to market volatility\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which investments are considered the most liquid?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Cash and cash equivalents\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Real estate\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Collectibles\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Long-term bonds\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What are alternative investments?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investments in assets not included in standard categories (stocks, bonds)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Traditional investments in stocks and bonds\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investments in financial derivatives\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Savings deposits in banks\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which type of analysis focuses on examining financial statements and economic trends to evaluate a stock?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Fundamental analysis\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Technical analysis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Quantitative analysis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qualitative analysis\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is an index fund?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " An investment fund that follows a specific market index\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " A fund that invests in individual stocks\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Fund actively managed to maximize returns\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Private investment fund\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which process involves allocating investment capital among different types of assets?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Asset allocation\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Market timing\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Stock picking\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Hedging\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What document does an investor need to understand the conditions and risks associated with an investment product?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Issue prospectus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Annual report\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Auditor’ s report\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Certificate of income\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is the name of the strategy in which investments are made regularly, regardless of market conditions?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Dollar cost averaging\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Speculative trading\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Market timing\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Seasonal investing\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is volatility?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A measure of asset price volatility\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Stability of income from the asset\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Guaranteed profit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Low risk of loss\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which financial instrument provides an investor with the right, but not the obligation, to buy or sell an asset at a fixed price during a specified period?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Option\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bond\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Promotion\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ETF\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which method of assessing the value of a company involves comparing its financial performance with similar indicators of other companies?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Company comparison method\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Net asset method\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Discounted cash flow method\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Residual value method\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What factors influence the choice of investment strategy?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Financial goals, investment terms, investor risk profile\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Political situation in the country\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Season\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Color of investment product\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is a bear market?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Market characterized by falling prices\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Market characterized by rising prices\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Stable market without significant price changes\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " High volatility market\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which financial market instrument represents a long-term obligation to pay the bondholder the face value plus interest when due?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bond\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Promotion\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Option\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Futures\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is market capitalization?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Total value of all issued shares of the company\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Amount of dividends paid by the company\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Total market sales\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Number of shares traded on the exchange\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is portfolio theory?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A theory that explains how investors can construct portfolios to maximize return for a given level of risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Theory describing methods for selecting stocks in the market\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " The theory that the market is always in equilibrium\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " The theory that investing in stocks does not generate income\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is portfolio diversification?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Spread investments across different asset types to reduce risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investing all capital in one asset\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investing in various assets in order to obtain maximum profit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Purchasing additional shares of one company\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is return on investment?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Profit received from investments\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investment amount\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Time required to make a profit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investment risk level\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What factor influences the amount of investment risk?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Price volatility\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Capital amount\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investment term\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Price expectations\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What factors should be considered when assessing the risk of an investment?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Volatility, liquidity, stability of profitability\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Asset color, year of issue, company history\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Geographic location, weather, social trends\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Value of assets at the time of purchase, amount of commissions, broker’ s credit rating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is the correlation coefficient?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A measure of the relationship between two variables\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Degree of asset price volatility\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loan interest rate\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " The ratio of the value of an asset to its profitability\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is a stock index?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Indicator of changes in the value of shares on the stock exchange\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " List of publicly traded companies\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Company annual reports\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loan interest rate\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What factor influences the choice of investment strategy?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investor’s financial goals\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Color of investment product\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Year of release of the investment product\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Weather in the region of investment\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is ’ weighted average rate of return’?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A rate that takes into account all income and expenses of an investment\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Rate determined at the time of purchase of the asset\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Inflation dependent rate\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Rate offered by broker\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What type of risk is associated with a particular company or individual asset?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Specific risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Systemic risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Non-structural risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Currency risk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is an investment horizon?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " The period of time during which the investor plans to hold the investment\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Strategy for investing in various assets\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " City where the exchange is located\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Maximum acceptable investment risk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is ‘‘systemic risk’’ in investment activities?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Risk associated with changes in the economic policy of the state\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Risk associated with a specific company or individual asset\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Risk affecting the entire industry or market as a whole\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Risk arising from unpredictable natural disasters\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is the concept of a ‘‘free market’’ in the context of investment management?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A market where there are no restrictions or barriers to entry or exit from investments\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " A market in which all assets have zero value\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " A market in which all investments are completely risk-free\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " A market in which there is only one seller and one buyer\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What factor influences the rise in bond yields?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Reduced inflation\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Increase in unemployment\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Increase in income tax rate\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Decrease in the share of profits paid by the company\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What does the term ‘‘portfolio investing’’ mean?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investing in various financial instruments to reduce risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investing all capital in one company or asset\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Buying only shares of one company\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investing in cash only\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " What is the ‘‘refinancing interest rate’’?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " The rate at which banks can borrow money from the central bank\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " The rate at which banks can provide loans to businesses and individuals\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " The rate at which banks can place deposits with the central bank\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " The rate at which the central bank buys bonds from banks\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is ‘‘long-term investment’’?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investments for a period of more than 5 years\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investing in shares\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investment in government bonds\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investments in short-term deposits\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which investment approach aims to maximize returns through active portfolio management?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Active control\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Passive control\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Dollar cost averaging\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Buy and hold strategy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is ‘‘liquidation’’ of an investment asset?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Selling an asset and withdrawing funds\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Purchasing an asset on an exchange\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investing in a new asset\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Increase in asset value\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What factors are typically taken into account when determining an investment profile?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Financial goals, investment experience, risk profile\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Color of the investment product, number of shares in the portfolio, geographic location of the investor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Number of family members, social status, level of education\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Weather in the region where you live, preferences in movies, favorite sport\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is an ‘‘efficient market’’?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A market where asset prices are always as efficient as possible\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " A market in which there is no investment risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " A market in which only qualified investors operate\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " A market in which asset price information is available to all participants and reflects all available information\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What does the term alpha mean in the context of investment management?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A measure of an investment’ s excess return relative to market returns\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Measure of investment risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Minimum return on investment\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Maximum return on investment\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is the ‘‘company comparison method’’ in financial analysis?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A method of assessing the value of a company by comparing its financial indicators with similar indicators of other companies\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Method of determining the current value of a company based on future cash flows\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Method of calculating the value of a company based on the residual value of its assets\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Method of determining the value of a company based on its profits\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What does the term ‘‘stock correlation index’’ mean?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A measure of the relationship between different fund indexes\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " A measure of share price volatility on a stock exchange\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " List of companies included in the stock correlation index\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " List of companies traded on the stock exchange\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is a ‘‘portfolio manager’’?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Professional responsible for investment portfolio management\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " A professional who specializes in trading the stock market\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " An investor managing his own portfolio of investments\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Automated system for investment portfolio management\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which statistics are most important for assessing portfolio performance?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Average annual return\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Standard deviation of return\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Average return for the entire investment period\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Median return\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is the name of the method of estimating the value of an asset by comparing its price with the prices of similar assets?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Comparable transactions method\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Cost approach method\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Discounted cash flow method\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Residual value method\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is ‘‘market volatility’’?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A measure of price volatility in the financial market\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Stability of prices on the market\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Market inflation rate\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Rate of price changes in the market\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What factors can affect the market price of shares?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Company financial reports, macroeconomic indicators, changes in legislation\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Weather, political situation, investors’{} appetite for risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Stock color, management financial condition, time of year\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Football championship, central bank decision, consumer preferences\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What is a ‘‘passive investment strategy’’?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investing in funds that follow market indexes\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Active portfolio management to maximize returns\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investing in individual shares on the market\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investing in real estate and real estate\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "What does the term beta mean in the context of investment management?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A measure of the risk of an investment in relation to market risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Measure of return on investment\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " The rate at which banks provide loans\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Correlation coefficient of two assets\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following is not an investment?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " new car\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " certificate of deposit issued by a bank\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " US savings bond\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mutual fund held in a retirement account\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Stocks are ________ investments that represent ________ of a business.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " straight; possession\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " straight; duty\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " indirect; own\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " indirect; duty\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "An exchange-traded fund that invests in shares of large corporations is an example\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " indirect investments\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " direct investment\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " derivative investments\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " material investment\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following has decreased in recent years?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " direct ownership of shares by individual investors\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " share of foreign stocks in typical portfolios\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " institutional ownership of common stock\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " timeliness of information available to investors\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Debt is funds lent in exchange for\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " interest income and principal repayment\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " dividend income and loan principal repayment\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dividend income and ownership interest in the firm\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " interest income and partial participation in the company\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Government usually\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " consumer of funds in the financial market\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " does not participate in financial markets\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " owner of the financial market\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " supplier of funds to the financial market\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "On a net basis, funds in financial markets are usually provided\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " individuals\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " both individuals and commercial firms\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " commercial firms\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " government\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "The forum in which suppliers and buyers of funds carry out financial transactions is called financial .....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " market\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " institution\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bank\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tool\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following is true about institutional investors?\n"
+            },
+            {
+                "type": "text",
+                "content": "I.\\hspace{0pt} Institutional investors are professionals who manage money for other people.\n"
+            },
+            {
+                "type": "text",
+                "content": "II. Banks, insurance companies and mutual funds are institutional investors.\n"
+            },
+            {
+                "type": "text",
+                "content": "III. Institutional investors are individuals who invest indirectly through financial institutions.\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. Institutional investors invest large amounts of money.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " only I, II and IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " I and II only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " II, III and IV only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " I, II , III and IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following is not traded in the securities market?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " real estate\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " shares\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bonds\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " derivatives\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following is an example of a tangible asset?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " real estate\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bonds\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mutual funds\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " stocks\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following investments would be the most liquid?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " money market mutual fund\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " promotion\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Series E US Savings Bonds\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " real estate\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following investments represents partial ownership of a corporation?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ordinary shares\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bonds\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mutual funds\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " commercial paper\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investors looking for a diversified, professionally managed portfolio of securities can purchase .....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mutual funds\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " preferred shares\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " convertible securities\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " insurance policies\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "One of the common features of mutual funds and exchange-traded funds is that …. .\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " they invest in widely diversified portfolios of securities\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " they trade continuously throughout the trading day\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " their portfolios are always based on one of the major market indices\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " investors buy shares from fund managers rather than from other investors\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " The current price of a share on the stock market is …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " market value\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " book value\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " investment cost\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nominal cost\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following represents investment objectives?\n"
+            },
+            {
+                "type": "text",
+                "content": "I. \\hspace{0pt}savings for basic expenses such as home or education\n"
+            },
+            {
+                "type": "text",
+                "content": "II. sheltering income from taxes\n"
+            },
+            {
+                "type": "text",
+                "content": "III. increase in current income\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. save money for retirement\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Only I, III and IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " I and IV only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " III and IV only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " all\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "When choosing investments that suit your goals, you should consider\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " risks, income and taxes\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " only profit margin and taxes\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " return before tax only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " annual dividends and taxes only\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sarah bought the stock a year ago at $32 per share. Last year it received four quarterly dividends of $0.75 each. Today she sold the stock for $38 per share. Its capital gains per share are\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 6 dollars\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 3 dollars\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 8 dollars\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 9 dollars\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "A well-thought-out investment policy statement will indicate\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " all listed\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " current age of the investor and his economic situation\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " investor preference for frequent or infrequent trading\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " types of investments that the investor is willing to consider\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Beginner investors with small investment amounts should:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " buy mutual funds or exchange-traded funds\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Avoid investing in stocks completely\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " invest all your money in one high quality stock\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " buy a portfolio of shares with a very low price (cheap shares)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Research shows that investors who closely monitor their portfolios and trade quickly in response to minor price movements\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " inferior to those who hold investments for a long time and rarely trade\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " outperform those who hold investments for the long term and rarely trade\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " earn the same rates of return as those who hold investments for the long term and rarely trade\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " more educated and have higher income than those who hold investments for the long term and trade infrequently\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following is true of economic analysis?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " overall rating\\hspace{0pt}\\hspace{0pt} state of the economy and its potential impact on business\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " a general view of the specific industry in which the company operates\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " financial condition and performance of the company\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " all answers are correct\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following is true of industry analysis?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " general view of the specific industry in which the company operates\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " overall score\\hspace{0pt}\\hspace{0pt} state of the economy and its potential impact on business\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " financial condition and performance of the company\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " all answers are correct\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following is true of fundamental analysis?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " financial condition and performance of the company\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " overall score\\hspace{0pt}\\hspace{0pt} state of the economy and its potential impact on business\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " a general view of the specific industry in which the company operates\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " level of competition in this industry\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Investment income (interest, dividends, capital gains) is….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " portfolio income\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " passive income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dividend\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " active income\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Both holding period and long-term capital gains tax rate\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " subject to political pressure and change from time to time\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " very stable and have not changed since the 1960s.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " terminated upon income over $388,351\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " adjusted annually for inflation\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tax planning\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " directs investment activities to maximize after- tax returns over the long term at an acceptable level of risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ignores the source of income and focuses solely on the amount of income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mostly done by people with incomes below $200,000\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " limited to looking at current year income and identifying ways to minimize current taxes\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Speculative and growth-oriented investments are least suitable for\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " retired pensioners\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " young investors\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " middle-aged investors\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " high income investors\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investors looking to grow their wealth as quickly as possible will invest in\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " small companies which are seeking rapid growth\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " corporate bonds and preferred shares\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " shares of large companies with high dividends\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " low risk government bonds and shares\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "The main risk associated with short-term investments is\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " purchasing power risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " risk of default\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " interest rate risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " economic risk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Short-term investments\n"
+            },
+            {
+                "type": "text",
+                "content": "I. \\hspace{0pt}Provide liquidity.\n"
+            },
+            {
+                "type": "text",
+                "content": "II. form an important part of most investment programs.\n"
+            },
+            {
+                "type": "text",
+                "content": "III. provide high returns with low risk.\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. provide resources for emergencies.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " only I, II and IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " I and IV only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " II and IV only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " I, II , III and IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Federal insurance protects savings accounts and money market deposit accounts (MMDA) up to\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " $250,000\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " $100,000\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " $150,000\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " $1,000,000\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Beginning in 2010, the amount protected by the Federal Deposit Insurance Corporation in non-interest checking accounts is\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " unlimited\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " zero\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " $100,000\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " $250,000\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Since 2010, the interest rate on savings books and certificates of deposit\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " was below the inflation rate\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " closely monitors inflation rates\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " exceeded the inflation rate by an average of 1.5%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " hesitated a lot\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following has the lowest level of risk?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " US Treasury bill\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " commercial paper\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " money market mutual fund account\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " banker’ s acceptance\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Typical responsibilities of finance professionals in a corporate environment include:\n"
+            },
+            {
+                "type": "text",
+                "content": "I. \\hspace{0pt}Cash and short-term investment management.\n"
+            },
+            {
+                "type": "text",
+                "content": "II. assessment of investment opportunities.\n"
+            },
+            {
+                "type": "text",
+                "content": "III. working one-on-one with people to formulate plans to achieve their financial goals.\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. interaction with financial markets to find sources of external financing, such as debt and equity capital.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " only I, II and IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " I and IV only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " II, III and IV only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " I, II, III and IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Working in which of the following areas requires an understanding of the investment environment?\n"
+            },
+            {
+                "type": "text",
+                "content": "I. \\hspace{0pt}commercial banking\n"
+            },
+            {
+                "type": "text",
+                "content": "II. corporate finance\n"
+            },
+            {
+                "type": "text",
+                "content": "III. financial planning\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. insurance\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " I, II, III and IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " I and IV only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " I, II and IV only\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " II, III and IV only\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "The main function of investment banking firms is\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " assistance to enterprises when issuing shares and bonds\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " providing loans to investors\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " providing financial planning services to wealthy individuals\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " development of investment strategies to neutralize risk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. is any asset in which one can invest with the expectation that it will generate a positive return and/or increase its value.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " investments\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " briefcase\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dividends\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " return\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "An offer of rights is …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " shares are offered to existing shareholders on a pro rata basis\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " securities offered for sale to public investors\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " securities are offered to selected groups of investors\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " all answers are wrong\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "…. . markets in which providers and buyers of funds trade financial assets, typically through intermediaries such as securities brokers and dealers.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " financial markets\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " financial institutions\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " financial intermediaries\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " commodity markets\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. organizations such as banks and insurance companies that pool the resources of fund providers and use those funds to make loans and invest in securities.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " financial institutions\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " financial markets\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " financial intermediaries\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " commodity markets\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. persons who manage their own funds to achieve their financial goals.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " individual investors\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " institutional investors\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " brokers\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dealers\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "The difference between the proceeds from the sale of an investment and its original purchase price is....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " capital gain (or loss)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " total income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " active income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " passive income\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. securities that give an investor the opportunity to sell or buy another security at a specified price during a specified period of time.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " options\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bill of exchange\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " futures\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " no correct answer\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Income from work (wages, salaries, pensions) is …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " active income\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " portfolio income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " passive income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dividend\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Under current tax laws, dividend income is taxed at the same rate as\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " long-term capital growth\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ordinary income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " short-term capital gain\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " interest income\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "The income an investment produces, expressed in current dollars. Does not take into account the impact of inflation.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " nominal rate of return\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " real rate of return\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " expected income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " projected income\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Initial public offering (IPO) is …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " first public sale of company shares\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " re-public sale of company shares\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " return of company shares sold\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " no correct answer\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "The extra return an investor requires from a risky investment to compensate for the risks.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " risk premium\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " rate of return\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " return rate\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " no correct answer\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Short-term investments:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " with a maturity of one year or less\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " with a maturity of two years but not more than three years\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " with a maturity of more than one year\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " with a maturity of more than five years\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Increased uncertainty that arises when a firm borrows money\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " financial risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " business risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " purchasing power risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " interest rate risk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Underwriting is ....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " promotion of shares and assistance in the sale of company shares\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " registration statement describing the issue and issuer\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " period of time after filing of prospectus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " series of presentations for potential investors\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Factual data about the past behavior of an economy, market, industry or investment data is .....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " descriptive information\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " analytical information\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " primary information\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " no correct answer\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "When a company increases the number of shares outstanding by exchanging a certain number of new shares for each share outstanding it ....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " stock split\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " stock liquidity\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " allotment of shares\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " no correct answer\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "The arbitrary amount assigned to a share when it is first issued is .....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " face value\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " book value\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " market price\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " investment cost\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Stocks that offer the potential for significant price appreciation but lack sustained success.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " speculative shares\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " growth stocks\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " cyclical stocks\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " profitable shares\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "The amount that investors think a stock should sell for, or how much they think it’ s worth.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " investment cost\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " book value\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " market price\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nominal cost\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "The chance that changes in interest rates will negatively affect the value of a security.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " interest rate risk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " liquidity risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tax risk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " business risk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Which of the following measures the increase in purchasing power that investment provides.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " real rate of return\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nominal rate of return\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " expected income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " projected income\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. investment professionals who make their living managing other people’ s money.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " institutional investors\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " individual investors\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " brokers\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dealers\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Income from special investments (real estate rents, royalties, limited partnerships) is\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " passive income\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " portfolio income\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dividend\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " active income\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "A public offer is ....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " securities offered for sale to public investors\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " shares are offered to existing shareholders on a pro rata basis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " securities are sold directly to selected groups of private investors\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " all answers are correct\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Private placement is ....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " securities are sold directly to selected groups of private investors\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " shares are offered to existing shareholders on a pro rata basis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " securities offered for sale to public investors\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " all answers are correct\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Available current data combined with forecasts and recommendations for potential investments is ....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " analytical information\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " descriptive information\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " primary information\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " no correct answer\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

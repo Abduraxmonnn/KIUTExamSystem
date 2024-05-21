@@ -1,2 +1,2 @@
-from apps.main.questions.services.get_questions_case1 import get_question_case_1
+from apps.main.questions.services.get_questions_case1 import get_question_case_1_3
 from apps.main.questions.services.get_questions_case2 import get_question_case_2

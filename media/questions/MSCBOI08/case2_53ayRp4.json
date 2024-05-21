@@ -1,0 +1,5752 @@
+[
+    {
+        "id": 111,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gomogenizator nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqat sanoatida dispers emulsiyalar ishlab chiqariladigan yuqori bosimli nasos\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oziq-ovqat sanoatida dispers emulsiyalar ishlab chiqariladigan past bosimli nasos\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oziq-ovqat sanoatida dispers emulsiyalar olinadigan past bosimli evaporatator\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Past bosimli issiqlik almashtirgich, undan oziq-ovqat tarkibidagi dispers emulsiyalar olinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Granulyatsiya nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Moddani mayda bo’ laklarning granulalari shaklini berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mahsulotni qadoqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moddalarni aralashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moddaning qadoqlanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Geterogen sistemalarni uzatish uchun qaysi qurilmadan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Filtrlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Gidrosiklonlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Izlovchilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Vakuumli bug’ lanish qurilmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biofiltr nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Biologik oqava suvlarni tozalash inshooti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Biologik filtr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qattiq tozalash zavodi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " jismlarning harakat qonuni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Inert substrat deb nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Biofiltrlarga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Reaktorlarga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bir jinsli reaktorlarga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Nasos\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mexanik aeratorlar uchun aylanish o’ qi qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Vertikal va gorizontal\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Parallel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Gorizontal\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vertikal\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Oqava suvlarni tozalashda qanday biologik jarayonlardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aerob va anaerob\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aerobik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Anaerob\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aerob, anaerob va biologik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bioreaktorlarni sterilizatsiya qilish usullariga quyidagilar kiradi:..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ionlashtiruvchi nurlanish, kimyoviy reagentlarning ta’ siri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ultratovush, ultrabinafsha nurlanishiga ta’ sir qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ionlashtiruvchi reagentlarning ta’ siri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ionlashgan nurlanish, kimyoviy ultrabinafsha nurlanish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pasterizatsiya qanday haroratda sodir bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "80-90\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "100-120\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 100 dan ortiq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "150-160\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "gidrodinamika nimani o’ rgatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Suyuqlik va gazlarning harakat qonuni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Suyuqlik harakati qonuni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Harakat qonuni xatosi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " jismlarning harakat qonuni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "To’ xtatib turish - nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " suyuq va qattiq zarrachalardan tashkil topgan turli jins tizimlari.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "suyuqlik zarrachalardan tashkil topgan turli jins tizimlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Gaz tizimlaridan tashkil topgan turli qavatlarning tizimlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dispers fazalardan tashkil topgan aralashmalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biokimyoviy reaktorlar necha turga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Davriy operatsiya, uzluksiz, yarim doimiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uzluksiz reaktorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yarim doimiy ishlaydigan reaktorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Partiyali reak\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Akustik ko’ piklash usuli qaysi usul?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " jismoniy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "fizik-kimyoviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kimyoviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Oddiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Laboratoriya fermentatsiya uskunalari jarayonning asosiy parametrlariga ega bo’ lishi kerak; Ular:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’ lchov birligi, sozlash, boshqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sozlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "nazorat,\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " blok hajmi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biotexnologiyaning keng imkoniyatlarini namoyish qiluvchi moddalar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Biologik mahsulotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bioqurilmalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Biomassa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Biosintez\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biokimyoviy reaktorlarda issiqlik almashinuvi qanday sodir bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Uzluksiz, ko’ p bosqichli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ko’ p bosqichli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ustun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Doimiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "1 m3 havoda bakteriya va sporalarning o‘rtacha soni qancha?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1000 -1500\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "150-200\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "50 – 100\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "500\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi jarayon ekstraksiya deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Suyuq-suyuqlik tizimlarida maxsus suyuqlik (erituvchi) yordamida eritma yoki qattiq moddalardan bir yoki bir nechta komponentlarni ajratib olish jarayoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qattiq-suyuq tizimlarda maxsus suyuqlik (erituvchi) yordamida eritma yoki qattiq moddalardan bir yoki bir nechta komponentlarni ajratib olish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Gaz-suyuqlik tizimlarida maxsus suyuqlik (erituvchi) yordamida eritma yoki qattiq moddadan bir yoki bir nechta komponentlarni ajratib olish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "maxsus suyuqlik (erituvchi) yordamida ekstraksiya jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Anaerob jarayonlarda qanday kimyoviy modda hosil bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Metan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Etan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Propan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Butan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ pikli reaktor energiyani qaysi faza orqali oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gaz fazasi orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Suyuq faza orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Birlashtirilgan faza orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "aralash faza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mexanik usulda ko’ piklash necha turga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aylanadigan va siklon\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aylanmaydigan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tsiklonik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aylanma\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko‘pikning jismoniy holatiga ko‘ra nechta va qanday turi mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikki xil, dinamikli va tizimli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bir xilda, tizimli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bir hil, dinamik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uch xil: dinamik, tizimli va aralash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Havo ko’ taruvchi reaktor qaysi faza orqali energiya oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gaz fazasi orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Suyuq faza orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Birlashtirilgan faza orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "aralash faza orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mexanik ko’ piklash necha turga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aylanadigan va siklon\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aylanmaydigan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tsiklonik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aylanma\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko‘pikni jismoniy holatiga ko‘ra nechta turlari mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikki xil, dinamik va tizimli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bir xil, tizimli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bir hil, dinamik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uch xil: dinamik, tizimli va aralash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Havoni ko’ taruvchi reaktor qaysi faza orqali energiya oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gaz fazasi orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Suyuq faza orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Birlashtirilgan faza orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "aralash faza orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gazlift nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Suyuqlik yoki havo energiyasidan foydalangan holda ko’ tarish moslamasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Suyuqliklarning energiyasi hisobiga ko’ taruvchi qurilma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Havo energiyasidan foydalangan holda ko’ tarish moslamasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gaz qurilmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Konstruktiv almashinuv nimaga muhtoj?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " energiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " quvvat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "zichlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yopishqoqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bioreaktorlarda sodir bo’ ladigan fizik jarayonlarni sanab o’ ting.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gidromexanik, issiqlik va massa almashinish jarayonlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Issiqlik va massa almashinish jarayonlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gidromexanik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Massa almashinuvi va gidromexanik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reaktorlar qanday turlarga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bir hil reaktorlar va reaktorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Reaktorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ideal va haqiqiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bir hil rektorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Emulsiya - nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bitta erimaydigan, boshqasida dispers va dispers fazalardan tashkil topgan aralashmalar tizimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bir fazada eriydigan, dispers va dispers fazalardan tashkil topgan aralashmalar tizimi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dispers fazalardan tashkil topgan aralashmalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Dispers tizimlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Membran - nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bu suyuqlik yoki gaz aralashmasidan bir yoki bir nechta komponentlarni bir tomonlama o’ tkazishga qodir bo’ lgan yarim o’ tkazuvchan to’ siq.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "yarim o’ tkazuvchan to’ siq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " to’ siq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bir nechta komponentlarning bir tomonlama o’ tkazuvchanligi bilan yarimo’ tkazgichli to’ siq.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reagentning kelish vaqti uzluksiz reaktorlarda reaksiya vaqtiga to’ g’ ri keladimi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yo’ q, mos kelmaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ha, bu to’ g’ ri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ba’ zan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " har doim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gaz fazasi orqali energiya beruvchi reaktorlarga turga mansub fermentatorlar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "aerolift, bubbler, gazlift\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bubbler\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Gazli lift\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Havo tashish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimyoviy tozalashning usullari qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaytarilish, oksidlanish, neytrallash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qaytish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oksidlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Neytrallanish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Termik tozalashda qanday usullardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Issiqlik bilan bog’ liq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oksidlanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Toʻlovni qaytarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " past haroratda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siklon funksiyasi qanday...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Santrifuga kuchi maydonida changni tozalash imkonini beradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Daladagi changni tozalash imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "dalada bug’ ni tozalash imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bug’ bilan tozalash imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " savol: Yuqori chastotali haroratda tozalash usuli qanday nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " termalli tozalash turi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oddiy Tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kimyoviy tozalash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tez-tez tozalab turish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ rganilayotgan ob’ ektdan olingan barcha ma’ lumotlar qanday bosqichlardan o’ tadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matn ko‘rinishidagi tadqiqotchi gipotezasi, mikrobiologik sintezning biotexnologik tizimining mantiqiy-matematik modeli, jarayonning tizimli diagrammasi (struktura-funktsional portret tizimi), biotexnologik jarayonlarni boshqarishda modellardan foydalanish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mikrobiologik sintezning biotexnologik tizimining mantiqiy-matematik modeli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Jarayonning tizimli diagrammasi (struktura-funksional portret tizimi), biotexnologik jarayonlarni boshqarishda modellardan foydalanish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tadqiqotchining gipotezasi matn shaklida.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muhrlash nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Suyuqlik va gazning suyuqlik va gaz apparatlari, mashinalar, inshootlar yoki rezervuarlarning devorlari va bo’ g’ inlari orqali sizib chiqmasligini ta’ minlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Suyuqlik apparatlar, mashinalar, inshootlar yoki idishlarning devorlari va bo’ g’ inlari orqali suyuqlik o’ tmasligini ta’ minlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Gazning gaz apparatlari, mashinalari, inshootlari yoki rezervuarlarining devorlari va bo’ g’ inlari orqali sizib chiqmasligini ta’ minlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Idish devorlari va bo’ g’ inlari orqali gaz sizib chiqishining oldini oling\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi tozalash usuli oqava suvlarni aerob va anaerob usulda tozalashni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Biokimyoviy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Fizik-kimyoviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Issiqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mexanik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ajratish usullariga ko’ ra sentrifugalar necha turga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Filtr, xamirturush\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Izlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Lavabo\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Filtr\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Achitqi tarkibidagi uglevodlar qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "29%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "10%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "26%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "15%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sterilizatsiya qanday haroratda amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 140 haroratda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 80 haroratda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 120 haroratda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "70 haroratda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko‘pikning jismoniy holatiga ko‘ra nechta turi mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikki xil, dinamik va tizimli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bir hil, tizimli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bir hil, dinamik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uch xil: dinamik, tizimli va aralash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentatorlarda aralashtirishdan maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muhit hajmidagi moddalar konsentratsiyasi tenglamasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "termostatik muhitga issiqlik o’ tkazuvchanligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "gaz pufakchalari va suyuqlik tomchilarining tarqalishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "gaz-suyuqlik va suyuq elementlarning massa almashinuvini kuchaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday asbob-uskunalar reaktorlarning konstruktiv elementlariga birlashtirilgan usulda energiya uzatish uchun kiritilgan 3\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tarqatish, gomogenlash, aralashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Gomogenizatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aralash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tarqalish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Har bir fermentator kyuvetasi uchun havo yuki qanday ishlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " suv ostidagi havo yuklariga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "chekish havosiga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sovutilgan havo yukiga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’ rnatilgan havo yukiga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gaz dispersli mexanik fermentatorlar necha guruhga bo’ linadi va ular qanday turlarga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2: bepul va toraytirilgan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2: yupqa va aylanma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2: erkin va aylanma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "3: ingichka toraygan va bo’ sh\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aerlift fermentatorlarida gaz taqsimlovchi tuzilmalar orqali suyuqlik qatlamiga gaz kiritilganda fazalarning aloqa yuzasi nimada hosil bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " muomalada\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Taqsimotda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Santrifugada\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " G’ azoda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Interfasial rivojlanishga sarflangan qo’ shimcha energiya ko’ pikka qanday ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " gidrodinamik va mexanik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "fizik-mexanik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kimyoviy va gidrodinamik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " birlashtirilgan va flotatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ko’ pik nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " suyuqlik va unda tarqalgan gaz pufakchalaridan iborat tizimlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "suyuq zarrachalardan tashkil topgan turli jins tizimlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "gaz tizimlaridan tashkil topgan turli jinsdagi tizimlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dispers fazalardan tashkil topgan aralashmalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ pikni o’ chirishning nechta fizik usullari mavjud va ular qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gidroaerodinamik, mexanik, akustik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gidroaerodinamik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Akustik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mexanik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ pik hosil qilishning mexanik usuli bilan...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pufakchalar qisman yoki to’ liq mexanik kuch bilan yo’ q qilinadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "pufakchalar elektr toki yordamida qisman yoki to’ liq olib tashlanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "pufakchalar qisman yoki to’ liq gaz bilan chiqariladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "pufakchalarni qisman yoki to’ liq qo’ lda olib tashlash mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ pik hosil qilishning elektr usuli bilan...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pufakchalar elektr energiyasi yordamida qisman yoki to’ liq yo’ q qilinadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "pufakchalar mexanik kuch ta’ sirida qisman yoki to’ liq yo’ q qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "pufakchalar qisman yoki to’ liq gaz bilan chiqariladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "pufakchalarni qisman yoki to’ liq qo’ lda olib tashlash mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ozuqa oqsili ishlab chiqarishda xamirturush hujayralarini quyuqlashtirish uchun qaysi usuldan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " flotatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bug’ lanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Issiqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Isitish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Eritmalarning issiqlik konsentratsiyasi uchun asboblar qanday guruhlarga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 3 guruhga (bug’ lanish, muzlash va kristallgidrat)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4 guruh (bug’ lanish, muzlash, kristall gidrat, kontsentratsiya)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "5 guruh (bug’ lanish, isitish, muzlatish, kristall gidrat, kontsentratsiya)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "2 guruh (evaporatator va muzlatgich)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bug’ lanish apparati nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Suyuqliklarni bug’ lanish jarayonini amalga oshiradigan qurilma\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Gazni bug’ lantirish jarayonini amalga oshiruvchi qurilma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qattiq tozalash zavodi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Issiqlik almashtirgich\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kondonlarni ajratish uchun nima ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " topuvchilar, gidrotsiklonlar, filtrlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Gidrosiklonlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Filtrlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Izlovchilar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kurutgichlar qanday turlarga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kontakt, konvektiv, radiatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Konvektiv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Radiatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aloqa\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qattiq nam materialga termik ta’ sir qilish usuliga qarab quritish necha turga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Konvektiv, kontakt, nurlanish, dielektrik, sublimatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Konvektiv-kontakt\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Radiatsion dielektrik sublimatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Dielektrik sublimatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Konvektiv quritish deb nimaga aytiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bu holda nam material va qurituvchi toʻr bevosita oʻzaro taʼsir qiladi. Odatda, quritish foniy sifatida isitiladigan havo yoki tutun gazlari ishlatiladi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sovutgich va nam material o’ rtasida bo’ linish bo’ ladi. Bu devor orqali materialga issiqlik o’ tkaziladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Issiqlik infraqizil nurlar orqali nam materialga o’ tkazilmaydi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Issiqlik nam materialga infraqizil nurlar orqali uzatiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kontaktli quritish nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sovutish suyuqligi va nam material o’ rtasida bo’ linish bo’ ladi. Bu devor orqali materialga issiqlik o’ tkaziladi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Unda ho’ l material va qurituvchi to’ r to’ g’ ridan-to’ g’ ri o’ zaro ta’ sir qiladi. Odatda, quritish foniy sifatida isitiladigan havo yoki tutun gazlari ishlatiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ho’ l material yuqori chastotali oqim maydoniga o’ tkaziladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Issiqlik nam materialga infraqizil nurlar orqali uzatiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Radiatsion quritish deb nimaga aytiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Issiqlik infraqizil nurlar orqali nam materialga o’ tkaziladi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sovutgich va nam material o’ rtasida bo’ linish bo’ ladi. Bu devor orqali materialga issiqlik o’ tkaziladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Unda ho’ l material va qurituvchi to’ r to’ g’ ridan-to’ g’ ri o’ zaro ta’ sir qiladi. Odatda, quritish foniy sifatida isitiladigan havo yoki tutun gazlari ishlatiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ho’ l material yuqori chastotali oqim maydoniga o’ tkaziladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dielektrik quritish deb nimaga aytiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nam material yuqori chastotali oqim maydoniga o’ tkaziladi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sovutgich va nam material o’ rtasida bo’ linish bo’ ladi. Bu devor orqali materialga issiqlik o’ tkaziladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Issiqlik nam materialga infraqizil nurlar orqali uzatiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Unda ho’ l material va qurituvchi to’ r to’ g’ ridan-to’ g’ ri o’ zaro ta’ sir qiladi. Odatda, quritish foniy sifatida isitiladigan havo yoki tutun gazlari ishlatiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muzlatib quritish nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Nam material muzlatilgan holda yuqori vakuum ostida quritiladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sovutgich va nam material o’ rtasida bo’ linish bo’ ladi. Bu devor orqali materialga issiqlik o’ tkaziladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Issiqlik nam materialga infraqizil nurlar orqali uzatiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ho’ l material yuqori chastotali oqim maydoniga o’ tkaziladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yorug’ lik diffuzerlarining harorati necha °C?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "700-2200\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "500-1000\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2200-3000\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "100-500\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Santrifugalash nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bu markazdan qochma kuch maydonida suyuq heterojen tizimlarni ajratish jarayoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bu markazdan qochma kuch maydonida suyuq bir jinsli tizimlarni ajratish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bu markazga intiluvchi kuchlar sohasida suyuq bir jinsli sistemalarni ajratish jarayonidir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bu markazga yoʻnaltirilgan kuch maydonida qatʼiy bir hil boʻlgan tizimlarni ajratish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mexanik tozalash uchun qanday usullardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sentrifugalash, cho‘ktirish, filtrlash, suzuvchi, damlamasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Santrifugalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sedimentatsiya va filtrlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Suzish va qidirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimyoviy tozalashda qanday usullardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaytarilish, oksidlanish, neytrallash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Toʻlovni qaytarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oksidlanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Neytrallash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siklon funksiyasi...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Santrifüj kuchi maydonida changni tozalash imkonini beradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Daladagi changni tozalash imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "dalada bug’ ni tozalash imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bug’ bilan tozalash imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuqori chastotali haroratda tozalash usuli qanday nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " termal tozalash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kimyoviy tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tez-tez tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mikrobiologiya sanoatida neytral va kimyoviy suyuqliklarni yetkazib berish uchun qanday asbob-uskunalar ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " nasoslar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "konveyerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " liftlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "monteju\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ lchamlari qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Obyekt tuzilmalari va qurilmalarining tashqi chegaraviy ko‘rinishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Obyekt tuzilmalari va qurilmalarining ichki chegara tasviri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bosimlari atmosfera bosimidan ancha past bo’ lgan idish ichida joylashgan gazlarning holati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qattiq tozalash zavodi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deaerator nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Suvdan erigan kislorod va karbonat angidridni olib tashlaydigan qurilma\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mahsulotning suvsizlanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Aralashtirish moddalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Maddaga mayda granulalar shaklini berish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Van nasoslari...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "santrifugal, eksenel, diagonal nasoslar, ularning ishlash printsipi pichoqlar bilan pervanel aylanganda yuzaga keladigan markazdan qochma kuch ta’ sirida suyuqlikning harakatiga asoslangan.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "santrifugal, eksenel, diagonal nasoslar, ularning ishlash printsipi qanotli pervanel aylanganda yuzaga keladigan markazdan qochma kuch ta’ sirida suyuqlikning harakatiga asoslangan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "suyuqlikning harakatiga asoslangan markazdan qochma.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " markazdan qochma, gaz harakatiga asoslangan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reaktsiya apparatidan hosil bo’ lgan ko’ pikni olib tashlash uchun bioreaktorlarda nechta usul qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Fizikaviy, fizik-kimyoviy, texnologik, kombinatsiyalangan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Fizik, fizik-kimyoviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "texnologik, birlashtirilgan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kimyoviy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday turdagi nasoslar fan nasoslari qatoriga kirmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " lavabo\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " girdob\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " markazdan qochma kuch\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’ g’ ridan-to’ g’ ri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi turdagi nasoslarga pistonli, tishli va diafragmali nasoslar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hajmli nasosga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Plunger nasosi uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Havo nasosiga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qanotli nasos\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi turdagi nasoslar suzuvchi nasoslarga misol emas\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " cho’ ktirish tanki\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " girdob\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " markazdan qochma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " viteslar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko‘taruvchi mashinalar qanday turlarga bo‘linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tasma, qirg’ ich, vintli konveyer\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Lenta, piston, qirg’ ich\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Volumetrik, tishli, kamar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Belkurak, vintli konveyer, diafragma\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi turdagi nasoslar ijobiy siljishli nasoslarga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Piston, vites va diafragma\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Piston\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Viteslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Diafragma\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sheben filtrlarining ishlash prinsipi qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Oqova suvlar filtr orqali so‘riladi va quritgichga yig‘iladi va keyin olib tashlanadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oqava suv bir tomondan filtrdan o’ tadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oqava suv quritgichda yig’ iladi va keyin filtrlanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Oqova suv filtrdan ikki tomondan o’ tadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biokimyoviy reaktorlar nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Fermentator\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Issiqlik almashtirgich\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bug’ lanish apparati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Pasterizator\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tsiklik reaktorlarda jarayon qanday sodir bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Barcha alohida bo’ limlardagi jarayonlar turli vaqtlarda sodir bo’ ladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Barcha alohida bo’ limlardagi jarayonlar bir vaqtning o’ zida sodir bo’ ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oddiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " murakkab\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gaz fazasi orqali energiyani uzatuvchi fermentlarning nechta turi mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ustun turi, quvur turi, volumetrik turi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " quvurli turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hajmli turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ustun turi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Suyuq faza orqali energiya uzatuvchi fermentlarning nechta turi mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ustun turi, quvur turi, volumetrik turi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " quvurli turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hajmli turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ustun turi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qancha turdagi fermentlar kombinatsiya fazasi orqali energiya beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Volumetrik, aralashtirish moslamali hajmli turi, Ustun turi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aralash moslamasi bilan tovush turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ustun turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Hajm turi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Membranli bioreaktorlardan foydalanish:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish sanoatida oqava suvlarni tozalash, yog‘-moy va sut sanoatida oqava suvlarni tozalash, to‘qimachilik sanoatida oqava suvlarni tozalash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Moy-moy va sut sanoatida suvni tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "To’ qimachilik sanoati oqava suvlarini tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish sanoatida oqava suvlarni tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Konstruksiyasi boʻyicha biokimyoviy reaktorlar quyidagilarga boʻlinadi:..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Reaktorlar: konteyner turi, ustun turi, quvur turi, plyonka turi, membranali va havo bilan siqilgan qatlamli reaktorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "quvurli turdagi, plyonkali turdagi reaktorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Membranali va havo bilan siqilgan qatlamli reaktorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "konteyner turi, ustun tipidagi reaktorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mexanikli ko’ pikli uskunaning nechta turi mavjud? Ularga nom bering.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2, Rotor va Siklon bilan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3, aylanuvchi, siklonik va samarali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3, aylanuvchi, siklonik va aralash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1 aylanuvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ piklanishning fizik usuli bir necha usullarga bo’ linadi? Ular...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " akustik ko’ piklash usuli, termal ko’ piklash usuli, elektr ko’ piklash usuli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Termik ko’ piklash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Elektr ko’ piklash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Akustik ko’ piklash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qabul qilishda mikrobiologik biosintez jarayoni nima sodir bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mikroorganizmlar va ularning tarkibiy qismlaridan foydalangan holda mikrobial biomassa (xamirturush, mikroalg, oqsil, vitamin konsentrati, murakkab tuzilishga ega biokimyoviy mahsulot (antibiotiklar, vitaminlar, organik kislotalar, fermentlar, spirtlar va boshqalar);\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Murakkab tuzilishga ega biokimyoviy mahsulot (antibiotiklar, vitaminlar, organik kislotalar, fermentlar, spirtlar va boshqalar)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mikroorganizmlar va ularning tarkibiy qismlaridan foydalangan holda kimyoviy mahsulotlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mikrobial biomassa (xamirturush, mikroalg, oksil, vitamin konsentrati (VVC) va boshqalar)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Markazdan qochma kuch maydonida changni tozalashga nima imkon beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tsiklon\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Chang ushlagich\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Maydon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Quritgich\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Savol:Bioreaktorlarda aralashtirish jarayoni qanchalik xilma-xil?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mexanikli va pnevmatikli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mexanik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "pnevmatik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "fizik-kimyo\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentatorlarda aralashtirish jarayoni massa yutilishining kuchayishiga asos bo’ lib, kislorodning gaz fazadan suyuqlikka o’ tishining sabablari nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " gazning mayda pufakchalarga qo’ shimcha tarqalishini ta’ minlaydi, fazali kontaktlarning yuqori qismini kengaytiradi; gaz pufakchalarining suyuqlik fazasiga yetib borishi uchun zarur bo’ lgan vaqtni va fazalarning aloqa vaqtini ta’ minlaydi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " gaz pufakchalarining suyuqlik fazasiga yetib borishi uchun zarur bo’ lgan vaqtni va fazalarning aloqa qilish vaqtini ta’ minlaydi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "hujayra ustunining hajmini kamaytiradi va muhitning samarali yopishqoqligini pasaytiradi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " gazning kichik pufakchalarga qo’ shimcha tarqalishini ta’ minlaydi, fazali kontaktlarning yuqori qismini kengaytiradi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mexanik ko’ piklashni qanday, necha turga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aylanadigan va siklon\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aylanadigan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tsiklonik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aylanma\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ular fermentatorlarda sodir bo’ ladigan jarayonga qarab necha guruhga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aerob, anaerob, partiyali va uzluksiz, aseptik va steril bo’ lmagan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " davriy va doimiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "aseptik va steril bo’ lmagan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aerob, anaerob\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gidrodinamik rejimda ishlaydigan reaktorlar uch guruhga bo’ linadi? Ularni sanab bering.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ideal siqilish, ideal aralashtirish va oraliq gidrodinamik rejimlarda ishlaydigan reaktorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mukammal aralashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oraliq gidrodinamik rejimda ishlaydigan reaktorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mukammal siqish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ultrafiltratsiya - bu nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Molekulalar - diametri erituvchi molekulalarining diametridan 10 baravar ko’ p bo’ lgan erigan moddalar va kolloid zarrachalarni ajratish jarayoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Molekulyar diametri erituvchi molekulalarining diametridan 10 baravar ko’ p bo’ lgan zarrachalarni ajratish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Molekulyar diametri erituvchi molekulalarining diametridan 10 baravar ko’ p bo’ lgan kolloid zarrachalarni ajratish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Molekulyar diametri erituvchi molekulalarining diametridan 10 baravar katta bo’ lgan eritmalarni ajratish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Optimal sharoitlarni ta’ minlash uchun kultivatsiya qilishda nimalarga e’ tibor berish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Harorat, pH, bosim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " muhitning pH\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bosim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Harorat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aralashtirish jarayoni:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bu tizim tarkibiy qismlarining yaqin mexanik aloqasi tufayli bir jinsli shaklga olib kelish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mexanik xarakterdagi harakatlantiruvchi kuchlar ta’ sirida bir jinsli tizimdan heterojen turga o’ tkazish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bu sistemada termal konveksiya tufayli bir jinsli sistema bir jinsli shaklga;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bu tizimga termal ta’ sir ostida heterojen tizimni geterogen holatga o’ tkazish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aralashtirish samaradorligi baholanadi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aralashmaning bir xilligi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aralashmaning bir hilligi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aralashmaning yopishqoqligi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Eyler mezoni;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ajratish - bu jarayon:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " gravitatsiyaviy joylashish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " markazdan qochma cho‘ktirish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " zarrachalarning membranalarga cho’ kishi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " osmotik yog’ in;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Filtrlash - bu jarayon:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " gravitatsiyaviy joylashish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " markazdan qochma cho’ kma;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " zarrachalarning membranalarda cho’ kishi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " osmotik yog’ in;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Membran texnologiyasi jarayonlarining harakatlantiruvchi kuchi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " filtr bo’ ylab bosim farqi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ajratilgan zarrachalar va filtr teshiklari o’ lchamlarining geometrik o’ xshashligi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " filtr qarshilik koeffitsienti;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tizim komponentlarining zichligidagi farq;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ekstraktsiya jarayoni:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir yoki bir nechta eriydigan komponentlarni suyuqlik eritmalar yoki qattiq moddalardan erituvchi yoki qattiq jism yordamida selektiv ajratib olish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bir yoki bir nechta erimaydigan komponentlarni suyuqlik eritmalar yoki qattiq moddalardan erituvchi yoki qattiq jism yordamida selektiv ajratib olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bir yoki bir nechta eriydiganlarni komponentlarni faqat qattiq jismlardan erituvchi yordamida ajratib olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bir yoki bir nechta eriydiganlarni komponentlarni faqat eritmalar yordamida ajratib olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kristallanish deb-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qattiq moddani eritmadan ajratib olish jarayoni;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " eritma yoki eritmadan gazning ajralib chiqish jarayoni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " suyuqlikni eritmadan ajratish jarayoni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moddalar aralashmasidan qattiq jismni ajratib olish jarayoni.;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Preslash -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " materiallarni uni kerakli shaklga taqsimlash yordamida ularni qayta ishlash jarayoni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " materialning zichligini oshirish, shaklini oʻzgartirish, fazalarini qayta taqsimlash, uning mexanik yoki boshqa xossalarini maydalash maqsadida ishlab chiqariladigan bosim yordamida materiallarni qayta ishlash jarayoni;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " materialni kerakli hajmgacha maydalash uchun maydalash yordamida materiallarni qayta ishlash jarayoni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ma’ lum bir dozalash shaklini berish uchun bir necha turdagi materiallarni aralashtirish yordamida materiallarni qayta ishlash jarayoni.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Psevdosuyuq qatlamda granulyatsiya jarayonining mohiyati\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " granulalarni changlashtirishi bo’ lmaganda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kukunsifat ingrediyentlarni psevdosuyuq qatlamda aralashtirishda, soʻngra ularni doimiy aralashtirish bilan granulyatsiya qiluvchi suyuqlik bilan namlashda;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " draje qiladigan tovadan foydalanishda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yopishtiruvchi vositalardan foydalanmaslikda;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Emulsiya tayyorlash jarayonining printsipi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " suyuqlikni emulgator bilan aralashtirishda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qattiq zarrachalarning suyuqlikdagi ko’ p yoki kamroq barqaror tizim shaklida barqaror taqsimlanishida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bir suyuqlikning boshqa suyuqlikda ko’ p yoki kamroq barqaror zarrachalar shaklida barqaror taqsimlanishida;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " suyuqliklarni mexanik tarzda aralashtirishda.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ochiq siklda materialni silliqlashda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " material tegirmondan bir marta o’ tadi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " jarayon analizatorsiz sodir bo’ ladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " jarayon tegirmon ishtirokisiz sodir bo’ ladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " materialning asosiy qismi tegirmondan ko’ p marta o’ tadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sentrifugalashning burchak tezligi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sentrifuganing og’ish burchagini tavsiflaydi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " butun aylanadigan jismni tavsiflaydi, agar barcha burilish nuqtalarning burchagi bir xil bo’ lsa;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " jismning aylanish burchagini tavsiflaydi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " berilgan aylanada joylashgan har qanday nuqtaning harakat tezligini tavsiflaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sentrifugalashning aylana tezligi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir tekis aylanuvchi jismning markaziy burilish burchagining amalga oshirilgan vaqtga nisbatini tavsiflaydi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " berilgan aylanada joylashgan har qanday nuqtaning harakat tezligini tavsiflaydi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " burilish amalga oshirilgan har qanday nuqtaning harakat tezligini tavsiflaydi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aylanuvchi jismning tezligi aylanish radiusi va bir daqiqada aylanishlar soniga bog’ liqligini tavsiflaydi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqat ishlab chiqarishda o’ simlik preparatlarini suyuqlikni qattiq materiallardan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " emulsiyalash yordamida ajratish mumkin;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " materialni presslash yordamida ajratish mumkin;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ekstraksiya yordamida ajratish mumkin;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " elakdan oʻtkazish yordamida ajratish mumkin.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qattiq jismni maydalash va elakdan o’tkazish - bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " har xil oʻlchamdagi zarrachalar aralashmasini elaklar yordamida ikki yoki undan ortiq guruhga ajratish jarayoni;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " elak teshiklari belgilangan qoidalarga muvofiqligini tekshirish jarayoni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bir xil o’ lchamdagi zarralarni elaklar orqali aralashtirish jarayoni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " zarrachalarni elaklar bilan maydalash jarayoni.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sentrifugalash jarayonida,\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aralashmaning tarkibiy qismlari bir biridan cho’ ktirish orqali ajratiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tortishish kuchi ta’ sirida aralashmaning tarkibiy qismlari bir biridan ajratiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " filtrlash ta’ sirida aralashmaning tarkibiy qismlari bir biridan ajratiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " markazdan qochma kuch ta’ sirida aralashmaning tarkibiy qismlari bir biridan ajratiladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Diffuziya orqali bir yoki bir necha komponentlarning bir fazadan ikkinchisiga o‘tish fazalararo o’tishi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " gidromexanik jarayonlarni tavsiflaydi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mexanik jarayonlarni tavsiflaydi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " massa-hajmli jarayonlarni tavsiflaydi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " issiqlik jarayonlarni tavsiflaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Fermentlar, antibiotiklar, immunobiologik preparatlar ishlab chiqarishda vakuum ostida muzlatilgan namunalardan namlikni tortib olishda quyidagilar qo’ llaniladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " liofil quritish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " purkagich quritish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kamerali quritgich;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " baraban kristallizatori;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Texnologik uskunalarning spetsifikatsiyasi va biotexnologik mahsulotlarni ishlab chiqarishning apparat sxemasi quydagi normative dokumentga kiritilishi kerak:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " biotexnologiya korxonasining sifat qo‘llanmasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sifat nazorati uchun normativ hujjatlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " biomahsulot ishlab chiqarish uchun litsenziya;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " biomahsulot ishlab chiqarishning texnologik reglamenti;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Romli filtr pressi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir nechta oʻzgaruvchan plastinalar va filtrli toʻsiqli romlardan tashkil topgan uskuna;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bir korpusda yigʻilgan bir nechta kartrij filtrlaridan iborat uskuna;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " filtri boʻlinmalaridan, ustiga choʻkma bosim ostida bosib quritiladigan uskuna;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " presslash yordamida filtr materiallardan tashkil topgan uskuna.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqaruvchini tanlashning asosiy mezoni\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " biomassaning tez to’ planishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "arzonlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " maqsadli mahsulotni sintez qilish qobiliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " begona mikrofloraga qarshilik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sharob va etil spirtini ishlab chiqarishda istalmagan fermentatsiyani bostirish uchun foydalaning\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " karbonat angidrid\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ammiak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "oltingugurt dioksidi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "metan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Alkogolli fermentatsiya paytida xamirturushni fermentatsiyadan nafas olishga o’ tkazish uchun foydalaning\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " karbonat angidrid\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ammiak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "oltingugurt dioksidi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " havo\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pivoni shishaga quyayotganda nozik ko’ pik olish uchun foydalaning\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " karbonat angidrid\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ammiak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "karbonat angidrid va azot aralashmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " havo\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,5878 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое риск в контексте инвестиций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Возможность потери капитала\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Возможность потери времени\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Возможность потери дохода\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Возможность потери работы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой инструмент используется для измерения риска портфеля?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Стандартное отклонение\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Средняя доходность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Медиана доходности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Среднеквадратическое отклонение\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое диверсификация?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Распределение инвестиций среди различных активов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Инвестирование всего капитала в один актив\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Концентрация инвестиций в одной отрасли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Выбор исключительно высокорискованных активов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется инвестиция в акции, облигации и другие финансовые инструменты с целью получения дохода и увеличения капитала?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Портфельное инвестирование\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Спекуляция\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Арбитраж\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Депозит\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой тип риска не может быть устранен через диверсификацию?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Рыночный риск\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Уникальный риск\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Специфический риск\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Диверсифицируемый риск\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что изучает финансовая эконометрика?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Применение математических методов для анализа финансовых данных\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Поведение инвесторов на рынке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Правила работы финансовых рынков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Экономические циклы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой индикатор наиболее важен при оценке облигаций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Кредитный рейтинг\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Дивидендный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Количество акций в обращении\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " История цен на товары\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое коэффициент Шарпа?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Мера доходности инвестиции относительно её риска\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Способ оценки кредитного рейтинга компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Расчет средней доходности портфеля\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Метод оценки дивидендных выплат\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает понятие \"ликвидность\" в контексте инвестиций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Способность актива быть быстро проданным без значительной потери стоимости\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Возможность актива приносить доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Устойчивость актива к рыночным колебаниям\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Долгосрочный потенциал роста стоимости актива\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое облигация?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Долговой инструмент, обеспечивающий владельцу право на получение фиксированных процентных выплат\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Доля в капитале компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Договор на покупку акций в будущем\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Вид финансового дериватива\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какова цель использования хеджирования в управлении инвестиционными рисками?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Защита от потенциальных убытков\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Гарантирование высоких доходов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Спекуляция на изменениях рынка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Увеличение рыночной доли\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой метод оценки активов учитывает текущую стоимость будущих денежных потоков?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Дисконтированный денежный поток (DCF)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Метод рыночных мультипликаторов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Стоимостной подход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Метод остаточной стоимости\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что представляет собой портфель с минимальным риском при заданном уровне доходности?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Эффективный портфель\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Диверсифицированный портфель\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сбалансированный портфель\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Агрессивный портфель\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой инструмент финансового анализа используется для сравнения доходности актива с его риском?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Коэффициент Шарпа\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Коэффициент Сортино\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Бета-коэффициент\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Альфа-коэффициент\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое бета-коэффициент?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Мера рыночного риска актива\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Отношение доходности актива к доходности рынка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Мера доходности актива относительно свободной от риска доходности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Отношение волатильности актива к волатильности рынка\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие инвестиции считаются наиболее ликвидными?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Денежные средства и денежные эквиваленты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Недвижимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Коллекционные предметы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Долгосрочные облигации\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое альтернативные инвестиции?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Инвестиции в активы, не входящие в стандартные категории (акции, облигации)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Традиционные инвестиции в акции и облигации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Инвестиции в финансовые деривативы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Сберегательные вклады в банках\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой тип анализа фокусируется на изучении финансовых отчетов и экономических трендов для оценки акций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Фундаментальный анализ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Технический анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Количественный анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Качественный анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое индексный фонд?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Инвестиционный фонд, который следует определенному рыночному индексу\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Фонд, инвестирующий в индивидуальные акции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Фонд, управляемый активно для максимизации доходов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Приватный инвестиционный фонд\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой процесс включает в себя распределение инвестиционного капитала между различными типами активов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ассет-аллокация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Тайминг рынка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сток-пикинг\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Хеджирование\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой документ необходим инвестору для понимания условий и рисков связанных с инвестиционным продуктом?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Прошпект эмиссии\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Годовой отчет\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Аудиторское заключение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Справка о доходах\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется стратегия, при которой инвестиции осуществляются регулярно независимо от состояния рынка?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Долларовая стоимостная усреднение\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Спекулятивная торговля\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Рыночный тайминг\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Сезонное инвестирование\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое волатильность?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Мера изменчивости цены актива\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Стабильность дохода от актива\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Гарантия получения прибыли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Низкий риск потерь\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой финансовый инструмент обеспечивает инвестору право, но не обязательство, купить или продать актив по фиксированной цене в определенный период?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Опцион\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Облигация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Акция\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ETF\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой метод оценки стоимости компании включает в себя сравнение её финансовых показателей с аналогичными показателями других компаний?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Метод сопоставимых компаний\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Метод чистых активов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Метод дисконтированных денежных потоков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Метод остаточной стоимости\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие факторы влияют на выбор инвестиционной стратегии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Финансовые цели, сроки инвестиций, риск-профиль инвестора\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Политическая ситуация в стране\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Время года\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Цвет инвестиционного продукта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое ’ медвежий’{} рынок?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Рынок, характеризующийся падением цен\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Рынок, характеризующийся ростом цен\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Стабильный рынок без значительных изменений цен\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Рынок с высокой волатильностью\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой инструмент финансового рынка представляет собой долгосрочное обязательство выплатить держателю облигации номинальную стоимость плюс проценты в установленные сроки?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Облигация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Акция\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Опцион\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Фьючерс\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое рыночная капитализация’?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Общая стоимость всех выпущенных акций компании\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сумма дивидендов, выплачиваемых компанией\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Общий объем продаж на рынке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Количество акций, которыми торгуют на бирже\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое портфельная теория?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Теория, объясняющая, как инвесторы могут строить портфели для максимизации доходности при заданном уровне риска\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Теория, описывающая методы выбора акций на рынке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Теория, предполагающая, что рынок всегда в состоянии равновесия\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Теория, согласно которой инвестирование в акции не приносит доход\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое диверсификация портфеля?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Распределение инвестиций между различными типами активов для снижения риска\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Инвестирование всего капитала в один актив\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Инвестирование в различные активы с целью получения максимальной прибыли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Покупка дополнительных акций одной компании\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое доходность инвестиций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Полученная прибыль от инвестиций\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сумма инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Время, необходимое для получения прибыли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Уровень риска инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фактор влияет на величину риска инвестиций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Волатильность цен\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Размер капитала\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Срок инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ценовые ожидания\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие факторы следует учитывать при оценке риска инвестиций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Волатильность, ликвидность, стабильность доходности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Цвет активов, год выпуска, история компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Географическое положение, погода, социальные тенденции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Стоимость активов в момент покупки, размер комиссий, кредитный рейтинг брокера\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое коэффициент корреляции?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Мера взаимосвязи между двумя переменными\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Степень изменчивости цены актива\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Процентная ставка по кредиту\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Отношение стоимости актива к его доходности\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое биржевой индекс?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Показатель изменения стоимости акций на бирже\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Список компаний, торгующихся на бирже\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Годовая отчетность компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Процентная ставка по кредиту\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фактор влияет на выбор инвестиционной стратегии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Финансовые цели инвестора\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Цвет инвестиционного продукта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Год выпуска инвестиционного продукта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Погода в регионе инвестирования\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое ’ средневзвешенная ставка доходности’?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ставка, которая учитывает все доходы и расходы инвестиции\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ставка, определенная в момент покупки актива\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ставка, зависящая от инфляции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ставка, предложенная брокером\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой тип риска связан с конкретной компанией или индивидуальным активом?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Специфический риск\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Системный риск\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Неструктурный риск\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Валютный риск\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое инвестиционный период?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Период времени, в течение которого инвестор планирует держать инвестиции\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Стратегия инвестирования в различные активы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Город, где расположена биржа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Максимально допустимый риск инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое «системный риск» в инвестиционной деятельности?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Риск, связанный с изменениями в экономической политике государства\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Риск, связанный с конкретной компанией или индивидуальным активом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Риск, затрагивающий всю отрасль или рынок в целом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Риск, возникающий из-за непредсказуемых природных катаклизмов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что представляет собой концепция «бесплатного рынка» в контексте управления инвестициями?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Рынок, на котором нет никаких ограничений или преград для входа и выхода из инвестиций\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Рынок, на котором все активы имеют нулевую стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Рынок, на котором все инвестиции полностью защищены от рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Рынок, на котором действует только один продавец и один покупатель\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фактор влияет на рост доходности облигаций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Снижение инфляции\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Повышение безработицы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Увеличение ставки налога на прибыль\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Уменьшение доли прибыли, выплачиваемой компанией\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает термин «портфельное инвестирование»?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Инвестирование в различные финансовые инструменты, чтобы снизить риск\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Инвестирование всего капитала в одну компанию или актив\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Покупка только акций одной компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Инвестирование только в наличные средства\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое «процентная ставка рефинансирования»?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ставка, по которой банки могут занимать деньги в центральном банке\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ставка, по которой банки могут предоставлять кредиты предприятиям и частным лицам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ставка, по которой банки могут размещать депозиты в центральном банке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ставка, по которой центральный банк выкупает облигации у банков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое «долгосрочные инвестиции»?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Инвестиции сроком более 5 лет\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Инвестиции в акции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Инвестиции в государственные облигации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Инвестиции в короткосрочные депозиты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой инвестиционный подход нацелен на максимизацию доходности через активное управление портфелем?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Активное управление\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Пассивное управление\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Долларовое стоимостное усреднение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Стратегия покупки и держания\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое «ликвидация» инвестиционного актива?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Продажа актива и вывод средств\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Покупка актива на бирже\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Инвестирование в новый актив\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Увеличение стоимости актива\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие факторы обычно учитываются при определении инвестиционного профиля?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Финансовые цели, инвестиционный опыт, риск-профиль\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Цвет инвестиционного продукта, количество акций в портфеле, географическое положение инвестора\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Количество членов семьи, социальный статус, уровень образования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Погода в регионе проживания, предпочтения в кинофильмах, любимый вид спорта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое «эффективный рынок»?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Рынок, на котором цены активов всегда максимально эффективны\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Рынок, на котором не существует риска инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Рынок, на котором действуют только квалифицированные инвесторы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Рынок, на котором информация о цене активов доступна всем участникам и отражает всю имеющуюся информацию\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает термин «альфа-коэффициент» в контексте управления инвестициями?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Мера избыточной доходности инвестиции по сравнению с рыночной доходностью\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Мера риска инвестиции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Минимальная доходность инвестиции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Максимальная доходность инвестиции\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое «метод сопоставимых компаний» в финансовом анализе?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Метод оценки стоимости компании путем сравнения ее финансовых показателей с аналогичными показателями других компаний\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Метод определения текущей стоимости компании на основе будущих денежных потоков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Метод расчета стоимости компании на основе остаточной стоимости ее активов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Метод определения стоимости компании на основе ее прибыли\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает термин «индекс фондовой корреляции»?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Мера взаимосвязи между различными индексами фондов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Мера изменчивости цены акций на бирже\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Список компаний, входящих в индекс фондовой корреляции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Список компаний, торгующихся на фондовой бирже\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кто такое «портфельный менеджер»?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Профессионал, ответственный за управление инвестиционным портфелем\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Профессионал, специализирующийся на торговле на фондовом рынке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Инвестор, управляющий своим собственным портфелем инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Автоматизированная система для управления инвестиционным портфелем\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая статистика наиболее важна для оценки доходности портфеля?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Средняя годовая доходность\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Стандартное отклонение доходности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Средняя доходность за весь период инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Медианная доходность\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется метод оценки стоимости актива путем сравнения его цены с ценами сходных активов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Метод сопоставимых сделок\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Метод стоимостного подхода\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Метод дисконтированных денежных потоков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Метод остаточной стоимости\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое «волатильность рынка»?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Мера изменчивости цен на финансовом рынке\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Стабильность цен на рынке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Уровень инфляции на рынке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Скорость изменения цен на рынке\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие факторы могут повлиять на рыночную цену акций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Финансовые отчеты компании, макроэкономические показатели, изменения в законодательстве\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Погода, политическая ситуация, любовь инвесторов к риску\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Цвет акций, финансовое состояние менеджмента, время года\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Футбольный чемпионат, решение центрального банка, предпочтения потребителей\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что представляет собой «стратегия пассивного инвестирования»?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Инвестирование в фонды, следующие за рыночными индексами\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Активное управление портфелем для максимизации доходности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Инвестирование в индивидуальные акции на рынке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Инвестирование в недвижимость и недвижимость\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает термин «бета-коэффициент» в контексте управления инвестициями?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Мера риска инвестиции по отношению к рыночному риску\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Мера доходности инвестиции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ставка, по которой банки предоставляют кредиты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Коэффициент корреляции двух активов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из следующего не является инвестицией?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " новый автомобиль\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " депозитный сертификат выданный банком\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " сберегательная облигация США\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " взаимный фонд, хранящийся на пенсионном счете\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Акции - это ________ инвестиции, представляющие ________ бизнеса.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " прямые; владение\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " прямые; долг\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " непрямые; собственность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " косвенные; долг\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Биржевой фонд, инвестирующий в акции крупных корпораций, является примером\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " косвенные инвестиции\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " прямого инвестирования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " производные инвестиции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " материальные инвестиции\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из следующего уменьшилось в последние годы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " прямое владение акциями индивидуальными инвесторами\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " доля иностранных акций в типичных портфелях\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " институциональная собственность на обыкновенные акции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " своевременность информации, доступной инвесторам\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Долг представляет собой средства, предоставленные взаймы в обмен на\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " процентный доход и погашение основного долга\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " доход в виде дивидендов и погашение основной суммы кредита\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " доход в виде дивидендов и доля владения в фирме\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " процентный доход и частичная доля участия в фирме\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Правительство обычно\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " потребитель средств на финансовом рынке\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " не участвует в финансовых рынках\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " владелец финансового рынка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " поставщик средств на финансовый рынок\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "На чистой основе средства на финансовых рынках обычно предоставляются\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " физическими лицами\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " как физические лица, так и коммерческие фирмы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " коммерческие фирмы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " правительство\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Форум, на котором поставщики и покупатели средств совершают финансовые операции, называется финансовым …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " рынок\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " учреждение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " банк\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " инструмент\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из следующего верно в отношении институциональных инвесторов?\n"
+            },
+            {
+                "type": "text",
+                "content": "I. Институциональные инвесторы –- это профессионалы, которые управляют деньгами для других людей.\n"
+            },
+            {
+                "type": "text",
+                "content": "II. Банки, страховые компании и взаимные фонды являются институциональными инвесторами.\n"
+            },
+            {
+                "type": "text",
+                "content": "III. Институциональные инвесторы –- это физические лица, которые вкладывают средства косвенно через финансовые учреждения.\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. Институциональные инвесторы вкладывают большие суммы денег.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " только I, II и IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " только I и II\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " только II, III и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " I, II, III и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из следующего не торгуется на рынке ценных бумаг?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " недвижимость\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " акции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " облигации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " деривативы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из следующего является примером материального актива?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " недвижимость\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " облигации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " взаимные фонды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " запасы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая из следующих инвестиций будет наиболее ликвидной?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " взаимный фонд денежного рынка\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " акция\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сберегательные облигации США серии E\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " недвижимость\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие из следующих инвестиций представляют собой частичное владение корпорацией?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " обыкновенные акции\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " облигации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " взаимные фонды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " коммерческие бумаги\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Инвесторы, которым нужен диверсифицированный, профессионально управляемый портфель ценных бумаг, могут приобрести …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " взаимные фонды\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " привилегированные акции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " конвертируемые ценные бумаги\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " страховые полисы.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Одной из общих черт взаимных фондов и биржевых фондов является то, что …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " они инвестируют в широко диверсифицированные портфели ценных бумаг\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " они торгуют непрерывно в течение торгового дня\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " их портфели всегда основаны на одном из основных рыночных индексов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " инвесторы покупают акции у управляющих фондами, а не у других инвесторов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Текущая цена акции на фондовом рынке это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " рыночная стоимость\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " балансовая стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " инвестиционная стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " номинальная стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из следующего представляет инвестиционные цели?\n"
+            },
+            {
+                "type": "text",
+                "content": "I. сбережения на основные расходы, такие как дом или образование\n"
+            },
+            {
+                "type": "text",
+                "content": "II. укрытие доходов от налогов\n"
+            },
+            {
+                "type": "text",
+                "content": "III. увеличение текущего дохода\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. копить деньги на пенсию\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Только I, III и IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " только I и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " только III и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " все\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При выборе инвестиций, соответствующих вашим целям, вы должны учитывать\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " риски, доходы и налоги\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " только норму прибыли и налоги\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " только доходность до налогообложения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " только годовые дивиденды и налоги\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сара купила акции год назад по цене 32 доллара за акцию. В прошлом году она получила четыре квартальных дивиденда по 0,75 доллара каждый. Сегодня она продала акции по 38 долларов за акцию. Ее прирост капитала на акцию составляет\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 6 долларов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 3,00 доллара\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 8 долларов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 9 долларов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "В хорошо продуманном заявлении об инвестиционной политике будет указано\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " все перечисленные\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " текущий возраст инвестора и его экономическое положение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " предпочтения инвестора в отношении частой или редкой торговли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " виды инвестиций, которые инвестор готов рассмотреть\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Начинающим инвесторам с небольшими суммами инвестиций следует:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " покупать взаимные фонды или биржевые фонды\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " полностью избегать инвестиций в акции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " инвестировать все свои деньги в одну высококачественную акцию\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " купить портфель акций с очень низкой ценой (дешевые акции)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Исследования показывают, что инвесторы, которые внимательно следят за своими портфелями и быстро торгуют в ответ на незначительные колебания цен\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " уступают тем, кто держит инвестиции на длительный срок и редко торгует\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " превосходят тех, кто держит инвестиции на длительный срок и редко торгует\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " получают такие же нормы прибыли, как и те, кто держит инвестиции на длительный срок и редко торгует\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " более образованные и имеют более высокий доход, чем те, кто держит инвестиции на длительный срок и нечасто торгует\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из нижеследующего относится к экономическому анализу?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " оценка общего состояния экономики и его потенциальное влияние на бизнес\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " общий взгляд на конкретную отрасль, в которой работает компания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " финансовое состояние и результаты деятельности компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " все ответы верны\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из нижеследующего относится к анализу отрасли?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " общий взгляд на конкретную отрасль, в которой работает компания\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " оценка общего состояния экономики и его потенциальное влияние на бизнес\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " финансовое состояние и результаты деятельности компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " все ответы верны\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из нижеследующего относится к фундаментальному анализу?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " финансовое состояние и результаты деятельности компании\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " оценка общего состояния экономики и его потенциальное влияние на бизнес\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " общий взгляд на конкретную отрасль, в которой работает компания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " уровень конкуренции в этой отрасли\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Доход от инвестиций (проценты, дивиденды, прирост капитала) это ….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " портфельный доход\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " пассивный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " дивиденд\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " активный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как период владения активами, так и ставка налога на долгосрочный прирост капитала\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " подвержены политическому давлению и время от времени меняются\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " очень стабильны и не изменились с 1960-х гг.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " прекращаются при доходах свыше 388 351 долл. США\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ежегодно корректируются с учетом инфляции\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Налоговое планирование\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " направляет инвестиционную деятельность для максимизации прибыли после уплаты налогов в долгосрочной перспективе при приемлемом уровне риска\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " игнорирует источник дохода и концентрируется исключительно на сумме дохода\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " в основном это делают лица с доходом ниже 200 000 долларов США\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ограничивается рассмотрением доходов за текущий год и определением способов минимизации текущих налогов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Спекулятивные и ориентированные на рост инвестиции менее всего подходят для\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " инвесторы - пенсионеры\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " молодых инвесторов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " инвесторы среднего возраста\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " инвесторы с высокими доходами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Инвесторы, стремящиеся как можно быстрее увеличить свое состояние, будут инвестировать в\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " небольшие компании, стремящиеся к быстрому росту\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " корпоративные облигации и привилегированные акции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " акции крупных компаний с высокими дивидендами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " государственные облигации и акции с низким уровнем риска\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Основным риском, связанным с краткосрочными инвестициями, является\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " риск покупательной способности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " риск дефолта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " процентный риск\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " экономический риск\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Краткосрочные инвестиции\n"
+            },
+            {
+                "type": "text",
+                "content": "I. Обеспечить ликвидность.\n"
+            },
+            {
+                "type": "text",
+                "content": "II. составляют важную часть большинства инвестиционных программ.\n"
+            },
+            {
+                "type": "text",
+                "content": "III. обеспечивают высокую доходность при низком риске.\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. предоставить ресурсы для чрезвычайных ситуаций.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " только I, II и IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " только I и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " только II и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " I, II, III и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Федеральное страхование защищает сберегательные счета и депозитные счета денежного рынка (MMDA) до\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 250 000 долларов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 100 000 долларов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 150 000 долларов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1 000 000 долларов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Начиная с 2010 года, сумма, защищенная Федеральной корпорацией страхования депозитов на беспроцентных расчетных счетах, составляет\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " неограниченный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ноль\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 100 000 долларов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 250 000 долларов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "С 2010 года процентная ставка по сберегательным книжкам и депозитным сертификатам\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " была ниже уровня инфляции\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " внимательно следит за темпами инфляции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " превысил уровень инфляции в среднем на 1,5%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " сильно колебался\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из следующего имеет самый низкий уровень риска?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Казначейский вексель США\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " коммерческая бумага\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " счет взаимного фонда денежного рынка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " банковский акцепт\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Типичные обязанности финансовых специалистов в корпоративной среде включают:\n"
+            },
+            {
+                "type": "text",
+                "content": "I. Управление денежными средствами и краткосрочными инвестициями.\n"
+            },
+            {
+                "type": "text",
+                "content": "II. оценка инвестиционных возможностей.\n"
+            },
+            {
+                "type": "text",
+                "content": "III. работая один на один с людьми, чтобы сформулировать планы для достижения их финансовых целей.\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. взаимодействие с финансовыми рынками для поиска источников внешнего финансирования, таких как заемный и собственный капитал.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " только I, II и IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " только I и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Только II, III и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " I, II, III и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Работа в какой из следующих областей требует понимания инвестиционной среды?\n"
+            },
+            {
+                "type": "text",
+                "content": "I. коммерческое банковское дело\n"
+            },
+            {
+                "type": "text",
+                "content": "II. корпоративные финансы\n"
+            },
+            {
+                "type": "text",
+                "content": "III.финансовое планирование\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. страхование\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " I, II, III и IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " только I и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " только I, II и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Только II, III и IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Основной функцией инвестиционных банковских фирм является\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " помощь предприятиям при выпуске акций и облигаций\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " предоставление кредитов инвесторам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " предоставление услуг по финансовому планированию состоятельным лицам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " разработка инвестиционных стратегий для нейтрализации риска\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. любой актив, в который можно вложить средства с расчетом на то, что он принесет положительный доход и/или увеличит его стоимость.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " инвестиции\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " портфель\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " дивиденды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " возврат\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Предложение прав это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " акции предлагаются существующим акционерам на пропорциональной основе\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ценные бумаги, предлагаемые для продажи публичным инвесторам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ценные бумаги предлагаются выбранным группам инвесторов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " все ответы не правильные\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. рынки, на которых поставщики и покупатели средств торгуют финансовыми активами, как правило, с помощью посредников, таких как брокеры и дилеры по ценным бумагам.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " финансовые рынки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " финансовые организации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " финансовые посредники\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " товарные рынки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. организации, такие как банки и страховые компании, которые объединяют ресурсы поставщиков средств и используют эти средства для предоставления кредитов и инвестирования в ценные бумаги.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " финансовые учреждения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " финансовые рынки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " финансовые посредники\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " товарные рынки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "…..лица, которые управляют собственными средствами для достижения своих финансовых целей.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " индивидуальные инвесторы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " институциональные инвесторы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " брокеры\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " дилеры\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Разница между выручкой от продажи инвестиции и ее первоначальной ценой покупки это ….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " прирост капитала (или убытки)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " общий доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " активный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " пассивный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. ценные бумаги, которые дают инвестору возможность продать или купить другую ценную бумагу по определенной цене в течение определенного периода времени.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " опционы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " вексель\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " фьючерсы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " нет правильного ответа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Доход от работы (зарплата, оклады, пенсии) это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " активный доход\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " портфельный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " пассивный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " дивиденд\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "В соответствии с действующим налоговым законодательством доход в виде дивидендов облагается налогом по той же ставке, что и\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " долгосрочный прирост капитала\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " обычный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " краткосрочный прирост капитала\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " процентный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Доход, который приносит инвестиция, выраженный в текущих долларах. Не учитывает влияние инфляции.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " номинальная норма прибыли\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " реальная норма прибыли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ожидаемый доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " прогнозируемый доход\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Первичное публичное предложение (IPO) это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " первая публичная продажа акций компании\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " повторная публичная продажа акций компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " возврат проданных акций компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " нет правильного ответа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Дополнительная прибыль, которую инвестор требует от рискованных инвестиций, чтобы компенсировать риски.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " премия за риск\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " норма прибыли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " норма возврата\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " нет правильного ответа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Краткосрочные инвестиции:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " со сроком погашения один год или менее\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " со сроком погашения два года но не более трех лет\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " со сроком погашения более одного года\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " со сроком погашения более пяти лет\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Повышенная неопределенность, которая возникает, когда фирма занимает деньги\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " финансовый риск\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " деловой риск\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " риск покупательной способности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " риск процентной ставки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Андеррайтинг это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " продвижение акций и содействие продаже акций компании\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " регистрационное заявление с описанием выпуска и эмитента\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " период времени после подачи проспекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " серия презентаций для потенциальных инвесторов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Фактические данные о прошлом поведении экономики, рынка, отраслевой компании или данных инвестиций это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " описательная информация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " аналитическая информация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " первичная информация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " нет правильного ответа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Когда компания увеличивает количество акций в обращении путем обмена определенного количества новых акций на каждую акцию в обращении это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " дробление акций\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ликвидность акций\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " выделение акций\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " нет правильного ответа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Произвольная сумма, присвоенная акции при ее первом выпуске это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " номинальная стоимость\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " балансовая стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " рыночная стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " инвестиционная стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Акции, которые предлагают потенциал для значительного повышения цены, но не имеют устойчивого успеха.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " спекулятивные акции\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " акции роста\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " циклические акции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " доходные акции\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сумма, за которую, по мнению инвесторов, должны продаваться акции, или сколько, по их мнению, они стоят.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " инвестиционная стоимость\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " балансовая стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " рыночная стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " номинальная стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Вероятность того, что изменение процентной ставки отрицательно повлияет на стоимость ценной бумаги.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " риск процентной ставки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " риск ликвидности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " налоговый риск\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " деловой риск\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Которое из нижеследующего измеряет увеличение покупательной способности, которое обеспечивают инвестиции.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " реальная норма прибыли\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " номинальная норма прибыли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ожидаемый доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " прогнозируемый доход\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. инвестиционные профессионалы, которые зарабатывают себе на жизнь, управляя чужими деньгами.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " институциональные инвесторы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " индивидуальные инвесторы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " брокеры\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " дилеры\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Доход от специальных инвестиций (арендная плата за недвижимость, роялти, товарищества с ограниченной ответственностью) это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " пассивный доход\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " портфельный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " дивиденд\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " активный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Публичное предложение это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ценные бумаги, предлагаемые для продажи публичным инвесторам\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " акции предлагаются существующим акционерам на пропорциональной основе\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ценные бумаги продаются напрямую избранным группам частных инвесторов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " все ответы правильные\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Частное размещение это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ценные бумаги продаются напрямую избранным группам частных инвесторов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " акции предлагаются существующим акционерам на пропорциональной основе\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ценные бумаги, предлагаемые для продажи публичным инвесторам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " все ответы правильные\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Доступные текущие данные в сочетании с прогнозами и рекомендациями о потенциальных инвестициях это …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " аналитическая информация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " описательная информация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " первичная информация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " нет правильного ответа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

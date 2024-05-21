@@ -1,0 +1,3222 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Shaharsozlik faoliyati nimaga qaratilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "hududni oqilona rivojlantirish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tuzilmalarni tavsiflash uchun;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "shaharsozlik ob’ ektlarini aniqlash uchun;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "binolarni rekonstruktsiya qilish uchun;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Shaharsozlik tushunchalarini ko’ rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " odam, transport\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tugun, kanca\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " funktsiya, bo’ shliq;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " rejalashtirish o’ qi, transport tarmog’ i\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Shaharsozlik loyihalashning muddatlarini ko’ rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " boshi, oxiri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’ rtasi, oxiri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " birinchi navbatli, hisobiyi davr\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 50 yil, 100 yil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Aholi punktlari quyidagilarga bo’ linadi …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sharqiy va Shimoliy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yuqori va pastki\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kichik va ko’ p sonli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " shahar va qishloq\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Turar-joy zonasi nima uchun ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " dam olish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ishlash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sanoat korxonalarini joylashtirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " turar joylar, jamoat binolari, yashil maydonlarni joylashtirish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ioyihalashda tashqi transport zonasida nima joylashtirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Garajlar, to’ xtash joylari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yo’ lovchi va yuk stantsiyalari, portlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " taksilar, mikroavtobuslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " trolleybus va avtobus parklari, tramvay depolari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Turar-joy zonasida qanday sanoat korxonalarini joylashtirishga ruxsat beriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " zararli bo’ lmagan;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kichik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " katta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ko’ p sonli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Shahar aholisi qaysi guruhlarga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kattalar va bolalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ishlaydigan va ishlamaydigan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " maktab, sanoat, pensiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " shaharni shakllantiruvchi, xizmat ko’ rsatish, o’ z-o’ zini boshqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi aholi guruhi aholi punkti aholisi sonini aniqlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " shaharni shakllantiruvchi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xizmat ko’ rsatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’ z-o’ zidan ishlamaydigan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ko’ p sonli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sanoat korxonalari turar-joy zonasining qaysi tomonida joylashgan bo’ lishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " shamol esmaydigan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " shamoldan qarshi taraf bilan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’ ng bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " chap bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sanoat korxonasini turar-joy binolaridan ajratib turadigan yashil himoya chizig’ ining kengligini nima aniqlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qurilishning iqlim zonasidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qurilish turidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aholi sonidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " zararli korxona sinfidan\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Shaharsozlikda turar-joy hududining asosiy tarkibiy birligi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " uy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ko’ cha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mikrotuman\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hudud\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xizmat ko’ rsatishning birinchi bosqichidagi muassasalarga nima tegishli?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kasalxonalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sirklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " universitetlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bolalar bog’ chalari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Maktabgacha ta’ lim muassasalariga xizmat ko’ rsatish radiusi qancha?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 50 m\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 100 m\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 300 m\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1 km\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mahalla chegarasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " magistral ko’ chaning qizil chizig’ i\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ekstremal uyning burchagi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " geodezik chiziq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " teng qiyalik chizig’ i\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mikrorayonning joylashishi va rivojlanishini tavsiflovchi asosiy tep nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aholi va hudud\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " turar-joy binolarining zichligi va uy-joy fondining zichligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " turar-joy binolari va jamoat muassasalari soni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ko’ chalarning kengligi va yashil maydon maydoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mahallalarni rivojlantirish usullarini ko’ rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qirg’ oqli, o’ lik, Markaziy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’ zaro faoliyat, xaotik, erkin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " periferik, Markaziy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " perimetrli, guruhli, qatorli\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Gigienik jihatdan eng oqilona rivojlanishni ko’ rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " guruh\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " birlashtirilgan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qatorli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " perimetr\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mulkdagi binolar orasidagi masofani nima aniqlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yong’ in va sanitariya bo’ shliqlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yondashuvning qulayligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ko’ rish shartlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tushirish xususiyatlariga ko’ ra tuproq toifasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ko’ cha tarmog’ ini rejalashtirish tizimlarini ko’ rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " perimetr, aylanma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " koridor, galereya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " piyodalar, transport\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’ g’ ri chiziqli, radial halqali, fokal nurli\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Binolarni tartibga solishda landshaft xususiyatlarini qaysi ko’ cha tarmog’ ini rejalashtirish tizimi hisobga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " erkin (tabiiy)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " radial\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " fokus-nurli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " trapezoidal\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Magistral ko’ chaning ko’ ndalang Profil elementlarini ko’ rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " chorrahalar, yo’ l chetlari, to’ siq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yo’ l, piyodalar yo’ llari, yashil maydonlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " xandaq, asfalt, yulka toshlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " transport, relslar, havo yo’ llari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ikki darajadagi chorrahaning diagrammasini ko’ rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Orol bilan kesishma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " chapga burilish bilan kesishma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " \"klever barglari\"\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dumaloq o’ tish joyi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Shaharni qishloq bilan bog’ laydigan magistral yo’ llar yaqinida qaysi maydonni joylashtirish tavsiya etiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kichik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " transport\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " stantsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bozor\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Maydonning yo’ nalishi quyidagilarga bog’ liq…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " asosiy binoning joylashishiga qarab\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " inson oqimining yo’ nalishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " erning landshafti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " maydon bo’ ylab harakatlanish sxemalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " bir hududda birlashtirilgan va umumiy aloqa va xizmat ko’ rsatish tizimiga ega bo’ lgan sanoat korxonalar guruhining nomi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sanoat zonasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sanoat birlashmasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " turar-joy zonasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kommunal va ombor zonasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sanoat hududini rivojlantirishning normallashtirilgan koeffitsienti nimaga bog’ liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ishlab chiqarish sanoatidan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yashil maydonlarni ekishdan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " korxona rahbariyatidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " hisoblashning to’ g’ riligidan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Insolyatsiya nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " harorat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " namlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " to’ g’ ridan-to’ g’ ri quyosh nurlari bilan nurlanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " shamollatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Binolar orasidagi bo’ shliqlarda soyalar paydo bo’ lishi qanday tadbirlarni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " haddan tashqari izolyatsiyadan himoya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " shovqindan himoya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " atrof-muhitni muhofaza qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " binolarni shamollatish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Binolarning shamollatilishiga sezilarli ta’ sir ko’ rsatadigan narsa nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yashil maydonlarning joylashishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " quyosh balandligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bino uzunligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bino balandligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Shaharsozlik sohasida milliy an’ analarni shakllantirish uchun asos nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " din\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " landshaft\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tabiiy-iqlim xususiyatlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " fan va texnologiyaning rivojlanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Aholi punktlarini rayonlashtirish bo’ yicha nazariy takliflarni ko’ rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " shaharcha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qishloqdan shaharga o’ tish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " suv ombori yaqinida bir tekis joylashish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Park shahri, zonalarni cheksiz rivojlantiradigan shahar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Aholi punktlarini qurishga yo’ l qo’ yilmaydi.....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qo’ riqxonalar erlarida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " daryoning yuqori qismida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " daryoning quyi qismida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nishab bo’ lgan joyda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Hududni suxoveylardan qanday himoya qilish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’rmonni himoya qilish chizig’ ini yaratish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " guruh qurilishidan foydalaning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tuproqni namlang\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bunday zonada turmang\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Issiq iqlim zonasida qulay yashash sharoitlarini shakllantirish maqsadlariga quyidagilar yordam beradi…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " maydonlarni asfaltlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qurilish shakli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aholi punktlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " hududni suv bilan o’rash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Urbanizatsiya\"nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hududni qayta qurish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " shaharlarda odamlarning kontsentratsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kanalizatsiya tarmoqlarini yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " saytni obodonlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kelajak shahri yaratuvchilari boradigan yo’ llardan birini ko’ rsating?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mustaqil ulkan majmualarni qurish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " shahar bloklarini qayta qurish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " er osti kommunal xizmatlarini qurish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " piyodalar va transport yo’ llarini birlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Magistral ko’ chaning qatnov qismining kengligini nima aniqlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " transport turidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " chorrahalar sxemasidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " xizmat ko’ rsatish tizimidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " transport xarakatining intensivligidan\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bolalar maktabgacha ta’ lim muassasasi qayerda joylashgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " magistral ko’ chada\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ish joylari yonida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mahalla ichidagi alohida uchastkada\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " sport maydonchalari yaqinida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi binolarning hududi albatta himoyalangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " do’ konlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oshxonalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kinoteatrlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bolalar bog’ chalari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Aholi punktlari ... ga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sharqiy va Shimoliy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Shimoliy va Janubiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " shahar va qishloq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yuqori va pastki\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Turar joy maydoni (seliteb zona) nima uchun mo’ ljallangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " turar-joy binolari, jamoat binolari, yashil maydonlarni joylashtirish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sanoat korxonalarini joylashtirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dam olish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tashqi transport zonasida nima joylashtirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " taksilar, mikroavtobuslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Garajlar, to’ xtash joylari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " yo’ lovchi va yuk stantsiyalari, portlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " trolleybus va avtobus parklari, tramvay depolari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Turar-joy zonasida qaysi sanoat korxonalarini joylashtirishga ruxsat beriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " zararli moddalarni chiqarmaydigan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kichik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ko’ p\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " vaqtinchalik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Suv yuzasini ifloslantiruvchi korxonalar Daryo bo’ yidan ... turar-joy hududida joylashgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yonida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yuqorida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " parallel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " quyida\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Turar-joy hududining asosiy tarkibiy birligi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " uy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mikrorayon\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hudud\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ko’ cha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xizmat ko’rsatishning I bosqichidagi muassasalarga nima tegishli?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kasalxonalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sirklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bolalar bog’ chalari - yasli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " politsiya punkti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mikrotuman chegarasi qayerda?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " chetki uyning burchagi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " magistral ko’ chaning qizil chizig’ i\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " geodezik chiziq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " teng qiyalik chizig’ i\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ko’ cha tarmog’ ini rejalashtirish tizimlarini ko’ rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " to’ g’ ri burchakli - to’ g’ ri chiziqli, radial-halqali, fokus-nurli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " perimetr, aylanma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " koridor, galereya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " piyodalar, transport\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Magistral ko’ chaning ko’ ndalang profilining elementlarini ko’ rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " xandaq, asfalt, yo’lka toshlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qatnov qismi, tratuar-yo’ laklar, yashil maydonlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " chorraha, yo’ lning cheti, boshi berk ko’ cha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " relslar, havo yo’ llari.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Turar-joy binolari temir yo’ ldan kengligi … himoya polosasi bilan ajratilgan bo’ lishi kerak.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 10 m;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 50 m;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 25 m;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 100 m\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Avtobuslar parki qaysi zonada joylashadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sanoatda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " turar-joy (seliteb) zonada;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kommunal omborda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tashqi transport sohasida;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Posyolok qancha aholi sonida kichik hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 10 minggacha;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 100 mingdan ortiq;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1 minggacha;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 50 tagacha;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Uy xo’ jaligida band bo’ lgan shaxslar ... aholi guruhiga kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " xizmat ko ‘rsatuvchi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ishlamaydigan qatlam;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " shaharni shakllantiruvchi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " individual;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Shahar tashkil etuvchi guruhning soni 2000 kishi, solishtirma salmog‘i esa 50%. Aholi soni qancha?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 5000;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2000;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 3000;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 4000\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sanab o’ tilgan inshootlardan qaysi biri shahar tashkillashtiruvchilarga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hammom;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " traktor zavodi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " maktab;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qandolatchilik sexi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Maktabgacha ta’ lim muassasalarining xizmat ko’ rsatish radiusi qancha?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 300 m;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 50 m;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 100 m;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1 km\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Maktablarning xizmat ko’ rsatish radiusi qancha?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 200 m;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 500 m;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1000 m;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 300 m.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qo’ shni maktablar orasidagi eng katta masofa ... bo’ lishi kerak.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2000 m;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 500 m;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1000 m;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1200 m.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Gigienik nuqtai nazardan eng ratsional (qulay) qurilishni ko’ rsating?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qatorli;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " perimetrli;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " yo’ naltirilgan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qutblangan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Aholi punktlarini qurishga yo‘l qo‘yilmaydi...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " daryoning quyi oqimida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " daryoning yuqori oqimida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qo’ riqxonalar yerlarida;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " barcha javoblar to‘g‘ri.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Guzar tizimida ko‘chaga … chiqmaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " eshiklar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " derazalar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " odamlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " barcha javoblar to‘g‘ri.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Shaharsozlikda milliy an’anaga... ta’sir qiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mintaqaning marosimlari va e’ tiqodlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yaqin hududlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " jamiyatning ijtimoiy-iqtisodiy ahvoli va texnikani taraqqiyot darajasi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " arxitektura maktabi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Havo massalarining gorizontal harakati bu...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " shamollatish (aeratsiya);\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " radiatsiya;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " insolyatsiya;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " shamol;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Binolar orasidagi bo’ shliqlarda soya hosil bo’ lishi qanday tadbirlarni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " atrof-muhitni muhofaza qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " shovqindan himoya qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " haddan tashqari insolyatsiya ta’ siridan himoya qilish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " obodonlashtirishni tashkil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Korxona binolarini blokirovka qilishda ... imkoniyati paydo bo ‘ladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hududning ko’ payishi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " hududning qisqarishi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mahsulotni ishlab chiqarish hajmini oshirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " unifikatsiyalashga.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sanoat tugunlarining bosh rejalari (tarhlari) quyidagilarga bo’ linadi: ...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bloklangan va pavilion;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mahalliy va umumiy;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " chiziqli, chuqur, chiziq-chuqurli;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " barcha javoblar to‘g‘ri.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sanoat hududining meyyorlashtirilgan o‘zlashtirish koeffitsienti nimaga bog’ liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yashil maydonlarni ekishdan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " korxona rahbariyatidan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ishlab chiqarish tarmog‘idan;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " obodonlashtirishga.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Asosiy maydonlar ... joylashtiriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " chekkada;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aholi punktiga kirganda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aholi punktining markazida;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " magistral yonida.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " … ko’ chalar tarmog’ ini rejalashtirish tizimi transport yo’ nalishlarining haddan tashqari uzaytirilishiga olib keladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Radial-halqa;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Focus- nurli;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ rtburchak-to’ g’ ri chiziqli;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Radial.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

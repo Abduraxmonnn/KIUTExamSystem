@@ -1,0 +1,542 @@
+[
+    {
+        "id": 111,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aqlli robotlar va uning komponentlari\n"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "question": [
+            {
+                "type": "text",
+                "content": "Actuator va uning vazifasi\n"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "question": [
+            {
+                "type": "text",
+                "content": "PID controller nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "question": [
+            {
+                "type": "text",
+                "content": "PI controller nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "question": [
+            {
+                "type": "text",
+                "content": "Intellekt bu nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sun’ iy intellekt bu nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "question": [
+            {
+                "type": "text",
+                "content": "Machine va Deep learning tushunchalarini yoritib bering\n"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "question": [
+            {
+                "type": "text",
+                "content": "Machine learningdagi asosiy qadamlarni sanang\n"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "question": [
+            {
+                "type": "text",
+                "content": "Example, Label va Features larni tushuntiring\n"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "question": [
+            {
+                "type": "text",
+                "content": "Supervised learning\n"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "question": [
+            {
+                "type": "text",
+                "content": "Unsupervised learning\n"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement learning\n"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "question": [
+            {
+                "type": "text",
+                "content": "Klassifikatsya jarayoni va qo’llanilishi\n"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "question": [
+            {
+                "type": "text",
+                "content": "Regressiya jarayoni va qo’llanilishi\n"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robot bu nima\n"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy robotga misol keltiring\n"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robotikaning asosiy uch qonuni\n"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mobil robotlar\n"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statsionar robotlar\n"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "question": [
+            {
+                "type": "text",
+                "content": "Effector va uning vazifasi\n"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robot sensing\n"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robot sensorlari va turlari\n"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "question": [
+            {
+                "type": "text",
+                "content": "Harakatni boshqarish tizimlari\n"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robotni boshqaruv turlari\n"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqaruv tizimlari turlari\n"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "question": [
+            {
+                "type": "text",
+                "content": "Frame asosidagi harakat\n"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "question": [
+            {
+                "type": "text",
+                "content": " Probabilistic Robotlar\n"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mobil robot lokalizatsiyasi\n"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robot navigatsiyasi\n"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "question": [
+            {
+                "type": "text",
+                "content": " Yo’lni rejalashtirish algoritmlari\n"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "question": [
+            {
+                "type": "text",
+                "content": " A-star algoritmi\n"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deykstra algoritmi\n"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "question": [
+            {
+                "type": "text",
+                "content": " SLAM texnologiyasi\n"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "question": [
+            {
+                "type": "text",
+                "content": "Natural Language processing bu nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "question": [
+            {
+                "type": "text",
+                "content": "Natural Language processing komponentlari\n"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "question": [
+            {
+                "type": "text",
+                "content": " Natural Language processingda Corpus bu nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tokenization va Stemming nima va misollar keltiring\n"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "question": [
+            {
+                "type": "text",
+                "content": "Lematization va Stop-words nima va misollar keltiring\n"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sentiment analiz\n"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "question": [
+            {
+                "type": "text",
+                "content": "TF-IDF metodi\n"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "question": [
+            {
+                "type": "text",
+                "content": "Text klassifikatsyasi qanday ishlaydi?\n"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robotlarning nutq orqali emotsiyani aniqlashi\n"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robot ko’richi va uning bosqichlari\n"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "question": [
+            {
+                "type": "text",
+                "content": "Speech recognition\n"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "question": [
+            {
+                "type": "text",
+                "content": "Recurrent neural network modeli\n"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "question": [
+            {
+                "type": "text",
+                "content": "Edge detection\n"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "question": [
+            {
+                "type": "text",
+                "content": "Computer Vision tizimi uchun ishlatiladigan asosiy metodlar\n"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "question": [
+            {
+                "type": "text",
+                "content": "Convolution neural network\n"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "question": [
+            {
+                "type": "text",
+                "content": "Object detection nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "question": [
+            {
+                "type": "text",
+                "content": "YOLO modeli\n"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "question": [
+            {
+                "type": "text",
+                "content": "Confusion matrix\n"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "question": [
+            {
+                "type": "text",
+                "content": "Object tracking nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep learning ning robototexnikada qo’llanilishi\n"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robotlarning qo’llanish sohalari va ijtimoiy ta’sirlari\n"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robotlar uchun Q-learning modeli\n"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "question": [
+            {
+                "type": "text",
+                "content": "Humanoid robotlar nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’rish asosidagi inson-robot aloqasi va misol keltiring\n"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "question": [
+            {
+                "type": "text",
+                "content": "Audio asosidagi inson-robot aloqasi va misol keltiring\n"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "question": [
+            {
+                "type": "text",
+                "content": "Intelligent robot\n"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "question": [
+            {
+                "type": "text",
+                "content": "AlexNet modeli va arxitekturasi\n"
+            }
+        ]
+    }
+]

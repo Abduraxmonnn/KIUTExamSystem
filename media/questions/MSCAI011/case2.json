@@ -1,0 +1,5756 @@
+[
+    {
+        "id": 111,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bular nimaning asosiy xususiyatlari Hisoblanadi?1)Qarorlar daraxti grafik vositadir 2)Qarorlar daraxti ham optimallashtirish vositasidir 3)Qarorlar daraxtidagi qaror joylari kvadratchalar bilan, hodisalar esa doiralar bilan ifodalanadi 4) Ma’ lumotlar to’ plamidan turli induksiya algoritmlarini qo’ llash orqali qarorlar daraxti tuzilishi mumkin. Har bir algoritmda qandaydir to’ xtatish mezonlari mavjud 5)Tasniflash maqsadida qarorlar daraxtidan foydalanish mumkin.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror jadvali;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qarorlarni qo’llab quvvatlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror daraxti;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’lumotlar to’plami;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxtini qurishning nechta alohida namunasi mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikkita;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Uchta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oltita;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bitta;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Raqamli va nominal ma’ lumotlar , Xatolari bo’ lgan ma’ lumotlar va Xatolari bo’ lgan ma’ lumotlar Bular qaysi malumotlar to’plamida ishlanishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qarorlarni qollab quvvatlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror daraxti;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qarorlar jadvali;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Savdo majmuasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxtlarini yaratish uchun algoritmlar yaratilgan bu qanday agoritm?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Induksiya;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Axborot olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Masofa o’lchovi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " CART;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "ID3,C4.5,CART,CHAID,FACT bular qaysi algoritmlar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " masofa o’lchami;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " axborot olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qaror algoritmi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " induksiya;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Axborot olish,DKM mezonlari,ikkilik mezon, masofa o’lchami, ortaganal mezon bular qanday mezonlar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bo’linish mezonlari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ajratish mezonlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Uchlik mezon;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Axborot olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "DKM mezonlari bu qanday mezonlar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " axborot olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ajratish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bo’linish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ikkilik;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Eng kuchli o’rganish usullaridan biri bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror jadvali;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror daraxti;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qarorlarni qollab quvvatlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bo’linish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Eng mashhur induksiya algaritomlari……….hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Masofa o’lchovi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ikkilik mezon;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ID3,C4.5 va CART;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Axborot olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxtining murakkabligi nechta turga bo’linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2 ta;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 4 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 3 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 7 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Namunaviy murakkablik va Hisoblash murakkabligi bular qanday murakkablik?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikkilik murakkablik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror daraxtining vaqt Murakkabligi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Axborot olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Oddiy murakkablik;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Inson qarorlarini qabul qilish modellarini ishlab chiqishda kashfiyotchi kim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " H.A.Simon;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Van Chayk;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Keen;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nyuell;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asosiy modeli insonning qaror qabul qilish jarayonini nechi bosqichli turga bo’linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 3ta;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 5ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 6ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asosiy modeli insonning qaror qabul qilish jarayonini ikki bosqichga bolinadi bular qaysilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Intelekt,Dizayn,Tanlov;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mustaqil ,Tanlov;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ketma-ket o’zaro;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Boshqaruv va Operatsion;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hisoblashning murakkabligi uchun foydalaniladigan resurslarni qanday baholashadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Baholanmaydi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ajratish mezonlari orqali;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Axborot olish orqali;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nazariy baholash;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mashina qaramligini oldini olish uchun qanday belgilar qollaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sonli belgilar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " CART;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Asimptotik;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Induksiya;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asimptotik tahlil algoritomlarni nimasiga bog’liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " soniga;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " hajmiga;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " turiga;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " belgilariga;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxti qanday turlarda qollaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Algoritmlarda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tahlil qilish,tasniflash;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Hisoblash murakkabligi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’lumotlar toplamida;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Geo va boshqalar neftni qayta ishlash uchun qaysi algoritmlardan foydalangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " C4.5 qaror daraxti;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ID3;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " CART;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " MARS;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tizim bu …..?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mezonlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " indekslar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’ zaro bog’ liq bo’ lgan komponentlar yig’ indisidir;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " algoritmlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ zaro bog’ liq komponentlar qaror qabul qilish, muvofiqlashtirish, nazorat qilish, tahlil qilish va vizualizatsiya maqsadlarini qo’ llab-quvvatlash uchun ma’ lumotlarni to’ plash, qayta ishlash, saqlash va ishlatish uchun birgalikda ishlasa u nima deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mezonlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " malumotlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " axborot tizimi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " algoritmlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nechinchi yilda\"Qarorlarni qo’ llab-quvvatlash tizimlari\" atamasi birinchi marta Britaniya akademigi, keyin AQSHda ishlagan P.G.V. Keen tomonidan qo’ llanilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1922-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1970-yil;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1982-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1999-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "KEEN va Skott ‘‘Qarorlarni qo’llab-quvvatlash tizimlari: tashkilot istiqbollar’’ nomli kitobini nashir qilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1924-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2000-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1978-yil;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1980-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Axborot tizimlari tadqiqotchilari nechil yil davomida izlanishlar olib borib,qaror qabul qilishni qo’llab-quvvatlash tizimini ishlab chiqadilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 20 yildan ortiq;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 35 yildan ortiq;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 15 yildan ortiq;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 25 yildan ortiq;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Van Schaik nechinchi yilda QQQT kontseptsiyasi davri deb ataydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1965-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1999-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1970-yil;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1995-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlar jadvali nechanchi yilda qo’ llanila boshlandi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1975-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1950-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1960-yil;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1968-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sciencedirect jurnali ma’ lumotlar bazasida qarorlar jadvali bo’ yicha jami nechta maqola mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 9038 ta;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 9025 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 9105 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 9200 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Springerlink jurnali ma’ lumotlar bazasida nechta maqola mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2100 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2841 ta;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 2560 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2700 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi jurnallar ma’ lumotlar bazasida 1535 ta tadqiqot maqolalari mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Springerlink;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sciencedirect;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Teylor va Frensis;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " IEEE;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "IEEE urnali ma’ lumotlar bazasida nechta tadqiqot maqolalari mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 60 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 51 ta;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 70 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 75 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qarorlar jadvalida shartlar stubida shartlar va/yoki qiymatlar aniq ko’ rsatilgan bo’ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Cheklangan kirish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kengaytirilgan kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Aralash kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Algoritmli kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Har qanday bo’ sh bo’ lmagan yozuv nima ni anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bajarmang;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " farq qilmaslik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qiymat;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bajarish;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Shart qatorlaridagi barcha bo’ sh yozuvlar \"farq qilmaslik\" ni anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " farq qilmaslik;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bajarish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qiymat;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bajarmang;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Harakat yozuvlaridagi bo’ sh joylar nimani bildiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " farq qilmaslik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bajarish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qiymat;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bajarmang;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qarorlari jadvali qatorlar sonini kamaytiradi, bu cheklangan kirish qarorlari jadvalidan kamroq bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aralash kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Cheklangan kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Algoritmli kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kengaytirilgan kirish;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kengaytirilgan kirish qaror jadvali tabiiy insoniy muloqotga yaqinroq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kengaytirilgan kirish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aralash kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Cheklangan kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Algoritmli kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Cheklangan kirish qarorlari jadvalini yanada soddalashtirish qaysi qarorlari jadvali orqali amalga oshirilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kengaytirilgan kirish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aralash kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Cheklangan kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Algoritmli kirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlar jadvalining ikkita asosiy muammosi nimalar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ortiqchalik, nomuvofiqlik;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " muvofiqlik, to’ liqlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mustahkamlik, ortiqchalik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’ liqlik, mustahkamlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ikki yoki undan ortiq qaror qoidalari bir xil shart yozuvlariga ega bo’ lsa, lekin ularning harakat yozuvlari boshqacha bo’ lsa, qaror jadvali qanday bo’ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mos kelmaydi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mos keladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nomuvofiq bo’ladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " parallel bo’ladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Barcha qarorlar jadvallarining asosiy afzalligi nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " har qanday xatoni osongina aniqlash mumkin;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " dasturlash yoki rejalar ortidagi mantiqni qisqacha ifodalashi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " muvofiqlik, to’ liqlik va ortiqchalik uchun tekshirilishi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nomuvofiqlik masalalarini hal qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Qarorlarni qo’ llab-quvvatlash tizimi - bu yarim strukturaviy va strukturalanmagan qaror qabul qilish vazifalarini qo’ llab-quvvatlash uchun foydalanuvchiga qaror modellari va ma’ lumotlariga oson kirishni ta’ minlaydigan interaktiv tizim\". Yuqoridagi fikrlarning muallifi kim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mann va Vatson;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kenn;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " S.Morton;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " S.Van;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimlar QQQTni qaror qabul qiluvchilarga ma’ lumotlar va tahlil modellari bilan to’ g’ ridan-to’ g’ ri o’ zaro ta’ sir qilish orqali noto’ g’ ri tuzilgan muammolarni hal qilishga yordam beradigan kompyuterga asoslangan tizimlar sifatida belgilaydilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sprague va Vatson;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " S.Van;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kenn;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " S.Morton;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "QQQT turli manbalardan olingan ma’ lumotlarni birlashtirgan, axborotni tashkil etish va tahlil qilishda yordam beradigan va muayyan modellardan foydalanish asosidagi taxminlarni baholashga yordam beradigan kompyuterga asoslangan tizimlardir deb kim takidlagan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kenn;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " S.Van;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sauter;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sprague va Vatson;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kim QQQTni keng ma’ noda \"foydalanuvchilarning keng ishtiroki bilan yarim strukturaviy va ba’ zi strukturalanmagan muammolarni hal qilish uchun modellar va ma’ lumotlarni birlashtirgan kompyuterga asoslangan axborot tizimi\" deb ta’ riflaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " KENN;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Turban;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sauter;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " S.Morton;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi yillarda QQQT kontseptsiyasi o’ sib bordi va tadqiqot, ishlab chiqish va amaliyot sohasiga aylandi?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1920-1930 yillar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1970-1980 yillar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1990-2000 yillar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1985-1995 yillar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hozirgi vaqtda QQQT-ni kompyuterga asoslangan dasturning nechinchi avlodi sifatida ko’ rish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 3 chi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 6 chi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 2 chi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 4 chi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlarni qollab-quvvatlash tizimi nechinchi yillarda o’rganish va amaliyot ‘‘sohasi’’ sifatida rivojlangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1985-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1999-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1980-yil;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1995-yil;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sprag va Vatsonga ko’ ra, qaysi tizim 1980-yillarda o’ rganish va amaliyot \"sohasi\" sifatida rivojlangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " QQQT;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " MMM;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " DSS;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ID3;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "QQQT texnologiyasi muloqot, ma’ lumotlar va modellashtirish sohalarida qanday namunalardan iborat bo’ lishi kerak.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " MMM;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " DSS;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Vatson;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sprag hamda Karlson MMM;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "MMM ..?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "muloqot,ma’lumot va modellashtirish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ma’lumotlar,namunalar va model;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "muzokara,muloqot va malumot;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "modellashtirish, muzokara, namunalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnologiya darajalari nechta?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 4 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 3 ta;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "QQQT technologiyasi bosqichilari?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " QQQT generator,QQQT vositalari,QQQT maxsus ilovalari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " QQQT funksiyalari,Modellari,Dizayni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’lumotlar ba’zasi, QQQT vositalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " QQQT maxsus ilovalari, QQQT texnik vositalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashkiliy muhit o’z ichiga qaysi to’plamlarni oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " dasturiy ta’ minot,atrof muhit;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ma’lumotlar ba’zasi,dizayn,struktura;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dasturiy ta’ minot va apparat texnologiyalari tahlil modellari to’ plami;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tizim foydalanuvchilari,modellar to’plami;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimlar QQQT ning beshta maxsus turini aniqladilar(1996)?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " KENN va HOSPAL;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " BRETTON VUDS;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " VINSTON;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " VINSTON va HOLSAPL;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hakatorn va Keen QQQT ni uchta o’ zaro bog’ liq toifaga ajratdilar.\n"
+            },
+            {
+                "type": "text",
+                "content": "Bular..?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Institutsional,Shaxsiy, Ijtimoiy;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Shaxsiy,guruh,tashkiliy;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ommaviy,Guruh,Tashkiliy;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Siyosiy,Ijtimoiy,yuridik;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Modelga asoslangan QQQT nechinchi yillarda ishlab chiqilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1999-2004 yillar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1970-1980 yillar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1965-1980 yillar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1982-1995 yillar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Amalga oshirish usuliga ko’ ra QQQTi nechtagabo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 11;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 10;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 12;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 7;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "AMAQQQT…?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Atrof-muhit bo’ yicha qarorlarni qo’ llab-quvvatlash tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Web-asoslangan Fazoviy qarorlarini qo’ llab-quvvatlash tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Atrof-muhit bo’ yicha Aqlli qarorlarni qabul qilishni qo’ llab-quvvatlashning tizimi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Atrof-muhit bo’ yicha Algoritim qarorlarini qabul qilishni qo’ llab-quvvatlashning tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muhokama qilinmagan qarorlarni qo’ llab-quvvatlash vositalariga misollar keltiring.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aqliy hujum, Mijozlar so’ rovlari va intervyular, SFJ.SJB;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mijozlar buyurtmalari, kiber hujum;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " SWOT tahlili, Qarorlar jadvali;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Noravshan mantiq, Simulyatsiya;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror qilish metodi keltirilgan qatorni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni intelektual tahlil qilish, Chiziqli dasturlash, Simulyatsiya;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Katta ma’ lumotlar tahlili, Internet ashyolari, mezonlarni aniqlash, Holatga asoslangan fikr yuritish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko’ p mezonli qarorlarni tahlil qilish texnikasi, Fazoviy qarorlarni qo’ llab-quvvatlash tizimi, Ma’ lumotlarni saqlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qaror muommosini aniqlash, talablarni aniqlash, metodni tanlash, maqsadlarni belgilash, yechimlarni tasdiqlash;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "MQQT…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Muzokaralarni qo’ llab-quvvatlash tizimi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ma’lumotlarni qo’ llab-quvvatlash tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Modellarni qo’ llab-quvvatlash tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Muhokamalarni qo’ llab-quvvatlash tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "BA-QQQT…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bilimga asoslangan QQQT;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bazaga asoslangan QQQT;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bir sohaga asoslangan QQQT;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Buyruqlarga asoslangan QQQT;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Modelga asoslangan QQQT kimlar tomonidan ishlatilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o’qituvchilar,shifokorlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "menejerlar,xodimlar,biznes bilan aloqada bo’lganlar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "muhandislar,arxitektorlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bank xodimlari, dizaynerlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "VFQQQT…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Vaqtga asoslangan fazoviy qarorlarni qo’llab quvvatlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Fazoviy qarorlarini qo’ llab-quvvatlash tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Web-asoslangan Fazoviy qarorlarini qo’ llab-quvvatlash tizimi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "WEB-brauzerga asoslangan Fazoviy qarorlarni qo’llab-quvvatlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimlar yarim strukturaviy muammolarning quyidagi misollarini keltirdilar: (AQSh) obligatsiyalar savdosi, iste’ mol tovarlari uchun marketing byudjetlarini belgilash va kapital sotib olish tahlilini o’ tkazish?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kin va Skot Morton;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " KENN va S.VAN;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mann va Vatson;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sprague va Vatson;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muamolar va qaror qabul qilish jarayonlari nechta toifaga bo’linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 3 ta;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 10 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 4 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Strategik rejalashtirish … bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Uzoq muddatli maqsadlar va resurslarni taqsimlash siyosati;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Resurs unumdorligini oshirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Muayyan vazifalarni amaliy va samarali bajarish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Birlashtirilgan o’ zaro bog’ liqlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqaruv nazorati….bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Birlashtirilgan o’ zaro bog’ liqlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Uzoq muddatli maqsadlar va resurslarni taqsimlash siyosati;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tashkiliy maqsadlarga erishish uchun resurslarni olish va ulardan samarali foydalanish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ketma-ket o’ zaro bog’ liqlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Operatsion nazorat ….bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Uzoq muddatli maqsadlar va resurslarni taqsimlash siyosati;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muayyan vazifalarni amaliy va samarali bajarish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ketma-ket o’ zaro bog’ liqlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Birlashtirilgan o’ zaro bog’ liqlik o’ zaro bog’ liqlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimlar yarim strukturaviy va strukturalanmagan qarorlar uchun an’ anaviy boshqaruv fanining yondashuvlari yetarli emasligini taklif qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Vinston;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bretton Vuds;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gorri va Skot Morton;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " S.Morton\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo‘llab-quvvatlash bu …?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kompyuterning qaror qabul qiluvchini almashtirishdan ko‘ra yordam berishdagi rolini aniqlaydi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Birlashtirilgan o’ zaro bog’ liqlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Uzoq muddatli maqsadlar va resurslarni taqsimlash siyosati;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muayyan vazifalarni amaliy va samarali bajarish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimlar dengiz himoyalangan hudud tarmog’ idagi ulanish muammolarini o’ rganish uchun qaror daraxti yondashuvidan foydalangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " VINSTON;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mann va Uotson;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kin va Skot Morton;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Smit va Metaxas;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "MYBT…?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Malumotlarni yaratish va boshqarish tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Modullarni yaratish va boshqarish tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Muloqotni yaratish va boshqarish tizimi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muayyan vazifalarni amaliy va samarali bajarish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "MBBT….?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muloqotni yaratish va boshqarish tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar bazasini boshqarish tizimi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Muayyan bazasini boshqarish tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Malumotlarni yaratish va boshqarish tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlar jadvali asosiy nechta qismga bo’ lingan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "4 ta;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "8 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlar jadvali asosiy to’rtta qismga bo’ lingan,bular qaysilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ko’ plab qarorlar qabul qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " harakatlar, o’ zaro bog’ liqlik,qarorlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " shartlar, harakatlar, stub va yozuvlar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " shart, yozuvlar,jadvallar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlarni qo’llab quvvatlash tizimlari(DSS)nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni to’ plash va saqlash, Model qurish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilishni yengillashtirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Grafiklar, diagrammalar va boshqa vizual elementlar yordamida ma’ lumotlarni ko’ rsatadi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ko’ plab qarorlar qabul qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "DSS tizimlarining asosiy tarkibiy qismlari qaysilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Shartlar, harakatlar, stub va yozuvlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilishni yengillashtirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xabardorlik vositasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar ombori, Model qurish vositasi, Foydalanuvchi interfeysi;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday holatlarda DSS yordamida qaror qabul qilish foyda keltiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni to’ plash va saqlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilishni yengillashtirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Katta Hajmdagi Ma’ lumotlar, Vazifa Optimallashtirish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xabardorlik vositasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mobil qurilmalardan foydalanish DSSlar rivojlanishiga qanday hissa qo’ shgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mobil qurilmalar DSSlarning boshqa ish jarayonlari va tizimlar bilan integratsiyasini osonlashtiradi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Grafiklar, diagrammalar va boshqa vizual elementlar yordamida ma’ lumotlarni ko’ rsatadi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Malumotlarni yaratish va boshqarish tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mobil qurilmalardan foydalanish DSSni har qanday joyda va har qanday vaqtda foydalanish imkoniyatini taqdim etadi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlar daraxti nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Malumotlarni yaratish va boshqarish tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bu mashina o’ rganishda ishlatiladigan nazoratsiz o’ rganish algoritmlaridan biri;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilishni yengillashtirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni to’ plash va saqlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday ma’ lumot to’ plamlari qarorlar daraxti uchun mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aniqlangan Xususiyatlar, Kategorik va Uzluksiz O’ zgaruvchilar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Malumotlarni yaratish va boshqarish tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar to’ plamining hajmi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilishni yengillashtirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muvaffaqiyatsiz qarorlarni qabul qilishning oldini olish uchun qanday chora-tadbirlar qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Doimiy O’ rganish va O’ zlashtirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tahliliy Vositadan Foydalanish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror qabul qilishni yengillashtirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar Asosida Qaror Qabul Qilish, Risklarni Baholash;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxtining qanday turlari mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Malumotlarni yaratish va boshqarish tizimi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ID3, CART, Regression Decision Tree;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Doimiy O’ rganish va O’ zlashtirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Katta Hajmdagi Ma’ lumotlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlar jadvalida ma’ lumotlarni qanday guruhlash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xususiyatlar bo’ yicha ajratish, Statistik usullardan foydalanish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Foydalanuvchi tanlovi asosida guruhlarga ajratish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Doimiy O’ rganish va O’ zlashtirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yordamchi dasturlardan foydalanish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilishda qanday strategiyalar ko’ pincha ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " DSS va AI Yordamidan Foydalanish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " SWOT Tahlili, Stsenariylarning Ishlatilish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Katta Hajmdagi Ma’ lumotlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlar to’ plamining hajmi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlar jadvalini vizualizatsiya qilish usullari qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Model qurish vositasi, Foydalanuvchi interfeysi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni to’ plash va saqlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Risklarni Baholash, Ish Jarayoni Modeli;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matn Asosida, Grafik Diagrammalar, Venn Diagrammalar;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilishda eskperimentlardan qanday foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni to’ plash va saqlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Variantlarni Solishtirish, Natijalarni Olchash, Risklarni Baholash;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Grafik Diagrammalar, Venn Diagrammalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " DSS va SI Yordamidan Foydalanish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "QQQT ning dastlabki tizimlarida qanday texnologiyalar qo’ llanilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Matn Asosida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Risklarni Baholash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Fayllar va Ma’ lumotlar Bazalari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Venn Diagrammalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "ID3 va C4.5 qaror daraxti algoritmlarining yaratuvchisi kim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Herbert A. Simon;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ross Quinlan;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gerd Gigerenzer;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Peter E. Hart;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kim Qaror qabul qilish nazariyasi, aqliy hodisalarni kompyuterda modellashtirish va sun’ iy intellekt sohasidagi ishlari bilan tanilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Herbert A. Simon;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Peter E. Hart;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ross Quinlan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gerd Gigerenzer;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kim Biznes sohasida qaror qabul qilishni modellashtirishda Little qonuni sifatida tanilgan asosiy konseptlarni taklif qilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gerd Gigerenzer;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Herbert A. Simon;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " John D. C. Little;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ross Quinlan;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "KimlarDSS konseptual modellarini rivojlantirishga katta hissa qo’ shgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Herbert A. Simon;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Michael S. Scott Morton;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Peter G. W. Keen va Charles Stabell;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Edward H. Shortliffe;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimlar qaror daraxtlari tuzilishini takomillashtirish borasida ishlar olib borgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Richard D. Duda va Peter E. Hart;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Peter V. Keen va Charles Stabell;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Herbert A. Simon;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Michael S. Scott Morton;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "QQQTning asosiy evolyutsion yutuqlari qaysilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Risklarni Baholash, Ish Jarayoni Modeli;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mashina O’ rganishining Integratsiyasi, Foydalanuvchi Interfeysi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Foydalanuvchi tanlovi asosida guruhlarga ajratish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Doimiy O’ rganish va O’ zlashtirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "DSS tizimlarining bulut hisoblash platformalari bilan integratsiyasi bu-...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Cloud Computing;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Interaktiv Axborot Tizimlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni to’ plash va saqlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mashina O’ rganishining Integratsiyasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Foydalanuvchilarning tahrir qilish tajribalarini boyitish uchun maxsus ishlab chiqilgan tizimlar -…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Cloud Computing;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Boshqaruv Jarayonlariga Integratsiyasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Foydalanuvchi Interfeysi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tahririyat qo’ llab-quvvatlash sistemalari;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kim Intuitsiya asosida qaror qabul qilishning psixologik jihatlarini o’ rganish bo’ yicha tadqiqotlar olib borgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Michael S. Scott Morton;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gerd Gigerenzer;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " John D. C. Little;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ross Quinlan;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarni to’ plash, tahlil qilish va ular asosida biznes qarorlarini qabul qilish imkonini beruvchi yirik tizimlar bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Axborot Xavfsizligi Tizimlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ko’ p o’ lchovli Tahlil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Biznes Intelliĝensiya;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Axborot Tizimlari Strukturalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashkilot ichidagi bilimlarni boshqarish va taqdim etishga bag’ ishlangan yondashuvlar va tizimlar bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Knowledge Management Systems (KMS);\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Biznes Intelliĝensiya (BI);\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Supply Chain Management (SCM);\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ko’ p o’ lchovli Tahlil;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimlar qaror qabul qilish jarayonlarini o’ rganishda psixologik va boshqaruv fanlari elementlarini qo’ llab-quvvatlashga yordam bergan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " John D. C. Little;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Michael S;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ross Quinlan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Herbert A. Simon;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kim \"System Dynamics\" modelini yaratish orqali qarorlar qabul qilish jarayonlarini tahlil qilishning nazariy asoslarini qo’ ygan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Michael S;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Jay W. Forrester;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " John D. C. Little;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Herbert A. Simon;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "DSS texnologiyasining rivojlanishida qanday asosiy tehnologik o’ zgarishlar bo’ lgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kompyuter texnologiyalarining rivojlanishi, Internet va tarmoq texnologiyalari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ish Jaroynlarini Avtomatlashtirish Vositalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Boshqaruv Jarayonlariga Integratsiyasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tahririyat qo’ llab-quvvatlash sistemalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy QQQT tizimlari qanday sun’ iy intellekt texnologiyalaridan foydalanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ish Jaroynlarini Avtomatlashtirish Vositalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Agent Asoslangan Modell;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Boshqaruv Jarayonlariga Integratsiyasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mashina O’ rganishi, Neural Tarmoqlar;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Birinchi avlod DSSlaridan hozirgi avlod DSSlargacha bo’ lgan evolyutsiyada qanday o’ zgarishlar kuzatilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mobil Qurilmalar va Ommaviy Foydalanish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Texnologik Imkoniyatlar, Interaktivlik;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Axborot Tizimlari Strukturalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Visualizatsiya va Tahlil vositalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxtlari yordamida anomal malumotlarni (outliers) qanday aniqlash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qiymatlar Chegara Analizi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Texnologik Imkoniyatlar, Interaktivlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni Tahlil Qilish, Barglardagi Observationlarni Tahlil Qilish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Visualizatsiya va Tahlil vositalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Barglardagi Observationlarni Tahlil Qilish bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni Tahlil Qilish, Barglardagi Observationlarni Tahlil Qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror daraxtining har bir bargi ma’ lum bir xususiyat qiymati yoki toifaga mos keladigan kuzatuvlarni o’ z ichiga oladi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror daraxtidagi qoidalar anomal qiymatlarni aniqlashda yordam berishi mumkin;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qaror daraxti modeli tuzilganda, ma’ lum bir xususiyat uchun qo’ yilgan bo’ linish chegaralari anomaliyani ko’ rsatishi mumkin;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ensemble Yondashuvi-bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror daraxtining har bir bargi ma’ lum bir xususiyat qiymati yoki toifaga mos keladigan kuzatuvlarni o’ z ichiga oladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaror daraxti modeli tuzilganda, ma’ lum bir xususiyat uchun qo’ yilgan bo’ linish chegaralari anomaliyani ko’ rsatishi mumkin;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaror daraxtlari tez-tez boshqa o’ rganish modellari bilan birgalikda ensemble yondashuvlarda qo’ llaniladi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni Tahlil Qilish, Barglardagi Observationlarni Tahlil Qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ba’ zan qaror daraxtlari kengroq qaror qabul qilish tizimlarining bir qismi sifatida qo’ llaniladi, va ular biznes qoidalarini yoki logikani ifodalashda boshqa sistemalar yoki algoritmlar bilan integratsiyalashadi bu qanday Sistemalar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qaror Qabul Qilish Sistemalari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tahlil Qilish Sistemalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ma’ lumotlarni Tahlil Qilish Sistemalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Matn Ma’ lumotlari Sistemalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlar jadvali modellarini qanday dasturlash tillari yoki platformalarda ishlab chiqish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ruby,PHP;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kotlin,Delphi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "C#,C++;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Excel, Python, JavaScript va Java;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxtlarini yaratishda qanday ma’ lumot turlari ishlatilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kategorik Ma’ lumotlar, Sonli Ma’ lumotlar,Ordinal Ma’ lumotlar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Matn Ma’ lumotlari , Qaror Qabul Qilish Ma’ lumotlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tahlil Qilish Ma’ lumotlari , Texnologik Imkoniyatlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tahlil vositalari, Boshqaruv Jarayonlari Ma’ lumotlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxtlarida murakkablikni nazorat qilish uchun qanday strategiyalar mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ordinal metod, Tahlil qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Minimum metod, Validatsiya metod;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sample metod, Maksimal metod;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Pruning (Qisqartirish), Daraxtning Maksimal Chuqurligi, Ensemble Metodlari;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlar jadvalining asosiy tarkibiy qismlari qaysilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ildiz Nodi (Root Node), Ichki Nodlar (Internal Nodes);\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Shoxlar yoki barglar, Yopiq Nodlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qirralar va Ildiz Nodi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yopiq va ichki Nodlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlar jadvalini vizualizatsiya qilish uchun qanday vositalardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tree package;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Excel Sheets, DOT;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "R language tree;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Scikit-learn, Graphviz, DT (Data Tree) Libraries;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "20-asrning o’ rtalarida biznes va tashkilotlarda qaror qabul qilishning asosiy qiyinchiliklari nima bo’ lgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Innovatsiyalar va Sarmoya;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Resurslar va Rivojlanish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ma’ lumot Eksikligi, Rishtalashish va Muzakaralar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tadbirkorlik va amaliyot;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ tgan asrlarda QQQTdan qanday sohalarda keng qo’ llanilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ekologiya, Ta’ lim;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Energetika, Tibbiyot;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Iqtisodiyot va Biznes, Statistika va Sanoat;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Transport va ob-havo;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxti qanday tuzilma hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Grafik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tabiiy;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tabular;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ierarxik;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxti yordamida qanday vazifalar bajariladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Klasifikatsiya;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Regressiya;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Klasifikatsiya va Regressiya;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Hisob-kitoblar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxtlarida qaysi atribut birinchi bo’ linish uchun tanlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Eng ko’ p informatsion foyda beradigan;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Eng kam informatsion foyda beradigan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Eng yuqori qiymatga ega bo’ lgan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Eng past qiymatga ega bo’ lgan;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror daraxtidagi bo’ linishlar (splits) qanday qarorlar qabul qilishga yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Faqat kategorik ma’ lumotlar uchun;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat uzluksiz ma’ lumotlar uchun;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Har xil turdagi ma’ lumotlar uchun;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlar turiga bog’ liq emas;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "ZZQT tizimlarida qanday texnologiyalardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Faqat sun’ iy intellekt;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat statistik dasturlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Har xil analitik va model vositalari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat hisoblash algoritmlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "QQQTning qaysi xususiyati ularni BI tizimlaridan ajratib turadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarni tahlil qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Hisobotlarni yaratish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Foydalanuvchiga interaktivlik va tanlov imkoniyatlari berish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarni boshqarish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "QQQTlar qayerda qo’ llanilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Faqat moliyaviy sektorda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat sanoatda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat IT kompaniyalarda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Har qanday tashkilotda;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "QQQTning asosiy komponentlari qaysilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlar ombori, model, interfeys;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Klaviatura, monitor, printer;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Telefon, faks, skaner;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Veb-kamera, mikrofon, karnay;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "QQQT tizimlarida qarorlar qanday qabul qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Avtomatik ravishda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat qo’ llab-quvvatlash asosida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qoidalar va algoritmlar asosida;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlar ombori asosida;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

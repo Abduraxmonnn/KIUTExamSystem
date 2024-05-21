@@ -1,0 +1,5798 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўзбекистон аҳолисини неча фоизини мусулмонлар ташкил этади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "93\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "99,3\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "80\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "75\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Шариат қоидаларининг манбаларига нималар киради?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Қуръон, ҳадис, ижмо, қиёс\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "халқаро инсон ҳуқуқлари конвенциялари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "фуқаролик кодекси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "фатво\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қуйида келтирилган ташкилотларнинг қайси бири ислом молияси таркибидаги молиявий институт ҳисобланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "такафул компанияси\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "факторинг компанияси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "пенсия фонди\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "клиринг компанияси\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қуйида келтирилган қайси соҳа ислом банклари томонидан молиялаштирилмайди?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "тамаки маҳсулотларини ишлаб чиқариш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "енгил саноат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "атир ишлаб чиқариш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "таълим соҳаси\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Активлар билан таъминланмаган кредитларни берилишининг салбий оқибатлари келтирилган қаторни белгиланг?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "молиявий инқироз\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "банк ликвидлигини камайиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "кредит рискини ортиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "банк инқирози\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Амана бу-?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "талаб қилиб олингунча депозит\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "фоизсиз кредит\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "жамғарма депозит\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "шерикчилик асосида иш юритиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Алъ-вадиа бу-?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "жамғарма депозит\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "талаб қилиб олингунча депозит\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "фоизсиз кредит\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "шерикчилик асосида иш юритиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}``Ҳосилавий қимматли қоғозлар молиявий қирғин қуролидир'' иборасини ким айтган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Адам Смит\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Уоррен Беффет\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Том Моррен\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Жон Майнер Кейнс\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Муробаҳа дастлаб ислом фиқҳида фақат қандай шартнома тури сифатида маълум бўлган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "савдо шартномаси\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "молиялаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "қарз\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ижара\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қайси иқтисодий тизимда давлат ҳохишига кўра, бойлик яратилади ва тақсимланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "социалистик тизим\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "бозор иқтисодиёти тизими\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "капиталистик тизим\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ислом молияси тизими\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Одатда, муробаҳа қандай амалиётларни молиялаштиришда қўлланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "савдо амалиётларини\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ишлаб чиқаришни\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "қурилишни\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "туризмни\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Муробаҳада товар баҳосини шартнома амал қилиш даври мобайнида ўзгартириладими?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ўзгартиришга йўл қўйилмайди\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "шартноманинг дастлабки ойида ўзгартирилади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "шартноманинг охирги ойида ўзгартирилади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "шартнома вақти тугамасдан ўзгартирилади\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Муробаҳа шартномаси асосида сотилаётган маҳсулот нархи нимани ўз ичига олади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "маҳсулот нархи ва молия муассасаси устамаси (фойдаси)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "маҳсулот нархи ва транспорт харажатлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "маҳсулот нархи ва суғурта харажатлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "маҳсулот нархи ва молия муассасаси ходимлари иш ҳақи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Музорабада музориб қандай иштирок етади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "инвесторнинг капиталини бошқариш учун ўз билим ва тажрибаси билан иштирок етади\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "маблағларни беради\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "маслаҳат беради\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "хом-ашё беради\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Музорабада инвестор (рабб ал-мол) қандай иштирок етади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "маблағларни беради\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "капитални бошқаради\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ишлаб чиқаришни бошқаради\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "маслаҳат беради\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Музорабанинг тўғри бўлиши учун сармоя қандай шаклда бўлиши шарт?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "нақд пул бўлиши\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "тижорий товарлар бўлиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "савдо моллари бўлиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ҳар қандай шаклда бўлаверади\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Музорибга боғлиқ бўлмаган ҳолатларда ва форс-мажор натижасида музорабада зарар юзага келса, музориб нимани йўқотади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ўз меҳнати ва вақтини\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "капиталини\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "қарзини\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "акцияларини\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Мушоракада ҳар бир шерик учун фойда улуши қандай тақсимланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "олинган ҳақиқий фойдага мос равишда аввалдан келишилган улуш миқдорида тақсимланади\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "унинг бизнесга тиккан сармоясига мутаносиб равишда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "олдиндан белгиланган қатъий миқдорда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "шериклар хохлаган миқдорда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Мушоракада зарарлар қандай тақсимланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ҳар бир шерик/ҳамкорнинг киритган сармоясига мос равишда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ҳар бир шерик/ҳамкорнинг қилган меҳнатига мос равишда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ҳар бир шерик/ҳамкорнинг олган иш ҳақига мос равишда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ҳар бир шерик/ҳамкорнинг олган қарзига мос равишда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Мушоракада А шерикнинг лойиҳадаги сармоясининг улуши 30\\% бўлса, ушбу лойиҳадан зарар кўрилганда унга зарарнинг қанчаси тўғри келади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "30\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "30\\%гача\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "50\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "10\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Мушоракада фойда ва зарарлар қандай тақсимланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "``Кўрилган фойда томонларнинг келишувига кўра, зарар еса киритилган сармояга мос равишда тақсимланади''\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "``Кўрилган фойда ҳам, зарар ҳам киритилган сармояга мос равишда тақсимланади''\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "``Кўрилган фойда ҳам, зарар ҳам томонларнинг келишувига кўра тақсимланади''\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "``Кўрилган фойда киритилган сармояга мос равишда, зарар еса томонларнинг келишувига кўра тақсимланади''\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Савдонинг умумий қоидаларига истисно тариқасида Шариатда қандай савдо турларига олдиндан маблағ беришга рухсат берилган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Салам ва Истисно\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ижара ва Мушорака\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Мушорака ва Мудораба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Мудораба ва Ижара\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Исломий суғурта компания маблағлари қандай қимматли қоғозларга жойлаштирилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "давлатниинг фоизли облигацияларига\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "шариат кенгаши маъқуллаган қимматли қоғозларга\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "корхоналар облигацияларига\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ҳосилавий қимматли қоғозларга\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Такофулни шаклларини кўрсатинг.?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "мулкий ва молиявий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "умумий ва оилавий такофул\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "молиявий ва оилавий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "шахсий ва оилавий\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўзбекистонда қандай молия ташкилотлари исломий молиялаштириш хизматларини кўрсатиши мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "нобанк кредит ташкилотлари\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "тижорат корхоналари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "банклар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "марказий банк\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом банкчилигида қарзи-ҳасан нима?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "фоизсиз қарз\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "муддациз қарз\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "фоизи паст қарз\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "закот\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўзбекистонда фаолият юритаётган исломий суғурта компанияси қайси?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Узаро\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Иман\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ал-мулк\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Таиба\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ижара шартномаси бўйича шартноманинг предметига қўйилган талаб қандай?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "истеъмол қилинмаслиги\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "бўлинувчанлик\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "такрорланиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "рентабеллик\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом молия бозорининг ўзига хос хусусиятларини кўрсатинг. Нотўғри жавобни аниқланг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "пул маблағлари билан реал активлар қарама-қарши харакат қилмайди\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "спекуляцияни таъқиқланади ва реал секторга инвестиция киритилади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "битим иштирокчилари ўртасида риск тақсимланади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Шариат қоидаларига зид бўлган соҳаларни акциялари харид қилинмайди\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Агар керакли хом-ашё мижоз томонидан етказиб берилса, ишлаб чиқарувчи фақат меҳнат қилса, бу битим нима деб аталади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Мураккаб истисна\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ижара\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Мудораба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Мушорака\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Майсир бу-\\ldots\\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ресурсларни ишлаб чиқаришга жалб қилмаган ҳолда фойда олишга қаратилган ҳар қандай спекулятив восита ва усуллардан фойдаланиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "фоизлар ундириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "тамаки маҳсулотлари ишлаб чиқариш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "хаддан зиёд таваккалчилик\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ғарар бу-\\ldots\\ldots.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ресурсларни ишлаб чиқаришга жалб қилмаган ҳолда фойда олишга қаратилган ҳар қандай cпекулятив восита ва усуллардан фойдаланиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "фоизлар ундириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "тамаки маҳсулотлари ишлаб чиқариш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ҳаддан зиёд таваккалчилик\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом молиясининг қайси жиҳатлари молиявий инқирозларга чидамлилигини таъминлайди?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "рискларни суғурталаши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ишлаб чиқариш тармоғига (реал секторга) таяниши\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "даромадлар ва рискни лойиҳа егаси билан тақсимлаши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "активлар рентабеллигига катта эътибор қаратиши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўзбекистон аҳолисининг неча фоиз аҳоли (жисмоний шахслар) эътиқоди сабабли анъанавий банк кредитларидан фойдаланишмайди?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "36\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "40\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "56\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "75\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ўзбекистоннинг неча фоиз хусусий тармоқ вакиллари эътиқоди сабабли анъанавий банк кредитларидан фойдаланишмайди?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "56\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "40\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "36\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "75\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўзбекистоннинг неча фоиз аҳоли ислом дарчалари очилса, улар билан ишлашга тайёр?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "56\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "75\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "40\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "10\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Илк ислом динига мувофиқ савдо-сотиқ қилиш, ислом иқтисодиёти ва молиясининг асосий тушунча ва тамойиллари, шу билан бирга бозор иштирокчиларида яхши фазилатларни шакллантириш бўйича билимлар қаерда берилган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "масжидларда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "бозорларда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "мадрасаларда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "карвон саройларда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Илк ислом тамойиллари асосида фаолият юритадиган, бозорга киришдаги чекловлар олиб ташланган бозор ким томонидан ташкил этилди?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Пайғамбаримиз Муҳаммад соллаллоҳу алайҳи васаллам\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Умар Разияллоху анху\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Али Разияллоху анху\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Одам алайҳиссалом\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Набий алайҳиссалом томонидан ташкил этилган илк бозорларда бозор иштирокчиларига қандай имтиёзлар берилди?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "солиқлардан озод этилди\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ижара тўловлари бекор қилинди\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "патта тўловлари минималлаштирилди\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "чексиз жойларда фойдаланиш ҳуқуқи берилди\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ҳисба бу-\\ldots\\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "бозор ишларини назорат қилувчи муассаса\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "бозорда фаолият юритиш қоидалари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "бозордаги талаб ва таклифни ўрганувчи муассаса\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "бозордаги низоларни ҳал қилувчи қори\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Илк даврларда ундириладиган ер солиғи ислом молиясида қандай номланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "хирож\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "жизя\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "файъ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "луқта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Пайғамбаримиз алайҳиссолату вассалам давлат хазинасидаги маблағларнинг катта қисмини нима мақсадларга ажратганлар?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "муҳтожларга ва қийналиб кун кўраётганларга ёрдам беришга\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "мактаблар қуришга\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ишлаб чиқаришни раҳбатлантиришга\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "янги бозорларни очиб, савдони ривожлантиришга\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Илк даврларда ғайридинлардан уларни ҳимояси учун олинадиган тўлов ислом молиясида қандай номланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "жизя\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "хирож\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "файъ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "луқта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом молиясида бойликни яратиш ва тақсимлаш қайси қоида асосида амалга оширилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Шариат\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "мулкдор ҳуқуқи ва ҳохиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "мулк тақсимоти\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "бозор тақсимоти\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом молиясида пулдан қайси мақсадда фойдаланилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "муомала воситаси\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "жаҳон пули\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "фойда олиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "жамғарма\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом молиясида барча транзакциялар нима билан таъминланган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "активлар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "пассивлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "олтин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "қимматли қоғозлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қайси иқтисодчи олим чўпончиликка асосланган жамиятлар ичида татарлар ва арабларни энг илғор миллат сифатида эътироф этган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Адам Смит\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Уилям Стаффорд\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ирвин Фишер\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Артур Пигу\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Байтул-мол бу-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ислом хазинаси\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "бозорларни назорат қилувчи муассаса\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "солиқ тури\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "уйсизлар келиб яшайдиган жой\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ижмо бу-\\ldots\\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "обрўли исломий олимлар томонидан аниқ бир масала ёки ҳолат учун ишлаб чиқилган ечимлар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "мураккаб ва мунозарали масалалар бўйича Қуръон ва ҳадисларда баён этилган асосларга кўра, мужтаҳидлар томонидан янги ечимларни ишлаш ва монандлиги асосида ҳукм чиқариш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "шариат ҳуқуқининг тармоғи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Қуръон ва ҳадисларга асосланган далиллар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қиёс бу-\\ldots\\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "мураккаб ва мунозарали масалалар бўйича Қуръон ва ҳадисларда баён этилган асосларга кўра, мужтаҳид олимлар томонидан янги ечимларни ишлаш ва монандлиги асосида ҳукм чиқариш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "обрўли исломий олимлар томонидан аниқ бир масала ёки ҳолат учун ишлаб чиқилган ечимлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "шариат ҳуқуқининг тармоғи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Қуръон ва ҳадислардаги хукмлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Рибонинг турлари тўғри келтирилган қаторни белгиланг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Рибо ал-фитх, рибо ал-унсур\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "майсир, ғарар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Рибо ас-сарв, Рибо ал-насия\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Рибо ан-насия, Рибо ал-фазл\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қуйида келтирилган қайси операция майсир ҳисобланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "акциялардан олинган дивиденд\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "лотерея билетидан ютуқ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "хайрия сифатида олинган пул\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "пул ўтказмаларидан олинган комиссион тўлов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Анъанавий банклардан фарқли равишда ислом банкларида мавжуд банк структурасидаги орган бу-?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Шариат Кенгаши\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Аудит Қўмитаси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Тафтиш Қўмитаси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Актив ва пассивларин бошқариш қўмитаси\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Муробаҳа -- бу..\\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "махсус савдо-сотиқ тури бўлиб, бунда сотувчи маҳсулотнинг харид нархини, қилинган харажатларни ва унинг устига ўзи қўйган устамани (фойдани) харидорга маълум қилади\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "махсус молиялаштириш тури бўлиб, бунда сотувчи маҳсулотнинг баҳосини харидорга маълум қилади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "махсус ижара тури бўлиб, бунда сотувчи маҳсулотнинг фақатгина харид нархини харидорга маълум қилади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "махсус молия институти бўлиб, бунда сотувчи маҳсулотни улгуржи сотиш билан шуғулланади\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Агар сотувчи маҳсулотнинг таннархини ва устамани маълум қилмаса, унда бу муробаҳа емас, балки ислом молиясида..............бўлади.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "``мусавама'' деб аталувчи оддий савдо битими\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "``истисно'' деб аталаувчи битим\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "``салам'' деб аталаувчи савдо битими\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "``ижара'' деб аталаувчи битим\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Муробаҳа анъанавий тижорий молиялаштиришдаги қандай кредитлар билан нисбий ўхшашлиги бор?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "инвестиция кредитлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "истеъмол кредитлари\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ипотека кредитлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "факторинг кредитлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Муробаҳа олди-бердиси қандай валютага асосланиш керак?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "маҳсулотни сотиб олувчи хохлаган валютага\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "фақатгина хорижий валютага\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "маҳсулотнинг етказиб берувчисидан сотиб олган валютага\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "фақатгина миллий валютага\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Аввалдан сотиб олишни ваъда қилмасдан битим тузиш мумкин бўлган ҳолатда қандай мурабаҳа деб аталади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "оддий муробаҳа\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ишонч асосидаги муробаҳа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "якуний истеъмолчи учун муробаҳа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ижара асосидаги муробаҳа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Активни сотиб олишдан манфаатдор бўлган шахс томонидан сотиб олишни олдиндан ваъда қилган ҳолда ҳам битим тузиладиган муробаҳа қандай деб аталади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ишонч асосидаги муробаҳа ёки якуний истеъмолчи учун муробаҳа\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "оддий муробаҳа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ижара асосидаги муробаҳа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "салам савдоли муробаҳа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Нима учун ислом банкларида оддий музораба битимидан фойдаланиш бироз қийинчилик туғдиради?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "битта сармоядорнинг маблағи йирик лойиҳани тўлиғича молиялаштиришга етмайди\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "фойдани тақсимлаш қийин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "зарарни аниқлаш мураккаб\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "лойиҳани бошқариш қийин\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Жамоавий музораба битимида иштирок этадиган томонлар қайси бирида тўғри кўрсатилган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "сармоя эгаси, ислом банки ва музориб\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "сармоя эгаси ва музориб\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "сармоя эгаси ва ислом банки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ислом банки ва музориб\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Жамоавий музорабада фойда кимлар ўртасида тақсим қилинади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "сармоя эгаси, ислом банки ва музориб (тадбиркор) ўртасида\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "сармоя эгаси ва ислом банки ўртасида\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "сармоя эгаси ва музориб (тадбиркор) ўртасида\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ислом банки ва музориб (тадбиркор) ўртасида\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Эгалик билан якунланувчи музораба турини аниқланг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "сармоя эгаси лойиҳадаги ўз улушини музорибга босқичма-босқич ёки бир марталик тўлов евазига сотади\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "инвестиция муддати якунига етгач ҳамда олинган фойда томонлар ўртасида келишилган нисбатда тақсимлангач сармоя ўз эгасига қайтарилади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "сармоя эгаси лойиҳадаги ўз улушини музорибга ижарага беради\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "сармоя эгаси лойиҳадаги ўз улушини музорибга бермайди\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом фиқҳи меъёрларига мувофиқ исломий банк қандай актив амалиётлари доирасида мушорака шартномасидан фойдаланилади?Нотўғри жавобни топинг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "истеъмол кредитларини молиялаштиришда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "экспорт-импортни молиялаштиришда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "лойиҳавий ва синдикатлашган молиялаштиришда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "қимматли қоғозларни чиқаришда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Мушарака ҳуқуқий жиҳатдан тўғри / яроқли бўлган шартномага хос бўлган жиҳатларни кўрсатинг. Нотўғри жавобни топинг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "шартномага алоқадор маълумотлар бир томонга маълум бўлиши керак\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "томонлар шартномани имзолашга қодир бўлишлари керак\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "шартнома ихтиёрий тарзда амалга оширилаётган бўлиши керак\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "шартнома ноқонуний шарт ва мажбуриятларни ўз ичига олмаслиги керак\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Салам савдосида банклар ва молиявий ташкилотларнинг фойдаси қандай шаклланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "салам савдосидаги нарх маҳсулотлари дарҳол етказиб бериладиган савдодаги нархга қараганда пастроқ белгиланиши натижасидаги тафовутдан\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "салам шартномасидаги маҳсулотларнинг бозор нархларнинг ўсиши натижасида\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "салам савдоси хизматини кўрсатиш натижасида олинадиган хизмат ҳақи олинади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "салам савдосига берилган маблағлардан фоиз олинади\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Музораба одатда қандай муддатли инвестицион лойиҳаларни молиялаштириш учун қўлланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "қисқа ва ўрта муддатли\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "узоқ муддатли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "муддатига қаралмайди\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "муддасиз\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Истисна шартномаси қачон ва қандай бекор қилиниши мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ишлаб чиқаришни бошланмасдан олдин томонлардан бири иккинчи томонга огоҳлантириш берган ҳолда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ишлаб чиқариш бошлангандан кейин ҳам томонлардан бири иккинчи томонга огоҳлантириш берган ҳолда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ишлаб чиқаришни бошланмасдан олдин томонлардан бири иккинчи томонни огоҳлантирмасдан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "хохлаган вақтда хохлаган томон\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Агар ака-ука отасига совға қилиш учун биргаликда машина сотиб олишса, бу қандай шерикчилик ҳисобланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ихтиёрий ҳамкорлик\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "мажбурий шериклик\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ширкат ал-амал\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "вақтинчалик мушарака\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Юсуф ва Бакр оталарининг ягона меросхўрлари бўлиб, отасининг кўчмас мулк портфелини биргаликда мерос қилиб олишлари қандай шерикчиликка киради?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "мажбурий шериклик\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ихтиёрий ҳамкорлик\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ширкат ал-амал\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "вақтинчалик мушарака\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўзбекистонда фаолият юритиб келаётган исломий лизинг компанияси кўрсатинг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Таиба\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Иман\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ал-мулк\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Апех\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўзбекистонда фаолият кўрсатаётган исломий суғурта компаниясини белгиланг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Апех\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Иман\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ал-мулк\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Таиба\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўзбекистонда фаолият кўрсатаётган исломий инвестиция ташкилотини аниқланг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ал-мулк\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Апех\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Узаро\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Таиба\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўзбекистонда фаолиятини олиб бораётган исломий инвестиция ташкилотини кўрсатинг?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Иман\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Апех\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Узаро\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Таиба\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қайси иқтисодий тизимда мулкдор ҳохишига кўра, бойлик яратилади ва тақсимланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "капиталистик тизим\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "социалистик тизим\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "бозор иқтисодиёти тизими\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ислом молияси тизими\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом банкларида мижоз молиявий қийинчиликларга дуч келганда мижозларга бериладиган кредит тури қандай номланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "қарзи-ҳасан\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "амана\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "мудараба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ижара\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қарзи-Ҳасан олган мижоз қарз миқдорини тўлай олмаса, ислом банклари томонидан қандай чоралар кўрилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "банк бу маблағларни садақа ёки закот сифатида ҳисобдан чиқаради\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "банк маъмурий харажатлар ҳисобига қарз миқдорини қоплайди\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "банк қарз миқдорини қоплаш учун гаров юборади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "банк тўловни бир йилга кечиктиради\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Музораба бўлиш учун энг кам \\_\\_\\_ аъзо(томон) бўлиши керак.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ушбу компанияларнинг қайси бири акцияларнинг ҳалоллигини тасдиқлайди?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Zoya Finance\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "фонд биржаси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Wahed Invest\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sharia portfolio\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ушбу компаниялардан қайси бири сармояни шариатга мувофиқ бошқариш билан шуғулланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Wahed Invest\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "фонд биржаси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Zoya Finance\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sharia portfolio\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қимматли қоғозлар бўйича маслаҳат Шариат Кенгаши томонидан акциялар савдоси рухсат этилиши учун танловдан ўтиш жараёни нима деб номланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "скрининг\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "мониторинг\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "манипуляция\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "калкуляция\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ААОIFI халқаро стандартларига кўра, тақиқланган фаолиятдан келган даромад жами даромаднинг неча фоизидан кам миқдорни ташкил қилса, ушбу компания акциясини сотиб олиш мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "5\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "10\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "15\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "20\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "ААОIFI халқаро стандартларига кўра муробаҳа нимани ўзида акс еттиради?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "банк ёки бошқа молиявий воситачи мижоз учун зарур бўлган активни сотувчидан сотиб олиши ва уни мижозга тўлов муддатини узайтириш йўли билан сотишини\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "банк ёки бошқа молиявий воситачи мижоз учун зарур бўлган активни сотувчидан сотиб олиши ва уни мижозга ижарага беришини\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "банк ёки бошқа молиявий воситачи мижоз учун зарур бўлган активни сотувчидан сотиб олиши ва уни мижозга шерикчилик асосида беришини\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "банк ёки бошқа молиявий воситачи мижоз учун зарур бўлган активни ишлаб чиқаришини\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Илк замонавий лотореялар нима мақсадда ташкил этилган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "қашшоқларга кўмак бериш учун\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "давлат бюджетини тўлдириш учун\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "банкка маблағлар жалб қилиш учун\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "йўлларни реконструкция қилиш учун\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом банкларининг ўзига хослиги нимада?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Шариат тамойиллари асосида фаолият юритиши\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "фақат мусулмонларга хизмат кўрсатиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "мусулмон давлатларида жойлашганлиги\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "фақат динорда операцияларни амалга ошириши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Агар анъанавий банк ислом банкига айлантирилса, биринчи бўлиб қандай чора кўриши керак?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Шариат Кенгашини тузиши керак\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ислом банки сифатида марказий банкдан қайта лицензия олиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "шариат қоидаларини биладиган ходимларни ески ходимлар ўрнига ёллаши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "амалга оширадиган операцияларни фақат динорда амалга ошириши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Салам шартномаси битим тузилаётган вақтда товар қандай ҳолатда бўлгандагина тузилиши мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "сотувчининг эгалигида бўлмаган ҳолатда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "сотувчининг эгалигида бўлган ҳолатда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "йўлда бўлган ҳолатда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "омборда бўлган ҳолатда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Закот учун жамғармадан неча фоиз солиқ олинади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2,5\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "5\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3,5\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "10,5\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом банк иши, капитал бозорлари ва суғурта соҳасида глобал пруденсиал стандартларни ишлаб чиқиш, жорий етиш ва уларга риоя этилишини назорат қилиш мақсадида ташкил этилган халқаро ташкилот қандай номланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ислом молиявий хизматлар кенгаши\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Шариат кенгаши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Халқаро валюта фонди\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Базел қўмитаси\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Исломий молия соҳасида ўз вақтида етказиб берилмаган товар учун жаримага тортиш рухсат этилган ягона шартномани кўрсатинг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Истисна\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Салам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Мудораба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Мушорака\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Исломий шартномаларда шахснинг лаёқатлилик шартлари?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "барча жавоблар тўғри\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "балоғатга етган бўлиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "эркин бўлиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "битимлар тузишга ҳуқуқи бўлиши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ҳисба муассасасининг асосий вазифалари тўғри келтирилган қаторни белгиланг?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "бозорда қонун, тартиб ва адолатли савдони таъминлаш ҳамда назорат қилиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "бозор қоидаларини ишлаб чиқиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "солиқ миқдори ва турларини ишлаб чиқиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ислом банклари фаолиятини тартибга солиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Илк даврларда уруш ва сарияларда олинган ўлжалар тўлови ислом молиясида қандай номланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "файъ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "хирож\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "жизя\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "луқта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Масжидда уйсизлар келиб яшашлари мумкин бўлган вақф уйлари нима деб номланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ҳисба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ас-Суффа\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "мадраса\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Вадия\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ссак бу-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ойлик маош ва дон маҳсулотлари учун тўлов сифатида ишлатилган чек\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "савдо фаолиятида саёҳат чеклари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "қарзларни ўтказиш учун ишлатилган инструмент\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "жамғариш ва сақлаб беришда ишлатилган инструмент\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Суфтажа бу-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "савдо фаолиятида саёҳат чеклари\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ойлик маош ва дон маҳсулотлари учун тўлов сифатида ишлатилган чек\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "қарзларни ўтказиш учун ишлатилган инструмент\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "жамғариш ва сақлаб беришда ишлатилган инструмент\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ҳ̣ишалаҳ бу-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "қарзларни ўтказиш учун ишлатилган инструмент\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ойлик маош ва дон маҳсулотлари учун тўлов сифатида ишлатилган чек\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "савдо фаолиятида саёҳат чеклари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "жамғариш ва сақлаб беришда ишлатилган инструмент\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қуйидаги келтирилган қайси операция майсир ҳисобланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "своп ва фючерслардан олинган даромад\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "акциялардан олинган дивиденд\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "хайрия сифатида олинган пул\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "пул ўтказмаларидан олинган комиссион тўлов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Банк Шариат кенгаши қуйида келтирилган қайси ҳолатларда фатво бериши мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "банк транзакциялар ёки маҳсулотларига\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "банкнинг Шариат кенгаши фатво бермайди\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "банк кенгаши таркибини сайлашда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "банк ходимларини ишга олишда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Муробаҳада сотувчининг маҳсулотни харидорга етказишига бевосита алоқаси бўлмаган жорий харажатларини кўрсатинг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ходимларни медицина кўригидан ўтказиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "маҳсулотни етказишдаги транспорт харажатлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "маҳсулотни ташиш вақтидаги суғурта қилиш харажатлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "маҳсулотни ортиш ва тушириш харажатлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Чекланмаган музораба (Мудараба Мутлақ)нинг хусусиятларини аниқланг? Нотўғри жавобни кўрсатинг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "музориб сармоя (раъсул мол)ни сармоя эгаси (роббул мол) хоҳлаган соҳага инвестиция қилиши мумкин бўлади\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "музориб сармоя (раъсул мол)ни ўзи хоҳлаган соҳага инвестиция қилиши мумкин бўлади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "музориб сармоя (раъсул мол)ни сармоя эгаси (роббул мол)нинг ҳеч қандай аралашувисиз эркин ҳолда инвестиция қилиши мумкин бўлади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ислом банкларининг маблағларни жалб этиш йўналишида олиб борадиган фаолиятининг устун шакли ҳисобланади\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Чекланган музораба (Мудараба Мутақаййида) хусусиятларини аниқланг? Нотўғри жавобни кўрсатинг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "музориб сармоя (раъсул мол)ни ўзи хоҳлаган соҳага инвестиция қилиши мумкин бўлади\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "роббул мол (сармоя эгаси) музорибга муайян шартлар белгилаб беради\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "роббул мол (сармоя эгаси) музорибга муайян чекловларни белгилаб беради\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "музорибни инвестиция қилишда эркин бўлмайди\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Шариат Кенгашидан бошқа қайси ташкилотлар ислом банкларига махсулотлари бўйича шариатга оид маслаҳатлар бериши мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ислом консалтинг ташкилотлари\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "суғурта компаниялари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Марказий банк\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ислом тараққиёт банки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "ААОIFI халқаро стандартларига кўра, мушорака (шарика, ширкат) .......\\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "шерикчилик шартномасидир, бу икки ва ундан кўпроқ томонлар ўртасида фойда олиш мақсадида меҳнат ресурслари ёки мажбуриятларни, активларни бирлаштириш тўғрисидаги келишувни англатади\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "савдо шартномасидир, бу икки ва ундан кўпроқ томонлар ўртасида фойда олиш мақсадида товарларни бирлаштириш тўғрисидаги келишувни англатади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ижара шартномасидир, бу икки ва ундан кўпроқ томонлар ўртасида фойда олиш мақсадида активларни бирлаштириш тўғрисидаги келишувни англатади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "меҳнат шартномасидир, бу икки ва ундан кўпроқ томонлар ўртасида фойда олиш мақсадида меҳнат ресурслари бирлаштириш тўғрисидаги келишувни англатади\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сукукдан қаерда фойдаланилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "маблағларни жалб этишда ва инвестиция киритишда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "фақатгина маблағларни жалб этишда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "фақатгина инвестиция киритишда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "чайқов билан шуғулланишда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом капитал бозорида акцияларни олди-сотдисида қайдай талаблар қўйилади?Нотўғри жавобни аниқланг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ўзи эгалик қилмайдиган акцияни бошқага сотиши мумкин\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "имтиёзли акциялар чиқариш ва улар билан олди-сотди қилиш мумкин эмас\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "фоизли қарз эвазига акциялар сотиб олиш мумкин эмас\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "акциялар учун фъючерс, опцион ва своп шартномаларини тузиш мумкин емас\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Келажакда шериклар ўзларининг биргаликдаги тадбиркорлик фаолиятини тўхтатиш ниятида бўлмаса, бу музорабанинг қайси тури ҳисобланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "доимий музараба\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "чекланган музораба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "чексиз музараба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "вақтинчалик музараба\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Келажакда шериклар ўзларининг биргаликдаги тадбиркорлик фаолиятини тўхтаса музораба шартномасининг қайси тури ҳисобланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "вақтинчалик музараба\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "чекланган музораба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "чексиз музараба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "доимий музараба\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Музараба шартномаларига қандай шаклларда сармоя киритиш мумкин эмас?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "дебиторлик қарзлари шаклида\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "нақд пулда ва активлар шаклида\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "фақат нақд\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "олтин ва олтин динор шаклида\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қайси банк маҳсулотлари мижознинг айланма маблағларини молиялаштиради??\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "мурабаҳа, салом, истисно\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ижара, мушорака\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "истисно, музораба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "мушарака, музораба\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Акциядорлик жамиятининг устав капиталини тенг улушларда 4 нафар шахс томонидан шакллантирганда шерикчиликни қайси турига мос келади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "тенг шериклик (ширкат ал-муфавада)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "капиталга шериклик (ширкат ал-амвал),\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "меҳнат иштироки бўйича ҳамкорлик (ширкат ал-амал)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "тенгсиз шериклик (ширкат ал-инан)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Агар шерикларнинг улушлари ҳар хил бўлса (масалан, ``А'' -- 50\\%, ``Б'' -- 30\\% ва ``C'' -- 20\\%), унда бу турдаги шерикчилик қайси турдаги шерикчиликка тегишли бўлади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ширкат ал-инан\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ширкат ал-амвал\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ширкат ал-амал\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ширкот ал-муфавада\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом банкларида қандай банк маҳсулотлари лизинг операцияларига ўхшаш?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ижара\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "мурабаҳа, салом, истижор\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "истисно, мудораба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "мушарака, салом, мурабаҳа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Муробаҳа шартномасида молни сотиб олиш билан боғлиқ бевосита харажатлар қайси қаторда тўғри кўрсатилган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ускунани ўрнатиш билан боғлиқ харажатлар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ижара ҳақи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "электр энергияси учун тўлов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "сув учун тўловлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Саломнинг давомийлиги қисқароқ бўлса, товарнинг нархи \\_\\_\\_ бўлади ва фойда камроқ бўлади.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "баланд\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "паст\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "доимий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "сузувчи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Салом шартномасида, харидор \\_\\_\\_ қоидасидан фойдаланишга ҳақли, яъни агар товар сифати паст бўлса, у битимдан воз кечиши мумкин.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ҳияр ал-айб\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ҳияр ар-руё\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ҳияр аш-шарт\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "фасх\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Паралел салом шартномасида банк \\_\\_\\_\\_ томонлама шартнома тузади.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "икки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "бир\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "уч\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "беш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қайси турдаги ислом банки маҳсулоти ``Агентлик шартномаси'' ҳисобланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "вакала\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "амана\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "шадиа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "мушарака\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қарзи-Ҳасан қандай мақсадларда тақдим этилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "хайрия ва қисқа муддатли лойиҳалар учун\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "уй сотиб олиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "асосий воситаларни сотиб олиш учун\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "устав капиталини шакллантириш учун\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Вакала шартномасига кўра вакил ким ҳисобланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "мижоз манфаатларини ифодаловчи банк\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "активларга эгалик қилувчи асосий шахс\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "лойиҳа менежери\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ушбу активнинг эгаси томонидан банкка берилган актив\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом ҳуқуқининг иккиламчи манбаларини аниқланг.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ижмо ва қиёс\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ижмо ва фатво\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Қуръон ва Суннат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ислом ҳуқуқи асосларига зид бўлмаган ижобий манбалар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ислом банки фаолиятида қуйидаги қайси тушунчалар фаол ишлатилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ҳаром / ҳалол\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "рентабеллик / майсир\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ликвидлик / даромадлилик\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ғарар / хавфлилик\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Муробаҳа шартномасида молни сотиб олиш билан боғлиқ бевосита харажат қайси қаторда тўғри кўрсатилган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "транспорт харажатлари\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ижара ҳақи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "электр энергияси учун тўлов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "сув учун тўловлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Муробаҳа шартномасида молни сотиб олиш билан боғлиқ бевосита харажатлар қайси қаторда нотўғри кўрсатилган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "электр энергияси учун тўлов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "суғурта харажатлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "омборхона ҳаражатлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "солиқлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Закот тўловчига тегишли шартлар қайсилар?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "барча жавоблар тўғри\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "мусулмон бўлиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "балоғатга етган бўлиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ақлий салоҳиятга ега бўлиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Агар компаниянинг асосий даромади (95\\%+) тақиқланмаган фаолиятдан келса, унинг акцияларини шаръий скринингдан ўтказишда қайси молиявий кўрсаткичлар ўрганилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "барча жавоблар тўғри\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "қарзни молиялаштириши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "фоиз даромадлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "нақд пул ва дебиторлик қарзлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

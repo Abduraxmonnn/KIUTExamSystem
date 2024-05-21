@@ -1,0 +1,542 @@
+[
+    {
+        "id": 111,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analytics nima uchun ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsning asosiy maqsadi va vazifalari nimalar?\n"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda qanday ma’ lumotlar (data) ko’ rib chiqiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda qanday qilib ma’ lumotlar o’ rganiladi va tahlil qilinadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda qanday algoritmlar va usullar ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda qanday muammolar (challenges) uchun e’ tibor beriladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsning ahamiyati va etkisi nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda foydalaniladigan asosiy dasturlash tillari va platformalar nimalar?\n"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analytics sohasida qanday mahoratlar va bilimlar talab qilinadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda qanday maqsadlar uchun qo’ llaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda ma’ lumotlar qanday ko’ rsatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda ma’ lumotlar o’ rganish va tahlil qilish uchun qanday vositalar va algoritmlar foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsning ma’ lumotlar analitikasi (data analytics) bilan qanday farqi bor?\n"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda qanday ma’ lumotlar tarqatiladi va saqlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda qanday platformalar va kutubxonalar foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda ma’ lumotlar himoyasi (data security) qanday ta’ minlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsning muhimliklaridan biri qanday ma’ lumotlar vizualizatsiyasi?\n"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analyticsda qanday muammolar mavjud bo’ lishi mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "question": [
+            {
+                "type": "text",
+                "content": "Big Data Analytics sohasida yangi rivojlanishlar va tendensiyalar qandayd?\n"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi nima uchun ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi qanday ma’ lumotlar strukturasini (data structure) ta’ minlaydi?\n"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandasda ma’ lumotlar (data) qanday formatlarda o’ qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlar filtirlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlar o’ zgartiriladi va yangilanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandasda ma’ lumotlar statistik analiz qilish uchun qanday imkoniyatlar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlar bo’ ylab hisobotlar tuziladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlar tarqatiladi va saqlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlar orasida munosabatlar (relations) aniqlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi foydalanilgan holda qanday muammotlar hal qilinadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi orqali qanday qilib ma’ lumotlar (data) import qilinadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandasda ma’ lumotlar (data) o’ qish uchun qanday funksiyalar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi orqali qanday qilib ma’ lumotlar o’ zgaruvchilari (variables) yaratiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandasda ma’ lumotlar (data) qanday qilib to’ plangan va jadvallar (dataframes) tuziladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlar (data) qanday formatlarda eksport qilinadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandasda ma’ lumotlar (data) qanday qilib filtrlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlar indekslanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi orqali qanday qilib ma’ lumotlar statistik tahlil qilinadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlar o’ zgartiriladi va yangilanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandasda ma’ lumotlar (data) qanday qilib guruhlangan va qanday qilib aggregatsiyalash (aggregation) qilinadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasida Big Data ma’ lumotlari qanday formatlarda o’ qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib katta hajmdagi ma’ lumotlar (data) yuklanadi va o’ qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandasda katta hajmdagi ma’ lumotlar (data) uchun yuklash va o’ qish jarayoni qanday tezligini ta’ minlash uchun qanday usullar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib chunk (qismlar) bo’ yicha ma’ lumotlar (data) yuklash mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "question": [
+            {
+                "type": "text",
+                "content": "Katta hajmdagi ma’ lumotlarni (data) qanday qilib chunklarga ajratish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasida katta hajmdagi ma’ lumotlarni (data) qanday qilib filtrlash va qayta ishlash mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "question": [
+            {
+                "type": "text",
+                "content": "Katta hajmdagi ma’ lumotlar (data) bilan ishlashda muammo va tartib qanday hal qilinadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasida Big Data ma’ lumotlari statistik tahlil qilish uchun qanday usullar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib katta hajmdagi ma’ lumotlarni (data) jadvallar (dataframes) orqali qo’ shish, biriktirish va biriktirish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "question": [
+            {
+                "type": "text",
+                "content": "Katta hajmdagi ma’ lumotlar (data) bilan ishlashda yuzaga kelishi mumkin bo’ lgan muammotlar va ularni hal qilish usullari qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi orqali katta hajmdagi ma’ lumotlarni (data) qanday qilib indexlash mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlarni (data) qanday formatlarda eksport qilish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "question": [
+            {
+                "type": "text",
+                "content": "Katta hajmdagi ma’ lumotlarni (data) yuklash va o’ qish jarayonida qanday muammo yuzaga kelsa, unda nimalar qilish kerak?\n"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlarni (data) o’ zgartirish va yangilash mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "question": [
+            {
+                "type": "text",
+                "content": "Katta hajmdagi ma’ lumotlarni (data) qanday qilib filtrlash va tartiblash mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi orqali qanday qilib ma’ lumotlar (data) bilan statistik analiz qilish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "question": [
+            {
+                "type": "text",
+                "content": "Katta hajmdagi ma’ lumotlarni (data) qanday qilib guruhlangan va aggregatsiyalash (aggregation) qilish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi orqali qanday qilib katta hajmdagi ma’ lumotlarni (data) qo’ shish, biriktirish va biriktirish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pandas kutubxonasi bilan qanday qilib ma’ lumotlar (data) orasida munosabatlar (relations) aniqlash mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "question": [
+            {
+                "type": "text",
+                "content": "Katta hajmdagi ma’ lumotlar (data) bilan ishlashda yuzaga kelishi mumkin bo’ lgan muammo va ularni hal qilish usullari qanday?\n"
+            }
+        ]
+    }
+]

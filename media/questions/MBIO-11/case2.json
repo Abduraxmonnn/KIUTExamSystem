@@ -1,0 +1,6036 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое проект?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Временное предприятие\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Непрерывная работа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Стратегический план управления\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Запланированная задача\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой документ определяет начало проекта и его основные требования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Устав проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Бизнес-план\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " План проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Краткое описание проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Каков первый шаг в процессе управления проектом?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Инициация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Планирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Выполнение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Закрытие\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой процесс помогает управлять изменениями в проекте?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Управление изменениями\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Управление рисками\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Управление качеством\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Управление ресурсами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кто является заинтересованными сторонами проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Люди или группы, заинтересованные в успехе проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Команда проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Конкуренты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Поставщики\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой инструмент используется для визуализации задач и этапов проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Диаграмма Ганта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " SWOT-анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Стратегический план\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " План качества\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое WBS (структура декомпозиции работ)?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Иерархическая декомпозиция задач проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " График проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Бюджет проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " План коммуникации\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой документ определяет, как будут управляться и контролироваться риски проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " План управления рисками\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Анализ рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Политика управления рисками\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Аудит рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает термин «базовый уровень» (baseline) в управлении проектами?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Начальный план, с которым сравниваются изменения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Вариант проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Конечный результат проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Нижний предел качества\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какая роль ответственна за предоставление ресурсов и поддержку проекту?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Спонсор проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Менеджер проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Клиент\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Команда проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой процесс управления проектами включает в себя мониторинг, анализ и управление прогрессом и производительностью?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Мониторинг и контроль\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Планирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Исполнение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Инициация\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое « milestone » в контексте управления проектами?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Важный этап, достижение главной цели\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Конец проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Первый этап проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Промежуточный отчет\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется метод оценки, который использует оптимистичные, пессимистичные и наиболее вероятные оценки времени?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " PERT\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Диаграмма Ганта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Метод критического пути\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Earned Value Management\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой документ помогает управлять ожиданиями заинтересованных сторон?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " План управления коммуникациями\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Устав проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " План заинтересованных сторон\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " План управления изменениями\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая роль в проекте отвечает за выполнение задач согласно плану проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Команда проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Спонсор проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Заинтересованные стороны\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Менеджер проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является одним из трех основных ограничений проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Опасность\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Область применения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Бюджет\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Время\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой инструмент помогает визуализировать взаимосвязь между различными процессами в проекте?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сетевая диаграмма\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " SWOT-анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Диаграмма Исикавы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Балансовый отчет\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает аббревиатура «PMO» в управлении проектами?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Project Management Office\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Performance Measuring Objective\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Project Managing Operation\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Personnel Management Organization\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется процесс оценки общей стоимости проекта на основе прогресса и бюджета?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Earned Value Management\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Бюджетирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Контроль затрат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Управление затратами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое сползание объема (scope creep)?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Увеличение объема проекта без изменения ресурсов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Уменьшение размера проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Планируемое увеличение объема\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Конец проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой документ определяет, как проект будет принят заказчиком или спонсором?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " План приемки проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Устав проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " План управления качеством\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Краткое описание проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из следующих элементов важен для «управления заинтересованными сторонами»?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Понимание их влияния на проект\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Определите свой финансовый вклад\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ограничить их участие\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " A и B верны\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что входит в тройное ограничение в управлении проектами?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Масштаб, стоимость, время\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Стоимость, Время, Качество\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Масштаб, ресурсы, качество\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Риск, Объем, Стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой документ содержит подробное описание продукта или услуги, которую проект намеревается создать?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Описание области применения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Устав проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Запрос на изменение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Бизнес-план\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного является примером «мягких навыков» (soft skill) менеджера проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Коммуникативные навыки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Тайм-менеджмент\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Разработка бюджета\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Анализ рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из следующих видов риска связан с потерей интереса ключевых заинтересованных сторон к проекту?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Организационный риск\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Технический риск\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Финансовый риск\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Экономический риск\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой тип контракта наиболее опасен для клиента?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Договор с возмещением затрат\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Фиксированная стоимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Время и материалы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Подряд на льготных условиях\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какая роль в проекте отвечает за обеспечение соответствия результатов проекта его первоначальным целям?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Проектный менеджер\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Спонсор проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Контролер качества\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Клиент\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой инструмент используется для анализа взаимосвязи между различными переменными проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Анализ чувствительности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Матрица решений\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Анализ сценариев\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Моделирование и симуляция\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой метод управления проектами ориентирован на поэтапную реализацию проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Agile\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Waterfall\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Spiral\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " SCRUM\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного является основными преимуществами методологии Agile?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Гибкость в изменениях\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Полный контроль процесса\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Строгий контроль сроков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Стоимость замены\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Как называется техника, при которой проект разбивается на меньшие части для более детального планирования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Decomposition\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aggregation\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Consolidation\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Fragmentation\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какая методика управления проектами основана на принципах устойчивого развития и минимизации отходов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Lean\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Agile\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Waterfall\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kanban\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая роль обычно отвечает за разрешение конфликтов внутри команды проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Проектный менеджер\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Спонсор проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Менеджер по персоналу\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Технический директор\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая техника управления проектами включает использование визуальных досок для отслеживания работы и потока задач?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kanban\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gantt-диаграмма\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " PERT\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Critical Path Method\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что такое проектная документация?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Документы, содержащие все письменные материалы проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Документы подготовлены для клиента\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Только техническая документация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Планы и отчеты для внутреннего использования\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой критерий отбора проектов Соудера указывает на то, что эффективная модель должна отражать цели организации, включая стратегические цели и миссию фирмы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Реализм\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Способность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сопоставимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Простота использования\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Модель отбора, достаточно широкая, чтобы ее можно было применять к нескольким проектам, имеет следующие преимущества:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Возможность сравнения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Простота использования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Способность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Гибкость\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Критерий отбора проектов, который позволяет компании сравнивать долгосрочные и краткосрочные проекты, проекты с разными технологиями и проекты с разными коммерческими целями\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Возможность\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Гибкость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Простота использования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Реализм\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Если модель может быть успешно применена людьми во всех областях и на всех уровнях организации, говорят, что она обладает чертой:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Простота использования\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Возможность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Гибкость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Реализм\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Внутренняя оперативная проблема при проверке и отборе проектов заключается в следующем:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Изменение физической среды\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ожидаемый возврат инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Патентная защита\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Возможность нанесения ущерба репутации фирмы из-за качества выполненного проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Одним из факторов проекта, который напрямую влияет на внутреннюю деятельность компании, является -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Необходимость развития персонала\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ожидаемый возврат инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Финансовый риск\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Влияние на имидж компании\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Коммерческим фактором при выборе и проверке проектов может быть:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Долгосрочное доминирование на рынке\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Необходимость развития персонала\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Вероятность травмирования пользователей проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Влияние на имидж компании\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Большая часть бюджета проекта расходуется на\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Реализация плана проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Разработать план проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Завершение проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Коммуникация по проекту\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного является наиболее важным компонентом тройного ограничения?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Если не указано иное, все они имеют одно и то же значение.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Время, затем стоимость, затем качество\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Качество, потом бюджет, потом время\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Объем\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из следующего лучше всего описывает заинтересованную сторону проекта?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Все указанные лица являются заинтересованными сторонами\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Член команды\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Менеджер проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Тот, кто работает в области, затронутой проектом\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является элементом определения проекта?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Проект состоит из несвязанных между собой действий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Проект ограничен по времени\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Проект уникален\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Проект выполняется с единственной целью\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какова основная задача функционального менеджера?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Контроль ресурсов\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Для управления проектом в отсутствие менеджера проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Определение бизнес-процессов\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Для управления менеджером проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какова типичная роль высшего руководства в проекте?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Поддержка проекта, ресурсное и другое разрешение конфликтов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Поддержка проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Выставление счетов по проекту\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Разрешение ресурсных и других конфликтов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется организация, которая контролирует руководителей проектов, документацию и политики?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Офис управления проектами\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сильная матрица\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Функциональная матрица\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Чистый проект\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "В функциональной организации:\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Власть в основном принадлежат функциональному менеджеру\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Власть в первую очередь принадлежит менеджеру проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Власть поровну распределяется между проектными и функциональными менеджерами\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Власть находится в офисе проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Менеджер проекта сталкивается с сопротивлением со стороны функционального менеджера при получении ресурсов команде проекта. Кто из следующих является наиболее подходящим, чтобы помочь разрешить эту ситуацию?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Старшее руководство\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Клиент\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ключевые заинтересованные стороны проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Руководитель проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "В слабой матричной организации:\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Больше власти принадлежит функциональному менеджеру\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Больше полномочий принадлежит менеджеру проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Власть поровну распределяется между проектом и функциональными менеджерами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Клиенту проекта предоставляется больше полномочий\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Офис управления проектами (PMO), который в первую очередь предназначен для работы в качестве устройства наблюдения и мониторинга, часто называют\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Метеостанцией\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Пул ресурсов\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Диспетчерская вышка\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Матрица\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется организация, в которой менеджеры проектов несут полную ответственность за контроль над своими проектами и всеми ресурсами?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Тяжеловесная проектная организация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Функциональная организация\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сбалансированная матрица\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Иерархическая организация\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Менеджер проекта проводит большую часть своего времени в общении с заинтересованными сторонами проекта. Что из перечисленного является примером группы заинтересованных сторон для его проекта?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Все заинтересованные стороны проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Старшее руководство\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Клиенты\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Члены проектной группы\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не включает в себя эффективное лидерство?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Поддержание жесткого контроля над всеми ресурсами проекта и предоставление информации членам команды только\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Самоконтроль посредством управления личным временем, управления стрессом и других видов деятельности\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Управление членами команды посредством мотивации, расширения прав и возможностей, контроля и формирования команды.\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Набираем и используем лидеров проекта, которые могут извлечь выгоду из проекта.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Менеджер проекта впервые встречается со своей командой и хочет создать среду, в которой отношения будут развиваться позитивно. Какие из следующих рекомендаций ему следует использовать для построения эффективного сотрудничества со своей командой?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Все необходимо для создания партнерства\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Право сказать «нет»\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Общая ответственность\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Обмен целями\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного является примером практики лидерства?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Быть образцом для подражания для людей в преодолении препятствий и проявлении личной инициативы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сосредоточьтесь на планах и бюджетах\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Стремление сохранить статус-кво и консолидацию порядка\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Сохранение краткосрочного горизонта и избежание ненужных рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Фрэнк узнал о влиянии эмоционального интеллекта на его способность эффективно управлять проектом. Что из перечисленного не является примером эмоционального интеллекта, который поможет ему работать лучше?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ориентация на результат (работа на достижение цели)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Самосознание и самоуправление\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Мотивация\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Социальные навыки\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какова основная цель менеджера проекта?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Выполнение согласованного объема проекта в рамках временных и бюджетных ограничений\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Следуйте процессам PMI и получите сертификат\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Произведите впечатление на клиента\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Принесите максимальную пользу организации\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Лучший способ помочь вашему проекту в качестве его руководителя\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Все вышеперечисленное является важными лидерскими навыками, которые\\\\\n"
+            },
+            {
+                "type": "text",
+                "content": "следует использовать\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Управляйте открытой и активной сетью общения между всеми ключевыми заинтересованными сторонами.\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Обеспечивайте команду четким представлением о критическом характере проекта и его целях.\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Разрабатывайте методы мотивации, соответствующие потребностям каждого члена команды.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какую самую важную функцию выполняет менеджер проекта?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Общение\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Кадровое обеспечение\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Продвижение по службе\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Вознаграждение\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Чертой эмоционального интеллекта, которая имеет решающее значение для эффективного лидерства, является:\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Эмпатия\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Соблюдение дистанции\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Избегание конфликтов\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Информированность членов команды\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сара –- старший менеджер, который, хотя и не является частью команды проекта, активно работал с участниками важного проекта, помогая им приобретать дополнительные ресурсы, координируя их деятельность с другими руководителями высшего звена из разных отделов, а иногда выступая в качестве эмоционального болельщицы, чтобы поддерживать высокий уровень энергии и энтузиазма в команде. Какова роль Сары в проекте?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Чемпион проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Менеджер проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Главный исполнительный директор\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ничто из этого не входит в его обязанности\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется самый низкий уровень разбивки в иерархической структуре работ (WBS)?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Рабочий пакет\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Результат\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Дополнительный результат\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Проект\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не определяет пакет работ?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Рабочий пакет может быть создан и рассмотрен независимо от других организационных процедур или культурных соображений\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Пакет работ имеет результат\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Владелец может рассматривать его как проект\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Пакет работ может содержать несколько этапов\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Джордж был назначен новым руководителем нашего проекта. Он хочет дать хорошее начало своей карьере и хочет понять, чем ему следует заниматься в первую очередь. С чего бы вы посоветовали ему начать?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Начните с формулировки проблемы и технического задания (ТЗ)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Начните с иерархической структуры работ (WBS)\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Начните с четкого определения объема работ\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Начать работу с особым разрешением\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Менеджер проекта хочет убедиться, что он действует в правильном порядке, когда он движется к четкому определению масштаба своего проекта. Что он должен делать во время определения масштаба?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Вовлечение заинтересованных сторон и проверка того, что все они внесли свой вклад в процесс\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Разработать WBS проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Как можно скорее перейти к определению методов отчетности\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " определение всех необходимых специалистов для любого аутсорсинга, который необходимо выполнить\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Планируем расширить больницу для местного населения. Этот проект потребует закрытия входов в отделения неотложной помощи на время капитального ремонта. Однако, поскольку это единственная больница для травматологов в радиусе 50 миль, отделение неотложной помощи не может быть закрыто полностью. Команда проекта должна найти способ восстановить отделение неотложной помощи, сохранив при этом его непрерывность. Это пример чего?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ограничения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Вопросы переговоров с владельцем проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Первоначальная оценка\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Фаза разработки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Матрица распределения ответственности (RAM) не включает следующие\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Отношения отчетности по проекту\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Должностные роли и обязанности в группах\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Должностные обязанности членов группы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Выполняется вся работа и только работа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не входит в план проекта?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Одобрено всеми заинтересованными сторонами\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Официальный документ\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Распространяется среди заинтересованных сторон в соответствии с планом коммуникации проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Используется для управления выполнением проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Как называется процесс рассмотрения и принятия результатов проекта?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Проверка объема\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Определение содержания\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Структура иерархии работ (WBS)\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Разрешение содержания\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Устав проекта всегда должен включать следующее\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Бизнес потребности, лежащие в основе проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " План управления содержанием\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Подписи заинтересованных сторон\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Документы, разрешающие выполнение работ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Менеджер проекта переживает серьезный, глубоко укоренившийся конфликт между двумя ключевыми членами проектной команды. Судя по всему, эти различия основаны на разной трактовке масштаба проекта. Какой метод разрешения конфликтов будет наиболее полезен менеджеру проекта?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Решение проблем\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Компромисс\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Удалить\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Наказать\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного НЕ является примером стратегии развития команды?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Создание WBS для проекта\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Обзор эффективности\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Посещение командой проекта спортивного мероприятия\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Командные обеды\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Два разработчика ввязываются в конфликт, который грозит сорвать ход проекта. Менеджер проекта вызывает в свой офис двух разработчиков и напоминает им, что они оба «на одной стороне» в разработке программного обеспечения для компании. Его стиль разрешения конфликтов выглядит так:\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Нейтрализовать\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Арбитраж\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Управление спорами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Разрешение споров\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кэрри из отдела маркетинга, и ее все больше расстраивает отношение Эндрю, члена производственного отдела проектной группы. Кажется, он либо игнорирует ее мнение, либо делает пренебрежительные комментарии каждый раз, когда она говорит, обычно неприятно относясь к маркетингу. К какому этапу группового развития обращается команда проекта, о чем свидетельствуют взаимодействия Кэрри и Эндрю?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Штурм\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Нормализация\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Реализация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Перерыв\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является полезным инструментом для развития чувства командной работы среди сотрудников различных функциональных подразделений?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Гибкий рабочий график\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Совместное размещение\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Общие цели\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Организационные правила, регулирующие их взаимодействие\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая стадия группового развития тесно связана с конфликтом и начальным влечением?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Формирование\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Шторм\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Нормализация\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Выполнение\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Менеджер проекта испытывает проблемы при общении с руководителем инженерного отдела. Функциональный менеджер из отдела проектирования отказывается выделять ресурсы для проекта, несмотря на неоднократные просьбы руководителя проекта.\\\\\n"
+            },
+            {
+                "type": "text",
+                "content": "Кто из следующего лучше всего поможет разрешить этот конфликт?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Старшее руководство\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Заказчик\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Коалиция других функциональных менеджеров\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Член инженерного отдела\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сглаживание, принуждение и отстранение: все это считается формами\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Разрешение конфликтов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Организация\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Власть\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Управление взаимоотношениями с заинтересованными сторонами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Джоани управляет проектом с помощью обширной виртуальной команды. Она регулярно общается с членами команды из разных стран, с разной культурой и уровнем образования. Что из следующего не относится к её методам повышения эффективности и продуктивности виртуальных встреч проектной группы?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Остерегайтесь создания правил поведения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Расширение виртуального общения за счет личного общения, когда это возможно\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Поддержание всех участников в сети связи\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Внедрение четкого процесса разрешения конфликтов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Менеджер проекта готовит предварительный бюджет проекта и добавляет стоимость нового компьютера для использования командой проекта. Какие расходы представляет собой покупка компьютера?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Прямые\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Переменные\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Косвенные\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Прямые переменные\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Менеджер проекта крупного проекта, разрабатываемого в северной части Онтарио, признает, что ей будет необходимо постоянно присутствовать на строительной площадке во время его разработки, и договорилась об использовании здания для своей команды рядом со строительным проектом. Стоимость здания должна быть учтена в стоимости проекта и будет увеличиваться по мере использования, то есть стоимость отопления и других коммунальных услуг может меняться в зависимости от погоды и использования команды. Какие расходы представляет собой это здание?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Переменная прямая\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Косвенные\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Неповторяющийся\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ничего из перечисленного\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Фаза планирования проекта продвигается вперед. Команда проекта запросила мнение некоторых старших менеджеров проекта, имеющих опыт работы в аналогичных проектах, для тестирования и разработки сметы проекта. Этот процесс является примером:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Оценка затрат\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Составление бюджета на основе мероприятий\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Планирование на случай непредвиденных обстоятельств\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Составление бюджета сверху вниз\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Джон составляет свой бюджет проекта, и в рамках этого процесса он активно обсуждает и запрашивает оценки от каждого члена проектной группы для общего бюджета. Он представляет свой бюджет высшему руководству, но Сьюзен отвергает его, заявляя: «Члены команды всегда будут увеличивать свои оценки. Я дам тебе фигуру, по которому, я хочу, чтобы ты стрелял». Какой метод использует Сьюзан для составления сметы расходов по проекту?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сверху вниз\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Снизу вверх\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Параметрический\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Сравнительный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Большая часть бюджета проекта расходуется на\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Реализация проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Создать устав проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Разработать план проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Действия по завершению проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является необходимым для составления бюджета проекта?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Результаты\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Структура иерархии работ\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Оценка стоимости работ\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " План управления затратами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Оценка стоимости должна происходить\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " После создания структуры работ и до разработки бюджета\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Перед созданием иерархической структуры работ и перед разработкой бюджета\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Перед созданием иерархической структуры работ и после разработки бюджета\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " После разработки иерархической структуры работ и после разработки бюджета\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Любое утвержденное увеличение бюджета должно быть\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " добавлено к базовой стоимости проекта.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Добавляется в резервный фонд проекта и используется только в крайнем случае\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Добавляется к извлеченным урокам проекта\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Компенсация из бюджетных средств со счетов прямых затрат\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не включает деятельность по управлению затратами?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сверка счетов\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сбор данных\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Учет затрат\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Контроль затрат\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Строительный подрядчик работает над загородным домом и просматривает свое расписание. Он замечает, что график предусматривает заливку фундамента, а затем установку чернового настила пола. В этом плане настил будет примером какого вида деятельности?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Последующая задача\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Предыдущая задача\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Задержка активности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Прерванная активность\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ваша проектная группа работает над совершенно новым проектом с использованием передовых технологий. В результате вашей команде очень трудно дать разумные точные оценки того, сколько времени потребуется для завершения их деятельности. Из-за этой неопределенности было бы уместно потребовать от членов команды использовать какую логику при оценке длительности?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Бета-распределение\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Нормальное распределение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Детерминированные расчеты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Опыт\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Предположим, план проекта имеет три отдельных пути в сети. Первый путь состоял из мероприятий А (3 дня), Б (4 дня) и С (2 дня). Второй путь состоял из мероприятий D (4 дня), E (5 дней) и F (5 дней). Третий путь состоял из мероприятий G (2 дня), H (3 дня) и I (10 дней). Какой из этих путей считается важным?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " GHI\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ABC\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " DEF\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ADG\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "С помощью какого из следующих способов можно рассчитать резерв активности (также известный как временной резерв)?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Позднее начало (LS) – Раннее начало (ES)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Раннее завершение (EF) – Позднее завершение (LF)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Раннее завершение (EF) – Раннее начало (ES)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Позднее завершение (LF) – Позднее начало (LS)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ваша проектная группа работает на основе сетевой диаграммы. Этот тип инструмента показывает команде:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Приоритет активности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Продолжительность и общий график мероприятий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Дата ожидаемого начала событий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " На сетевой диаграмме не показано ничего из вышеперечисленного\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что мы подразумеваем под поздней датой окончания операции?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Самое последнее действие, которое может быть завершено без задержки проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Самое последнее действие можно завершить, не откладывая следующее действие\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " пессимистическое время из расчета PERT\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Самое раннее время начала предыдущего действия\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из следующего является результатом последовательности действий?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Диаграмма активности в узле\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Внешние зависимости\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Прокачка ресурсов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Критический путь проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Действие в гамаке - это\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Средство для разбивки сети проекта на логические сводки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Другое название зависимостей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Лестница последовательности действий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Кратчайший путь активности в сети\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Пример, который включает создание прототипа продукта перед его тестированием:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Обязательная зависимость\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Внешняя зависимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Добровольная зависимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Веховые ворота\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "В чем разница между диаграммой Ганта и сетевой диаграммой?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сетевая диаграмма показывает только ключевые события, а диаграммы Ганта показывают больше информации, включая зависимости\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Нет никакой разницы, это одно и то же\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сетевая диаграмма - это план проекта, а диаграмма Ганта - нет\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Диаграмма Ганта - это план проекта, а сетевая диаграмма - нет\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая из следующих ситуаций требует создания отношения задержки на сетевой диаграмме?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Задержка после покраски комнаты позволяет краске высохнуть, прежде чем вы начнете постелить пол комнаты ковровым покрытием\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Критический путь\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Вставка фиктивной переменной в сетевую диаграмму\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Отношения досрочного прекращения между двумя видами деятельности\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Целью сбоя проекта является:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сократить график без изменения объема проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сократить график за счет минимизации рисков проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сокращение затрат на проект\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Расширение таблицы для покрытия нескольких критических путей\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ваш руководитель поручил вам найти способы сократить график проекта. Руководитель также настаивает на одновременном снижении стоимости проекта. Что было бы подходящим ответом на эти двойные требования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Покажите начальнику, что это почти всегда противоположные цели, показав диаграмму «Затраты и количество сэкономленных дней», чтобы объяснить последствия сбоев в работе проекта по графику и затратам\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Согласование с пожеланиями руководителя и перерасчет графика на более короткие сроки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Согласие с пожеланиями начальника и поиск более дешевых источников для выполнения работы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Обращение к вышестоящему руководству для разрешения спора\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ограничения расписания обычно включают все перечисленное, кроме:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Время выполнения и время задержки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Основные события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Основные этапы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Фиксированные даты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " В рамках какого процесса оцениваются и, при необходимости, модифицируются опережения и отставания?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " График разработки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Развивать охват\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Время отсчета\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Аналоговая оценка стоимости\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Менеджер проекта определяет 20 задач, необходимых для завершения его проекта. Для назначения этого действия у него есть четыре члена проектной группы. Процесс назначения сотрудников на проектную деятельность называется следующим образом\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Загрузка ресурсов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Прокачка ресурсов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Поиск критического пути\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Создайте иерархическую структуру работ (WBS)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Наиболее точное определение выравнивания ресурсов таково:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Процесс создания согласованной (выровненной) нагрузки на ресурсы в проекте из-за ограниченных ресурсов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " График, показывающий ресурсы, использованные в проекте, с течением времени\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Процесс применения ресурсов в проектной деятельности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " График проекта, показывающий ожидаемую доступность ресурсов с датами начала и окончания\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Могут ли ограничения ресурсов проекта включать какие-либо из следующих примеров?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Все перечисленные являются примерами ограничений ресурсов проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Плохо обученные работники\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Отсутствие доступных материалов для строительства\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Экологические или физические ограничения на самой площадке проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Одним из преимуществ диаграмм загрузки ресурсов является то, что они\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Графически отображает количество необходимых ресурсов в зависимости от времени\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Показывает способ найти слабину в существующей деятельности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Помогает разрешать конфликты ресурсов в средах с несколькими проектами.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Все вышеперечисленное является преимуществом использования таблиц загрузки ресурсов.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ваш клиент запросил незначительные изменения, которые не должны повлиять на график проекта. Как бы вы ответили?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Оценить влияние изменений на другие ограничения проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Разрешение изменений для поддержания хороших отношений с клиентами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Отклонить изменение, поскольку вы хотите предотвратить изменение области действия.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Привлекайте высшее руководство для определения наилучшего курса действий\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ресурсы следует оценивать учитывая\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " График деятельности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " уровень выхода WBS\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Критические ограничения проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Структура распределения рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Когда оцениваются потребности в ресурсах?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " После определения мероприятий, но до разработки графика\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " После разработки графика, но до определения действий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Как только описание объема работ будет одобрено клиентом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " После заключения договора поставки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Выравнивание ресурсов – это метод\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Метод, при котором даты начала и окончания корректируются в зависимости от ограничений ресурсов с целью уравновешивания спроса на ресурсы с доступным предложением\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Убедитесь, что у всех, кто работает над проектом, есть примерно одинаковый объем работы.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Использование календаря для определения рабочих дней и смен, в которые доступен каждый конкретный ресурс.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ничего из вышеперечисленного\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является примером критического риска проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Все это примеры значительных потенциальных рисков проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Финансовые риски\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Технические риски\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Коммерческие риски\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Матрица вероятности и последствия полезна для:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Качественный анализ рисков\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Количественный анализ риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Идентификация риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Мониторинг и документирование\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Обходной путь - это\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Реагирование на незапланированное рискованное событие\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Методы управления конфликтами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Некритический путь через сетевую диаграмму\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Внесение корректировок в бюджет проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что предлагает продавцу контракт с фиксированной ценой?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Риск выше, чем у покупателя (клиента).\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Тот же риск, что и у покупателя (клиента).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Меньший риск, чем у покупателя (заказчика).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Гарантированное возмещение фактических затрат\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "В каком методе сетевой диаграммы используются фиктивные переменные?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " АОА\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " АОN\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Диаграммы Ганта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ОBC\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Предположим, вы оценили наилучшую, наиболее вероятную и наихудшую продолжительность действия и обнаружили, что они составляют 3 дня, 4 дня и 8 дней соответственно. Используя методы оценки PERT, какова ожидаемая продолжительность мероприятия?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 4,5 дня\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 4 дня\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 8 дней\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 5 дней\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Если проект имеет оптимистическую продолжительность 3 дня, вероятную продолжительность 6 дней и пессимистическую продолжительность 12 дней. Используя методы оценки PERT, сколько дней будет ожидаемая продолжительность мероприятия?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 6,5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 8,5\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 9\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Когда проект закроется?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " все ответы верны\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Когда проект отменен\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Если у проекта заканчиваются деньги\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Когда проект успешно завершен\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Вы только что завершили свой проект и вам предстоит выполнить заключительные действия, необходимые вашей компании для его завершения. Какие из следующих мероприятий не будут являться частью завершения проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Проверка поставщика\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Извлеченные уроки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Архивы проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Высвобождение ресурсов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ваш проект близок к завершению. По вашему запросу члены вашей проектной группы объединят критически важные проектные документы, включая контракты и финансовые отчеты, заказы на изменения, материалы по управлению объемом и конфигурацией, а также записи о поставках поставщикам. Что из следующего включает в себя этот процесс?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Архивы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Извлеченные уроки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Контракт и юридические документы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Документ о содержании\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Фаза реализации IТ-проекта только что завершилась. Целью данного проекта было обновление системы приема заказов для отдела доставки вашей компании. Что из перечисленного является следующим шагом в процессе завершения проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Завершить работу\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Доставка Получение или получение проекта через отдел\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Закрыть сделку\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Высвобождение ресурсов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Команда только что завершила работу над проектом. В общем, с самого начала это был сложный проект, и результаты это подтверждают. Вы превысили бюджет на 20~% и значительно отстаете от графика. Несмотря на многие трудности, моральное состояние ухудшилось. По завершении проекта вы решаете провести неформальную встречу с командой, чтобы обсудить проблемы и выявить их источники, чтобы не допустить повторения чего-то подобного. Как называется этот процесс?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Извлеченные уроки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Закрыть проект\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Аудит закупок\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Досрочное прекращение\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "В ходе реализации проекта вы должны участвовать во всех мероприятиях, кроме:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Это все действия, необходимые для завершения проекта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Провести послепроектный обзор\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Принятие клиентом или спонсором, официальное закрытие проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Формализация извлеченных уроков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " В каких из этих дополнительных мероприятий вы не будете участвовать во время завершения проекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сохранение ресурсов проекта на обозримое будущее в качестве меры предосторожности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Применить соответствующие обновления ко всем организационным процессам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Архивирование соответствующих проектных документов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Прекратить покупки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Группа процессов закрытия в PMBoK относится к:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Внедрены процессы для завершения всех действий и полного закрытия проекта или фазы.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Процессы, которым необходимо следовать для завершения работы, определенной в плане управления проектом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Процессы, необходимые для мониторинга, анализа и регулирования хода и эффективности проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Процессы, выполняемые для определения нового проекта или новой фазы существующего проекта.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 241,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из следующего является важным документом, который необходимо подготовить на заключительном этапе?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Извлеченные уроки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Запросы на изменение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Контрольные карты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Интегрированный план коммуникаций\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

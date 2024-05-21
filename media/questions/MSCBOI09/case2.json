@@ -1,0 +1,5784 @@
+[
+    {
+        "id": 111,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Наиболее распространенными микроорганизмами в свежеприготовленном молоке являются\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Staphylococcus epidermidis\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Staphylococcus aureus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Escherichia coli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mycobacterium bovies\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Порчу пищевых продуктов можно определить как\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Любое изменение внешнего вида, запаха или вкуса пищевых продуктов, делающее их неприемлемыми для потребителей\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Нежелательный внешний вид еды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Разработка продуктов с высоким содержанием сахара в продуктах питания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Пищевой продукт, который нельзя употреблять больным диабетом\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Срок годности скоропортящегося продукта как часто определяется количеством микробов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Изначально\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Через 24 часа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Через 48 часа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Через неделю\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного относится к скоропортящимся продуктам?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Хлебы, напитки, кефир\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Яйца и молоко, колбасы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Мясо и рыба, большая часть фруктов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Сыр, йогурт, молоко\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Организмы, ответственные за образование йогурта:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Streptococcus salivarius\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Streptococcus salivarius sp. thermophilus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Lactobacillus thermophilus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Streptococcus bulgaricus\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бактерии не могут выжить в соленых огурцах, потому что\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Соль подавляет размножение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Бактерии не получают достаточного количества солнечного света для фотосинтеза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Рассол не содержит питательных веществ для роста бактерий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Бактерии подвергаются плазмолизу и, как следствие, погибают\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие ферментированные продукты производят из молока?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ванилин, кефир, тесто\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сыр, йогурт, кефир\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Колбаса, сыр, мизуно\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Квас, пиво, лимонад\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Пропионат натрия или кальция широко используется для профилактики\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Вирусы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Грибы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Бактерии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Плесень\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кого называют отцом консервирования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Роберт Кох\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Альфред Вивен\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Николас Аперт\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Джон Тындаль\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Грибки, связанные с голубым сыром, это\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Penicillium roqueforti и Aspergillus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Penicillium notatum и Penicillium chrysogenum\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Penicillium chrysogenum и Fusarium\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Penicillium expansum и Cladosporium\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Мясо считается хорошей питательной средой для микробов из-за\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Высокого содержания влаги, благоприятного pH\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Высокой температуры, аэрации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Обилие питательных веществ, солености\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Солености, низкой температуры\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое консервирование?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Это процесс, при котором продукты питания запечатывают в контейнере, например консервной или стеклянной банке, а затем нагревают\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Этот процесс был открыт Робертом Кохом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Контейнер вакуумируют после герметизацией\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Замораживание\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие грибы можно выращивать на соломе?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Coprinus sp., Aspergillus niger\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pleurotus ostreatus, Volvariella volvacea\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Serpula lacrymans, Mucor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Rhizopus, Aspergillus terreus\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Паралитическое отравление моллюсками - это заболевание пищевого происхождения, которое обычно развивается после употребления в пищу моллюсков, загрязненных преимущественно термостабильным и кислоторастворимым токсином.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Окадаевая кислота\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Митотоксин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сакситоксин\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Афлатоксин\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие из следующих микробов хорошо конкурируют за свободную воду в условиях низкого содержания сахара и часто хорошо растут в продуктах с высоким содержанием сахара, таких как сироп?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pseudomonas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Clostridium\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Плесень\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Дрожжи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "К микробным ингибиторам сырого молока относятся:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Лактоферрин и лактопероксидазная система, лизоцимы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Лизоцимы, сахар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Система связывания витамина B12, белки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Лактоза, сыворотка\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Для временной консервации фрукты и овощи должны храниться в\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 10 - 20°C\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 15 - 20°C\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 30 - 35°C\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 39 - 45°C\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из следующих источников способствует микрофлоре сырого молока?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Кожные покровы животных, минералы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Посуды, овощи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Доение, вымя\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Воздух, фрукты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая из перечисленных микроорганизмов используется при приготовлении соевого соуса?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A. niger\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " A. flavus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " A. fumigates\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " A. oryzae\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой организм использовался для коммерческого производства single cell proteins (SCP) из гидролизата крахмала?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Candida utilis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Saccharomyces cerevisiae\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Fusarium gaminearum\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kluyveromyes fragilis\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Первичную бактериальную порчу мяса птицы при низкой температуре, с характерными осадками на внешней поверхности, вызывают\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pseudomonas spp.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aspergillus spp.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bacillus spp.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Candida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "При сверхвысокой температуре молоко нагревается при\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 133°C в течение 2 сек.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 140-150°C в течение 1-5 сек.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 100°C в течение 5 мин.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 100°C в течение 10 мин.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Консервирование продуктов питания является важнейшим компонентом\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Биологического выщелачивания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Биопроцессной технологии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Биореакторов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Пищевой промышленности\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Газообразующие культуры Propionibacterium shermani и P. freudenreichii необходимы для приготовления швейцарского сыра\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Глазки или отверстия, и вкус\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Его вкус и цвет\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Его вкус\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Его цвет\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой микроб может передаваться через молоко и может выжить в молоке, нагретом до 143º C в течение 30 минут?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сальмонелла\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Клостридиум\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Coxiella burnettii\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Микобактерия туберкулеза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Лимонная кислота используется в качестве подкислителя…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Еда, корма\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Кондитерские изделия, напитки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Морожни, ароматизатор\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Минералы, йогурт\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Большинство овощей можно безопасно хранить при температуре\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Менее 10°С\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Более 15°С\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Менее 20°C\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Более 24°C\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие моносахариды образуются при гидролизе лактозы лактазой?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " D-глюкоза и D-глюкоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " D-глюкоза и β-D-галактоза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " β-D-галактоза и β-D-галактоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " D-глюкоза и D-фруктоза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Активность воды Аw наименьшая в\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Соленое мясо\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Соленья и джемы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Свежие овощи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Обезвоженные продукты\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного является отличным примером консервирования продуктов питания с использованием влажного тепла под давлением?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Курение древесины\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Маринование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Консервирование\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Пастеризация\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой источник сахара содержит диабетическое мороженое?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Глюкоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сахароза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Фруктоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Сахарин\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Возбудителем отравления спорыньей, обычно называемого «эрготизмом», является\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сальмонелла\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Лактобациллы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Claviceps\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Хламидии\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Пророщенные семена ячменя используют для приготовления\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Молочная кислота\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Вино\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сыр\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Пиво\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "К нескоропортящимся продуктам относятся\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сахар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Картофель\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Фрукты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Клубника\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Выбрать целевые организмы для пастеризации молока из следующих\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Микобактерия туберкулеза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Coxiella burnetii\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Clostridium botulinum.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bacillus cereus\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Чтобы быть эффективным, лактоферрин должен иметь\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Среда с низким содержанием железа без бикарбоната\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Среда с низким содержанием железа с бикарбонатом\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Богатая железом среда без бикарбоната\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " В богатой железом среде с бикарбонатом\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Качество еды проверяется\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Тест на фосфатазу, редуктазный тест\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Стабильность, растворимость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Стандартное количество тарелок,\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Соленость, количество золы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ботулизм вызывается\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Золотистый стафилококк\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Clostridium perfringens\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Clostridium botulinum\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Сальмонелла брюшного тифа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Большинство бактерий подавляется концентрацией 7,5% хлорида натрия, за исключением некоторых грамположительных кокков, таких как\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Стафилококк\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Псевдомонада\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Аспергилл\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Бацилла\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Мисо – это культура\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aspergillus oryzae\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Трипаносама гузи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Lieshmania brazialiensis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Plasmodium vivax\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Творожное молоко, сыр и масло производятся с использованием\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Дрожжи, пенициллий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Псевдомонад, стафилококк\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Стрептококк, псевдомонад\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Дрожжи, аспергилла\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "По степени легкости порчи продукты делятся на несколько категорий?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Два\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Три\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Четыре\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Пять\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Функция диацетата в кисломолочных продуктах заключается в придании\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сливочное масло с маслянистым вкусом и ароматом\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Швейцарский вкус\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Только цвет\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Запах\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Torulopsis utilis – это\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Пищевые дрожжи\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Важный кишечный комменсальный микроб.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Микроорганизм, производящий вакцины третьего поколения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Используется для синтеза лимонной кислоты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "На что из перечисленного не прикрепляется бактерии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Цитрусовые\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Овощи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Молочные продукты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Мясо\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из следующих продуктов не может быть получен микробами?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Квашеная капуста\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Оливки и соевый соус\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Уксус\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " NaCl\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Плесень и дрожжи способны портить свежесрезанные плоды, но чаще всего с этим связаны дрожжи, поскольку\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Дрожжи не ингибируются сахарами фруктов.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Дрожжи легко переваривают целлюлозный материал.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Дрожжи растут быстрее, чем плесень\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Формирование плесени подавляется фруктовыми сахарами.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из перечисленных методов является наиболее подходящим для консервирования продуктов, содержащих термостойкие бактерии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Химическая обработка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Замораживание\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Облучение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Каннинг\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Продукты с высоким содержанием сахара портятся по воздействием\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Клостридии, бациллы и флавобактерии\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aspergillus и Торула\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Clostriduim и Proteus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " E. coli и Salmonella\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие организмы, используемые для производства белка одноклеточных, демонстрируют самую высокую скорость роста?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bacillus polymyxa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aspergillus niger\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Дрожжи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Спирулина\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из следующих консервантов используется при приготовлении тыквы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Формальдегид\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " NaCl\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Метабисульфит калия\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Бензоат натрия\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бензоат натрия добавляют для консервации кислых фруктовых соков из расчета\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 0.01 - 0.5%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 0.06 - 0.10%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1.10 - 1.5%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1.6 - 2%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Йогурт производится с помощью\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Lactobacillus bulgaricus, Thermophilus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Streptococcus thermophiles, Lactobacillus bulgaricus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Streptococcus salivarius sp., E.coli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Streptococcus thermophiles, Streptococcus salivarius sp.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Основной аромат и мука кисломолочных продуктов исходят от\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Уксусная кислота, диэтилэфир, диацетил\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Диацетил, уксусная кислота, ацетальдегид\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xлороформ, бензой кислота, эфир\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Диацетил, метанол, диэтилэфир\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Намеренно добавленное вещество, сохраняющее и улучшающее вкус, называется…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Пищевая добавка\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Пищевые примеси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Пищевой загрязнитель\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Пищевой материал\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является функцией пищевой добавки …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Для поддержания единообразия продукта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Поддерживать пищевую ценность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Контроль кислотности/щелочности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ничего из перечисленного\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является преимуществом обезвоживания в контролируемых условиях перед сушкой на солнце?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Стоимость\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Время высыхания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Качество сушки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ничего из перечисленного\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является признаком замораживания-обезвоживания?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Потеря влаги за счет сублимации с границы постоянно отступающей зоны кристаллов льда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Непрерывный процесс\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " При использовании используются достаточно низкие температуры, чтобы предотвратить оттаивание.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ничего из перечисленного\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая из перечисленных бактерий участвует в обесцвечивании пищевых продуктов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Лактобактерии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Микрококк\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Стрептококк\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Дрожжи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие из перечисленных продуктов являются кисломолочными...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сыр и йогурт\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Масло и сливки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сливки и мороженое\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Вино и пиво\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из следующих не является ферментированными пищевыми продуктами?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Кефир\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сыр\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Экстракт говядины\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Йогурт\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из следующих ферментов не имеет растительного происхождения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Альфа-амилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Папин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Изомераза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Бета-глюканаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Такие бактерии, как Lactobacillus, производят соединения, необходимые для производства квашеной капусты, йогурта и закваски.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Молочная кислота\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Углекислый газ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Дрожжи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Мука\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бактерии, способные жить как с кислородом, так и без него, называются\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Аэробный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Факультативный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Анаэробный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Симбиотический\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бланширование фруктов и овощей приведет к\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Набор цветов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Уничтожение бактериальных спор\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Инактивация ферментов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Уменьшение микробной популяции\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сыр получают путем коагуляции с помощью какого из следующих белков\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сычужный фермент\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Казеин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Пепсин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Трипсин\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фермент используется для свертывания молока в процессе изготовления сыра?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Химозин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сычужный фермент\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Трипсин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Амилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ферменты разлагают, изменяют или синтезируют пищевой компонент посредством\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Окисление/восстановление/изомеризация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Гидролиз/синтез\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Групповой трансфер\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Трансфер\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Водорастворимый витамин – это?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Витамин С\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Витамин В\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Витамин А\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Витамин Е\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Пробиотики используются для профилактики\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сердечно-сосудистые заболевания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Гипертония\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Заболевания пищеварительного тракта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Инфекция легких\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кишечная палочка\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Грамотрицательная\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Грамположительная\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Кокк\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Вибрион\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не считается преимуществом пищевой биотехнологии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Предоставление новых продуктов лучшего качества\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Повышение безопасности пищевых продуктов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Снижение безопасности пищевых продуктов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Снижение затрат\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Примером часто потребляемого дисахарида является?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Глюкоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Фруктоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сахароза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Малтоза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Первое трансгенное растение, использованное в коммерческом производстве, было\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Хлопок\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Помидор\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Табак\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Рис\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое биотехнология?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Совокупность промышленных методов, использующих живые организмы и биологические процессы для производства пищи, лекарственных средств и других полезных продуктов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Комплекс знаний о жизни и совокупность научных дисциплин, изучающих жизнь\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Совокупность научных отраслей, использующих успехи биологических дисциплин для технических целей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Биологическая дисциплина, изучающая микроорганизмы – их систематику, морфологию, физиологию, биохимию\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Трансформированные клетки представляют собой:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Кольцевые молекулы ДНК, присутствующие в клетках вне хромосом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Множество копий одного генома\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Микроорганизмы, а также клетки, растущие вне организма, после переноса в них новых генов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Продуценты биологически активных веществ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Усилитель вкуса пищевых продуктов, получаемый путем культивирования Micrococcum glutamicus:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Изомальт\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ацесульфам-М\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Глутаминовая кислота\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Неогеспередин\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Важнейшим звеном любого биотехнологического процесса является:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Аппаратура\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Технология\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Энергообеспечение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Биообъект\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Медицинская биотехнология, которая применяется для производства фармацевтических продуктов, таких как инсулин, ферменты, антибиотики и вакцины, называется:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Белая биотехнология\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Красная биотехнология\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Голубая биотехнология\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Зеленая биотехнология\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Биологически активные вещества, получаемые из биообъектов микроорганизмов:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Аминокислоты, антибиотики\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Фенол, кумарин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Алкалоиды, терпеноды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Диагностикумы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Биообъекты - макромолекулы с ферментативной активностью используются в биотехнологии для:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Лечения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Биотрансформации\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Диагностических систем\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Профилактика\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Особенностью пептидных факторов роста тканей являются:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Тканевая специфичность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Видовая специфичность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Образование железами внутренней секреции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Нативная конформация\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какими методами получают ферментные препараты, используемые в медицине?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Химическим\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Физическим\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Микробиологическим\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Химико-энзиматическим\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из следующих подсластителей в 300 раз слаще сахарозы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сахарин\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Аспартам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сукралоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Цикламаты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какая из перечисленных функций дрожжей при выпечке?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Повысить сохраняемость хлебобулочных изделий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Придает сладкий вкус\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Расщепление углеводов на углекислый газ и этанол\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Подвергается реакции потемнения, приводящей к образованию коричневой корочки выпечки.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой штамм дрожжей вызывает брожение хлеба?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Saccharomyces cerevisiae\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Микрококки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Болгарские лактобактерии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Термофильный стрептококк\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что такое генетически модифицированные продукты?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Биологически активные вещества, полученные по технологии производства\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Продукты питания, полученные из растения, животные или микробы, ДНК которых была изменена с помощью методов генной инженерии\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Биологически активные вещества, основанные на использовании живых организмов, биологических объектов и биологических процессов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Продукты и напитки, полученные путем желаемого микробного роста и ферментативного превращения пищевых компонентов, которые первоначально содержались в пище\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " При производстве каких продуктов в наибольшей степени используются генетически модифицированные организмы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сыр\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Овощи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Рыба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Мясо\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Каковы текущие преимущества продуктов питания, изготовленных из генетически модифицированных культур?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Они повышают прибыльность и облегчают работу некоторым фермерам\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Они позволяют фермерам значительно увеличить объемы выращиваемого урожая\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Они повышают удобство для потребителей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Они улучшают питательные качества продуктов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Большинство продуктов, полученных из генетически модифицированных культур, содержат:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Такое же количество генов, как и в продуктах питания, полученных из обычных сельскохозяйственных культур\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Такое же количество генов, как и продукты, полученные из гибридных культур\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Один или два дополнительных гена\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Сотни дополнительных генов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая бактерия используется для производства инсулина методом генной инженерии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Saccharomyces\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Rhizobium\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Escherichia\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mycobacterium\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного является преимуществом генетически модифицированных продуктов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Менее быстрый рост урожая\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Устойчивость к болезням\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Рост сельскохозяйственных культур в более подходящих местах обитания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Повышение затрат\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является культурой, находящейся в центре внимания генной инженерии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Кукуруза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Хлопок\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Соя\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Черные бобы\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является проблемой, связанной с генной инженерией?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Введение токсинов в организм человека\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Развитие новой аллергии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Вредители, развивающие генетическую устойчивость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Повышенное воздействие витаминов и минералов\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного является распространенным применением сельскохозяйственной биотехнологии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Генетическая модификация сельскохозяйственных культур для повышения урожайности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Методы севооборота\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Борьба с вредителями с использованием химических пестицидов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Методы предотвращения эрозии почвы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Обнаружение и идентификация важных для сельского хозяйства генов называется _________.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Иммобилизация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Генная терапия\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Генная регуляция\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Идентификация гена\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какова основная цель сельскохозяйственной биотехнологии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Повысить продуктивность и устойчивость сельского хозяйства\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Увеличить разнообразие сельскохозяйственных культур\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Выводить культуры с повышенной питательной ценностью\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " сократить использование химических удобрений\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кто определил биотехнологию как применение биологических организмов, систем или процессов в обрабатывающей промышленности и сфере услуг?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Японские биотехнологи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Национальный научный фонд США\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Британские биотехнологи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Европейская федерация биотехнологий\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется биотехнология, включающая новые подходы к борьбе с вредителями растений?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Биотехнология\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Микробная агро-биотехнология\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Биотехнология животноводства\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Морская биотехнология\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой тип клонирования связан с технологией моноклональных антител?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Клонирование животных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Клонирование растений\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Клеточное клонирование\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Молекулярное клонирование\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Из какой бактерии был выделен ген устойчивости к глифосату?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Salmonella typhimurium\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Staphylacoccus aureus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Treponema pallidum\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Borrelia afzelii\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какое соединение делает древесину устойчивой к разрушению?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Хлорофилл\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Целлюлоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Лигнин\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Древесина\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что из этого является голосеменным?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Хлопок\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ель белая\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Груша\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Лотос\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой гербицид обезвреживается нитрилазой?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Атразин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Имидазолиноны\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Глифосат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Бромоксинил\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что из перечисленного не является недостатком перекрестной защиты?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Синергизм\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Мутация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Потери урожайности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Распространение вируса\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой из этих генов является устойчивым к Rhizoctina solani?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ген цитиназы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ген ацетилтрансферазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ген осмотина\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ген хитиназы\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой из следующих методов обычно используется в генной инженерии для усиления фиксации азота в растениях?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Полимеразная цепная реакция (ПЦР)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Саузерн-блоттинг\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " CRISPR-Cas9\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " РНК-интерференция (РНКи)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Каков срок хранения ферментов в ведерке со льдом?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2-3 минуты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1-2 минуты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 4-5 минут\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 3-4 минуты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой из этих ферментов способствует соединению дуплексов ДНК «конец в конец»?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Полинуклеотидлигаза Т4\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Лигаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Рибонуклеаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Целлюлаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что из перечисленного не является применением плазмиды?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Перенос генов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Клонирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Уничтожение организмов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Манипулирование генами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что из этого возможно при клонировании самих векторов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Продукция гена\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Хранение генетической последовательности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Трансляция гена\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Транскрипция гена\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Каковы основные компоненты бактериофага?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Белки и липиды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Углеводы и липиды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Белки и углеводы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Нуклеиновые кислоты и белки\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " С помощью РНК-интерференции созданы растения, устойчивые к _____.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Вредителям\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Дрожжам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Нематодам\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Вирусам\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Каков процесс введения рекомбинантной ДНК в клетку-хозяина?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Выращивание клетки-хозяина в питательной среде, содержащей ампициллин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Покрытие ДНК углеводами для стимулирования поглощения ДНК клетками\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Стимулирование клеток электрическими импульсами или ионами кальция, чтобы сделать их более проницаемыми\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Введение белков в клетки-хозяева для повышения их проницаемости\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой фермент отвечает за удаление нуклеотидов с концов ДНК?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Эндонуклеаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Экзонуклеаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ДНК-лигаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Hind II\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой из следующих компонентов включает в себя биотехнология?\n"
+            },
+            {
+                "type": "text",
+                "content": "(1) создание гена; (2) экстракорпоральное оплодотворение; (3) исправление неправильного гена; (4) создание ДНК-вакцины.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " (1) и (2)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " (2) и (3)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " (3) и (4)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " (1), (2), (3) и (4)\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При гель-электрофорезе ДНК в конечном геле образуются различные полосы, поскольку молекулы ДНК ________.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Принадлежат разным организмам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Имеют разную длину\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Имеют разный нуклеотидный состав\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Имеют разные гены\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Зеленая биотехнология - это...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Промышленные химикаты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Промышленные катализаторы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " BT кукуруза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Промышленные антибиотики\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что переносит ген из одного организма в бактериальную клетку?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Плазмида\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Гель для электрофореза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Фермент рестрикции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Полимеразная цепная реакция\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое генетически модифицированный организм (ГМО)?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Растение, у которого удалены определенные гены\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Организм с искусственно измененным геномом\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Гибридный организм\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Любой сельскохозяйственный организм, полученный путем селекции или биотехнологии.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какова роль Agrobacterium tumefaciens в получении трансгенных растений?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Гены A. tumefaciens встраиваются в ДНК растения, чтобы придать растению различные характеристики.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Трансгенным растениям придана устойчивость к вредителю A. tumefaciens.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " A.tumefaciens используется в качестве вектора для перемещения генов в растительные клетки.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Гены растений включены в геном Agrobacterium tumefaciens.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая самая сложная проблема, стоящая перед секвенированием генома?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Неспособность разработать быстрые и точные методы секвенирования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Этика использования информации геномов на индивидуальном уровне\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Наличие и стабильность ДНК\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Фермент рестрикции\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Геномика может быть использована в сельском хозяйстве для:\n"
+            },
+            {
+                "type": "text",
+                "content": "1) создание новых гибридных штаммов; 2) улучшить устойчивость к болезням; 3) повысить урожайность; 4) вирусные заболевания\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1,2,4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2,3,4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1,2,3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1,2,3,4\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какие заболевания изучают с помощью полногеномных ассоциативных исследований?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Вирусные заболевания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Моногенные наследственные заболевания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Заболевания, вызванные множественными генами\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Заболевания, вызванные факторами окружающей среды\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что из перечисленного необходимо для успешной ПЦР-амплификации?\n"
+            },
+            {
+                "type": "text",
+                "content": "a) Одна или несколько копий ДНК, подлежащих амплификации;\n"
+            },
+            {
+                "type": "text",
+                "content": "b) Все нормальные нуклеотиды ДНК;\n"
+            },
+            {
+                "type": "text",
+                "content": "c) Некоторые дидезоксинуклеотиды;\n"
+            },
+            {
+                "type": "text",
+                "content": "d) Два разных праймера;\n"
+            },
+            {
+                "type": "text",
+                "content": "е) ДНК-полимераза E. coli;\n"
+            },
+            {
+                "type": "text",
+                "content": "f) ДНК-полимераза организма, живущего при высокой температуре.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " b,d,e,f\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " a,b,d,f\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " a,c,d,e\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " a,c,d,f\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

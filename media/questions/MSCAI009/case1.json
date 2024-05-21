@@ -1,0 +1,542 @@
+[
+    {
+        "id": 111,
+        "question": [
+            {
+                "type": "text",
+                "content": "Computer Vision predmeti va vazifasi nimalardan iborat?\n"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirning piksellari qanday ifodalanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "question": [
+            {
+                "type": "text",
+                "content": "RGB va grayscale tasvirlar o’ rtasidagi asosiy farq nimada?\n"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "question": [
+            {
+                "type": "text",
+                "content": "Konvolutsion tarmoqlar (convolutional layers) nima uchun qo’ llaniladi va u qanday ishlaydi?\n"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tensorlar (tensor) nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "question": [
+            {
+                "type": "text",
+                "content": "Max pooling va average pooling nima uchun qo’ llaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirni faylini o’qib olish va uni ko’rsatish uchun OpenCV dan qanday foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "question": [
+            {
+                "type": "text",
+                "content": "RGB, BGR va HSV rang modellari nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "question": [
+            {
+                "type": "text",
+                "content": "RNN (Recurrent Neural Network) va CNN (Convolutional Neural Network) arasidagi asosiy farqlar nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "question": [
+            {
+                "type": "text",
+                "content": "R-CNN va YOLO algoritmlari nima uchun mashhur?\n"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "question": [
+            {
+                "type": "text",
+                "content": "Edge detection nima uchun ishlatiladi va qanday usullar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "question": [
+            {
+                "type": "text",
+                "content": "Image segmentation nima uchun kerak va uni amalga oshirish uchun qanday algoritmlar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV nima uchun foydalaniladi va uni qanday yuklab olish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "question": [
+            {
+                "type": "text",
+                "content": "SIFT (Scale-Invariant Feature Transform) va SURF (Speeded-Up Robust Features) algoritmlari nima uchun mashhurdir?\n"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV ni qaysi programmalash tillari bilan ishlatish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da tasvirni yuklash va uni ko’rsatish qilish uchun qanday funksiyalar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirni oqish va uni o’ zgartirish uchun qanday funksiyalar OpenCV da ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da rasmni katta yoki kichik qilish uchun qanday funksiyalar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da Tasvirda ob’ ektlarni aniqlash va ularning joylashuvi haqida ma’ lumot olish uchun qanday algoritmlar va funksiyalar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da rasmni filtrlash (image filtering) uchun qanday usullar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da tasvirlarni segmentatsiya qilish uchun qanday algoritmlar va funksiyalar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da tasvirlarni ro’ yxatga olish (image cropping) va kengaytirish (resizing) uchun qanday funksiyalar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da tasvirlar orasidagi geometrik transformatsiyalar (geometric transformations) uchun qanday funksiyalar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da tasvirlarni histogram analizi va hisoblash uchun qanday funksiyalar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da tasvirlarni filtrlash uchun qanday funksiyalar ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Obyektlarini aniqlash\" (Object Detection) nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "question": [
+            {
+                "type": "text",
+                "content": "Haqiqiy dunyoda \"Obyektlarini aniqlash\" qanday foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "question": [
+            {
+                "type": "text",
+                "content": "Haqiqiy dunyoda \"Obyektlarini aniqlash\" uchun qanday qo’ llaniladigan sensorlar (sensors) mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Obyektlarini aniqlash\" uchun qanday algoritmlar va usullar ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "question": [
+            {
+                "type": "text",
+                "content": "Haqiqiy dunyoda \"Obyektlarini aniqlash\" uchun qanday ma’ lumotlar (datasets) foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Obyektlarini aniqlash\" uchun haqiqiy vaqtda (real-time) ishlash uchun qanday tekshirilgan algoritmlar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Obyektlarini aniqlash\" va \"tasvirni tanish\" (image recognition) orasidagi asosiy farq nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "question": [
+            {
+                "type": "text",
+                "content": "Obyektlarni aniqlashning maqsadi va foydalanish sohalaridan ba’ zi misollar keltiring.\n"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "question": [
+            {
+                "type": "text",
+                "content": "Obyektlarni aniqlashda \"bounding box\" nima uchun foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "question": [
+            {
+                "type": "text",
+                "content": "Haqiqiy dunyoda qanday holatlarda \"Obyektlarini aniqlash\"dan foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Obyektlarini aniqlash\" uchun qanday ma’ lumotlar kerak bo’ ladi va ular qanday tayyorlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "question": [
+            {
+                "type": "text",
+                "content": "Obyektlarni aniqlash algoritmlari va modellari uchun qanday sinash (testlash) metodlaridan foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Obyektlarini aniqlash\"da masofaviy sensorlardan qanday foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Obyektlarini aniqlash\" uchun qanday tarzda datasetlar tayyorlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Obyektlarini aniqlash\"ning sifatli va yuqori darajada to’ g’ ri natijalarni olish uchun qanday ko’ nikmalar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Odam yuzini aniqlash\" (Face Recognition) nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Odam yuzini aniqlash\"ning amaliyoti qanday foydasi tegishi mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Odam yuzini aniqlash\"ning texnologik asoslari qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Odam yuzini aniqlash\"ni qanday algoritm va usullar orqali amalga oshiriladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Odam yuzini aniqlash\" uchun qanday ma’ lumotlar (datasets) foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Odam yuzini aniqlash\" uchun haqiqiy dunyoda qanday mashhur algoritmlar ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Odam yuzini aniqlash\"ning maqsadi va foydalanish sohalaridan ba’ zi misollar keltiring.\n"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Odam yuzini aniqlash\" va \"tasvirni tanish\" (image recognition) orasidagi asosiy farq nimada?\n"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Piyodalarni aniqlash\" (Pedestrian Detection) nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Piyodalarni aniqlash\"ning asosiy maqsadi nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Piyodalarni aniqlash\" uchun qanday algoritmlar va usullar ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Piyodalarni aniqlash\" uchun qanday ma’ lumotlar (datasets) foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Piyodalarni aniqlash\" uchun haqiqiy dunyoda qanday mashhur algoritmlar va dasturlash tillari ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Piyodalarni aniqlash\"da real vaqtda (real-time) amalga oshirish uchun qanday tekshirilgan algoritmlar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "question": [
+            {
+                "type": "text",
+                "content": "Video fayllardagi ob’ ektlarni aniqlash uchun qanday algoritmalar va usullar ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da tasvirlarni o’ qib olish uchun qanday funksiyalar ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da tasvirlarni formatlarga konvertatsiya qilish uchun qanday funksiyalar ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da tasvirlarni kesib olish (cropping) va kengaytirish (resizing) uchun qanday funksiyalar ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "question": [
+            {
+                "type": "text",
+                "content": "OpenCV da tasvirlarni pastlashtirish (blurring) va shovqinni o’ chirish uchun qanday funksiyalar mavjud?\n"
+            }
+        ]
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "id": 111,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning fanining asosiy maqsadi va vazifalari nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning usullarining klassik algoritmlar bilan farq qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning-da qanday model turlari mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning-da neyron tarmoqlar (neural networks) qanday ishlaydi?\n"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning-da qanday optimallashtirish (optimization) usullari ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning-da o’rgatish va testlash qanday amalga oshiriladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning usullarining o’ rni va ahamiyati qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning usullari amaliyotda qanday sohalarda foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "question": [
+            {
+                "type": "text",
+                "content": "Klassifikatsiya nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning da klassifikatsiya qanday amalga oshiriladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "question": [
+            {
+                "type": "text",
+                "content": "Klassifikatsiya uchun qanday model turlari (algorithms) ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "question": [
+            {
+                "type": "text",
+                "content": "Klassifikatsiya uchun qanday turdagi o’rgatish va test qilish usullari mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "question": [
+            {
+                "type": "text",
+                "content": "Klassifikatsiya dasturlashida overfitting va underfitting nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "question": [
+            {
+                "type": "text",
+                "content": "Klassifikatsiya uchun qanday optimallashtirish (optimization) usullari ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "question": [
+            {
+                "type": "text",
+                "content": "Klassifikatsiya uchun muhim parametrlar qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "question": [
+            {
+                "type": "text",
+                "content": "Klassifikatsiya uchun TensorFlow, PyTorch, va Keras kabi dasturlash tillari va kutubxonalar qanday ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "question": [
+            {
+                "type": "text",
+                "content": "Klassifikatsiya ma’ lumotlarini tahlil qilishda qanday metrikalar (metrics) ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "question": [
+            {
+                "type": "text",
+                "content": "Regressiya nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning da regressiya qanday amalga oshiriladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "question": [
+            {
+                "type": "text",
+                "content": "Regressiya uchun qanday model turlari (algorithms) ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "question": [
+            {
+                "type": "text",
+                "content": "Regressiya uchun qanday o’rgatish va test qilish usullari mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "question": [
+            {
+                "type": "text",
+                "content": "Regressiya dasturlashida overfitting va underfitting nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "question": [
+            {
+                "type": "text",
+                "content": "Regressiya uchun qanday optimallashtirish (optimization) usullari ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "question": [
+            {
+                "type": "text",
+                "content": "Regressiya uchun muhim parametrlar qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "question": [
+            {
+                "type": "text",
+                "content": "Regressiya uchun TensorFlow, PyTorch, va Keras kabi dasturlash tillari va kutubxonalar qanday ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "question": [
+            {
+                "type": "text",
+                "content": "Regressiya ma’ lumotlarini tahlil qilishda qanday metrikalar (metrics) ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "question": [
+            {
+                "type": "text",
+                "content": "Prognoshlash (forecasting) nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning da prognoshlash qanday amalga oshiriladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "question": [
+            {
+                "type": "text",
+                "content": "Prognoshlash uchun qanday model turlari (algorithms) ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "question": [
+            {
+                "type": "text",
+                "content": "Prognoshlash uchun qanday ma’ lumotlar (data) kerak?\n"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "question": [
+            {
+                "type": "text",
+                "content": "Prognoshlashda qanday o’rgatish va test qilish usullari ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "question": [
+            {
+                "type": "text",
+                "content": "Prognoshlash dasturlashida overfitting va underfitting nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "question": [
+            {
+                "type": "text",
+                "content": "Prognoshlash uchun qanday optimallashtirish (optimization) usullari ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "question": [
+            {
+                "type": "text",
+                "content": "Prognoshlash uchun TensorFlow, PyTorch, va Keras kabi dasturlash tillari va kutubxonalar qanday ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "question": [
+            {
+                "type": "text",
+                "content": "Prognoshlash ma’ lumotlarini tahlil qilishda qanday metrikalar (metrics) ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirlarni klassifikatsiya qilish nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "question": [
+            {
+                "type": "text",
+                "content": "Deep Learning da tasvirlarni klassifikatsiya qilish uchun qanday algoritmlar ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirlarni klassifikatsiya qilishda qanday model turlari (algorithms) ommalashtiriladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirlarni klassifikatsiya qilish uchun qanday ma’ lumotlar (data) kerak?\n"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirlarni klassifikatsiya qilishda qanday o’rgatish va test qilish usullari ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirlarni klassifikatsiya qilish dasturlashida overfitting va underfitting nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirlarni klassifikatsiya qilish uchun qanday optimallashtirish (optimization) usullari ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirlarni klassifikatsiya qilishda TensorFlow, PyTorch, va Keras kabi dasturlash tillari va kutubxonalar qanday ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasvirlarni klassifikatsiya qilish maqsadlariga ko’ ra, qanday metrikalar (metrics) ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "question": [
+            {
+                "type": "text",
+                "content": "Taom tasvirlarini klassifikatsiya qilishda qanday ma’ lumotlar (data) kerak bo’ ladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "question": [
+            {
+                "type": "text",
+                "content": "TensorFlow kutubxonasining maqsadi nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "question": [
+            {
+                "type": "text",
+                "content": "TensorFlow kutubxonasi qanday til va platformalarda ishlaydi?\n"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "question": [
+            {
+                "type": "text",
+                "content": "TensorFlow kutubxonasi foydalanish uchun qanday muhitlarda o’ rnatilishi kerak?\n"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "question": [
+            {
+                "type": "text",
+                "content": "TensorFlow kutubxonasi qanday o’rgatish va test qilish imkoniyatlari mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "question": [
+            {
+                "type": "text",
+                "content": "TensorFlow kutubxonasi orqali qanday neyron to’ri modellari mavjyd?\n"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "question": [
+            {
+                "type": "text",
+                "content": "TensorFlow kutubxonasi yordamida qanday optimizatsiya usullari amalga oshiriladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "question": [
+            {
+                "type": "text",
+                "content": "TensorFlow kutubxonasida \"Sequential model\" nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sequential model qanday qilib yaratiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sequential modelida qanday qilib neyron tarmoq (neural network) tuziladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sequential modelida qanday qilib optimallashtirish (optimization) o’ tkaziladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sequential modelida qanday qilib tizimni (layers) qo’ shish va o’ chirish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "question": [
+            {
+                "type": "text",
+                "content": "TensorFlow kutubxonasida CNN (Convolutional Neural Network) modeli nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "question": [
+            {
+                "type": "text",
+                "content": "CNN modeli qanday qilib tuziladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "question": [
+            {
+                "type": "text",
+                "content": "CNN modelining asosiy qismlari nimalardan iborat?\n"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "question": [
+            {
+                "type": "text",
+                "content": "CNN modelida konvolyutsiya (convolution) nima maqsadda qo’ llaniladi?\n"
+            }
+        ]
+    }
+]

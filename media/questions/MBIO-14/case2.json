@@ -1,0 +1,5752 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha deganimiz nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Vazifani asossiz amalga oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aqlli va dalillarga asoslangan yechimlarni qidirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tasodifiy harakatlar to’ plami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Maqsadsiz faoliyat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha yaratish jarayoniga nimalar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Vizual eskizlarni tuzish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mahsulot ishlab chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Loyiha bosqichlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Marketing tadqiqotlarini o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi bosqichlardan qaysi biri ishlab chiqarishni loyihalashning bir qismi emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Loyiha maqsadlarini tadqiq qilish va tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Badiiy konstruktorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eskiz proekt\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Marketing tadqiqotlarini o’ tkazish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Badiiy konstruktorlik bosqichi nimaga bag’ ishlangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Texnologik hujjatlarni yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Loyiha maqsadlarini tadqiq qilish va tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Dizayn va funksionallik kontseptsiyalarini ishlab chiqish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Moliyaviy byudjetni tasdiqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha yaratish jarayoni qaysi bosqichda yakunlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Loyiha maqsadlarini tadqiq qilish va tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Badiiy konstruktorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eskizli proekt\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Texnologik hujjatlarni rasmiylashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnik vazifa(TV) ishlab chiqilayotgan ob’ ekt uchun nimani belgilaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Texnik jarayonlar tavsifi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Asosiy maqsadi, xususiyatlari, sifat ko‘rsatkichlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Marketing rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy byudjet\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnik taklif (TT) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Loyihani amalga oshirish rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Obyektning texnik va taktik-texnik tavsifi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kontragentlar ro’ yxati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Loyihaning moliyaviy hisobotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnik taklifda texnik va texnik-iqtisodiy asoslashning (TIA) maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Material xarakteristikalar tavsifi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Har xil yechim variantlarini qiyosiy baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Loyihani amalga oshirish rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Loyiha maqsadlarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyihani ishlab chiqish uchun nima asos bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Texnik vazifasi (TV)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Texnik va texnik-iqtisodiy asoslash (texnik-iqtisodiy asoslash)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Marketing rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy byudjet\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Patent materiallarini hisobga olgan holda TPga nimalar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Marketing rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Moliyaviy investitsiyalar tavsifi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Optimal variantni baholash bilan mumkin bo’ lgan echimlar uchun turli xil variantlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bozor raqobatini tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyiha (DD) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Texnik jarayonlarning batafsil tavsifi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Obyektning tuzilishi va ishlash printsipi haqida umumiy tushuncha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha biznes-rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Material xususiyatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyiha mazmuniga nimalar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bozor sharoitlarini tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Marketing rejasini ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mahsulotning sxematik sxemasini va umumiy sxemasini ishlab chiqish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Moliyaviy natijalarning qiyosiy tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyihalash bosqichida prototiplashni amalga oshirishda nimani e’ tiborga olish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bozordagi raqobatchilarni baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Targ’ ibot tadbirlarini o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Loyihalarning ishlab chiqilayotgan ob’ ekt g’ oyasiga muvofiqligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Moliyaviy hisob-kitoblar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyihaning mohiyatini qanday hujjatlar tashkil etadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish xarajatlarining batafsil hisobi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Texnologik xaritani ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Umumiy ko‘rinishlarning eskiz chizmalarini ishlab chiqish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Hozirgi bozor talabini tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyiha doirasida iqtisodiy samaradorlikni baholashdan maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Moliyaviy hisobotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Keyingi investitsiyalar bo’ yicha qarorlar qabul qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qurilish materiallari sifatini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mahsulot assortimentini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnik loyiha (TL) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ichki dizayn loyihasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Loyihalangan ob’ ekt tuzilishi haqida to’ liq tasavvur beradigan yakuniy texnik echimlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Marketing rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha byudjeti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnik loyiha mazmuniga nimalar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Marketing tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kuchlilik, qattiqlik, chidamlilik va boshqalar uchun hisoblar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Logotip ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bozor raqobatini tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnik dizaynga nimalar kirmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Chizmalarni, yig’ ish birliklarini va muhim qismlarni ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Foydalanish uchun texnik shartlar va spetsifikatsiyalarni tuzish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Loyihaning iqtisodiy asoslanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qadoqlash dizayni\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnik loyiha bosqichida qanday masalalar hal qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bozorda mahsulotlarni ilgari surish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Loyiha echimlarining soddaligini va yig’ ish qismlarini almashtirish printsipini ta’ minlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Reklama kampaniyasini ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mahsulot narxini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nega texnik loyiha bosqichida prototiplashni amalga oshirish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish rejalarini ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Loyihaning mijozlar talablariga muvofiqligini tekshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Texnik audit o’ tkazish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Raqobatchilarni tahlil qilish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Batafsil loyihalash bosqichida ishlab chiqiladigan asosiy narsa nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ichki loyiha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Prototip ishlab chiqarish va uni sinovdan o’ tkazish uchun hujjatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Marketing strategiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Biznes-reja\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Batafsil loyihalash bosqichida qanday sinovlar o’ tkaziladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Faqat qabul testlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Zavod, oldindan shart, oraliq, qabul qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kuch sinovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Chidamlilik sinovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mahsulot ishlab chiqarish bosqichida ishchi hujjatlarga nimalar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Marketing rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Barcha qismlar va yig’ ish birliklarining chizmalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Moliyaviy faoliyat to’ g’ risidagi hisobot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Raqobatchilar tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Batafsil loyihalash bosqichida mashinaning ishlash va ta’ mirlash shartlari qanday hujjatlar bilan tartibga solinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Texnik shartlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Biznes strategiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisobot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Marketing tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Batafsil loyihalash bosqichida ishlab chiqarilgan mahsulotlarning hujjatlari asosida nimalar ishlab chiqiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qurilish loyihasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bozorni ilgari surish loyihasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O’ rnatilgan ishlab chiqarishning yakuniy ishchi hujjatlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Biznesni kengaytirish rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki dizayn nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish jarayonlarini tavsiflovchi hujjat.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mahsulotning fundamental yechimlarini o’ rnatish, loyihalashning birinchi bosqichi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish uchun zarur bo’ lgan uskunalar ro’ yxati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Texnologik ishlab chiqarish jarayonlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yangi ishlab chiqarishni jihozlashda qanday jihozlardan foydalanish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Korxona uchun maxsus ishlab chiqilgan eksklyuziv uskunalar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Standart, standartlashtirilgan, ommaviy ishlab chiqarilgan uskunalardan maksimal darajada foydalanishga intiling.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Xarajatdan qat’ i nazar, import qilingan uskunalar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Korxona uchun maxsus ishlab chiqilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi asbob-uskunalar muayyan ishlab chiqarishda ishlash uchun maxsus moslashtirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ofis jihozlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sig’ imli uskunalar, reaktorlar, ba’ zi issiqlik almashtirgichlar, ustun tipidagi qurilmalar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Chakana savdo nuqtalari uchun savdo uskunalari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Reaktorlar, ba’ zi issiqlik almashinuvchilari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish uchun asboblar va jihozlarning ishchi chizmalari qayerda ishlab chiqiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Har qanday korxonaning konstruktorlik byurosida.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mashinasozlik zavodlarining konstruktorlik byurolarida.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish liniyasida.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Har qanday korxonaning byurosi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Buyurtmaga taklif etilayotgan qurilmalarning texnik loyihasini ishlab chiqish uchun nima asos bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kompaniya xodimlarining tajribasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Buyurtma uchun taklif qilinadigan hisob-kitoblar va chizmalardan iborat texnik dizayn.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Muhandislarning o’ zboshimchalik bilan qarorlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muhandislarning qarori\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Har qanday ishlab chiqarish tizimining maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mahsulotlarni katta miqdorda qabul qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Daromadni maksimallashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish liniyalari sonini ko’ paytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Resurslardan optimal foydalangan holda kerakli miqdor va sifatdagi mahsulot olish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnologik jarayonning moddiy balansida tenglik nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Moddalarning kirib kelishi moddalarning sarflanishiga teng\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Maddalar oqimi moddalar iste’ molidan ko’ p\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Maddalarning kirib kelishi moddalarning sarflanishidan kamroq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ko’rsatilganlarni hammasi notog’ri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish masalalarini yechishda qanday usullardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Intuitiv usullar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Hisoblash usullari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ijodiy usullar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sinov va xato usullari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarishda hisoblash usullari nimaga asoslanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Talabning aniq prognozlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Moliyaviy rejalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moddiy balans\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish operatsiyalarini optimallashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish tizimida xom ashyo sarfi mahsulot miqdori bilan qanday bog’ liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " To’ g’ ridan-to’ g’ ri proportsional\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Teskari proportsional\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bog’ liq emas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish xarajatlari orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnologik jarayondagi apparat sxemasi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Korxonaning geografik xaritasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mashina va qurilmalarni qat’ iy ketma-ketlikda grafik ko’ rsatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Korxonani boshqarish tuzilmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish jadvali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gorizontal chiziqlar blok-sxemada nimani ifodalaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Moddiy ulanishlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Energiya aloqalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Texnologik operatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Texnologik xarita\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Blok-sxemada qaysi operatorlar aniq qurilmalar bilan almashtiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish ishchilari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bo’ lim boshliqlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Texnologik qurilmalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish muhandislari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mashina va qurilmalar apparat diagrammasida qanday ulangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Elektr simlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Quvurlar, transport vositalari va boshqalar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Havo liniyalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " LED chiziqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnologik jarayondagi apparat sxemasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Material ulanishlarning grafik ko’ rinishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Texnologik operatsiyalarning grafik ko’ rinishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mashina va qurilmalarning grafik ko’ rinishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Grafik ma’ lumotlarni baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uskuna sxemasida qanday elementlar ko’ rsatilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uskunaning haqiqiy fotosuratlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mashina va apparatlarning odatiy tasvirlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Geometrik shakllar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Elektr sxemalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aparat sxemasini ishlab chiqishda avvalo qaysi bosqich bajariladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Texnokimyoviy hisoblar majmuasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uskunani printsipial tanlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Hisoblangan ma’ lumotlarni hisobga olgan holda qayta ko’ rib chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moddiy balans\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentatsiya xamirturushli zamburug’ lar faoliyati bilan bog’ liqligini kim isbotladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "R. Koch\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "B. Hesse\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "L. Paster\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "F.Valter\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mikroblarning sof kulturalarini jelatin plastinkalarga yopishtirish orqali ajratib olish usuli nechanchi yilda ishlab chiqilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1861\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1883\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1884\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1900\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mikroblarni yetishtirish uchun qattiq muhit tarkibini qaysi nemis mikrobiologi taklif qilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "R. Koch\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "B. Hesse\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "L. Paster\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuqoridagilarning hech biri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "V.Gesse taklif qilgan zich muhit tarkibida qaysi komponent asosiy bo’ lgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jelatin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Agar-agar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Meva jeli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Fermentatsiya qiluvchi suyuqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "V.Gesse taklif qilgan zich muhitda agar-agar nima uchun ishlatilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mevali jele tayyorlash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mikroblarning ko’ payishi uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Jelatinli plastinkalarga ekish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Achitqi qo’ ziqorinlarini etishtirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "L.Pasterning fikricha, xamirturushli zamburug’ larning hayotiy faoliyati bilan qanday jarayon chambarchas bog’ liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pigmentatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Fermentatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Hujayra nafasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mikroorganizmlarning ko’ payishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kim zich muhitni to’ ldirish uchun laboratoriya shishasidan kesilgan tubi shaklidagi shaklni taklif qildi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "R. Koch\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "L. Paster\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yu. Petri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "A. Makkonki\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Laboratoriya shishasidan tubi kesilgan shakl nechanchi yilda taklif qilingan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1861\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1887\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1905\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1883\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Laboratoriya shishasidan kesilgan taglik shaklidagi shakl qanday nom oldi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Petri kolbasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Paster kubogi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Petri idishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Petri shishasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Birinchi xromogen muhitni A.Makkonki nechanchi yilda yaratgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1861\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1887\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1905\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1883\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "A.Makkonki tomonidan ishlab chiqilgan xromogen muhitga nimalar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Shakar va tuz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Safro kislotalari va neytral qizil\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Agar-agar va jelatin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Meva jeli va laktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "A.Makkonkining xromogen muhitida qaysi mikroorganizmlar qizil rangga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Gram-musbat mikroblar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ichak bakteriyalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qo’ ziqorinlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Viruslar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mikroorganizmlar qobig’ ining o’ tkazuvchanligiga muhitning qanday reaksiyasi ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Nordon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ishqoriy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Neytral\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Redoks\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ pchilik patogen bakteriyalar uchun optimal ozuqa muhit qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bir oz kislotali (pH 6,2-6,8)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Neytral (pH 7,2–-7,4)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishqoriy (pH 8,5–-9,0)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kislotali (pH 5,0-5,5)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mikroorganizmlar uchun zich muhitda nima bo’ lishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Buferlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Optimal mustahkamlik va namlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Metabolik mahsulotlarni neytrallash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ma’ lum bir oksidlanish-qaytarilish potentsiali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mikroorganizmlar faoliyati natijasida pH ning o’ zgarishini oldini olish uchun ozuqa muhitida nima bo’ lishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Suv va tuz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bufer tizimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Temir va kaltsiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yog ’ va oqsil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Atrof-muhitning tozaligini nima ta’ minlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mikroorganizmlar qobig’ ining o’ tkazuvchanligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O’ rganilayotgan mikrobning o’ sishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tashqi muhit mikroblari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Osmotik bosimdagi farq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quruq kultura vositalarining afzalliklari nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Past narx\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Foydalanish uchun maxsus jihozlar talab qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aniq ma’ lum kimyoviy tarkibi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qisqa saqlash muddati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sanoatda oziqa muhitlar nima uchun mo’ ljallangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Laboratoriyada madaniyat muhitini tayyorlash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ozuqa qo’ shimchalarini ishlab chiqarish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "chorvachilikda silosli ozuqa ishlab chiqarish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ichimliklarni tayyorlash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quruq ozuqa muhiti nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gigroskopik kukun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Suyuq eritmalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kristalli moddalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gazsimon moddalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quruq ozuqa muhiti boshqa turlardan qanday afzalliklarga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Past sifatli komponentlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qisqa saqlash muddati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Konponentlarni yuqori darajada tozalash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tayyorgarlik qiyinligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quruq ozuqa muhit vositalaridan foydalanishni nima qulay qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Maxsus uskunalarning mavjudligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oziqlantiruvchi mikrobiologik muhitni tayyorlashning soddaligi va tezligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Saqlash va tashishda qiyinchilik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Past narx\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quruq ozuqa muhitida qanday komponentlar mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tasodifiy kimyoviy birikmalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Standartlashtirilgan tayyor aralashmalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tabiiy mahsulotlarni qayta ishlashsiz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ixtisoslashgan laboratoriyadan tashqarida olish qiyin bo’ lgan komponentlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "GMP qoidalari nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Dori sifatini nazorat qilish imkoniyatlari cheklangan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xatolar va og’ ishlarning maksimal soni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarishni tashkil etish bo’ yicha umumiy ko’ rsatma\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Laboratoriya sinovlari tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "GMP qoidalarining maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Farmatsevtika ishlab chiqarishda xavfni butunlay yo’ q qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tayyor mahsulot namunalarini tahlil qilishning ahamiyatini oshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Nazorat testlari sonini ko’ paytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yakuniy mahsulot sifatini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "GMP qoidalariga muvofiq ishlab chiqarish jarayonini \"tasdiqlash\" nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Laboratoriya sinovlarini o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Jarayonning talablarga muvofiqligini tekshirish va tasdiqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Uskuna sifatini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yakuniy mahsulot sifatini nazorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "GMP qoidalariga ko’ ra nima \"hujjatlangan\" bo’ lishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish siklidagi barcha xatolar va og‘ishlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Barcha laboratoriya tekshiruvlari natijalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish bilan bog’ liq barcha operatsiyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat texnologik hujjatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "GMP qoidalarini amalga oshirish uchun nima kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ixtisoslashtirilgan uskunalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sanitariya va shaxsiy gigienaga e’ tibor berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Nazorat testlarining maksimal soni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Zamonaviy texnologik hujjatlarning mavjudligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "GMP qoidalari farmatsevtika ishlab chiqarish uchun nima qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yakuniy mahsulot sifatini nazorat qilish zaruratini yo’ q qiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tayyor mahsulotlarni tanlab tahlil qilishning ahamiyatini pasaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Farmatsevtika ishlab chiqarishda xavfni oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Maksimum ishlab chiqarishni avtomatlashtirishni ta’ minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimyo-texnologik tizimni yaratishning qaysi bosqichi tizim samaradorligi mezonini tanlashni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tizim sintezi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tizim tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Samaralilik mezonini aniqlash usulini tanlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Samaradorlik tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimyo-texnologik tizimni yaratishning qaysi bosqichi tizimni parchalanish printsipi yordamida matematik modellashtirishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tizim sintezi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tizimni optimallashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Samaralilik mezonini aniqlash usulini tanlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishlash tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimyo-texnologik tizimni yaratishning qaysi bosqichi tizimning tarkibi va tuzilishini, shuningdek, tizimning matematik tavsifini tanlashni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tizim tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tizim sintezi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tizimni optimallashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishlash tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimyo-texnologik tizimni yaratishning qaysi bosqichi matematik modelni yechish va samaradorlik mezonining qiymatini topishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tizim tahlili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tizimni optimallashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Samaralilik mezonini aniqlash usulini tanlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishlash tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimyo-texnologik tizimni yaratishning qaysi bosqichi tizimning optimal tarkibi va tuzilishini tanlashni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tizim tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tizimni optimallashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Samaralilik mezonini aniqlash usulini tanlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Usullarning ta’ rifi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aparat-texnologik diagramma chizishda qanday masshtabdan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1:10\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1:25\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1:50\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1:30\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday hollarda apparat-texnologik diagramma chizishda 1:25 ga teng taqribiy masshtab qabul qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uskunaning katta o’ lchamlari uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uskunaning juda kichik o’ lchamlari bilan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Uskunaning standart o’ lchamlari bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kichik o’ lchamlar uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sxemada qaysi elementlar va qurilmalarni masshtabsiz tasvirlash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Faqat katta elementlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat kichik elementlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O’ lchamlar nisbatiga mos keladigan elementlar va qurilmalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nisbatga bog’ liq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi quvurlar texnologik quvurlarga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Shahar suv ta’ minoti uchun quvurlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Dengizdagi neft platformalarida neftni tashish uchun quvurlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sanoat korxonalarida xom ashyo va mahsulotlarni tashish uchun quvurlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Neftni tashish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnologik quvurlarda qanday bosim bo’ lishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Vakuumdan 100 MPa gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,001 MPa dan 320 MPa gacha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "50 MPa dan 500 MPa gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Vakuumdan 200 MPa gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnologik quvurlardagi ish harorati qanday diapazonda bo’ lishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " -100 dan 200 darajagacha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " -196 dan 700 darajagacha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0 dan 500 darajagacha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 0 dan 600 darajagacha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyiha nimani o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Faqat qismlarning chizmalarini ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mahsulotning sxematik sxemasini ishlab chiqish, mahsulotning umumiy sxemasi va boshqa ma’lumotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat prototiplash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Umumiy mahsulot sxemasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nega maketlarni ishlab chiqarish va sinovdan o’ tkazish dastlabki loyihalash bosqichida amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tayyor mahsulotni sotish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Iqtisodiy samaradorlikni baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Patent olish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sotish tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyihaning mazmuni nimadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Faqat batafsil chizmalarni ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mahsulotning sxematik sxemasini va mahsulotning umumiy sxemasini ishlab chiqish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat spetsifikatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mahsulot diagrammasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyiha bosqichida prototiplash nimani o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yirik qismlarni ishlab chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Vizual tasvirlash uchun mahsulot modelini yaratish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tayyor mahsulotni yig’ ish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vizual taqdimot uchun mahsulotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyihalash bosqichida yig’ ish birliklari uchun texnik shartlarni tuzishdan maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Dizaynning patent tozaligini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Iqtisodiy samaradorlik tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mahsulotni ishlab chiqarish uchun qismlarning tarkibi va sonini aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qismlar soni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki loyihaning mohiyati nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yakuniy mahsulot dizaynini ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kelajak dizaynning dastlabki eskizini ishlab chiqish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Texnologik hujjatlarni tuzish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mahsulot dizaynlari va boshqalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reaktor qanday talablarga javob berishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mahsulotlarning o’ ziga xos rangini taqdim eting\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O’ zaro ta’ sir qiluvchi fazalarning kerakli aloqa yuzasini yarating\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Jarayon davomida kerakli shovqin darajasini saqlang\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Shovqin darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Prosessni o’ tkazish uchun reaksiya apparatini tanlashda nimalarga e’ tibor berish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kimyoviy tahlil qilish imkoniyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qurilmani konstruktiv amalga oshirish imkoniyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Atrof-muhit haroratini nazorat qilish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bosimni nazorat qilish imkoniyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sanoatda ishlatiladigan reaktorlarning asosiy konstruktiv turlari qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Faqat bir xil turdagi reaktorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Jarayonning o’ ziga xos xususiyatlarini hisobga olgan holda har xil turdagi reaktorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat laboratoriya reaktorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat laboratoriya reagentlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nega reaktorda reagentlar harakatining ma’ lum gidrodinamik rejimini ta’ minlash kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kerakli aloqa yuzasini yaratish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ichki havo sifatini yaxshilash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Reaksiya tezligini oshirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Reaksiya tezligi va bosimini oshirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reaktorda jarayon davomida zarur issiqlik almashinuvini nima ta’ minlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ventilyatsiya mavjudligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Maxsus issiqlik almashtirgichlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Reaktor dizayni va sovutish tizimlarining mavjudligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Maxsus issiqlik almashinuvchilari va issiqlik o’ tkazgichlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reaktorga qo’ yiladigan talablardan biri nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ko’ p sonli boshqaruv tugmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Katalizator faolligi darajasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Rangli dizayn\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ko’ p sonli boshqaruv tizimlarining mavjudligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reaktor bilan ishlashda apparatni isitish usuli va sovutish suvi tanlash qaysi omil bilan belgilanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jarayon bosimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Jarayon harorati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Aralashtirish intensivligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Intensivlik va boshqalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reaktorni tanlashda apparatning shakli va uning materiali qanday omil bilan belgilanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Issiqlik almashinuvining intensivligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Jarayon bosimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qayta ishlangan materialning kimyoviy xossalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Jarayon harorati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reaktor bilan ishlaganda hisoblangan issiqlik almashinuvi sirtining konstruksiyasi nima bilan belgilanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aralashtirish intensivligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qayta ishlangan materiallarning konsistensiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Jarayonning uzluksizligi yoki davriyligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aralash intensivligi va boshqalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Jarayonlarni amalga oshirishda reaktor materialini tanlashga qanday omil ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qurilmani oson o’ rnatish va ta’ mirlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qayta ishlangan materialning kimyoviy xossalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qurilish materiallarining mavjudligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ rnatish qulayligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reaktor bilan ishlashda diffuzorlar, maxsus bo’ limlar va yuqori tezlikdagi mikserlarning konstruksiyasi nima bilan belgilanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Issiqlik almashinuvining intensivligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aralash intensivligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qayta ishlangan materiallarning agregat holati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Issiqlik uzatish tezligi va issiqlik sig’ imi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reaktor bilan ishlashda issiqlik o’ tkazuvchi sirtning o’ lchami va turini tanlashda qanday omil muhim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jarayon bosimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Issiqlik almashinuvining intensivligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qurilmani oson o’ rnatish va ta’ mirlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tank harorati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qayta tiklanadigan xom ashyolar nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sun’ iy manbalardan olingan xomashyo\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yer tubidan olingan xomashyo\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish siklini qisqa muddatda yakunlash mumkin bo‘lgan xom ashyo\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qayta foydalanish mumkin bo’ lmagan xom ashyo\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qayta tiklanuvchi xomashyodan foydalanishda optimallashtirish muammosini qanday hal qilish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Eng yaxshi parametr qiymati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Eng past parametr qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oʻrtacha parametr qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Maksimal parametr qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Chiziqli yaqinlashish va gradient harakatidan foydalanganda nimani bir necha marta takrorlash kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tajribalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Natijalarni baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Chiziqli yaqinlashish va gradient bo‘ylab harakatlanish bosqichlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Oldingi bosqichlarni tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Optimallashtirish parametrining eng yaxshi qiymati nuqtasida gradient bo’ ylab birinchi harakatdan keyin ular nima qiladilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Optimallashni toʻxtatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Boshlanish nuqtasiga qaytish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yangi tajribaning \"foni\" sifatida olingan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Optimallashtirish bosqichini oshiring\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yangi tajribani \"fon\" sifatida qabul qilgandan so’ ng, yangi eksperiment natijalari asosida nima qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Optimallashtirish bosqichini qisqartirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Boshlanish nuqtasiga qaytish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tik toqqa chiqishni amalga oshiring\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Optimallashni toʻxtatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "ХТС nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tabiiy tizim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sun’ iy texnik tizim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tibbiyot tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ekologik tizim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "ХТС ning maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Atrof-muhitga maksimal ta’ sir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Minimal xarajatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Past sifatli mahsulotlar ishlab chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Resurs sarfini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "ХТС da operator nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kimyoviy texnologiyaning tipik jarayoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sovutish tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Texnologik regulyator\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Elektron display\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "ХТС da quyi tizim nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yagona operator\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Turli maqsadlarga ega boʻlgan operatorlar toʻplami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qayta aloqa tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bitta texnologik maqsad bilan birlashtirilgan operatorlar majmui\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "ХТС ning asosiy vazifasi nimadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Atrof-muhitga ta’ sirning kuchayishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Har qanday sifatdagi mahsulotlarni yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Atrof-muhitga minimal ta’ sirni ta’ minlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xarajatlarni maksimallashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biotexnologik ishlab chiqarishning asosiy bosqichlari nimalardan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xom ashyo va materiallarni sotib olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Fermentatsiya, tozalash, mahsulot izolyatsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tayyor mahsulotlarni qadoqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Marketing tadqiqotlarini o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biotexnologik ishlab chiqarishda bioreaktorlarda va qayta ishlash bosqichlarida qanday jarayonlar sodir bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mexanik jarayonlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Fotosintez\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Biokimyoviy, kimyoviy va fizik-kimyoviy jarayonlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aerob nafas olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biotexnologik ishlab chiqarish uchun mashina va qurilmalarda qaysi strukturaviy elementlar eng muhim hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kauchuk qistirmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Shisha idishlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Chelik panjaralar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Rotorlar va statorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimyoviy apparatlar ishlab chiqarishda qanday materiallardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Daraxt\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Plastik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Metallar va qotishmalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qog’ oz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biotexnologik ishlab chiqarishda qanday transport usullaridan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Faqat avtomobil transporti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat havo transporti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Quvurlar orqali suyuqliklarni tashish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat pochta xizmatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uskuna sxemasini ishlab chiqish algoritmiga nimalar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uskunalar uchun ranglarni tanlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Asosiy va yordamchi uskunalarni dastlabki tanlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qurilma dizaynini ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Marketing tahlilini o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnokimyoviy hisoblar majmuasiga nimalar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uskunaning ishlashi uchun ob-havo sharoitlarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xom ashyo va chiqindilar miqdorini hisoblash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish hududidagi yer sifatini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Texnologiyaning rivojlanish tarixini o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uskuna sxemasini takomillashtirish (aniqlash) nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uskunaning rangini estetik ta’ sir qilish uchun o’ zgartiring\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barcha turdagi energiya iste’ molini aniqlashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Uskunaning fotosessiyasini o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yangi texnologik jarayonlarni ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asosiy va yordamchi uskunalarni tanlashda odatda qanday parametrlar hisobga olinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uskunaning rangi va shakli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat uskuna narxi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Uskunaning turi va xususiyatlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uskuna ishlab chiqaruvchisi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uskuna dizaynini takomillashtirish uchun qanday ma’ lumotlardan foydalanish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Keyingi oy uchun ob-havo ma’ lumoti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Laboratoriya tekshiruvi natijalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mahsulot narxining o’ rtacha oshishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ijtimoiy tarmoqlarning xodimlar orasida mashhurligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uskuna agregatlarini sxema bo‘yicha texnologik jarayonning ketma-ketligiga ko‘ra joylashtirish talabi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uskunalar tasodifiy tarzda joylashtirilishi kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sxemadagi uskunaning joylashuvi muhim emas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Uskunalar mahsulotlarni qayta ishlash tartibini aks ettirishi kerak\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uskunalar istalgan tartibda joylashtirilishi kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sxemada uskunani joylashtirish darajasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uskunaning narxini ko’ rsatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uskunani joylashtirish balandligini ko’ rsatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Uskunani ishlab chiqaruvchi ko’ rsatma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uskuna funktsiyalarining tavsifi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nima uchun texnologik jarayon bo’ yicha diagrammada uskunaning joylashuvi raqamlangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xodimlarga qulaylik yaratish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sxemani bezash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Texnologik jarayonning ketma-ketligini saqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Loyiha narxini oshirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uskuna sxemasida o’ rnatishning samarali loyhalash nimani ta’ minlashi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Chiroyli ko’ rinish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Optimal jarayon oqimi va xavfsizlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yuqori ishlab chiqarish xarajati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uskunalarni oson o’ rnatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uskunaning spetsifikatsiyasi va tushuntirish xatida qanday ma’ lumotlarga qat’ iy rioya qilish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uskunaning rangi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Texnologik jarayon davomida asbob-uskuna pozitsiyalarini raqamlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Uskunalar uchun mas’ ul bo’ lgan ishchilarning nomlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uskuna ishlab chiqaruvchisi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,3866 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что подразумевается под определением \"риск\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Возможность получения выгоды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Вероятность наступления нежелательных событий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Зависимость от окружающей среды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Уровень доходности инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой из нижеперечисленных факторов способствует увеличению риска?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Классификация инвестиционного портфеля\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Наличие стабильного источника дохода\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Низкая волатильность рынка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Высокий уровень заимствований\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"магнитуда риска\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Степень влияния риска на окружающую среду\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Степень потерь, вызванных рисковым событием\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Временная продолжительность рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Вероятность наступления рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой фактор отражает характеристику \"временная величина риска\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Продолжительность рискового события\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Субъективное восприятие риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Возможность получения выгоды от риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Степень потерь, вызванных рисковым событием\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"коррелированность риска\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Взаимосвязь между различными рисками\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Субъективное восприятие риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Степень потерь, вызванных рисковым событием\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Продолжительность рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"инфляционный риск\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Риск потери рыночной доли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Риск изменения экономической политики\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Риск увеличения цен на товары и услуги\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Риск финансового краха\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой фактор является основным при определении \"валютного риска\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Изменение инфляции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Политическая нестабильность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Волатильность фондового рынка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Изменение курса валюты\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"низкий риск\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Риск, который полностью исключен\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Риск с минимальными потенциальными потерями\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Риск со средним уровнем потерь\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Риск с высоким уровнем потерь\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"высокий риск\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Риск, который полностью исключен\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Риск с минимальными потенциальными потерями\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Риск со средним уровнем потерь\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Риск с высоким уровнем потерь\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"идентификация рисков\" в управлении риском?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Оценка вероятности наступления рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Определение потенциальных последствий рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Выявление и описание потенциальных рисковых событий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Разработка стратегии для снижения рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"мониторинг рисков\" в управлении риском?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Оценка вероятности наступления рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Определение потенциальных последствий рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Выявление и описание потенциальных рисковых событий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Слежение за изменениями в рисковой ситуации и принятие корректирующих мер\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой основной механизм используется в страховании для распределения рисков?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Резервирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Диверсификация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Компенсация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Предсказание\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой принцип страхования обеспечивает соответствие размера страховой премии и страхового возмещения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Принцип индивидуального подхода\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Принцип учета принципа экономической целесообразности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Принцип соответствия страховых тарифов и страховых рисков\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Принцип сохранности страхового фонда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой объект страхования относится к категории \"имущественное страхование\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Жизнь человека\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Здоровье человека\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Автомобиль\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ответственность перед третьими лицами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой объект страхования относится к категории \"ответственность\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Жизнь человека\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Здоровье человека\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Автомобиль\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ответственность перед третьими лицами\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой объект страхования относится к категории \"личное страхование\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Жизнь человека\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Здоровье человека\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Автомобиль\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ответственность перед третьими лицами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой объект страхования относится к категории \"здоровье\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Жизнь человека\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Здоровье человека\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Автомобиль\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ответственность перед третьими лицами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой объект страхования относится к категории \"страхование финансовых рисков\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Жизнь человека\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Здоровье человека\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Автомобиль\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Финансовые инструменты и инвестиции\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает идентификация риска?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Оценка вероятности наступления рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Выявление и описание потенциальных рисков\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Разработка стратегии минимизации рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Оценка финансовых потерь от риска\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"страхование\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Процесс защиты от рисков и финансовых потерь\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Процесс прогнозирования будущих экономических трендов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Процесс оценки финансовых потерь от рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Процесс управления инвестициями\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает определение риска?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Описание случаев ущерба\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Определение вероятности возникновения ущерба\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Оценка издержек\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Прогнозирование прибыли\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"рисковый актив\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Актив, приносящий стабильный доход\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Актив, не подверженный изменениям рыночной конъюнктуры\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Актив, чья стоимость может изменяться в значительной степени\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Актив, не требующий дополнительных инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что представляет собой \"финансовый риск\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Риск убытков от инвестиций\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Риск изменения клиентской базы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Риск снижения производительности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Риск потери конкурентных преимуществ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой фактор является основным при определении \"политического риска\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Волатильность фондового рынка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Изменение законодательства\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Риск изменения экономической политики\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Политическая нестабильность\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"рыночный риск\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Риск потери рыночной доли\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Риск изменения клиентской базы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Риск увеличения цен на товары и услуги\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Риск изменения финансовой политики\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой критерий классификации учитывает долю потерь, вызванных нежелательным событием?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Критерий по мере контроля\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Критерий по вероятности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Критерий по степени воздействия\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Критерий по доле потерь\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой критерий классификации по величине риска основывается на потенциальных потерях?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Критерий по вероятности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Критерий по степени воздействия\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Критерий по мере контроля\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Критерий по доле потерь\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой метод используется для измерения риска и определения его приоритетности?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Метод диверсификации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Метод квантификации риска\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Метод статистического анализа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Метод управления изменениями\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает понятие \"анализ рисков\" в управлении риском?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Оценка вероятности наступления рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Определение потенциальных последствий рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Выявление и описание потенциальных рисковых событий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Изучение характеристик рисков и их взаимосвязей\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой метод финансирования рисков предполагает использование финансовых инструментов для управления рисками?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Самострахование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Страхование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Реинвестирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Деривативы\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой метод финансирования рисков предполагает внедрение системы мер по снижению рисков и их последствий?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Самострахование\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Страхование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Реинвестирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Проактивное управление рисками\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой метод финансирования рисков предполагает использование доходов и накоплений предприятия для покрытия потерь?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Самострахование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Страхование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Реинвестирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Самофинансирование\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какую роль выполняет страхование в экономике?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Повышение уровня доходов населения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Защита от финансовых потерь, связанных с рисками\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Формирование резервов для государства\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Увеличение инвестиций в экономику\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какое преимущество получает экономика благодаря страхованию?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сокращение налоговых платежей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Увеличение сбережений населения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Снижение финансовых рисков\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Повышение уровня конкуренции\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Как страхование способствует развитию предпринимательства?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Предоставляет доступ к финансированию\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Снижает налоговое бремя\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Увеличивает конкуренцию на рынке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Повышает уровень экономической стабильности\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какая роль принадлежит страховым компаниям в экономике?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Формирование бюджетных резервов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Управление международными финансовыми потоками\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Предоставление финансовых инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Передача и распределение финансовых рисков\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какая основная цель страхования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Обеспечение прибыли страховой компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Защита от финансовых потерь, связанных с рисками\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Формирование резервов для государства\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Снижение налоговых платежей\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какую задачу выполняет страхование при помощи диверсификации рисков?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Увеличение прибыли страховой компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Распределение рисков между страхователями\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Сокращение финансовых резервов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Предоставление финансирования для предпринимательства\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой принцип страхования предполагает контроль за честностью и точностью предоставляемой информации страхователем?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Принцип индивидуального подхода\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Принцип учета принципа экономической целесообразности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Принцип доверия и добросовестности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Принцип сохранности страхового фонда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой принцип страхования предполагает защиту интересов страхователя в случае страхового случая?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Принцип индивидуального подхода\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Принцип учета принципа экономической целесообразности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Принцип добросовестного исполнения обязательств\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Принцип сохранности страхового фонда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что является основной идеей взаимного страхования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Коммерческая прибыль страховой компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Взаимное деление страховых рисков между участниками\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Предоставление страховой защиты только одному участнику\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Формирование капитала для инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какие лица являются участниками взаимного страхования?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Только страховая компания и страхователь\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Только страховая компания и брокер\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Группа людей или организаций, объединенных для взаимного страхования\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Только страховой агент и страхователь\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Каким образом осуществляется финансирование страховых выплат взаимных страховых организаций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Они берут кредиты у банков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Они привлекают инвестиции от сторонних инвесторов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Расходы на страховые выплаты покрываются из средств страхового фонда, сформированного из взносов участников\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Финансирование осуществляется за счет государственного бюджета\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какое участие имеют участники в управлении взаимными страховыми организациями?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Никакого - управление осуществляется только страховой компанией\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Участники имеют право голоса по важным решениям\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Участники назначают управляющий совет\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Участники получают дивиденды от прибыли компании\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какая особенность отличает взаимное страхование от традиционного коммерческого страхования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Взаимное страхование не предоставляет страховую защиту\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Взаимное страхование основано на принципе солидарности и взаимопомощи\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Взаимное страхование не требует платежей от участников\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Взаимное страхование предоставляет более выгодные страховые полисы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой метод используется для анализа риска, основанный на вероятности и воздействии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Метод \"дерева решений\"\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Метод \"экспертных оценок\"\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Метод \"матрицы рисков\"\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Метод \"вероятностно-воздейственного анализа\"\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что такое риск-матрица?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Инструмент для идентификации рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Диаграмма, отображающая вероятность и воздействие рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Метод расчета финансовых потерь от риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Модель для прогнозирования будущих рисковых событий\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что такое качественный анализ риска?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Анализ, основанный на количественных данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Анализ, основанный на экспертных оценках и категориях\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Анализ, направленный на определение финансовых потерь\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Анализ, основанный на статистических методах\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что такое риск-менеджмент?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Процесс идентификации и управления рисками\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Процесс прогнозирования будущих рисковых событий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Процесс анализа финансовых потерь от рисков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Процесс определения вероятности наступления рисковых событий\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какую роль выполняет страхование в экономике?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Повышает уровень безопасности и стабильности экономики\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Снижает инфляцию и процентные ставки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Повышает уровень экономического роста\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Увеличивает доходы государства от налогов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какие экономические субъекты могут использовать страхование?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Только физические лица\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Только юридические лица\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Физические и юридические лица\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Только государственные организации\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Каким образом страховые компании влияют на экономику?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Предоставляют финансовую поддержку государству\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Создают рабочие места и способствуют экономическому росту\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Снижают инфляцию и процентные ставки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Управляют инвестиционными портфелями граждан\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какую роль выполняют страховые премии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Формируют прибыль страховых компаний\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Покрывают расходы на рассмотрение страховых случаев\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Формируют страховой фонд для покрытия убытков\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Снижают стоимость страховых услуг для клиентов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какой принцип страхования описывает обязательность страхования для всех граждан?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Принцип индемнизации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Принцип социальной справедливости\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Принцип универсальности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Принцип актуарной справедливости\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает принцип социальной справедливости в страховании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Обязательность страхования для всех граждан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Правильное определение страховой премии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Распределение риска между страхователями\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Обеспечение доступности страховых услуг для всех категорий населения\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какая цель формирования тарифных групп в страховании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Обеспечить справедливое распределение страховых выплат\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Увеличить прибыль страховой компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Снизить стоимость страховых услуг для всех клиентов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Упростить процесс оформления страховых полисов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какие методы могут использоваться при формировании тарифных групп?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Статистический анализ и актуарные расчеты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Произвольное определение тарифов страховых продуктов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Предложение клиента о желаемой страховой премии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Сравнение с тарифами других страховых компаний\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что такое рейтинговая оценка в формировании тарифных групп?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Оценка финансовой устойчивости страховой компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Оценка страхового риска страхователя\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Оценка качества страховых услуг\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Оценка клиентской удовлетворенности\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что означает термин \"Карго\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Перевозка пассажиров на транспорте\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Перевозка грузов или товаров\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Продажа и закупка акций на бирже\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Работа по разгрузке и погрузке контейнеров\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какова роль цессии в страховании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Распределение риска между несколькими страховыми компаниями\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Установление страховой премии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Оценка финансовой стабильности страховой компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Проведение медицинских обследований клиентов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что представляет собой франшиза в страховании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Специальный вид страхового полиса для франшизных предприятий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Соглашение между страхователем и страховой компанией о разделении риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Стоимость, которую страхователь должен оплатить перед получением страховой выплаты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Право страхователя самостоятельно решать, какие риски включать в страховой полис\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что характеризует паушальную систему оплаты?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Платеж, основанный на фактическом использовании услуги или товара\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Фиксированную сумму, независимо от использования или потребления\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Периодические выплаты в зависимости от дохода клиента\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Оплату только за первичную установку услуги или товара\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая основная задача сюрвейера в страховании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Определение страховой суммы для объекта страхования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Проведение медицинского обследования клиента перед страхованием жизни\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Оценка финансового состояния клиента для определения страховой премии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Технический осмотр объектов и оценка риска перед страхованием или при наступлении страхового случая\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает термин \"дисклоз\" в страховом деле?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Обязательное раскрытие всей информации о страховом риске страховщику\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Право страховщика отказаться от выплаты по страховому полису\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Предоставление страховщику ложной информации о страховом случае\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Заключение страхового договора между страховщиком и страхователем\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что представляет собой Зеленая карта в контексте автострахования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Документ, удостоверяющий владение автомобилем\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Международный документ, подтверждающий наличие страхования гражданской ответственности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Водительское удостоверение международного образца\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Справка о результатах технического осмотра автомобиля\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что представляет собой бордеро в страховом деле?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Документ, содержащий информацию о страховом случае и передаваемый страховой компании\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Документ, выдаваемый клиенту при оформлении страхового полиса\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Техническая спецификация страхового риска, составляемая страховым агентом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Справка о страховой выплате, выдаваемая страховой компанией потерпевшему\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кто такой актуарий в страховом деле?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Страховой агент, заключающий договоры страхования\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сотрудник страховой компании, оценивающий риски и разрабатывающий тарифы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Финансовый аналитик, занимающийся инвестированием страховых фондов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Страховой брокер, помогающий клиентам выбрать страховые продукты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кем является андеррайтер в страховой компании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Сотрудник страховой компании, оценивающий риски и принимающий решение о страховании\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Юрист, представляющий интересы страховой компании в судебных процессах\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Страховой агент, заключающий договоры страхования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Финансовый аналитик, занимающийся инвестированием страховых фондов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кто такой аджастер в страховании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Страховой агент, заключающий договоры страхования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сотрудник страховой компании, оценивающий убытки и принимающий решение о страховой выплате\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Страховой брокер, помогающий клиентам выбрать страховые продукты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Юрист, представляющий интересы страховой компании в судебных процессах\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие права имеет бенефициар в страховом деле?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Право на получение страховой выплаты в случае наступления страхового события\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Право изменить условия страхового договора без согласия страховой компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Право отказаться от страховой выплаты и потребовать полного возмещения убытков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Право контролировать финансовую деятельность страховой компании\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой принцип страхования описывает распределение риска между страхователями?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Принцип индемнизации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Принцип социальной справедливости\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Принцип универсальности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Принцип коллективизации риска\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое тарифные группы в страховании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Группы страхователей, объединенных по территориальному признаку\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Группы страховых компаний, предлагающих сходные условия страхования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Группы страховых продуктов, предназначенных для разных категорий клиентов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Группы страховых рисков, определенных по общим характеристикам\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой принцип страхования описывает необходимость справедливого определения страховой премии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Принцип индемнизации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Принцип социальной справедливости\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Принцип универсальности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Принцип актуарной справедливости\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает принцип индемнизации в страховании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Обязательность страхования для всех граждан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Полное возмещение убытков, но без извлечения прибыли\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Распределение риска между страхователями\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Определение объема страховой выплаты на основе актуарных расчетов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает понятие \"хеджирование\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Защита от неблагоприятных колебаний цен\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Инвестирование в высокодоходные активы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Открытие дополнительных филиалов компании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Передача риска другим сторонам\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что представляет собой риск систематический?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Риск, связанный с конкретной компанией или активом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Риск, связанный с изменениями общей экономической ситуации\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Риск, возникающий из-за неожиданных событий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Риск, связанный с политической нестабильностью\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какова основная составляющая структурной характеристики риска?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Вероятность наступления нежелательного события\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Возможный ущерб от нежелательного события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Временные рамки рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Субъективное восприятие риска\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что представляет собой \"вариабельность риска\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Возможность получения выгоды от риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Степень потерь, вызванных рисковым событием\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Изменчивость вероятности наступления рискового события\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Продолжительность рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой критерий классификации по характеристике опасности основывается на вероятности наступления нежелательного события?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Критерий по степени воздействия\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Критерий по доле потерь\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Критерий по вероятности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Критерий по мере контроля\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что означает понятие \"критерий по степени воздействия\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Оценка временных рамок рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Определение потенциального ущерба от нежелательного события\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Учет уровня защиты от риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Оценка вероятности наступления нежелательного события\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что представляет собой \"критерий по мере контроля\"?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Оценка вероятности наступления нежелательного события\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Определение потенциального ущерба от нежелательного события\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Учет уровня защиты от риска\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Оценка временных рамок рискового события\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой метод используется для сокращения последствий рискового события?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Метод предотвращения риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Метод изоляции риска\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Метод управления рисками\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Метод передачи риска\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой метод финансирования рисков предполагает перенос финансовых потерь на другую сторону?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Самострахование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Страхование\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Реинвестирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Деривативы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой метод финансирования рисков предполагает создание специального фонда для покрытия потерь?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Самострахование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Страхование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Реинвестирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Самофинансирование\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    }
+]

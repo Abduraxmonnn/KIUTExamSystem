@@ -1,0 +1,5634 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi qaysi sohalar oqsil-ferment texnologiyalariga tegishli?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " a) ferment muhandisligi; b) hujayra biologiyasi; v) texnik va ishlab chiqarish mikrobiologiyasi; d) texnik biokimyo\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " a) genetik va hujayra muhandisligi; b) hujayra biologiyasi; c) embriologiya d) genetika; e) texnik mikrobiologiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " a) oqsil-ferment muhandisligi; b) embriologiya; v) genetika; d) texnik mikrobiologiya;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " a) embriologiya; b) genetik muhandislik; v) texnik mikrobiologiya d) texnik biokimyo\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi fermentlar o‘simliklarning hujayra devorini lizillashi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tsellyuloza, pektinaza, proteinaza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tsellyuloza, fenoloksidaza, amilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " amilaza proteinaza, pektinaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pektinaza invertaz, esteraza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pishloq ishlab chiqarishda qanday ferment ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " renin, fosfataza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " amilaza, fosfolipaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ximozin, pepsin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " proteaza, lipaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentlarning sanab o’tilgan xossalaridan qaysi biri biotexnologiyada muhim rol o’ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " barqarorlik, o’ ziga xoslik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " faol markazning tuzilishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " muhitning pH ta’ siri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " denatüratsiya qilish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi texnologik usuldan foydalanganda eng katta iqtisodiy samaraga erishish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " biogaz ishlab chiqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " fotovodorod ishlab chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " uzluksiz gidroliz jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " chiqindisiz ishlab chiqarishni yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "L,D rasematidan L aminokislotalarini biotexnologik ishlab chiqarishda qaysi ferment ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aminoatsilaza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aminopeptidaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aminooksidaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " asetat kinaz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Laktozasiz sut olish jarayonida maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sutning parhez xususiyatlarini oshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sutdagi shakarli moddalar miqdori ortdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sutdagi shakar miqdorini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " sutning kaloriya miqdori ortdi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi ferment tibbiyotda qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tripsin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sellobiaz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " fibrinogen\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " streptodekaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yaralarni tozalash uchun qaysi ferment ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " proteaz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " lipaz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " amilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " fosfolipaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy talablarga javob beradigan va turli kasalliklar diagnostikasida qo‘llaniladigan testni ko‘rsating?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ferment immunoassay testi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yog’ ingarchilik testi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aglutinatsiya testi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " diffuziya testi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Toqima (hayvon)ning dissotsiatsiyasi qanday fermentlar yordamida sodir boladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tripsin, kollagenaza, elastaz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " proteaza, amilaza, lizozim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " lizozim, tripsin, fosfolipaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " fosfolipaza, tripsin, lizozim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biomassani energiyaga aylantirish jarayoni nima deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " biometan hosil bo’ lishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yuvish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " harorat o’ zgarishi tufayli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kislotali fermentatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi biologik ob’ ekt fermentning eng yaxshi manbai hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mikroorganizmlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " viruslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hayvonlar organlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’ simliklar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi aralashma rasemik deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " D, L-aminoksilatlar aralashmasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nuklein kislotalar va D-aminokislotalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " L-aminokislotalar va aminoatsilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tashuvchi va aminokislotalar aralashmasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Lazalar sinfiga kiruvchi fermentlar qanday vazifani bajaradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " gidrolitik bo’ lmagan degradatsiya yo’ li\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " funktsional guruhlarni kuchaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " izomerlanish reaksiyasida qatnashadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " katalizlovchi gidrolitik reaksiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "ATF yordamida sintez reaksiyasini amalga oshiradigan fermentni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ligaza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " lyase\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " fosfolipaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ATPaz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi fermentlar oksidoreduktazalar sinfiga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aspartaza, fumaraza, peroksidaza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " protein kinaz, glikogen fosforilaza, piruvat kinaz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " proteaza, amilaza, tsellyuloza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " glyukoza oksidaza, katalaza, spirtli dehidrogenaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tripsin fermenti o’ z substrati bilan qanday kuchlar bilan bog’ lanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " elektrostatik kuchlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Van der Vaals kuchlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " vodorod aloqalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " hidrofobik aloqalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Spesifik faollik deganda qanday miqdorda ferment preparati tushuniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1 mg ferment preparati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 0,1 mg ferment preparati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 100 mg ferment preparati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 10 mg ferment preparati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentning qaysi qismi fermentning o’ ziga xosligini ta’ minlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bog’ lash markazi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kofaktor qismi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " faol markaz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " apoferment qismi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moddalar elektrofil hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " energiya darajasini to’ ldirish uchun elektron kerak\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " energiya darajasini to’ ldirish uchun proton kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " suv muhitidagi boshqa moddalar bilan reaksiyaga kirishish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " suvli-organik muhitda boshqa moddalar bilan reaksiyaga kirishish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " L-glutamik kislota birinchi marta qanday olingan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mikrobiologik usul\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " biotexnologik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " biokimyoviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kimyoviy jihatdan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi ferment saxarozani gidrolizlashga qodir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " invertaza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " esteraza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " amilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " glyukoza oksidaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pishloq tayyorlash texnologiyasida qanday fermentlardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pepsin, rennin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " papain, renin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " trepsin, papain\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " amilaza, pepsin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ekstraksiya nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " moddalarning bir fazadan ikkinchisiga (eritmaga) o’ tishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xromatografiya yordamida tozalash jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ferment preparatini tozalash jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moddalarni kislota bilan davolash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hujayrada doimiy bo’ ladigan fermentlar qanday nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " konstitutsiyaviy fermentlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " allosterik fermentlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kofermentlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " konformatsion fermentlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nima uchun tsellyuloza ochiq joyda saqlansa, chiriy boshlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mikroorganizmlar tufayli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yuqori harorat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " past harorat tufayli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " neytral pH tufayli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo’ zi ichaklaridan ajratilgan ferment qayerda qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pishloq tayyorlashda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " konserva tayyorlashda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pivo tayyorlashda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " non tayyorlashda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi sinf fermentlar suv ta’ sirida murakkab moddalarni parchalaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " gidrolazlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oksidoreduktaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ligazalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " lyazlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Antibiotiklarni olishda qaysi struktura muhim rol o’ ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " fermentator\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " termostat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hazm qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pH o’ lchagich\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentlar sinflarini to‘g‘ri tartibda nomlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " oksidoreduktazalar, transferazalar, gidrolazalar, liyazalar, izomerazalar, ligazalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oksidoreduktazalar, restriksion fermentlar, liazalar, izomerazalar, ligazalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " transferazalar, gidrolazalar, liazalar, izomerazalar, ligazalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " transferazalar, gidrolazalar, liyazalar, ligazalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi fermentlar proteazalar sinfiga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " papain, tripsin, pepsin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " protein kinaz, glikogen fosforilaza, piruvat kinaz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " proteazalar, amilazalar, tsellyulalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " glyukoza oksidaza, katalaza, spirtli dehidrogenaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kallus to’ qimasi deb ataladigan shakllanishni qanday tushunasiz?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Invitro tomonidan olingan o’ simlik to’ qimasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mushak to’ qimasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " murakkab protein\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " in vitro olingan hayvon to’ qimalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Go’ sht mahsulotlarini qayta ishlashda qaysi ferment ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " papain\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ureaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " fitaz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " peroksidaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo’ zi ichaklaridan qanday ferment ajralib chiqadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "rennin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " atsetilxolinesteraza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pepsin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " katalaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "H2O2 ta’ sirida kompleks birikmalarning oksidlanishini qaysi sinf fermentlari katalizlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " oksidoreduktazalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ligazalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " gidrolazlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " lyazlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gidrolazalar bilan katalizlanadigan reaksiyani aniqlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " gidroliz orqali substratdagi kimyoviy bog’ lanishning uzilishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kimyoviy guruhlarni bir substratdan ikkinchisiga o’ tkazish funktsiyasini bajarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " oksidlanish-qaytarilish reaktsiyalarini katalizlaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " C-C, C-O, C-N o’ rtasidagi aloqalarni uzish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ferment preparatining faolligini aniqlashning monometrik usuli qanday holatlarda qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " agar reaksiya komponentlaridan biri gaz bo’ lsa\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " reaksiya komponentlaridan biri uglevod bo’ lsa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " reaksiya komponentlaridan biri glikoprotein bo’ lsa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " reaktsiya komponentlaridan biri steroid bo’ lsa\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Glyukoza oksidaza ta’ sirida glyukoza gidrolizlanganda qanday moddalar hosil bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " glyukonik kislota, vodorod periks\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " vodorod periks, vodorod sulfidi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sulfid angidrid, glyukonik kislota\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " karbonat angidrid, vodorod periks\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "D,L-aminokislotalar aralashmasidan qanday sharoitlarda L-aminokislotalar yaxshi ajratiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " eriydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " erimaydigan holatda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qizdirilganda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ishqoriy muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aminoatsilaza fermenti qaysi aminokislotalarga ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " asilaminokislotalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " D - asilaminokislotalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " D,L - asilaminokislotalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " rasematsiyalangan aminokislotalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentlarning kimyoviy immobilizatsiyasida tashuvchilarning qaysi xossasi eng muhim hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " turli suyuqliklarda erimasligi, modifikatsiyadan keyin o’ z xususiyatlarini yo’ qotmaydigan faol guruhlarning mavjudligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " suvda erimaslik, o’ z xususiyatlarini tezda yo’ qotish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " organik moddalar bilan yaxshi o’ zaro ta’ sir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " organik erituvchilarda eruvchanligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Glyukoza izomeraza yordamida olingan siropda necha foiz fruktoza hosil bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 42-45%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 25-27%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 55-60%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 6-7%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ferment immobilizatsiyalanganda uning faolligi qanday o’ zgaradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kamayadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ko’ tariladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ferment uning substrati bilan bog’ lanadi va gidroliz tezlashadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ferment uning substrati bilan bog’ lanadi va gidroliz kamayadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi sharoitlarda ferment tashuvchiga maksimal darajada adsorbsiyalanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " fermentning izoelektrik nuqtasida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " past ferment konsentratsiyasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " muhitning ma’ lum bir pH darajasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yuqori haroratda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentlarni immobilizatsiya qilish usullarini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " fizik va kimyoviy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’ zgartirish va tuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " izotoplarni qayta ishlashga asoslangan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yaqinlik xromatografiyasidan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Raqobatchi inhibisyon jarayonini tushuntiring\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " inhibitor va substrat faol joy uchun raqobatlashadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " fermentning faol joyini inhibe qilish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " inhibitor substratni inhibe qiladi va fermentativ reaktsiyani to’ xtatadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aktivator-substrat faol sayt uchun raqobat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ximotripsin o’ z substratiga qanday kuchlar ta’ sirida bog’ lanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hidrofobik va elektrostatik kuchlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " vodorod aloqalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hidrofilik aloqalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kovalent\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Substrat RNazning faol joyiga qanday kuchlar ta’ sirida bog’ lanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " vodorod aloqalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " hidrofobik aloqalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Van Der Vals kuchlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " elektrostatik aloqalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Oziq-ovqat sanoatida qo’llaniladigan faol moddalarni cho’ktirish uchun qanday moddalar ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " etanol, natriy xlorid\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " natriy metaperiodat va ammoniy sulfat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aseton, etanol\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " natriy borgidrid va kaliy molibdat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi jarayon fermentatsiya deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " fermentatorda mikroorganizmlarni etishtirish jarayoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mikroorganizmlarni fermentlar bilan davolash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " faol moddalarni ma’ lum bir haroratda inkubatsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yuqori bosim ostida mikroorganizm hujayralaridan fermentning chiqishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi mikroorganizmlar antibiotiklarning asosiy manbai hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mikroskopik qo’ ziqorinlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xamirturush qo’ ziqorinlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bakteriyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " suvo’ tlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday qilib immobilizatsiyalangan ferment preparatining faolligini oshirish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ultratovush yoki fotokimyoviy usul\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " detarjan yoki ultratovush yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " turli metall ionlari ta’ sirida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " organik moddalar ta’ sirida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentni tozalashning eng samarali usulini ko’ rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bosqichma-bosqich elyusiya va fraksiyalash yo‘li bilan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yaqinlik xromatografiyasidan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " biospesifik xromatografiya usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " jel xromatografiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mikroorganizmlardan ajratilgan biomassani organizmda (hayvonda) yaxshiroq so’ rilishi uchun qanday usullardan foydalanish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mexanik, ultratovush, fermentativ, lizis, isitish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kislota gidrolizi, lizis, qizdirish, izotoplar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " fermentativ, kislotalar, mexanik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " silliqlash, kislotalar, mexanik, fermentlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mahsulotni fermentatorda uzluksiz ishlab chiqarish uchun qanday shartlar eng muhim hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ozuqa muhitining sterilligini saqlash kerak\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ferment uchun optimal haroratni saqlash kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ferment sterilizatsiyasi talab qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " atrof-muhitning doimiy pH darajasini saqlab turish kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Oqsil tabiatli biologik moddalarni cho’ktirish uchun qanday organik moddalar ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " etanol, aseton\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aseton, antronil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " xloroform, aseton\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ekdisteron, asetonitril\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuqori o’ ziga xoslikka ega bo’ lgan immunoassayda qo’ llaniladigan komponentni aniqlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " avidin - biotin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ferment – \\hspace{0pt}\\hspace{0pt}substrat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " antigen - antikor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ferment - to’ ldiruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Immobilizatsiyalangan fermentlarning barqarorligi qanday aniqlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " siz ferment preparatini maksimal haroratda ferment faolligini yo’ qotmaguncha inkubatsiya qilishingiz kerak\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " fermentni 37°C da inkubatsiya qilish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aktivatorlar bilan inkubatsiya orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " substrat konsentratsiyasini o’ zgartirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Substrat oshqozon osti bezi fermenti RNase ning faol joyiga qanday kuchlar bilan bog’ lanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " vodorod aloqalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " hidrofobik kuchlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " elektrostatik kuchlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Van Der Waals kuchlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistik usul yordamida faol moddalarni immobilizatsiya qilish jarayoni qanday amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " inkubatsiya fermentni aralashtirgichsiz tashuvchining yuzasiga surtish orqali amalga oshirilishi kerak.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " fermentni tashuvchi bilan aralashtirish orqali inkubatsiya qilish kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’ zaro bog’ lanish orqali fermentning modifikatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tashuvchini o’ zgartirgandan so’ ng, uni fermentlar bilan aralashtirish kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Koshlandning ferment-substrat o’ zaro ta’ siri haqidagi tushunchasini ayting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " induktsiya qilingan yozishmalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " substrat - matritsa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " media-stapler mosligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ferment - substratning o’ ziga xosligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi fermentlar izofermentlar deb ataladi? *\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir xil sinfga mansub, genetik xususiyatlari bilan farqlanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " turli sinflarga mansub, lekin bir xil fermentativ reaksiyani katalizlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bir guruhga mansub va bitta fermentativ reaksiyani katalizlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bir guruhga mansub va bir xil pH da katalizlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi turdagi fermentlar substratdan vodorodni olib tashlashni katalizlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " dehidrogenaza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " gidrolazlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " izomeraza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " lyazlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentga ta’ sir etuvchi omillarni ko’ rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pH muhiti, harorat, ferment miqdori, ion kuchi konsentratsiyasi, tashuvchi yuzasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " harorat, tashuvchining konsentratsiyasi, tashuvchining yuzasi, ferment konsentratsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ferment kontsentratsiyasi, ion kuchi konsentratsiyasi, tashuvchining og’ irligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tashqi mexanik ta’ sir, termal barqarorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Glyukoza-fruktoza siropini olish uchun qaysi preparat ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " glyukoza izomeraza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " glyukoamilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " amilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " sellobiaz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentlarni fizik immobilizatsiya qilishning sanab o’ tilgan usullaridan qaysi biri iqtisodiy nuqtai nazardan foydaliroq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mexanik immobilizatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " statik immobilizatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ustunni immobilizatsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " elektrodga ulanish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Agar ferment hidrofobik bo’ lsa, sirtda qanday guruhlar joylashadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " SH, - COOH, - OH, -NH2,\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " -COOH,-CO,-OH,-SON\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " -N=N-, -OH, -NH2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " -S-S-, -NH, -COOH,-OH,\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Suyuq lizin nima uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hayvonlarning ozuqasini boyitish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bir kishi uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mikroorganizmlar uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "farmatsevtika uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aminokislotalar qaysi yo’ nalishda ko’ proq ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " chorvachilik, tibbiyot va oziq-ovqat sanoatida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " farmatsevtikada\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kimyoviy texnologiyada\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " sanoat mikrobiologiyasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nima uchun lizin ionli smolaga joylashtiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " lizin molekulalarini qatronga adsorbsiyalash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " lizinni bir muddat inkubatsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’ ziga xoslik uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " lizinni qatron bilan aralashtirish va keyin tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "L-lizinni texnologik ishlab chiqarishda nima uchun perxlorid kislota ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kristallarni olish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sof lizin eritmasini olish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " lizin eritmasini olish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " lizinning xlor bilan birikmasini olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mikroorganizmlarning ko’ payishi jarayonida nega karbamid qo’ shiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " azot kontsentratsiyasini oshirish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " maxsus ovqatlanish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " uzoq vaqt davomida ovqatlanishni saqlab qolish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muhitning pH qiymatini o’ zgartirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pishloqning pishishiga nima ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mikroorganizmlar, fermentlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " harorat, muhitning pH\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bosim va inkubatsiya vaqti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pishloq pishishi uchun substrat va qo’ shimchalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zardobdan qanday shakarli moddani olish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " laktoza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "galaktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " glyukoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " fruktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pishloq pishishi uchun qanday haroratda saqlanishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2-160S\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 40-450S\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 30-400S\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 65-670S\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mikroskopik zamburug’ lar mitseliysi qanday moddalarga boy?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " oqsillar, muhim aminokislotalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oqsillar, muhim bo’ lmagan aminokislotalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " uglevodlar va yog’ ga o’ xshash moddalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aminokislotalar va polisaxaridlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "D,L-metionin qaysi sanoatda keng qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " parrandachilik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " chorvachilik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " farmatsevtika\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dori\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Triptofan ishlab chiqarish uchun sanoat mikrobiologiyasida qanday mikroorganizmlardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " auksotrofik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xamirturush va bakteriya hujayralari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " psixofillar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mezofillar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nega mikroskopik zamburug’ lar boshqalarga nisbatan oziq-ovqat mahsulotlarini qayta ishlash va chorvachilikda keng qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ular muhim aminokislotalarga boy, tarkibida soya va go’ sht oqsiliga yaqinroq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ular muhim bo’ lmagan aminokislotalarga boy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ular mineral tuzlarga boy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ular hayvon tanasida yaxshi so’ riladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Chlorella suvo’ tlari oqsilga boy, lekin hayvonlarda yomon so’ riladi. Nega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xlorella kuchli hujayra devoriga ega\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " chunki hayvonlar ozgina suv o’ tlarini iste’ mol qiladilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " chunki ularda fermentlar yo’ q\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xlorella tarkibida yomon eriydigan moddalar mavjud\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday qilib suvo’ tlarni ko’ p miqdorda oqsil bo’ lishi uchun o’ stirish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yopiq tizimda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ochiq tizimda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " oqava suvda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mineral tuzlar bilan muhit\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "suv o‘tlari oqava suvlarda qanday maqsadlarda yetishtiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " chiqindi suvlarni turli moddalardan tozalash uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " suv o’ tlari ko’ p biomassa hosil qilishi uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " suvo’ tlarning tezroq ko’ payishini ta’ minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " shuning uchun suv o’ tlari hayvon tanasida yaxshi so’ riladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Charm sanoatida qanday fermentlardan keng foydalaniladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " proteazlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oksidoreduktaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " amilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " fosfolipaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Oqsil elektroforezida muhitning pH qiymati qanday tanlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " elektroforez oqsilning izoelektrik nuqtasida amalga oshiriladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Optimalning pH qiymati va elektroforezning pH qiymati bir xil bo’ lishi kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " muhitning pH darajasi kislotali bo’ lishi kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pH ishqoriy bo’ lishi kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ion almashinuvi xromatografiyasi nimaga asoslanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qarshi zaryadlangan ionlar almashinuviga asoslangan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " molekulalarning molekulyar og’ irlik bo’ yicha fraksiyasiga asoslangan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sorbentning modifikatsiya darajasiga qarab\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " elutsiya uchun tayyorlangan zaryadlar konsentratsiyasiga asoslangan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Yuqori darajada tozalangan aminokislotalarni olish uchun nima qilish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qayta kristallanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aminokislotalarni qayta tozalash zarur\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " filtrlash talab qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " santrifüj qilish kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentlarni o’ zaro bog’ lash uchun kimyoviy immobilizatsiya qilishda qanday moddalardan foydalanish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " glutardialdegid, gossipol, karbodiimid\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " gossipol, gidrolaza, EDTA,\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " karbodiimid, gossipol, etilen\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " etilen, gossipol, lizin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gelda fermentlarni qanday usullar bilan harakatsizlantirish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " avval ferment monomer eritmasida eritiladi va keyin polimerlanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " suvli eritmani yarim o’ tkazuvchan membrana orqali filtrlash asosida substratning kichik molekulalari filtrlanadi va fermentlarning katta molekulalari yopishadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " substratning kichik molekulalari elakdan o’ tkaziladi va fermentlarning katta molekulalari tiqilib qoladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mikrokapsulalar bo’ shlig’ ida suvli ferment eritmasining immobilizatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ro’ yxatga olingan aminokislotalar va oqsil molekulalarining qaysi guruhi glutar dialdegid bilan reaksiyaga kirishadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " -NH2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " -S-S-\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " -SH\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " -COOH\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagi jarayonlardan qaysi biri DL-aminokislotalardan L-aminokislotalarni olishda muhim rol o’ ynaydi? a) atsillanish b) alkillanish c) kristallanish d) gidroliz\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " a, d, c\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " a, d, b\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " b, d, c\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " b, c, a\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Triptofan ishlab chiqarish uchun qanday uglerod manbalaridan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " melas\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " polisaxaridlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " CO, CO2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ba’ zi mikroorganizmlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Spirtli ichimliklar tayyorlashda esteraza nima uchun ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " fusel spirtlarini efirlarga aylantirish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " alkogolli ichimliklarni tozalash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " alkogolli ichimliklardagi proteinni parchalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " alkogolli ichimliklardagi lipidlarning parchalanishi uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nuklein kislotalar oqsilli ovqatlardan qanday ajratiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " endo- va ekzo-nukleazalarning sharlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " organik moddalar bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tuzlardan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " sentrifugalash orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Avtoliz nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hujayra biopolimerlarining tabiiy parchalanishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " metabolizm\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " glikoliz jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moddalarni cho’ ktirish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Avtolizni amalga oshirish uchun qanday moddalar ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hujayra fermentlari yordamida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " polisakkaridlar yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nuklein kislotalar yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aminokislotalar yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Atoliz jarayonida qanday reaksiyalar sodir bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Murakkab moddalarning erimaydigan molekulalari eriydigan monomerlarga aylanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " eriydigan moddalar erimaydigan monomerlarga aylanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " oddiy moddalardan murakkab moddalar hosil bo’ ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kichik peptidlar oqsil polimeriga aylanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sutemizuvchilarda oqsillarni hazm qilishda ishtirok etuvchi fermentlar qaysi organda ishlab chiqariladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " oshqozon bezi ostida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oshqozon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ichaklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " jigarda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sutemizuvchilarda hosil bo’ ladigan yog’ larni hazm qilishda fermentlar qaysi organda ishtirok etadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " oshqozon bezi ostida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oshqozon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ichaklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " jigarda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Odamlarda amilaza qaysi organda ishlab chiqariladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " og’ iz bo’ shlig’ ida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oshqozon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ichaklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " jigarda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Lipidlar biomassadan qanday olinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " metanol yordamida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " etanoldan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ammoniy sulfat yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " natriy xlorid yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Restriktor fermenti DNK zanjirini qanday printsip asosida tan oladi va uni kesib tashlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " u 10-12 juft nukleotid va kesiklarning o’ ziga xos ketma-ketligini taniydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " u 2-3 ta tayanch juftlikdan tashkil topgan muayyan ketma-ketlikni taniydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " u 5-6 juft nukleotiddan tashkil topgan o’ ziga xos ketma-ketlikni taniydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " u 15-18 juft nukleotiddan tashkil topgan o’ ziga xos ketma-ketlikni taniydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ro’ yxatdagi variantlar to’ g’ rimi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " a) oqsil va ferment muhandisligi biokimyo, mikrobiologiya va fermentologiyaning bir qismidir; b) Protein-ferment texnologiyalari hozirgi vaqtda zamonaviy fanlardan; c) eng ommabop yo’ nalish; d) Protein-ferment texnologiyalari sanoat mikrobiologiyasining yo’ nalishlaridan biridir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " a) oqsil-ferment texnologiyalari biologiya o’ quv dasturining yo’ nalishlaridan biri; b) Protein-ferment texnologiyalari immunobiotexnologiyaning bir qismidir; v) oqsil-ferment texnologiyalari hozirgi vaqtda zamonaviy fanlar orasida eng mashhur yo’ nalish hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " a) oqsil-ferment texnologiyalari biologiya o’ quv dasturining yo’ nalishlaridan biri; b) oqsil-ferment texnologiyalari hozirgi zamon fanlaridan biri v) eng ommabop yo’ nalish; d) Protein-ferment texnologiyalari sanoat mikrobiologiyasining yo’ nalishlaridan biridir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " a) oqsil-fermer texnologiyalari ekobiotexnologiya sohalaridan biri; b) oqsil va ferment muhandisligi biologiya o‘quv dasturining yo‘nalishlaridan biri; v) oqsil-ferment texnologiyalari eng ommabop sohadir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muhandislik enzimologiyasi o’ z oldiga qanday maqsadlarni qo’ yadi? a) yangi mahsulot olish; b) ma’ lum, ammo yangi sifatga ega mahsulotni olish; v) jarayonning texnik-iqtisodiy ko’ rsatkichlarini o’ xshash mavjud jarayonlarga nisbatan yaxshilash; d) immobilizatsiyalangan fermentlardan foydalanish; e) fermentlarni sanoat ishlab chiqarish; f) fermentlarning modifikatsiyasi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " a, b, c\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " d, e, g\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " g, v\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "d, g, v\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bir xalqaro birlikka teng faollik ferment miqdoriga ega\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " nostandart sharoitlarda bir daqiqada 1 mkmol substratning mahsulotga aylanishini katalizlaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " standart sharoitlarda bir daqiqada 1 mkmol substratning mahsulotga aylanishini katalizlaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " standart sharoitda bir daqiqada 1 mol substratning mahsulotga aylanishini katalizlaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " standart sharoitlarda bir soniyada 1 mkmol substratning mahsulotga aylanishini katalizlaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mixaelis konstantasi -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " reaksiya tezligining maksimal ko‘rsatgichining yarmini xosil qiluvchi substrat konsentratsiyasiga teng.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " substrat konsentratsiyasi maksimal bo‘lganda reaksiya tezligini yarmiga teng.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " substrat konsentratsiyasining yarmiga teng.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " reaksiya tezligining maksimal ko‘rsatgichining yarmini xosil qiluvchi substrat konsentratsiyasiga teng.\n"
+            },
+            {
+                "type": "text",
+                "content": "\\hl{??O’ ziga xoslik konstantasi:}\n"
+            },
+            {
+                "type": "text",
+                "content": "\\hl{= fermentning inhibisyonidagi o’ ziga xoslik ko’ rsatkichi.}\n"
+            },
+            {
+                "type": "text",
+                "content": "\\hl{+ bu fermentning substratlarning past konsentratsiyasida qanchalik tez ishlashini ko’ rsatadigan o’ lchovdir.}\n"
+            },
+            {
+                "type": "text",
+                "content": "\\hl{= bu fermentning substratlarning yuqori konsentratsiyasida qanchalik tez ishlashini ko’ rsatadigan o’ lchovdir.}\n"
+            },
+            {
+                "type": "text",
+                "content": "\\hl{= ferment barqarorligining ko’ rsatkichidir. Qaytarib bo’ lmaydigan ingibitorlar}\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaytmas (tiklanmaydigan) ingibitorlar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ferment molekulasi yuzasidagi funksional guruxlarni kimyoviy modifikatsiyalaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ferment faolligi uchun muxim funksional guruxlarni kimyoviy modifikatsiyalaydi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faol markazga nokovalent tarzda bog‘lanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Fermentning allosterik markaziga nokovalent tarzda bog‘lanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaytar (tiklanadigan) ingitorlar ferment bilan qanday bog‘lanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ferment faolligi uchun muxim bo‘lgan funksional guruxlar bilan kovalent bog‘lar xosil qilib.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Fermentning allosterik markazi bilan kovalent bog‘ xosil qilib.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ferment faolligi uchun muxim bo‘lgan funksional guruxlarni kimyoviy modifikatsiyalab.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kovalent bog‘lar xosil qilmasdan.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaytmas ingibitor muxitdan yo‘qotilgandan so’ng, modifikatsiyalangan ferment faollligi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " oshadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tushadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tiklanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tiklanmaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Erkin qaytariladigan ingibitorni olib tashlangandan so’ ng, ferment faolligi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ortadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kamayadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tiklanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tiklanmagan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sellyuloza va lignoselülozli materiallarning tsellyuloza kompleksi fermentlari ta’ sirida biotexnologik parchalanishi natijasida qanday birikmalar hosil bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " glyukoza, maltoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sellobioza, fruktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " glyukoza, sellobioza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " galaktoza, maltoza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ simlik hujayralarining tashqi devorini parchalash uchun qanday fermentlar qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tsellyulazalar, amilazalar, peroksidazlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " peroksidazalar, invertazalar, amilazalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pektinaza, amilaza, invertaz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " sellyulazalar, hemiselulazalar, pektinazalar, ligninazalar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday fermentlar sellyuloza komplekslari tarkibiga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " endoglyukanaza, sellobiohidrolaza, glyukozidaza, sellobiaz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sellobiaz, gidrolaza, maltaza, glyukozidaza, endoglyukanaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sellobiahidrolaza, glyukoza oksidaza, endoglyukanaza, glyukoamilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " glyukozidaza, glyukoza oksidaza, endoglyukanaza, glyukoamilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kraxmal parchalanishining biotexnologik jarayoni natijasida qanday mono- va disaxaridlar hosil bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " glyukoza, maltoza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " fruktoza, maltoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " glyukoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " glyukoza, fruktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagi fermentlardan qaysi biri kraxmalni gidrolizlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " amilaza, glyukoamilaza, glikozidaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " α-amilaza, β-amilaza, glyuko-amilaza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " α-amilaza, sellobiaz, glyukozidaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " α-amilaza, invertaz, sellobiaz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kraxmalni glyukoza siropiga aylantirish jarayoni: a) kraxmalli qandlashtirish; b) qo’ shish α-amilaza; c) β-amilaza qo’ shilishi; d) nativ glyukoamilaza bilan ishlov berish; e) immobilizatsiyalangan glyukoamilaza bilan ishlov berish; f) quyultirish; g) suyultirish. Quyidagi variantlardan qaysi biri ushbu biotexnologiyaga mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " a c g e\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " a b d e\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " a f g c\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " a b c d\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sut zardobning gidrolizlanishi natijasida hosil bo’ lgan moddalar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " glyukoza, fruktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " fruktoza, galaktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sellobioza, galaktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " glyukoza, galaktoza\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Laktozasiz sutni biotexnologiyasini ishlab chiqarishda qollaniladigan fermentni belgilang?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " laktaza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " lipaz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " proteaz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " proteinaz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Laktozasiz sut olish jarayoni quyidagicha: a) nativ laktaza bilan davolash; b) sutni sterilizatsiya qilish; c) nativ laktaza qo’ shish; d) immobilizatsiyalangan laktaza bilan ishlov berish; e) nativ galaktaza bilan ishlov berish; f) aseptik idishda yig’ ilgan. Quyidagi variantlardan qaysi biri ushbu biotexnologiyaga mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " a b c e\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " b e a\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " b d e\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " e b c\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Glyukoza siropidan glyukoza-fruktoza siropini olish jarayoni quyidagicha: a) glyukoza siropini sterilizatsiya qilish; b) tuz va kislota asosli ingredientlarni qo’ shish; c) nativ glyukoza izomerazasini qo’ shish; d) nativ glyukoamilaza bilan davolash; e) immobilizatsiyalangan glyukoza izomeraza bilan davolash; f) ion almashinadigan ustunlarda ishlov berish; g) quyultirish. Quyidagi variantlardan qaysi biri ushbu biotexnologiyaga mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " a b e f g\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " a b d f g\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " d f g b\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " d f g b a\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentlarning kovalent immobilizatsiyasida qaysi funksional guruhlar muhim ahamiyatga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " katalitik markazning tashqi ta’ sirlangan guruhlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " \"tan olish\" markazining guruhlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " faol markazga aloqasi bo’ lmagan tashqi ko’ rinishdagi guruhlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Substratning \"bog’ lash\" markazining guruhlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ferment immunoassayda qanday fermentlardan keng foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " peroksidaza, ishqoriy fosfataza, β-glyukozidaza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " peroksidaza, amilaza, fosfolipaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ishqoriy fosfataza, fosfolipaza, ureaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ureaza, peroksidaza, lipaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

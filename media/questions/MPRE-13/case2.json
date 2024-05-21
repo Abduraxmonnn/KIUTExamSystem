@@ -1,0 +1,6896 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatordagi so’ zlarda unli va faqat jarangsiz undoshlar bor.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sochpopuk, shafqat, ko’ kat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "gilos, rayhon, gulkaram\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ziynat, ko’ hlik, libos\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ko’ makdosh, inson, ko’ rgazma\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatordagi so’ zlarda unli va faqat jarangli undoshlar bor.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "zag’ izg’ on, maydon, jadval\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "pastak, ko’ ksulton, ko’ lmak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bardosh, ko’ klam, badnafs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "paxsa, sukut, sochiq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi tovushlar talaffuz qilinganda, havoning bir qismi burun bo’ shlig’ idan chiqadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ng, x, g’\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "q, g’, m\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "v, f, n\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "m, n, ng\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatordagi barcha so’ zlarda ng tovushi qo’ llangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tongga, mingga, zangga.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "nonga, keng, tushuncha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "unga, donga, o’ tinga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yurting, senga, o’ zingga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda jufti bor jarangli undoshlar o‘z jarangsiz jufti bilan to‘g‘ri berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Jufti bor jarangli undoshlar: b, v, g, d, z, j, j, g‘.\n"
+            },
+            {
+                "type": "text",
+                "content": "Jufti bor jarangsiz undoshlar: p, f, k, t, s, ch, sh, x.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Jufti bor jarangli undoshlar: b, v, g, d, z, j, j, g’.\n"
+            },
+            {
+                "type": "text",
+                "content": "Jufti bor jarangsiz undoshlar: p, f, k, t, s, ch, sh, h.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Jufti bor jarangli undoshlar: b, v, g, d, z, j, j, g‘.\n"
+            },
+            {
+                "type": "text",
+                "content": "Jufti bor jarangsiz undoshlar: f, p, k, t, s, ch, sh, x .\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Jufti bor jarangli undoshlar: b, v, g, d, z, j, g‘.\n"
+            },
+            {
+                "type": "text",
+                "content": "Jufti bor jarangsiz undoshlar: p, f, k, t, s, sh, q .\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Jufti yo‘q jarangli undoshlar qaysi qatorda to‘g‘ri berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "m, n, z, ng, r, l.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "m, n, r, l, b, q.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "m, n, ng, l, r, g.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "m, n, ng, l, y, r.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutq a’zolarining tovush hosil paytidagi harakat va holatiga nima deyiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "artikulyatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "fonetika\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "fonema\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "markaziy nerv tizimi faoliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda til undoshlari berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "g, d, z, s, y, l, n, ng, k, q, r, x, g‘, ch, sh, j.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "b, d, z, s, y, l, n, ng, k, q, r, x, g‘, ch, sh, j.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "g, p, z, s, y, l, n, ng, k, q, r, x, g‘, ch, sh, j, h.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "g, d, z, s, y, l, m, ng, k, q, r, x, g‘, ch, sh, j, f.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hosil bo’ lish o’ rniga ko’ ra b va p undosh tovushlariga to’ g’ ri tavsif berilgan qatorni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "b va p – portlovchi undosh.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "b - lab undoshi, lab-lab; p - lab undoshi, lab-lab\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "b - jarangli undosh; p - jarangsiz undosh\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "b - jarangli undoshning jarangsiz jufti p undoshidir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hosil bo’ lish usuliga ko’ ra q va g‘ undosh tovushlariga to’ g’ ri tavsif berilgan qatorni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "q - portlovchi; g’ -sirg’ aluvchi undosh.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "q - til undoshi, chuqur til orqa; g’- til undoshi, chuqur til orqa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "q va g’ -bo’ g’ iz undoshlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "g’ - jarangli undosh; q- jarangsiz undosh\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ zbek tilida quyidagi shakllardan qaysi biri bo’ g’ in sifatida uchramaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bir undosh va ikki unlidan iborat bo’ g’ inlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "faqat bir unlidan iborat bo’ lgan bo’ g’ inlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bir unli va bir undoshdan tuzilgan bo’ g’ inlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bir unli va ikki undoshdan hosil bo’ lgan bo’ g’ inlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi so’ zlarda urg’ u oxirgi bo’ g’ inga tushmagan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Rahima, Mahbuba, Ozoda.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "albatta, armiya, gazeta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ruchka, madaniyat, lola\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "iltimos, kelajak, darvoza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda asos+ so’ z yasovchi qo’ shimcha+so’ z yasovchi qo’ shimcha+so’ z yasovchi qo’ shimcha shaklidagi so’ z berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sanoqsiz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "yamoqchiniki\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "pishiqchilik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "barcha so’ zlar asos va ikki so’ z yasovchi qo’ shimchadan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mustaqil so’ z turkumlaridan qay birida yasalish xususiyati yo’ q.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ravish, olmosh\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "son, ravish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sifat, ravis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "son, olmosh\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi gapda shaxs oti yasama hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Buvim hamisha mehribon.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Terimchilar dalada paxta terimi bilan band.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Do‘stim ko‘p deb quvonmang, azizim!\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Cho‘pon o‘g‘liga javob beribdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘rin-payt kelishigi qo‘shimchasini olgan otlar gapda asosan qanday sintaktik vazifa bajaradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "payt holi, o‘rin holi, ega\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "to‘ldiruvchi, ega, kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘rin holi, payt holi, to‘ldiruvchi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "o‘rin holi, ega, aniqlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Orttirma daraja shaklidagi sifatlarni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "pak-pakana, bo‘m-bosh, biram yoqimli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tim qora, qip-qizil, oqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sarg‘ish, ko‘kimtir, qoramtir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yumshoqqina, och yashil, to‘q qizil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi javobdagi qo‘shma sifat ravish+ot birikuvidan tuzilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "xomkalla\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kamquvvat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mushtumzo‘r\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yolg‘izoyoq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi javobda otlashgan sifat berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qozonga yaqin yursang, qorasi yuqadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yaxshi ot uloqda bilinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Musofir odamga yo‘l ko‘rsatish savob.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Otlashgan so‘zli gap berilmagan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Otlashgan sifat qatnashgan gapni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Vafosizda hayo yo‘q, hayosizda vafo yo‘q.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yaxshi so‘z jon ozig‘i – yomon so‘z bosh qozig‘i.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "So‘lim Farg‘ona kechasi…\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bu yil o‘g‘it ham tanqisroq bo‘ldi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Umumlashtiruvchi so’ z uyushiq bo’ laklardan keyin kelganda, umumlashtiruvchi so’ zdan oldin qanday tinish belgi qo’ yiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "vergul\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tire\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "nuqtali vergul\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ikki nuqta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Olmosh bilan ifodalangan ega qaysi gapda qo‘llangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Hech kim hamma narsani bilolmaydi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Birovning xatosi – birovga saboq.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Har bir kishi butun bir kitobdir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Hech bir ish oldindan bashorat qilinmaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aniqlovchi uyushib kelgan gap qaysi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qiyosh yorug’ ida ko’ k, sariq, qizg’ ish qum zarralari tovlanadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qo’ llar ishlar tez - mo’ jizakor.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "U hayajon bilan, tez-tez, bo’ g’ ilib so’ zlar edi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bugun kun bo’ ladi, ravshan va bedog’.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Vositali to‘ldiruvchi uyushib kelgan gap qaysi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sunday chog’ larda Mirtemir domla bizga qozoqlarning qo’ bizi, do’ mbirasi, o’ lanlari haqida to’ lib-tosllib gapirardi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qozoq till va adabiyotini ona tilimdek bilar va ardoqlar edim.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Alloma shoirimiz hamkorlik haqida ko’ p gapirardi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Keng, ozoda, yorug’ koshonalarda bejirim kiyimlar tikadilar.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ham ega, ham undalma qatnashgan gap qaysi qatorda berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Do‘stlar! Tabiatni asrang.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oh, bu o‘lka naqadar jozibali.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston! Sen bizning faxrimizsan!\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Nodirjon, sizni bezovta qildim.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Undalma uyushiq holda qo‘llangan gap qaysi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Gunafshaxon, gunafsha, kulishlaring chiroyli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xayr, yashil o‘rmonzor, moviy dengizlar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oyi, oyi, menga-chi, turub bering ninachi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "So‘yla, so‘yla, ko‘zgujon, haqiqatni et bayon.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Otli birikma qaysi qatorda berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "havo bulut\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mahkam ushlab\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mehnatda sinalgan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "shaxsiy ibrat\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kim qayerga ketadi? So‘roq gap qaysi vosita yordamida tuzilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "so‘roq olmoshlari yordamida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "faqat qayerga so‘roq so‘zi yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "faqat kim so‘roq olmoshi yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "so‘roq yuklamasi yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nayman o‘zi yaxshi, suv serob, lekin qarovsiz. Kesim qaysi so‘z turkumi bilan ifodalangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ot bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sifat bilan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "harakat nomi bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ibora bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ertagayoq unikiga borasan-qo‘yasan. Ushbu gapda kesimning qaysi turi mavjud.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "murakkab ot-kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sodda ot-kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "fe’l-kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "murakkab fe’l-kesim\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "So‘roq yuklamali so‘roq gapni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "–Umringda to‘y ko‘rmaganmisan?\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "–Nega angrayib turibsan?\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "–Shaharda qayoqdan topasan?\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "–Senga ne bo‘ldi?\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi gapda egalar qaysi so‘z turkumi bilan ifodalangan. Bor so‘zlaydi, yo‘q o‘ylaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "olmosh\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "modal so‘z\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "taqlidiy so‘z\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bosh kelishikdagi ot\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Albatta, do‘stimsiz siz mening. Gapdagi kesimni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "do‘stimsiz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mening\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kesimi, ya’ni ‘‘bo‘lasiz’’ fe’li tushib qolgan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "siz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Shu yerda, jiydazor yonidagi xilvat joyda, U menga o’z o’tmishini, to’g’rirog’i, shu yozda boshidan kechirgan va qalbida chuqur iz qoldirgan bir voqeani hikoya qilib berdi. Ushbu gapda qaysi gap bo’laklari uyushgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Hol va aniqlovchi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aniqlovchi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Hol.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "To‘ldiruvchi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Birrov kirdi-da, chiqib ketdi. Mazkur gapda qo‘llanilgan –da yordamchisi qanday vazifada kelgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bog‘lovchi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "yuklama\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ko‘makchi qo‘shimcha yuklama\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "qo’shimcha yuklama\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gumon yuklamasi ishtirok etgan qatorini belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bu yerda na ofat, na kulfat, na g‘am .\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Majlis ertaga qoldirilmaydi-yu\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bu haqda Shahnozagina biladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sizni izlab kelgandir\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘xshatish yuklamali gapni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Suv hayot manbaidir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xuddi otasiga o‘xshaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Men faqat haqiqatni aytyapman\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Shu maktabga o‘qiysizmi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qo‘shma gap qismlari orasida izohlash munosabati ifodalangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yaxshi o‘g‘il – el obro‘si, yaxshi qiz – uy obro‘si\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qiz juda qiynalib ketdi: qo‘llariga tikan kirdi;yuzi va bilaklari tirmalandi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yurt tinch – sen tinch\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sidiqjon to‘xtadi, orqasidan kimdir kelayotgan edi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bog‘lovchisiz qo‘shma gaplarni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yurgan daryo – o‘tirgan bo‘yra\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kim yalqov bo‘lsa, uning qo‘lida obod yer ham xarob bo‘ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mashinaning nuqsoni bo‘lsa, tuzatiladi yo yana yaxshirog‘i yasaladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Har kimning zari bo‘lmasa-da, hunari bo‘lsin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tilga ixtiyorsiz – elga e’tiborsiz deydi Alisher Navoiy. Qaysi javobda gapning tinish belgilari to‘g‘ri ifodalangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "M: ‘‘K’’.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "M: ‘‘K’’, - M.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "‘‘K’’, - M.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "‘‘K, - M, - K’’.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muloyimlik – rizq sari yetaklovchi kalit. Mazkur gapdagi kesim qaysi so‘z turkumidagi so‘z bilan ifodalangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Fe’l\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sifat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ot\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ravish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi qatordagi qo‘shma sifat ravish + ot birikuvidan tashkil topgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "mushtumzo‘r\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ochko’z\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "hozirjavob\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yolg’izoyoq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sifat + ot shaklidagi qo‘shma sifatlar qatnashgan gapni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Toshbag‘ir odamdan yaxshilik kutma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Hulkarning och jigarrang yonoqlarida ajib bir qizillik o‘ynaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Orzu millatga hayotbaxsh ruh bag‘ishlaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Shirinsuxan, oqko‘ngil insonlar mevali daraxtga o‘xshaydi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Berilgan gapda sifatlar qaysi gap bo‘lagi vazifasida kelgan. Daryo tiniq, osmon\n"
+            },
+            {
+                "type": "text",
+                "content": "beg‘ubor.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kesim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "hol\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ega\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "to’ldiruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi javobda ikki o‘rinda sifat otlashgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bir pasda uni mash’ala ko‘targanlar o‘rab olishdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yomonlarga tiz cho‘kish mardning ishi emas.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Otning yaxshisi uloqda bilinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sifat otlashish xususiyatiga ega emas.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " -lar qo‘shimchasi tasviriylik, ifodalilikni kuchaytirgan javobni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Opamlar salom aytdilar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ko‘z yoshlarini artdi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Dadamlar keldilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bozorda unlar ko’p.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Otlarning erkalash shaklini hosil qiluvchi qo‘shimchalar to‘g‘ri berilgan qatorni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "-chak, -gina, -jon, -oy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "chak, - jon, -xon, -oy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "gina, -jon, -xon, -oy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "chak, - jon, -xon, -oy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gapda nechta shaxs oti qatnashgan? Bahor oxirlab qolayotgan kunlarda shahzoda Abusaid qirq yigiti bilan ovga chiqdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "4 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Affiksatsiya usuli orqali joy otidan yasalgan shaxs oti qaysi javobda qayd etilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "hukmdor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bog‘bon\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ishchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "farg‘onalik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yasama sifatdan yasalgan ot qaysi qatorda qo‘llangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yoqimli do‘st suhbati olis yo‘lni yaqin qiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Andishali odam iffatli bo‘ladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sergaplik dushmaningingizdir, chunki u sening aybingni ochib tashlaydi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Dunyoda johillikdan dahshatliroq narsa yo‘q.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi gapda so‘z takroridan ko‘plik ma’nosi anglashiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bozordan nima-nima olding?\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tur, tur, ketamiz, - dedi akasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bo‘l, bo‘l, rais chaqiryapti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "U tez-tez gapirdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi gapdagi ot yasovchi qo‘shimcha sifat yasovchi qo‘shimcha bilan omonim bo‘ladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qaqrab yotgan qirlar bag‘ri bir yil ichida mevazor bog‘ga aylandi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Vafoli odamning do‘stlari ham samimiy.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Hunar ado bo‘lmas boylikdir.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Berilib kitob o‘qigan kishi bir kun farog‘at topadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tarkibidagi barcha bo‘laklar ot turkumiga mansub bo‘lgan gapni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Vatanni sevmoq iymondandir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sog‘lom tanda – sog‘ aql.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qarilar izzatda, yoshlar xizmatda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Til – dil kaliti.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi gapda sifat va ot yasovchi sifatida shakldoshlik hosil qila oladigan qo‘shimcha qatnashmagan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ekin ek, bog‘ yarat.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Hasharga yig‘ilganlar erkakcha ishladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bilimdon , raqobatdosh yoshlar Vatanimizning kelajagi hisoblanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ekin ek, bog‘ yarat.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sening xotirangni unutmas aslo,Mening yuraklarim, O‘rta Osiyo.Ushbu parchada -lar qo‘shimchasi qanday ma’no anglatgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tur\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ko‘plik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kuchaytirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hurmat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi gapda -gina qo‘shimchasi otga xos lug‘aviy shakl yasovchi vazifasini bajarmagan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yakshanba kunlarigina Mehrinoz buvisinikiga borib turardi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bolaginam kasalxonada uzoq davolandi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oyoqqinangga rahming kelmaydimi?\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sarvinoz butun yozni shahardan ancha uzoqda –sokingina go‘shada o‘tkazdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi qatordagi otlarda ko‘plik morfologik yo‘l bilan hosil qilingan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ko‘p imkoniyatlar, gullar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "uylar, do‘stlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ko‘p odamlar, ancha yillar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "to‘rtta payola, minglab odamlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ot va sifat yasovchi shakldosh qo‘shimchali so‘zlar qaysi qatorda berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "qo‘zichoq-erinchoq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "chaqin-tiqin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "to‘lin-ilin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ovunchoq-maqtanchoq\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi qatorda ot va sifat yasovchi omonim qo‘shimchalar berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "-oq, -ik, -ki, -in\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "-chak, -cha, -ma, -iq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "-don,-qin, -ik, -li\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ch, -uq, -qi,-m\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi javobda keltirilgan gapda sifat asosli yasama mavhum ot qatnashgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Shu sevinch ikkovlariga ham kuch-g‘ayrat baxsh etgandek bo‘ldi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Hasad - yurakning zanglashi, qaysarlik mag‘lubiyat sababchisidir.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘qituvchilik - ulug‘ kasb.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Shu sevinch ikkovlariga ham kuch-g‘ayrat baxsh etgandek bo‘ldi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sifat yasovchi qo‘shimchalar olgan so‘zlar qatorini toping\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "baquvvat, tuxumsimon, qishki\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "andijonlik, sersavlat, suvli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "harakatchan, mehnatkash, yumaloq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yozgi, supurgi, qishki\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi qatordagi gap tarkibida ot+ot tipidagi qo‘shma sifat berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Shirinsuhan, oqko‘ngil insonlar mevali daraxtga o‘xshaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sofdil va jonkuyar odamlar bilan bu dunyo oboddir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Toshbag‘ir odamdan yaxshilik kutma.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Nodon va kaltafahm odamdan yaxshi gap chiqmaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ham ot, ham sifat, ham ravish yasovchi qo‘shimchalar berilgan qatorni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " -a\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " -in\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " -sa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " -ona\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tinch (sifat) –-quvonch (ot), qadrdon (sifat) –- kuldon (ot) so’ zlaridagi -ch va -don qo’ shimchalari vazifasiga ko’ ra qanday qo’ shimcha hisoblanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "omonim qo’ shimchalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ko’ p ma’noli qo’ shimcha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sinonim qo’ shimcha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "so‘z yasovchi qo‘shimcha\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xato bilimdonlikdan bilimsizlik afzal. Ushbu gapdagi bilimdonlikdan so’ zidagi so’z yasovchi qo’ shimchalar miqdori qancha\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "4 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ikkala qismi ham mustaqil ma’ noli so’ zlardan tuzilgan juft so’ zlar berilgan qatorni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "shov-shuv, to‘la-to‘kis, past-baland\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o’ g’ il-qiz, boy-kambag’ al, chol-kampir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ko’ rik-tanlov,non-pon, yara-chaqa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "temir-tersak, g’ ira-shira, yig’ i-sig’ i\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sodda yasama so’ zlarni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "serhosil, o’ xshovsiz, noto’ g’ ri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "yerto’ la, belbog’, mingoyoq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "atirgul, o’ rinbosar, oqqush\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "toqqaychi, dunyoqarash, tomorqa\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aqlli o‘zini ayblar, aqlsiz do‘stini. Ushbu gapda sifat qanday sintaktik vazifani bajargan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ega\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "to‘ldiruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "aniqlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘ttiz so‘zidan sonning qaysi turini hosil qilib bo‘lmaydi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "jamlovchi son\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dona son\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tartib son\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "chama son\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biz doimo musobaqada birinchi, siz ikkinchi. Berilgan gapdagi sonning turini va sintaktik vazifasini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "miqdor son, kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "chama son, kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tartib son, kesim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tartib son, hol\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sodda son ishtirok etgan gapni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yigirmanchida imtihon bo‘ladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Majlisga besh-olti ota-ona keldi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "U to‘rt-besh yil sabr qildi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘n birinchi kuni hovliga kirib keldi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Otlashgan son qatnashgan gapni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Oradan besh-o‘n yil o‘tdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ikkovi shu yerga bekinishdi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bugun birinchi qor yog‘di.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ukam 3-sinfda o‘qiydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sonlarning yasalishi haqidagi qaysi hukm to‘g‘ri\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sonlar sifatdan yasaladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sonlar otdan yasaladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sonlar fe’ldan yasaladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sonlar yasalmaydi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo’ shma olmoshlarni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Har kimki vafo qilsa, vafo topqusidir.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Shu onda nimadir qars etdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Unda-bunda qushlarning sayragani eshitilardi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Allakim eshikni taqillatdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kishilik olmoshlarining qaysi biri nutq jarayonida ishtirok etmagan shaxsni ifodalaydi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1- shaxs kishilik olmoshlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3-shaxs kishilik olmoshlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2-shaxs kishilik olmoshlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1- va 2-shaxs kishilik olmoshlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Shu mustaqillik sharofati bilan tilimiz, urf-odatlarimiz, tariximiz – jamiki hammasi o‘z qadrini topdi. Olmoshlar miqdori qancha\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "2 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatordagi barcha so‘zlar qo‘shib yoziladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘rta Osiyo, kecha kunduz, och sariq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "har kim, tog‘ olcha, ot boqar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ot quloq, borasan qo‘yasan, to‘q ko‘k\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bodom qovoq, qirg‘iy ko‘z, ming oyoq\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatordagi barcha so‘zlar chiziqcha bilan yoziladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "uyma//uy, kiyim//kechak, dam//badam\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bodom//qovoq, to‘q//qizil, kecha//kunduz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "orom//baxsh, qiyma//taxta, ur//to‘qmoq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "gul//chechak, bordi//keldi, och//sariq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Atoqli otlarning imlosi haqida bildirilgan qaysi hukm noto‘g‘ri\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "suv havzalari va inshootlari nomlari tarkibidagi birinchi so‘z bosh harf bilan yoziladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tarixiy sanalarning nomlari tarkibidagi birinchi so‘z bosh harf bilan yoziladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "xalqaro tashkilotlar nomlari tarkibidagi birinchi so‘z bosh harf bilan yoziladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bayram nomlari tarkibidagi birinchi so‘z bosh harf bilan yoziladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zlik nisbat shaklidagi fe’l qaysi qatorda berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yozishmoq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o‘zlik nisbatidagi fe’l berilmagan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘qittirmoq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "o‘tilmoq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatordagi fe’l hozirgi zamonni bildiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yugurib turibdi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o‘qib chiqibdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "aldab yuboribdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kulib gapiribdi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "U imtihonlardan o‘tgach, sevinchi ichiga sig‘may, uyiga qaytarkan. Mazkur gapdagi to‘liqsiz fe’lqaysi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o‘tgach\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "qaytarkan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "to‘liqsiz fe’l ishtirok etmagan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sevinchi ichiga sig‘may\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hozirgi-kelasi zamon fe’llari qaysi qatorda berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "borar edi, o‘qir, olar edim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ko‘rganman, yuborar, chaqirgan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "yozibman, kelibsiz, ekibdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ishlayman, o‘sadi, o‘qiysiz\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda qo‘shma fe’llar berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "iqror bo‘ldi, sotib oldi, qaror qildi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ko‘rib berdi, aytib qo‘ydi, suvsiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "olib turdi, kuta boshladi, ketib qoldi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ayta boshladi, sensiradi, sotib qo‘ydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatordagi so‘zlarga fe’l yasovchi qo‘shimcha qo‘shilsa, o‘zakda o‘zgarish bo‘ladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yosh, ot, son, ong\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bosh, ish, osh, bo‘sha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "chiq, bor, suv, uyqu\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "o‘t, soz, oq, tun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mehmon kelar eshikdan, rizqi kelar teshikdan. Ushbu gapda sifatdosh qanday gap bo‘lagi bo‘lib kelgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "hol\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "aniqlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ega\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kesim\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda bo‘lishlilik ma’nosi ifodalangan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yozmay qo‘yma\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "yozmay tur\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "yoza ko‘rma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yozgani yo‘q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi grammatik ma’no maxsus ko‘rsatkichga ega emas\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "fe’llarda bo‘lishlilik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "fe’llarda o‘zlik nisbati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "otlarda ko‘plik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "fe’llarda bo‘lishsizlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda o‘zlik nisbatdan hosil bo‘lgan fe’lning orttirma nisbat shakli berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "keltir, yozdir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "yuvinishdi, kiyinishdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘zgartirildi, ishlatildi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yuvintir, kiyintir\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qorong‘ida dalani aylanib, nimani ham ko‘rardingiz. Bu gapda qaysi zamon ma’nosi ifodalangan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "hozirgi va kelasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o‘tgan zamon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "hozirgi zamon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kelasi zamon\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kunlar isib ketdi-ku! Gapdagi fe’l qaysi maylda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "maqsad mayli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ijro maylida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "buyruq-istak mayli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "shart mayli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Intilgan elga yoqar. Ushbu gapda intilgan so‘zi qaysi gap bo‘lagi vazifasida kelgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ega\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "aniqlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hol\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Harakatning so‘zlovchi tomonidan bajarilishini bildirgan fe’llar qaysi qatorda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kutdim, ko‘rdim, aytdik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "keldi, o‘qidi, yozdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bording, sug‘ording, olding\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ishladingiz, unutdingiz, kuyladingiz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bo‘lishlilik shakli orqali bo‘lishsizlik ma’nosi ifodalangan gap qaysi qatorda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yordam bersangiz, kolxozni ko‘tarish uchun kuch-quvvatimni ayarmidim?!\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Men xalqimni aldamoqchi emasman.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tez orada uncha-muncha mexanikka gap bermay qo‘yadi u…\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bu hol qishloqqa sezilmay qolmaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatordagi gapda majhul nisbatdagi fe’l ishtirok etgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tiniq ko’ kda oq bulut parchalari ko‘rindi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Erkin yosh havaskorlar to‘garagiga yozildi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘qituvchimiz ko‘rsatmasi bilan safga tizildik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uylar, klublar, kutubxonalar qurildi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Birdan ortiq nisbat qo‘shimchasiga ega fe’llar qaysi qatorda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "chaqirtirilmoq, jo‘nattirmoq, bezatilmoq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o‘tlatmoq, yugurtirmoq, o‘tkazmoq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "taranmoq, to‘latmoq, bitirmoq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yozdirmoq, kuylashmoq, hisoblatmoq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tasdiq ma’nosi (bo‘lishli ma’no) ni ifodalovchi fe’l qaysi gap tarkibida qo‘llangan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Buyuk ishlar birdan qilinmaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kim buyuk maqsadga intilsa, o‘zini o‘ylamasligi zarur.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Munisxon va’da bergan vaqtida kelmay qolmaydi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Oftob ko‘rinmas edi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rivojlanmoq, zavqlanmoq, ajablanmoq fe’llari qaysi nisbatda ekanligini aniqlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "aniq nisbatda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "orttirma nisbatda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘zlik nisbatda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "majhul nisbatda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tuslanadigan so‘zlar qaysi qatorda berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yozgan, kulib\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o‘qish, yozish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘qigani, yozgani\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kelgach, borgach\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi gapda ravishdan yasalgan fe’llar berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Izg‘irinda ko‘zlar yoshlanadi, oyoq ostidagi qor g‘irchillaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Shokarim uxladimi, yo‘qmi bilolmadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mirtursun Xalifaning terakzoriga yaqinlashgach, qadamini sekinlatdi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Peshonangiz devorga qarsillatib urilganidan keyin esingiz kiradi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ajratilgan aniqlovchi qaysi javobda berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "U yerda, taxta ko‘prik ostida, bir buloq bor.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Hamidov, yalang bosh, tollar tagida aylanib yurardi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Biz, yoshlar, xalqqa xizmat qilamiz.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Shoir sevgan qiz shu – hamshira.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ajratilgan hol berilgan gapni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Shovqin solmang, Arslonqul aka, atrofda odam bor!\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kampir tovush chiqarmay, kuyunib yig‘ladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Hu ana o‘sha joyda, taxta ko‘prik tagida, atrofi qalin yalpiz bilan o‘ralgan kichik bir buloq bor.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ultarma bu yerga olis bo‘lsa ham, bu ikki oshna bordi-keldi qilib turardi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ajratilgan payt holi qatnashgan gapni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Shu kuni kechqurun, daladan qaytishda, qori Siddiqjonga hamroh bo‘lib oldi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Boyagi yigitning, Avazning, qo‘li gul ekan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Biz, sizning do‘stingiz, yo‘l qo‘yilgan xató halokatga olib borguncha indamay turarmidik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ajratilgan payt holi qatnashgan gap berilmagan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ajratilgan izohlovchini toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xonaga kimyo o‘qituvchisi Hamida opa kirib keldi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xonani Xolida opa, farrosh, tozalab qo‘ygan edi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Xatni uning o‘ziga, Muqaddasga bering.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Biz – o‘quvchi-yoshlarning, o‘zimizga yarasha or-nomusimiz bor.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ajratilgan to‘ldiruvchi qatnashgan javobni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kitob ichidagi datstxatga, menga tanish dastxatga, uzoq tikildim.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "U yerda, qishloqning markazida, ajoyib choyxona bor.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tunov kuni, bayram arafasida, ajoyib kechaning guvohi bo‘ldim.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Axir uning, singlimning ham tengdoshlari orasida o‘ziga yarasha obro‘si bor.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kitob o‘qidim, qiziqarli. Ushbu gapda qaysi bo‘lak ajratilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "To‘ldiruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘rin holi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sifatlovchi-aniqlovchi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Payt holi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sizga, shunday bilimdon qizga, bu gap yarashmaydi. Ushbu gapda qaysi bo‘lak ajratilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ega\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Hol\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "To‘ldiruvchi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatordagi gapda ega ajrarilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Biz, yoshlar, buni esdan chiqarmasligimiz zarur.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qo‘llar ishlar tez – mo‘jizakor.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bugun sizni yana, ikkinchi marta kechirishdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Anjuman bugun, soat beshda boshlanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda so’z birikmasi berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qilichdan o’tkir, juda muhim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Vatan farzandlari, bodom qovoq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Hammaga manzur, bilim yurti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Toshdan qattiq, vatan farzandlari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi gapda boshqaruv va bitishuv aloqalari mavjud.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Terlar tuproq uzra quyilar duv-duv.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yo’lchi Unsinni eshik oldida to’xtatdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yerda oltin yaproqlar kabi yotar oy nuri.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tinch va totuv yashamoqdamiz.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda tasdiq gap berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bechora otasining shunga ko’nish fikri ham yo’q emas.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Jo’yaklar orasida birorta ham begona o’t ko’rinmaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "U og’ziga talqon solgandek jim. Qani gapirsa!\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qani endi rad etib ko’rsin-chi!\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi gapda qaysi gap bo’lagi birikmali qo’llangan. Yoshi bir joyga borib qolgan bu kishini har kuni ko’raman.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "To’ldiruvchi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aniqlovchi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ega.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi gap qanday gap bo’laklaridan tashkil topgan. Mehnat qilib topganing - qandu asal totganing.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Hol, kesim, to’ldiruvchi, kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ega, kesim.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ega, to’ldiruvchi, kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Hol, ega, kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yo’lchi ko’chaga chiqishi bilan keskin, sovuq shamol quloqlarida guvillab, ignaday o’tkir, mayda qor parchalarini uning yuziga, ko’zlariga urdi.\n"
+            },
+            {
+                "type": "text",
+                "content": "Ushbu gapda qaysi gap bo’laklari uyushgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aniqlovchi, aniqlovchi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aniqlovchi, to’ldiruvchi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aniqlovchi, aniqlovchi, to’ldiruvchi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "To‘ldiruvchi, hol.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sifatlovchi o’z sifatlanmishiga qanday yo’l bilan birikadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Moslashuv yo’li bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bitishuv yo’li bilan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "boshqaruv yo’li bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Moslashuv yoki bitishuv yo’li bilan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda bog’lamali ot kesim qo’llangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yoz saxovat bilan dunyoni sharbatga to’ldirdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bu xona doimo ozoda bo’ladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bu xabarni eshitgan rais shamolday tez uchib borar edi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O’qituvchilar bizdan mamnun bo’lishdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi gapda qaratqich aniqlovchi birikmali qo’llangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Piyoda yurmoqning foydasi ko’p.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Maktabning hovlisi yaxshigina bezatilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Umrining eng yaxshi mavsumi yoshlik bahori o’tib ketdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Fazliddin uyining qayerdaligini Tohirga yaxshilab tushuntirdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Berilgan gapdagi bosh bo’laklarni aniqlang. Navoiy g’azal mulkining sultonidir.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Navoiy – ega, sultonidir – kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Navoiy – kesim, g’azal – ega\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mulkining – kesim, Navoiy – ega.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "G’azal mulkining sultonidir – birikmali kesim, Navoiy – ega.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ajratilgan ikkinchi darajali bo’lakni aniqlang. Uzoqdan, ekinzorlar orasidan bolalarning kulgisi eshitildi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uzoqdan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bolalarning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ekinzorlar orasidan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Orasidan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gaplarning tuzilishiga ko’ra turlari\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sodda yoyiq va sodda yig’iq gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sodda gap, qo’shma gap, murakkab gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ergashgan qo’shma gap va bog’langan qo’shma gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sodda gap va qo’shma gap.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Berilgan gap qo’shma gapning qaysi turiga kiradi.\n"
+            },
+            {
+                "type": "text",
+                "content": "Chaqirsam, indamaysiz.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bog’langan qo’shma gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sodda gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ergashgan qo’shma gap\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bog’lovchisiz qo’shma gap\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ham payt holi, ham o’rin holi bo’ladigan so’zlarni ayting:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kecha, bugun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oldin, o’rta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Keyin. Oldin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bugun, avval\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Misolda ‘‘yaxshi’’ so’zi gapning qaysi bo’lagi vazifasida kelgan. Yaxshi yomon libos bilan ham yaxshi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aniqlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aniqlovchi va kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ega va kesim\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tagiga chizilgan so’zlar gapning qaysi bo’lagi vazifasida kelgan. Ko’ngliga kelgan gapni ochiq aytishga Nizomjonning sira tili bormadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aniqlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Birikmali vositali to’ldiruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Birikmali vositasiz to’ldiruvchi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ravish holi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Misolda gapning qaysi turi berilgan.\n"
+            },
+            {
+                "type": "text",
+                "content": "Yaxshidir achchiq haqiqat,\n"
+            },
+            {
+                "type": "text",
+                "content": "Lek shirin yolg’on yomon.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sodda gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uyushiq bo’lakli gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bog’lovchisiz qo’shma gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Zidlov munosabatli bog’langan qo’shma gap\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi gapda ega vazifasidagi so’zni aniqlang.\n"
+            },
+            {
+                "type": "text",
+                "content": "Zaminni, zamonni yashartir, Navro’z!\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "zamin.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "yashartir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "navro’z\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ega qo’llanmagan\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tobe aloqa turlarini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Moslashuv, boshqaruv, bitishuv.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "to’liq va to’liqsiz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Atributiv, obyektiv, relyativ.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Nopredikativ, relyativ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ushbu gap qanday gap bo’laklaridan tarkib topgan. Tayyorman, azizim, sevgilim, seni Bir umr gavhardek avaylamoqqa.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kesim, ega, to’ldiruvchi, hol, hol, kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kesim, ega, to’ldiruvchi, hol, kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kesim, undalma, to’ldiruvchi, hol, hol, kesim.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kesim, undalma, to’ldiruvchi, hol, aniqlovchi, kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi gapda ikkita ravish (vaziyat) holi qollangan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "U yer – bu yerda o‘tinlar ustma-ust qalab qo‘yilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "U juftsiz holda o‘zi tanho yashaydi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tevarak-atrofga hayronlik bilan boqa boshladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ammo ziyrak qiz bu so‘z tagida nimalar borligini darhol angladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Vositasiz to‘ldiruvchi qaysi javobda berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yaxshilar, yordam bering.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mehnat, mehnatning tagi rohat.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qiz zavq bilan ashula aytdi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Vaqt oqar suv kabidir.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 241,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi gapda sifatlovchi-aniqlovchi ot-kesimga bog‘langan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Hamma qobiliyatlarning sarvari sog‘lom fikrdir.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Odobli va oqil odamlarga arzimas hazilni ham qila ko‘rmang.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Hamma yoq g‘ovur-g‘uvur.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bularning hammasi sevinchdan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 242,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ushbu gapda qo‘llangan aniqlovchilar soni nechta. Unda oqila qizlarimiz tikuvchilik san’atini, bichuvchilik mahoratini, kashtado‘zlik va zardo‘zlik sirlarini, popopchilik kasbini o‘rgandilar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "6 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "5 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "7 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi gap tarkibida ham vositali, ham vositasiz to‘ldiruvchi qo‘llangan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Dehqon kasbini xo‘rlamas.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tinchlik bilan el ko‘karar, yomg‘ir bilan yer ko‘karar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Fanni ko‘pincha bilim bilan yanglishtiradilar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Quruq so‘z bilan ish bitmas.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 244,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aniqlovchili gapni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Oltinday tovlangan olxo‘rilar tagiga to‘kilib yotibdi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mehmon izzati bilan ulug‘.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Eshik to‘satdan qattiq taqilladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qo‘shiqni zavq bilan tingladik.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 245,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi javobda qaratqichli-aniqlovchi qo‘llangan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ma’naviy sovuqqonlik o‘ta o‘qimishli kishilar kasalligidir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘z uyida baxtli bo‘lgan kishigina baxtlidir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Boshqalarning baxtini o‘ylab, o‘z baxtimizni ham topamiz.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Barcha gaplarda qaratqichli-aniqlovchi qo‘llangan.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 246,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Birovga choh qazima, o‘zing tushasan. Ushbu maqol qanday gap bo‘laklaridan tashkil topgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "to‘ldiruvchi, to‘ldiruvchi, kesim; ega kesim.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "hol, kesim; aniqlovchi, kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "to‘ldiruvchi, hol, kesim; aniqlovchi, kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "to‘ldiruvchi, kesim; ega, kesim.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 247,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda uyushiq bo’ laklar yuklama yordamida bog’ langan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bu ishda eng muvofiq ham ishonchli kishi Safar bo’ zchi edi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O’ rnidan turdi, ammo gapirmadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Siz bilan biz ulug’ ishga bel bog’ ladik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "G‘ayrat mening bu ishimdan ranjimadi, balki quvonganini izhor qildi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Otlashgan so‘z bilan ifodalangan undalma qaysi qatordagi gapda qo‘llangan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Nahotki, bir nima qilishning iloji bo‘lmasa, buva?\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ha-ha, ekamiz, oppog‘im, albatta ekamiz!\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Meni o‘tga solmang, otajon.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Otlashgan so‘z bilan ifodalangan undalmali gap berilmagan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Abror, o‘g‘lim, bor, qo‘zichog’im, ana u daraxtda osilib turgan arqonni olib kelgin. Ushbu gapda qo‘llangan undalmalar qaysi qatorda to‘g‘ri berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Abror, o‘g‘lim, qo‘zichog‘im\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Abror\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘g ‘lim, qo‘zichog‘im\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bor, qo‘zichog‘im\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 250,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yoyiq undalmali gap qaysi qatorda berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Behudaga, o‘g‘lim, egma bosh.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Otello, otello, sening ishqingdan, Hayratga tushishning o‘zi bir sevgi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Salom senga, ko‘k archa, Qishin-yozin yashnaysan.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Amudaryo, seni qalbdan kuylayman.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 251,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Vaziyat (ravish) holi uyushib kelgan gap qaysi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Men ishtiyoq va hayrat bilan juda ko’ p o’ qidim.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Madaniyatli kishini tarbiyalashda... san’at va fanning ahamiyati katta.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kitob eng olis va zimiston umr yo’ llarida insonga nur bag’ ishlab turuvchi sehrli chiroqdir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Goho shunday ishlar munosabatlarning yomonlashuviga va anglashmovchiliklarga olib keladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 252,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi gap tarkibida kesim uyushib kelgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yillar mana shu xilda, osoyishta o’ tar edi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uning so’ zlari sodda, samimiy, lekin aniq va ravshan edi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Siz a’lochisiz va jamoatchisiz.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uyda ko’ p ish qildi - supurdi, kir yuvdi,tozaladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 253,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘quvchilar matnni o‘qiydilar,tahlil qiladilar va kitobni yopib qo‘yib,eslab qolganlarini yozadilar. Bu qanday ko‘chirib yozuv turi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yoddan ko‘chirib yozuv\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ijodiy ko‘chirib yozuv.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "erkin ko‘chirib yozuv.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tanlab ko‘chirib yozuv.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 254,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Eshik asta ochildi-yu, Qalandarovning yuzi ko‘rindi. Ushbu misol bog‘langan qo‘shma gapning qaysi turiga mansub\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "biriktiruv munosabatli bog‘langan qo‘shma gap\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "zidlov munosabatli bog‘langan qo‘shma gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ayiruv munosabatli bog‘langan qo‘shma gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bu gap bog‘langan qo‘shma gap emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 255,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bilgilki, yaxshi javob- sukut. Ushbu gap tuzilishiga ko‘ra qanday gap\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kirish so‘zli sodda gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "undalmali gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "qo‘shma gap\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sodda yoyiq gap\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 256,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Har kimki vafo qilsa, vafo topqusidir. Bu gap ergashgan gapning qaysi turi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "shart ergash gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ega ergash gap\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "natija ergash gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kesim ergash gap\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 257,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Noto‘g‘ri yozilgan so‘zlar qaysi qatorda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " taqchil, bug‘u, hasharot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bo‘ysunmoq, gulsapsar, binoyi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "oliyjanob, taqiqlamoq, ohanrabo\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ahloq, talofat, mas’um\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 258,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bosh harflar haqidagi qaysi fikr noto‘g‘ri\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Atoqli otlardan hosil bo‘lgan turdosh otlar bosh harf bilan yoziladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Atoqli otlar bosh harf bilan yoziladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Har bir gap bosh harf bilan boshlanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "She’rning har bir misrasi bosh harf bilan boshlanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 259,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatordagi barcha so‘zlar qo‘shib yoziladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ola qarg‘a, qabul xona, bodom qovoq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dev qomat, tim qora, bu qadar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ot boqar, ming oyoq, jiqqa ho‘l\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "lang ochiq, beda poya, orom baxsh\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

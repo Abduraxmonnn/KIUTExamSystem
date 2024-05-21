@@ -1,0 +1,6048 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Darsturning ‘‘Grammatika, imlo va nutq o‘stirish’’ bo‘limi har bir sinfda qaysi qismlarni o‘z ichiga oladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "‘‘Tovush va harflar’’ , ‘‘So‘z’’, ‘‘Gap’’, ‘‘Bog‘lanishli nutq’’.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ‘‘Tovush va harflar’’ , ‘‘So‘z’’, ‘‘Gap’’.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ‘‘Tovush va harflar’’, ‘‘Gap’’, ‘‘Bog‘lanishli nutq’’.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ‘‘So‘z’’, ‘‘Gap’’, ‘‘Bog‘lanishli nutq’’.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dasturning ‘‘ So‘z’’ qismida qaysi bilimlar beriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bu qismda: so‘z turkumlari: ot, sifat, son, fe’l, olmosh turkumlari haqidagi bilimlar beriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bu qismda: so‘z tarkibi: asos, asosdosh so‘z, qo‘shimcha va uning turlari; gap va uning turlari haqidagi bilimlar beriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bu qismda: so‘z tarkibi: asos, asosdosh so‘z, qo‘shimcha va uning turlari; so‘z turkumlari: ot, sifat, son, fe’l, olmosh turkumlari haqidagi bilimlar beriladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bu qismda: so‘z tarkibi: asos, asosdosh so‘z, qo‘shimcha va uning turlari haqidagi bilimlar beriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dasturning ‘‘Gap’’ qismida qaysi bilimlar beriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bu qismda: gap, uning ifoda maqsadiga ko‘ra turlari; gap bo‘laklari haqidagi bilimlarni berish ko‘zda tutilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bu qismda: gap bo‘laklari: bosh va ikkinchi darajali bo‘laklar; gapda so‘zlarning bog‘lanishi haqidagi bilimlarni berish ko‘zda tutilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bu qismda: gap bo‘laklari: bosh va ikkinchi darajali bo‘laklar; gapda bosh va ikkinchi darajali bo‘laklarning uyushib kelishi haqidagi bilimlarni berish ko‘zda tutilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bu qismda: gap, uning ifoda maqsadiga ko‘ra turlari; gap bo‘laklari: bosh va ikkinchi darajali bo‘laklar; gapda so‘zlarning bog‘lanishi haqidagi bilimlarni berish ko‘zda tutilgan.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ona tili darslarida faol qo‘llaniladigan yetakchi metodlar qaysilar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bayon qilish metodi, suhbat metodi, muammoli o‘qitish metodi, analiz-sintez metodi, mustaqil ish metodi, induksiya metodi, deduksiya metodi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Suhbat metodi, analiz-sintez metodi, induksiya metodi, deduksiya metodi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bayon qilish metodi, suhbat metodi, muammoli o‘qitish metodi, analiz-sintez metodi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bayon qilish metodi, suhbat metodi, muammoli o‘qitish metodi, ko‘rsatish metodi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muammoli o‘qitish metodiga kim, qachon asos solgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Muammoli o‘qitish metodiga amerikalik olim Dyun 1954-yilda asos solgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Muammoli o‘qitish metodiga rus olimi K.D. Ushinskiy 1894-yilda asos solgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Muammoli o‘qitish metodiga Abdulla Avloniy 1904-yilda asos solgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Muammoli o‘qitish metodiga amerikalik olim Dyun 1894-yilda asos solgan.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutq tovushlari ikki guruhga bo’linadi: unli va undoshlar. Buni o‘quvchilarga tushuntirishda qaysi belgilari hisobga olinadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Talaffuz qilish usuli, ovoz va shovqinning ishtiroki, bo‘g‘in hosil qilish xususiyati.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Talaffuz qilish usuli, ovoz va shovqinning ishtiroki.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Talaffuz qilish usuli, bo‘g‘in hosil qilish xususiyati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ovoz va shovqinning ishtiroki, bo‘g‘in hosil qilish xususiyati.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "1- sinf o‘quvchilari tovush va harflarni o‘rganayotganlarida nimalarni bilib olishlari lozim\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tovushni talaffuz qilamiz va eshitamiz, harfni ko‘ramiz, eshitamiz va yozamiz.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tovushni talaffuz qilamiz va ko‘ramiz, harfni eshitamiz, o‘qiymiz va yozamiz, harf tovushning yozuvdagi belgisi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tovushni talaffuz qilamiz va yozamiz, harfni ko‘ramiz, o‘qiymiz va yozamiz, harf tovushning yozuvdagi belgisi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tovushni talaffuz qilamiz va eshitamiz, harfni ko‘ramiz, o‘qiymiz va yozamiz, harf tovushning yozuvdagi belgisi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fonetik bilimlarning ahamiyati qaysi qatorda to‘g‘ri javob berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "So‘zni to‘g‘ri talaffuz qilish uchun.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Orfografik malakalarni egallash uchun.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘quvchi o‘qish va yozishni bilib oladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "So‘zni to‘g‘ri talaffuz qilish, orfografik malakalarni egallash uchun hamda o‘quvchi o‘qish va yozishni bilib oladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘quvchilarga jarangli va jarangsiz undoshlar nimalarga asoslanib tushuntiriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tovushlarning talaffuzini kuzatishga asoslanib.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "So‘zlardagi tovushlar talaffuzini taqqoslab.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Shovqin va ovozning ishtirokini amaliy tushuntirib.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tovushlarning talaffuzini kuzatishga asoslanib, so‘zlardagi tovushlar talaffuzini taqqoslab, shovqin va ovozning ishtirokini amaliy tushuntirib.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinflarda so‘zning morfemik tarkibi necha bosqichda o‘rganiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "uch bosqichda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "to‘rt bosqichda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ikki bosqichda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bosqichlarga bo‘lib o‘rgatilmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinflarda ot haqidagi tushunchalar nechanchi sinfdan boshlab shakllanatiriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1-sinfdan (amaliy)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2-sinfdan (amaliy)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3-sinfdan (nazariy)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "4-sinfdan (nazariy)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tilga oid tushunchalarni shakllantirish jarayoni shartli ravishda necha bosqichga bo’ linadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "to‘rt bosqichga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ikki bosqichga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "uch bosqichga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bosqichlarga bo‘linmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "So’ z turkumlari ustida ishlash metodikasining lingvistik asosi nima\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "so‘zlarning turkumlarga ajratib, ularning grammatik belgilarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "har bir so‘z turkumining gapda qanday sintaktik vazifa bajarishini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "so‘z turkumlarini so‘z tarkibi bilan bog‘lab o‘rganish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "so’ zlarning leksik-grammatik, morfologik va sintaktik belgilariga ko’ ra turli guruhlarga ajratilishi, ya’ni so’ z turkumlari haqidagi ilm hisoblanadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "So’ zlarni leksik-grammatik turkumlarga ajratishda qaysi belgilariga qaraladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "-leksik ma’nosi (nimani ifodalashi, ya’ni shaxs, narsa, harakat yoki holat, belgi kabilarning umumlashtirilgan ma’nolari); - morfologik (so’ zning turli shakllari tizimi); - sintaktik (turli morfologik shakllarning sintaktik vazifa bajarishi) belgilariga asoslaniladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "-leksik ma’nosi (nimani ifodalashi, ya’ni shaxs, narsa, harakat yoki holat, belgi kabilarning umumlashtirilgan ma’nolari), - morfologik (so’ zning turli shakllari tizimi) ga asoslaniladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "-morfologik (so’ zning turli shakllari tizimi) va sintaktik (turli morfologik shakllarning sintaktik vazifa bajarishi) belgilariga asoslaniladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "-avvaldan qanday ajratilgan bo‘lsa, shunday ajratiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kelishiklarni o‘rgatishda o‘qituvchining asosiy vazifasi nima\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kelishiklar nomini yodlab olish hisoblanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kelishik qo‘shimchalarini yodlab olish hisoblanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kelishiklarni to‘g‘ri yozish ko‘nikmasini shakllantirish hisoblanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "fikr bayon qilishda otning kelishik shakllaridan ongli foydalanish va kelishik qoshimchalarini to‘g‘ri yozishga o‘rgatish hisoblanadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Egalik qo‘shimchalarini o‘rgatishda qaysi imlo qoidalar ham o‘rgatiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tovush tushishi, tovush almashishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tovush almashishi, tovush tushishi, tovush orttirilishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tovush almashishi, tushishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tovush orttirilishi, tushishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinflarda sifatni o‘rganish necha bosqichda o‘rgatiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ikki bosqishda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "uch bosqichda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "to‘rt bosqichda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bosqichlarga bo‘linmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "1-4-sinflarda ona tili kursi qanday kurs\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "amaliy – nazariy kurs.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "nazariy kurs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "amaliy kurs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hech qanday kurs emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Eshitib idrok qilingan so’ z, gap, matnni yozish qaysi mashq turi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "insho\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "diktant\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ko‘chirib yozuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bayon\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’proq mustaqillikni talab qiladigan ish turi qaysi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "insho\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "diktant\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bayon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ko‘chirib yozuv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlangʻich matematika kursining mazmuni qaysi boʻlimlarni oʻz ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " nomanfiy butun sonlar, kasrlar, geometrik figuralar, tenglamalar yechish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " arifmetika, algebra va geometriya elementlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " arifmetika, algebra, geometriya, miqdorlar nazariyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " oʻqitishning maqsadi, mazmuni, metodlari, vositalari va shakllari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nomerlash mazmuni nimadan iborat\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sonlarni hosil qilish, nomlash, yozish va taqqoslashning turli usullaridan iborat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sinf tushunchasi, birlar, minglar, millionlar … sinflaridan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Natural son, 0 soni, birliklar, xona birliklari, xona birliklari soni, xona birliklari yig’indisi, sinf, raqamning son yozuvidagi qiymatidaniborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sonlar misolida matematikani hayot bilan bogʻlash, tarbiyaviy va rivojlantiruvchi maqsadlarni amalga oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tushunchaga ta’rif bering: bilim~bu–\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish va yangi bilimlar hosil qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mavjud bilim, ko‘nikma va malakalarni kundalik faoliyatda qo‘llay olish qobiliyati\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "o‘rganilgan ma’lumotlarni eslab qolish va qayta tushuntirib berish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tushunchaga ta’rif bering: ko‘nikma~bu –\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o‘rganilgan ma’lumotlarni eslab qolish va qayta tushuntirib berish\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish va yangi bilimlar hosil qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish;\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mavjud bilim, ko‘nikma va malakalarni kundalik faoliyatda qo‘llay olish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Matematika oʻqitish metodikasi fanining predmeti nimadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "oʻqituvchi va oʻquvchining faoliyatini tashkil qilinishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "boshlangich sinflarda matematikani oʻqitishning maqsadi, vazifalari, mazmuni, metodlari, shakli va vositalaridan iborat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1-4-sinflarda matematika fanini oʻqitish jarayonidan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tajriba-sinov ishlarini oʻtkazish, ularning natijalarini tahlil qilish, qonuniyatlarni aniqlash va amaliyotga tadbiq qilish yuzasidan tavsiyalar ishlab chiqishdan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlangʻich matematika kursi qanday tuzilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "chiziqli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "konsentrik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tizimli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "doiraviy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinflarda matematika o‘qitishni tashkil qilishning huquqiy-me’yoriy asosi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tayanch oʻquv rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Fan dasturlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Davlat ta’lim standarti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Dars jadvali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinflarda matematika o‘qitishni tashkil qilishning asosiy shakli\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "dars va darsdan tashqari ishlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "metod va vositalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sinf-dars tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "dars\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlаng’ich sinflаrdа eng koʻp tаrqаlgаn dаrs tipi -...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "aralash dars\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "takrorlash-umumlashtirish darsi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "yangi mavzuni oʻrganish darsi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "BKMlarni mustahkamlash darsi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlangʻich sinflarda matematika fanining haftalik yuklamasi necha soat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "5soat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4soat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "7soat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "6soat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang’ ich sinf o’ quvchilari ot, sifat, son, fe’lning qaysi xususiyatlarini bilib oladilar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "- so’ z nimani bildirishi (shaxs, narsa, belgi, miqdor va tartib, harakat yoki holat); qanday so’ roqlarga javob bo’ lish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "- so’ z nimani bildirishi (shaxs, narsa, belgi, miqdor va tartib, harakat yoki holat); qanday so’ roqlarga javob bo’ lishi; o’ zgarish-o’ zgarmasligi, qanday doimiy kategoriyalari mavjudligi; gapda, asosan, qanday bo’ lak vazifasida kelishi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "gapda, asosan, qanday bo’ lak vazifasida kelishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "so‘zning o’ zgarish-o’ zgarmasligi, qanday doimiy kategoriyalari mavjudligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kelishiklarni o‘rgatish qanday izchillikda o‘rganiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Otlarning kelishiklar bilan turlanishi haqida tushuncha berish;ko‘plikdagi otlarning turlanishini o‘rgatish; har bir kelishikning xususiyatini alohida o‘rganish va u bilan bog‘liq holda kelishik qo‘shimchalarining yozilishi haqida ko‘nikma hosil qilish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Otlarning kelishiklar bilan turlanishi haqida tushuncha berish; ko‘plikdagi otlarning turlanishini o‘rgatish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Har bir kelishikning xususiyatini alohida o‘rganish va u bilan bog‘liq holda kelishik qo‘shimchalarining yozilishi haqida ko‘nikma hosil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kelishiklar o‘rgatilmaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang’ ich sinflarda „Sifat\" mavzusi qanday izchillikda o’ rganiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "- sifat bilan dastlabki tanishtirish; sifat haqida tushuncha berish; shu grammatik mavzu bilan bog’ liq holda ayrim sifatlarning yozilishini o’ zlashtirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "- sifat haqida tushuncha berish; shu grammatik mavzu bilan bog’ liq holda ayrim sifatlarning yozilishini o’ zlashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "- sifat bilan dastlabki tanishtirish; sifat haqida tushuncha berish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "- sifat haqida tushuncha berish; shu grammatik mavzu bilan bog’ liq holda ayrim sifatlarning yozilishini va sifatlarning yasalishini o’ zlashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang’ ich ta’limda son necha yo’ nalishda o’ rganiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ikki yo‘nalishda: 1. Sonlarning ma’nosi ustida ihlash. 2. Sonlarning imlosi ustida ishlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ikki yo‘nalishda: 1. Sonlarning talaffuzi va so‘roqlari ustida ishlash. 2. Sonning grammatik shakllari utida ishlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "to‘rt yo‘nalishda: 1. Sonlarning so‘roqlari ustida ihlash. 2. Sonlarning talaffuzi ustida ishlash. 3. Sonning grammatik shakllari ustida ishlash. 4. Sanoq va tartib son ustida ishlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "uch yo‘nalishda: 1. Sonlarning talaffuzi va ma’nosi ustida ishlash. 2. Sonning grammatik shakllari ustida ishlash. 3. Sonlarning imlosi ustida ishlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kishilik olmoshlarini o’ rgatish jarayonida o’ quvchilarda qaysi bilim va ko’ nikmalar hosil qilinadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "- men, sen, u, biz, siz, ular kishilik olmoshlari ekanligi; ular kim?so’ rog’ iga javob bo’ lishi; kishilik olmoshlari so’ z turkumi ekanligi; kishilik olmoshlari 3 ta shaxsni birlik va ko’ plikda ifodalashi; ularning kelishiklar bilan turlanishi va imlosi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "- men, sen, u, biz, siz, ular kishilik olmoshlari ekanligi; ular kim?so’ rog’ iga javob bo’ lishi; kishilik olmoshlari so’ z turkumi ekanligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kishilik olmoshlari so‘z turkumi ekanligi; ular kim?so’ rog’ iga javob bo’ lishi; kishilik olmoshlari 3 ta shaxsni birlik va ko’ plikda ifodalanihi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kishilik olmoshlari 3 ta shaxsni birlik va ko’ plikda ifodalashi; ularning kelishiklar bilan turlanishi va imlosi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi kishilik olmoshlarining imlosi ustida ishlanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "men, sen, biz, siz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "men, sen, u\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "men, u, ular\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "biz, siz, u\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinflarda kishilik olmoshlarining gapda qaysi gap bo‘lagi vazifasida kelishi o‘rgatiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kesim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "aniqlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ega, ikkinchi darajali bo‘lak\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "to‘ldiruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "So‘z, so‘z birikmasi, gap o‘rnida almashib qo‘llanuvchi, ularga ishora qiluvchi so‘zlar nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sifat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "olmosh\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "son\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "4-sinfda qaysi fe’l yasovchi qo‘shimchalar o‘rgatiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "-la, - lan, - illa, (-ulla), -lash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "-chi, -lan, -illa, -dosh, -k, -q.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "-li, -lash, -la, -ulla, -dor, -chi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "-siz, -la, -li, -illa, -kash, -ulla.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "4-sinfda hozirgi zamon fe’lini hosil qiluvchi qaysi qo‘shimchalar o‘rgatiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "-di, -moqchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "-yap, -moqda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "-gan, -di.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "-moqda, -moqchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "4-sinfda o‘tgan zamon fe’lini hosil qiluvchi qaysi qo‘shimchalar o‘rgatiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "-moqda, -moqchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "-yap, -moqda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "-gan, -di\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "-di, -moqchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "4-sinfda fe’llardagi qaysi qo‘shimchalar gapda so‘zlarni bog‘laydi, deb o‘rgatiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "zamon qo‘shimchalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mayl qo‘himchalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "nisbat qo‘himchalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tuslovchi qo‘shimchalar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "So‘z tarkibi to‘rt bosqichda o’ rganiladi. Birinchi bosqich – qanday bosqich\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "so’ z yasalishini o’ rganishga tayyorgarlik bosqichi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bir xil asosli so’ zlarning xususiyatlari va barcha morfemalarning mohiyati bilan tanishtirish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "asos, so‘z yasovchi va shakl yasovchi qo‘shimchalarning xususiyatlari hamda tildagi ahamiyatini o’ rganish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "so’ z turkumlarini o’ rganish bilan bog’ liq holda so’ zning tarkibi ustida ishlash bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "So‘z tarkibi to‘rt bosqichda o’ rganiladi. Ikkinchi bosqich – qanday bosqich\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bir xil asosli so’ zlarning xususiyatlari va barcha morfemalarning mohiyati bilan tanishtirish bosqichi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "so’ z yasalishini o’ rganishga tayyorgarlik bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "so’ z turkumlarini o’ rganish bilan bog’ liq holda so’ zning tarkibi ustida ishlash bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " asos, so‘z yasovchi va shakl yasovchi qo‘shimchalarning xususiyatlari hamda tildagi ahamiyatini o’ rganish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "So‘z tarkibi to‘rt bosqichda o’ rganiladi. Uchinchi bosqich – qanday bosqich\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "asos, so‘z yasovchi va shakl yasovchi qo‘shimchalarning xususiyatlari hamda tildagi ahamiyatini o’ rganish bosqichi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bir xil asosli so’ zlarning xususiyatlari va barcha morfemalarning mohiyati bilan tanishtirish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "so’ z yasalishini o’ rganishga tayyorgarlik bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "so’ z turkumlarini o’ rganish bilan bog’ liq holda so’ zning tarkibi ustida ishlash bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "So‘z tarkibi to‘rt bosqichda o’ rganiladi. To‘rtinchi bosqich – qanday bosqich\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "so’ z turkumlarini o’ rganish bilan bog’ liq holda so’ zning tarkibi ustida ishlash bosqichi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "asos, so‘z yasovchi va shakl yasovchi qo‘shimchalarning xususiyatlari hamda tildagi ahamiyatini o’ rganish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "so’ z yasalishini o’ rganishga tayyorgarlik bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bir xil asosli so’ zlarning xususiyatlari va barcha morfemalarning mohiyati bilan tanishtirish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ona tili darslarining turlari qaysi qatorda to‘g‘ri ko‘rsatilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yangi materialni o’ rganish darsi, bilimni mustahkamlash darsi, umumlashtiruvchi-takrorlash darsi, bilimlarning qanchalik о‘zlashtirilganini hisobga olish (tekshiruv) darsi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bilimni mustahkamlash darsi, umumlashtiruvchi-takrorlash darsi, bilimlarning qanchalik о‘zlashtirilganini hisobga olish (tekshiruv) darsi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "yangi materialni o’ rganish darsi,bilimni mustahkamlash darsi, umumlashtiruvchi-takrorlash darsi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yangi materialni o’ rganish darsi, umumlashtiruvchi-takrorlash darsi, bilimlarning qanchalik о‘zlashtirilganini hisobga olish (tekshiruv) darsi va boshq.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinflarda ona tili o‘qitishning markazida qanday maqsad turadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "grammatik nazariyani berish turadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tilshunoslik bo‘limlarini chuqur tushuntirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "orfografiya bo‘limi ustida mukammal ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "nutqiy ko‘nikma va imloviy malaka hosil qilish.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ushbu ta’rif nechanchi sinfda berilgan. Biror ish-harakat amalga oshmaganini bildirmoqchi bo‘lsak, so‘zga -ma qo‘shimchasini qo‘shamiz. Masalan, siz tushlik paytida uxlagan bo‘lsangiz, tushlikda uxladim, deysiz, agar aksincha bo‘lsa, uxlamadim, deysiz.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3-sinfda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4-sinfda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2-sinfda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bunday ta’rif boshlang‘ich sinflarda berilmagan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Imloviy malaka qanday malakadir\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o‘qish malakasidir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yozish malakasidir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bunday malaka mavjud emas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " maxsus nutq malakasidir\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ rib idrok qilingan so’ z, gap va matnni yozma shaklda ifodalash qaysi mashq turi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ko‘chirib yozuv\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "diktant\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bayon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "grammatik-orfografik tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bo’ g’ inning amaliy ahamiyati nimalardan iborat\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yozuvda bir satrga sig’ may qolgan so’ z keyingi yo’ lga bo’ g’ in asosida ko’ chiriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "birinchi sinf o’ quvchilarini o’ qish va yozishga o’ rgatish ham bo’ g’ inga asoslanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "she’ riy misralarda bo’ g’ inlar sonining teng bo’ lishi e’tiborga olinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yozuvda bir satrga sig’ may qolgan so’ z keyingi yo’ lga bo’ g’ in asosida ko’ chiriladi, birinchi sinf o’ quvchilarini o’ qish va yozishga o’ rgatish ham bo’ g’ inga asoslanadi, she’ riy misralarda bo’ g’ inlar sonining teng bo’ lishi e’tiborga olinadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang’ich sinflarda insho ustida amaliy ishlash qaysi sinfdan boshlanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2-sinfdan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1-sinfdan.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3-sinfdan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "4-sinfdan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bayon uchun tanlangan matnda 3-sinfda so‘zlar soni nechta bo‘lishi kerak\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "60-80 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "40-60 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "60- 75 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "45-55 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "4-sinf oxirida tekshirish diktanti uchun tanlangan matnda so‘zlar soni nechta bo‘lishi kerak\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "55-65 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "80-95 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "75-80 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "60-70 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "To‘g‘ri yozilgan so‘z qaysi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "xushmuomala\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "toshmehir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "seysmalogiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "plastmasa\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xabar, so‘roq va his-hayajon mazmunidagi gaplar, ularga qo‘yiladigan tinish belgilari ustida ishlashga oid amaliy mashqlar nechanchi sinfda berilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1-sinfda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2-sinfda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3-sinfda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "4-sinfda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ quvchilarda ko’ chirib yozuv ko’ nikmasini shakllantirishga oid asosiy qoidalarga qaysilar kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ko’ chirib yozishdan oldin ko’ chirib yozadiganingni yaxlit o’ qib chiq.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Har bir gapdagi so’ zlarni bo’ g’ inlarga ajrat va ichda bo’ g’ inlab aytib, yoz.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ko’ chirib yozganingni asliga solishtir va xatolaringni to’ g’ rila.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ko’ chirib yozishdan oldin ko’ chirib yozadiganingni yaxlit o’ qib chiq. Har bir gapdagi so’ zlarni bo’ g’ inlarga ajrat va ichda bo’ g’ inlab aytib, yoz. Ko’ chirib yozganingni asliga solishtir va xatolaringni to’ g’ rila.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bir so‘zni qayta-qayta ishlatish, shevaga xos so‘lardan foydalanish nutqiy xatoning qaysi turiga mansub\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "mantiqiy xato\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "lug‘aviy-uslubiy xato\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "morfologik-uslubiy xato\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sintaktik-uslubiy xató\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Charos darsga puxta tayyorlandi. Ushbu gapdagi tayyorlandi fe’li qaysi nisbatda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o‘zlik nisbatda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "aniq nisbatda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "birgalik nisbatda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "majhul nisbatda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fe’lning shaxs va sonda tuslanganini bildiruvchi qo‘shimchalar qo‘shimchalarning vazifasiga ko‘ra qaysi turiga mansub bo‘ladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "so‘z yasovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "lug‘aviy shakl yasovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "omonim qo‘shimcha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sintaktik shakl yasovchi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "So‘z shaklini, sintaktik shakl yasovchi va so‘z yasovchi qo‘shimchalarni noto‘g‘ri qo‘llashdan kelib chiqadigan xatolar nutqiy xatoning qaysi turida mansub\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "imlo xato\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "morfologik-uslubiy xato\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "lug‘aviy-uslubiy xato\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sintaktik-uslubiy xato\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "So‘z birikmasi va gaplarni tuzishda yo‘l qo‘yilgan xatolar nutqiy xatoning qaysi turiga mansub\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sintaktik-uslubiy xato\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "morfologik-uslubiy xato\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "lug‘aviy-uslubiy xato\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mantiqiy xató\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Majhul nisbat shaklidagi fe’l ishtirok etmagan gapni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Barcha xabarlar o‘z vaqtida jo‘natildi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yerlarga don sepildi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Barcha mahallalarda sumalaklar pishirildi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Rustam shahmat to‘garagiga yozildi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "To‘rtinchi sinfda tildagi uchta grammatik shaxs borligi ‘‘Otlarda egalik qo‘shimchalri’’ mavzusidan tashqari yana qaysi mavzularda o‘tiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "fe’llarning tuslanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kishilik olmoshlari, fe’llarning tuslanishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kishilik olmoshlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "boshqa mavzularda o‘tilmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Matematika darsi turlari\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "An’anaviy, masofaviy, ekskursiyalar, darsdan tashqari ishlar, uy vazifasi, sinfdan tashqari ishlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yangi mavzu bayoni, yangi mavzuni mustahkamlash, BKMlarni nazorat qilish, oʻtgan mavzuni takrorlash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o’quv darslari, ochiqdarslar, ko’rsatmali darslar, musobaqa darslari, oʻyin darslari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yangi mavzuni oʻrganish darsi, BKMlarni mustahkamlash darsi, BKMlarni nazorat qilish darsi, takrorlash-umumlashtirish darsi, aralash dars\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Matematikadan o‘qitish jarayonini tashkil etish vositalaridan ‘‘O‘qitishning texnik vositalari’’ to‘g‘ri sanalgan qatorni belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Turli asboblar: chizgʻich, sirkul, tarozilar, soat modellari, termometr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tasviriy qo‘llanmalar: modellar, rasmlar, plakatlar,\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Televizor, proyektor, kompyuter\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Maxsus qo‘llanmalar: sxema, chizma, jadval, diagrammalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlangʻich sinflarda matematika oʻqitish metodikasining tarkibiy qismlari sanalgan qatorni belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "boshlangʻich ta’limning DTS, oʻquv rejasi, matematika fani dasturi, taqvim reja\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "oʻqitishning maqsadi, mazmuni, metodlari, vositalari va shakllari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "darsliklar, o’qituvchi uchun metodik qo’llanmalar, multimediya vositasi, koʻrgazmali qurollar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "matematika fanining mazmuni, malaka talablari, baholash mezonlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sonlarni hosil qilish, nomlash, yozish va taqqoslashning turli usullari nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Nomerlashning mazmuni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Nomerlashning metodikasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Nomerlashning bosqichlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Nomerlashning tuzilishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Matematikani o‘rganish jarayonida o’quvchilar qanday fikrlash usullaridan foydalanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " induksiya, deduksiya, analogiya, umumlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mantiqiy, algoritmik, kombinatorik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " analiz, sintez, taqqoslash, tasniflash, analogiya, umumlashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " analitik-sintetik, mantiqiy, algoritmik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Matemaikadan o‘qitish jarayonini tashkil etish shakllari\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yangi mavzuni o’rganish darsi, BKMlarni mustahkamlash darsi, BKMlarni nazorat qilish darsi, takrorlash-umumlashtirish darsi, aralash dars\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yangi mavzu bayoni, yangi mavzuni mustahkamlash, BKMlarni nazorat qilish, o‘tgan mavzuni takrorlash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Matemaikadan o‘qitish jarayonini tashkil etish vositalari: darsliklar va oʻquv qoʻllanmalar, koʻrsatmali qoʻllanmalar, oʻqitishning texnik vositalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "An’anaviy, masofaviy, ekskursiyalar, darsdan tashqari ishlar, uy vazifasi, sinfdan tashqari ishlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Matemaikadan o‘qitish jarayonini tashkil etish shakllari\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yangi mavzuni o’rganish darsi, BKMlarni mustahkamlash darsi, BKMlarni nazorat qilish darsi, takrorlash-umumlashtirish darsi, aralash dars\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yangi mavzu bayoni, yangi mavzuni mustahkamlash, BKMlarni nazorat qilish, o‘tgan mavzuni takrorlash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Matemaikadan o‘qitish jarayonini tashkil etish vositalari: darsliklar va oʻquv qoʻllanmalar, koʻrsatmali qoʻllanmalar, oʻqitishning texnik vositalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "An’anaviy, masofaviy, ekskursiyalar, darsdan tashqari ishlar, uy vazifasi, sinfdan tashqari ishlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Al-jabr val-Muqobala’’ kitobining muallifi kim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Abu Rayxon Beruniy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Abu Ali ibn Sino\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Muhammad Muso al-Xorazmiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mirzo Ulug’bek\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nomerlash mavzusining asosiy tushunchalari qaysi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bir xonali, ikki xonali, uch va koʻp xonali sonlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "son, sanoq sistemasi, sonlarni yozish va oqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "son, sanoq, sonlar ketma-ketligi, taqqoslash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "son, raqam, xona, xona birligi, sinf\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlangʻich sinflarda o‘quv jarayonining davomiyligi qanday\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1-4-sinflarda 34 haftani tashkil etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "jami 4 chorak va 34 hafta davom etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1-sinfda 165 soat, 2-4-sinflarda 170 soatdan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1-sinfda 33 hafta, 2-4-sinflarda 34 hafta\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinfda matematika o‘qitish metodlari tasnifiga ko‘ra og‘zaki metodlar qaysi metod turiga kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘quvchi fikr yuritishi yo‘nalishi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘qituvchi boshqaruvi darajasi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘quvchilar bilim olish manbai bo‘yicha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘quvchining mustaqilligi darajasi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlangich sinflarda matematikani o’qitish fanining tadqiqot metodlari:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ogʻzaki, koʻrgazmali, amaliy ish, induksiya, deduksiya, analogiya, reproduktiv, muammoli, qisman izlanuvchilik, tadqiqot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "oʻquvchilar bilim olish manbai bo’yica, oʻquvchi fikr yuritishi yoʻnalishi boʻyicha, oʻqituvchi boshqaruvi darajasi boʻyicha, oʻquvchining mustaqilligi darajasi bo’yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kuzatish, suhbat, anketa olish, tajribalarni umumlashtirish, tajriba-sinov ishlarini oʻtkazish, ularning natijalarini tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "passiv, aktiv, interaktiv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "… metodi bilishning shunday yoʻliki, bunda oʻquvchining fikri birlikdan umumiylikka, xususiy xulosalardan umumiy xulosaga oʻsib boradi. Nuqtalar oʻrniga kerakli soʻzni qoʻying\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "induksiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "deduksiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "analogiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "taqqoslash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nomerlashning qanday turlari bor\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bir xonali, ikki xonali, uch va koʻp xonali sonlarni nomerlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "rim, arab, vavilon, yegipet, grek va slavyan sanoq sistemalarida sonlarni yozish va oqish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ogʻzaki va yozma\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bosma va yozma\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinfda matematika o‘qitish metodlari tasnifiga ko‘ra ‘‘ko’rgazmali’’ metodlar qaysi metod turiga kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘quvchi fikr yuritishi yo‘nalishi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘quvchilar bilim olish manbai bo‘yicha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘qituvchi boshqaruvi darajasi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘quvchining mustaqilligi darajasi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich matematika kursi maqsadga muvofiq tanlangan nimalar tizimi orqali ochib beriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Misollar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Masalalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tenglamalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Interfaol o‘yinlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Matematikadan o‘qitish jarayonini tashkil etishda qoʻllanadigan koʻrsatmali qoʻllanmalarning asosiy guruhlarini aniqlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "darsliklar va o’quv qoʻllanmalar, koʻrsatmali qoʻllanmalar, oʻqitishning texnik vositalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "matematika darsligi, matematika daftari, oʻqituvchi uchun metodik qoʻllanma, darslikning multimedia ilovasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kartochkalar, tarqatma materiallar, plakatlar, geometric shakllar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tabiiy qo’llanmalar: turli predmetlar (tabiiy va yasalgan), tasviriy qo’llanmalar: modellar, rasmlar, plakatlar, maxsus qoʻllanmalar: sxema, chizma, jadval, diagrammalar, turli asboblar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Butunni uning tashkil etuvchi qismlariga ajratishga yoʻnaltirilgan fikrlash (tafakkur) usuli nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "induksiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "analiz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "analogiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinfda matematika o‘qitish metodlari tasnifiga ko‘ra ‘‘amaliy ish’’ metodlari qaysi metod turiga kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘quvchilar bilim olish manbai bo‘yicha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘quvchi fikr yuritishi yo‘nalishi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘qituvchi boshqaruvi darajasi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘quvchining mustaqilligi darajasi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Umumiy qoidalardan xususiy misollarga va konkret qoidalarga oʻtish – bu ... .Nuqtalar oʻrniga kerakli soʻzni qoʻying\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "induksiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "deduksiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "analogiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "100 ichidа nomerlаsh bosqichlаri\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3 tа bosqich 1 - 10, 11 - 20, 21 – 100 gаchа bosqichlаr аjrаtilib o’rgаnilаdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bir bosqichdа 1-100 gаchа bosqichlаr аjrаtilib o’rgаnilаdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ikkitа bosqich 1 - 20, 21 – 100 gаchа bosqichlаr аjrаtilib o’rgаnilаdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ikkitа bosqich 11 - 20, 21 - 100 gаchа bosqichlаr аjrаtilib o’rgаnilаdi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinfda matematika o‘qitish metodlari tasnifiga ko‘ra induksiya metodi qaysi metod turiga kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘quvchilar bilim olish manbai bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘quvchi fikr yuritishi yo‘nalishi bo‘yicha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘qituvchi boshqaruvi darajasi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘quvchining mustaqilligi darajasi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ".... xususiydan xususiyga boradigan, bir konkret faktdan boshqa konkret faktlarga boradigan xulosadir. Nuqtalar oʻrniga kerakli soʻzni qoʻying.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "induksiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "deduksiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "analogiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Koʻp xonаli sonlаr konsentrida raqamlashnig qolgan konsentrlardan farqi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Millionlаr sinfini hosil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sinflаrgа аjrаtish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Olti xonаli sonlаrni o’qish vа yozish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Besh-olti xonаli sonlаrni o’qish vа yozish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshlang‘ich sinfda matematika o‘qitish metodlari tasnifiga ko‘ra deduksiya metodi qaysi metod turiga kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘quvchilar bilim olish manbai bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘quvchi fikr yuritishi yo‘nalishi bo‘yicha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘qituvchi boshqaruvi darajasi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘quvchining mustaqilligi darajasi bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Diktantlar maqsadiga ko’ ra necha xil bo’ ladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2 xil: 1) ta’ limiy diktantlar –- bilim berishga yo’ naltirilgan diktantlar; 2) tekshiruv diktantlari –- o’ quvchilarning bilim, ko’ nikma va malakalarini nazorat qilishga qaratilgan diktantlar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "8 xil: 1) ta’kidiy diktant; 2) o’ z diktant yoki yoddan yozuv diktanti; 3) izohli diktant; 4) saylanma diktant; 5) erkin diktant; 6) rasm diktant; 7) lug’ at diktant; 8) ijodiy diktant.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "5 xil: 1) ta’kidiy diktant; 2) saylanma diktant; 3) erkin diktant; 4) rasm diktant; 5) lug’ at diktant.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "3 xil: 1) tekshiruv diktanti; 2) ta’limiy diktant; 3) lug‘at diktant.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ayrim so‘zlarning nima uchun shunday yozilishini bilib olish uchun imlo qoidasiga asos bo‘lgan qaysi hodisani yaxshi tushunish kerak\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "fonetik hoisani\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "grammatik hodisani\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "imloviy ko‘nikmani\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "so‘zlarning asos va qo‘shimchalarini\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Savodli yozuvning eng zarur omillari qaysilar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "to‘g‘ri eshitish va to‘g‘ri talaffuz qilish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ko‘rish sezgisi va eshitilganni esda saqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ko‘rish uquvi va qo‘l motor harakati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "qo‘l motor harakati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko‘chirib yozuv turlari qaysi qatorda to‘g ‘ri ko‘rsatilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Grammatik-orfografik,qisqartirib,tanlab, ijodiy ko‘chirib yozuvlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "To‘liq, grammatik topshiriqli, saylanma diktant, erkin ko‘chirib yozuv.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Grammatik topshiriqli, tanlab, yoddan va erkin ko‘chirib yozuv.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Grammatik topshiriqli, ijodiy,izohli, erkin ko‘chirib yozuv.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bog’ da yetilgan olma, anor, uzumlar –- hammasidan oldik. Ushbu misoldagi uyushiq va umumlashtiruvchi bo’ laklar gapning qaysi bo’ lagi hisoblanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "to‘ldiruvchi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ega\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "aniqlovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hol\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Imloviy sezgirlikni shakllantiruvchi asosiy mashq turlari qaysi qatorda ko’rsatilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Grammatik tahlil, ko‘chirib yozuv va tekshirish diktanti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Orfografik mashq,topshiriqli ko‘chirib yozuv va diktantlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Diktant, bayon, insho.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Grammatik-orfografik tahlil, ko‘chirib yozuv va diktantlar.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi qaysi gapda belgilash olmoshlari ishtirok etgan. 1.Shu bolalarning ikkovi ham odobli. 2.Bolalarning hammasi darsga qatnashdi. 3.Har bir o‘quvchi o‘ziga xos fe’l-atvorga ega bo‘ladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2,3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1, 2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1, 3\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’limiy diktant turlari qaysi qatorda to‘g‘ri ko‘rsatilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yoddan yozuv, bayon, izohli, rasmli, erkin, ijodiy diktantlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ta’kidiy, insho, izohli, saylanma, erkin, izohli diktantlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "grammatik topshiriqli yozuv, erkin, tekshiruv, ijodiy diktantlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ta’kidiy, yoddan yozuv diktanti, izohli, saylanma, erkin, rasmli, lug‘at, ijodiy diktantlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi diktant turlarida matn ma’lim o‘zgarishlar bilan yoziladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ta’kidiy, rasmli, izohli diktantlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "yoddan, erkin, lug‘at diktantlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ijodiy, rasmli, saylanma diktantlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "saylanma, erkin, ijodiy diktantlarda\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi diktant turidan qoidani amaliyotga tatbiq etish usullarini yaxshi bilib olish maqsadida foydalaniladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ijodiy diktanmdan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ta’kidiy diktantdan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "saylanma diktantdan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "rasmli diktantdan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi diktant turida o‘quvchilarga mazmunni buzmay, gap tuzilishini o‘zgartirish, bir so‘zni unga yaqin ma’noli so‘z bilan almashtirishga ruxsat beriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "saylanma diktantda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "izohli diktantda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ta’kidiy diktantda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "erkin diktantda\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi ta’limiy diktant turida bog‘lanishli matn, gap yozdirilmaydi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "lug’at diktantda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "izohli diktantda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ko‘rsatuv diktantda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bunday diktant yo‘q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tekshirish diktanti uchun tanlangan matnda 2-sinfda so‘zlar soni nechta bo‘lishi kerak\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘quv yilining I yarmida 25-40 ta, o‘quv yilining II yarmida 35-45 ta.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘quv yilining I yarmida 30-35 ta, o‘quv yilining II yarmida 40-45 ta.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘quv yilining I yarmida 25-30 ta, o‘quv yilining II yarmida 40-45 ta.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘quv yilining I yarmida 25-30 ta, o‘quv yilining II yarmida 35-40 ta.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutq o‘stirishdagi yo‘nalishlar qaysilar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1) so‘z ustida ishlash; 2) so‘z birikmasi va gap ustida ishlash; 3) bog‘lanishli nutq ustida ishlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1) so‘z ustida ishlash; 2) so‘z birikmasi ustida ishlash; 3) gap ustida ishlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1) so‘z birikmasi ustida ishlash; 2) gap ustida ishlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1) so‘z birikmasi va gap ustida ishlash; 2) bog‘lanishli nutq ustida ishlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘quvchilar nutqiga qo‘yilgan talablar qaysi qatorda to‘g‘ri keltirilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tushunarli, ifodali, ongli, tez, yozma, og‘zaki.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mazmundor, mantiqiy, yozma, tez, ichki, tashqi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mazmundor, mantiqiy, aniq, til vositalariga boy, tushunarli, ifodali, to‘g‘ri.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mantiqiy, ifodali, mazmundir, ichki, tashqi, og‘zaki, yozma.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Maktabda lug‘at ustida ishlash metodikasi necha yo‘nalishni ko‘zda tutadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3 yo‘nalishni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4 yo‘nalishni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2 yo‘nalishni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yo‘nalishlar mavjud emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Lug’at ustida ishlash yo’nalishlari qaysi qatorda to’g’ri keltirilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o‘quvchilar lug‘atini boyitish, o‘quvchilar lug‘atiga aniqlik kiritish, lug‘atni faollashtirish, o‘quvchilar faol lug‘atini nofaol lug‘atga o‘tkazish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "lug‘atni faolashtirish, o‘quvchilar lug‘atiga aniqlik kiritish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘quvchilar lug‘atini boyitish, o‘quvchilar lug‘atiga aniqlik kiritish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "lug‘atni faollashtirish, o‘quvchilar faol lug‘atini nofaol lug‘atga o‘tkazish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "4-sinfda ikkinchi darajali bo‘lak qaysi bo‘laklarga bog‘lanib kelishi o‘rgatiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ikkinchi darajali bo‘lak egaga, kesimga, ikkinchi darajali bo‘lakka bog‘lanishi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ikkinchi daragali bo‘lak egaga, kesimga bog‘lanib kelishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ikkinchi darajali bo‘lak egaga va ikkinchi darajali bo‘lakka bog‘lanishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ikkinchi darajali bo‘lakni ikkinchi darajali bo‘lakka bog‘lanib kelishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Diktant yozganda o‘quvchilar qaysi sabablarga ko‘ra xato yozishlari mumkin\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Gap yoki undagi biror so‘z ma’nosini tushunmaganlarida.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Imlo va grammatika qoidalarini ongli o‘zlashtirilmaganligi sababli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Imlo qoidalarini bilsa ham,uni unutib qo‘yishi natijasida.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Gap yoki undagi biror so‘z ma’nosini tushunmaganlarida. Imlo va grammatika qoidalarini ongli o‘zlashtirilmaganligi sababli. Imlo qoidalarini bilsa ham,uni unutib qo‘yishi natijasida.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Eshik asta ochildi-yu, Qalandarovning yuzi ko‘rindi. Ushbu misol bog‘langan qo‘shma gapning qaysi turiga mansub\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "biriktiruv munosabatli bog‘langan qo‘shma gap\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "zidlov munosabatli bog‘langan qo‘shma gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ayiruv munosabatli bog‘langan qo‘shma gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bu gap bog‘langan qo‘shma gap emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "400 384 000 sonidagi birliklarning xona nomeri, alohida va umumiy sonini ayting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "9-xona, 0 ta alohida, 400 384 000 ta jami birlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1-xona, 0 ta alohida, 400 384 000 ta jami birlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "9-xona, 0 ta alohida, 400 384 ta jami birlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1-xona, 0 ta alohida, 400 384 ta jami birlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "400 384 000 sonidagi o’nliklarning xona nomeri, alohida va umumiy sonini ayting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "8-xona, 0 ta alohida, 400 384 000 ta jami o‘nlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2-xona, 0 ta alohida, 40 038 400 ta jami o‘nlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "8-xona, 0 ta alohida, 40 038~400 ta jami o‘nlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "2-xona, 0 ta alohida, 4 003 840 ta jami o‘nlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "400 384 000 sonidagi yuzliklarning xona nomeri, alohida va umumiy sonini ayting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "7-xona, 0 ta alohida, 400 384 000 ta jami yuzlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3-xona, 0 ta alohida, 400 384 0 ta jami yuzlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3-xona, 0 ta alohida, 400 384 ta jami yuzlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "7-xona, 0 ta alohida, 400 384 ta jami yuzlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "400 384 000 sonidagi mingliklarning xona nomeri, alohida va umumiy sonini ayting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "7-xona, 0 ta alohida, 400 384 ta jami minglik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3-xona, 4 ta alohida, 384 ta jami minglik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4-xona, 4 ta alohida, 400 384 ta jami minglik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "6-xona, 4 ta alohida, 400 384 ta jami minglik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "400 384 000 sonidagi o’n mingliklarning xona nomeri, alohida va umumiy sonini ayting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "5-xona, 8 ta alohida, 400 384 ta jami o’n minglik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4-xona, 4 ta alohida, 384 ta jami o’n minglik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4-xona, 4 ta alohida, 400 384 ta jami o’n minglik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5-xona, 8 ta alohida, 400 38 ta jami o’n minglik\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "400 384 000 sonidagi yuz mingliklarning xona nomeri, alohida va umumiy sonini ayting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "4-xona, 3 ta alohida, 4003 ta jami yuz minglik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4-xona, 8 ta alohida, 400 38 ta jami yuz minglik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "6-xona, 3 ta alohida, 4003 ta jami yuz minglik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "6-xona, 3 ta alohida, 400 38 ta jami yuz minglik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "400 384 000 sonidagi bir millionlarning xona nomeri, alohida va umumiy sonini ayting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "4-xona, 0 ta alohida, 400 ta jami millionlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3-xona, 0 ta alohida, 400 384 ta jami millionlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "7-xona, 0 ta alohida, 40 ta jami millionlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "7-xona, 0 ta alohida, 400 ta jami millionlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "400 384 000 sonidagi o’n millionlarning xona nomeri, alohida va umumiy sonini ayting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2-xona, 40 ta alohida, 400 ta jami o’n millionlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "8-xona, 0 ta alohida, 40 ta jami o’n millionlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2-xona, 0 ta alohida, 40 ta jami o’n millionlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "8-xona, 0 ta alohida, 400 ta jami o’n millionlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "400 384 000 sonidagi yuz millionlarning xona nomeri, alohida va umumiy sonini ayting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1-xona, 4 ta alohida, 4 ta jami yuz millionlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "9-xona, 4 ta alohida, 40 ta jami yuz millionlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "9-xona, 4 ta alohida, 4 ta jami yuz millionlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1-xona, 4 ta alohida, 400 ta jami yuz millionlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sonlarni raqamlar bilan yozing:\n"
+            },
+            {
+                "type": "text",
+                "content": "37yuzlik 5 birlik; 37 o’nlik, 5 birlik; 32 yuzlik, 7 o’nlik, 5 birlik;\n"
+            },
+            {
+                "type": "text",
+                "content": "37 minglik, 75 o’nlik, 9 birlik\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "375; 375; 3275; 37759.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3705; 375; 3275; 37759.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "37005; 3705; 320075; 370007509.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "37005; 3705; 3275; 37759.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sonlarni taqqoslashga oid topshiriqdan ko’zda tutilgan maqsadni aniqlang ‘‘Berilgan sonlar juftlarini taqqoslang:\n"
+            },
+            {
+                "type": "text",
+                "content": "a) 8 va 28 b) 54 va 854 c) 475 va 6475\n"
+            },
+            {
+                "type": "text",
+                "content": "d)672 va 9672 e) 54 va 8054 j) 400400 va 400\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sonlarni sanoqda kelish tartibiga qarab taqqoslashga o‘rgatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sonlarni xona birliklari soniga qarab taqqoslashga o‘rgatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sonlarni xonalari soniga qarab taqqoslashga o‘rgatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sonlarni o‘nli tarkibiga qarab taqqoslashga o‘rgatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Masala yechimining ifodasini ko’rsating: ’’Oshxonaga 580 kg kartoshka keltirildi. Agar bir kunda 135 kg dan ishlatilsa, 3 kundan keyin necha kilogramm kartoshka qoladi?’’\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "(580-135)·3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "(580-135):3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "580-135·3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "580-3·135\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Masala yechimining ifodasini ko’rsating: ’’Tikuv ustaxonasida 42 m atlasdan 7 ta bir xil ko‘ylak tikildi. 10 ta shunday ko‘ylakka necha metr atlas kerak bo’ladi’’\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "42·7·10\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "(42-7)·10\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "42:7·10\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "42:7:10\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Masala yechimining ifodasini ko’rsating: ’’32 litr sharbat 8 ta bidonga teng qilib quyildi. 40 litr sharbatni quyish uchun shunday bidondan nechta kerak?’’\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "32·8·40\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "40:(32:8)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "40:(32·8)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "40:32:8\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Barcha raqamlari toq va turlicha bo‘lgan eng katta va eng kichik uch xonali sonni toping\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "975, 103\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "999, 100\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "987, 105\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "973, 107\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uch xonali sonlarni nomerlashga qanday ko‘rgazmali vositalardan foydalaniladi?\n"
+            },
+            {
+                "type": "text",
+                "content": "Predmetli modellardan fofdalanish maqsadga muvofiqmi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sanoq cho‘plari, abak. Predmetli modellardan foydalanish maqsadga muvofiq.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sanoq cho‘plari, abak. Predmetli modellardan foydalanish maqsadga muvofiq emas.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sanoq cho‘plari, abak, predmetlarning 10 ta va 100 talik guruhlari rasmi. Predmetli modellardan fofdalanish maqsadga muvofiq.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sanoq cho‘plari, abak, predmetlarning 10 ta va 100 talik guruhlari rasmi. Predmetli modellardan foydalanish maqsadga muvofiq emas.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bilimlаr, mаlаkаlаr vа ko’nikmаlаrni mustаhkаmlаsh dаrslаrining tаrkibini аniqlаng\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yangi mavzu bayoni, yangi mavzuni mustahkamlash, BKMlarni nazorat qilish va baholash, o‘tgan mavzuni takrorlash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " dаrs mаqsаdini qo’yish, uy vаzifаni tеshirish vа o‘tgan mаtеriаlni mаshqlаr, аmаliy ishlаr vа mustаqil ishlаr tаrzidа mustаhkаmlаsh. Dаrsni yakunlаsh vа uygа vаzifаni bеrish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o‘tgan mavzuni takrorlash, mavzuni mustahkamlash, BKMlarni nazorat qilish va baholash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "o‘tgan mavzuni takrorlash, BKMlarni nazorat qilish va baholash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yangi mavzuni o’rganish darsining tаrkibiy qismlarini аniqlаng\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "dаrs mаqsаdini qo’yish, uy vаzifаni tеshirish vа o’rgаnilgаn mаtеriаlni mаshqlаr, аmаliy ishlаr vа mustаqil ishlаr tаrzidа mustаhkаmlаsh. Dаrsni yakunlаsh vа uygа vаzifаni bеrish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "darsni tashkil qilish, yangi mavzu bayoni, yangi mavzuni mustahkamlash, uyga vazifa berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "darsni tashkil qilish, yangi mavzu bayoni, yangi mavzuni mustahkamlash, BKMlarni nazorat qilish va baholash, o‘tgan mavzuni takrorlash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "darsni tashkil qilish, yangi mavzu bayoni, yangi mavzuni mustahkamlash, BKMlarni nazorat qilish va baholash, o‘tgan mavzuni takrorlash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aralash darsning tаrkibini аniqlаng\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yangi mavzu bayoni, yangi mavzuni mustahkamlash, BKMlarni nazorat qilish va baholash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dаrs mаqsаdini qo’yish, uy vаzifаni tеshirish vа o‘rgаnilgаn mаtеriаlni mаshqlаr, аmаliy ishlаr vа mustаqil ishlаr tаrzidа mustаhkаmlаsh. Dаrsni yakunlаsh vа uygа vаzifаni bеrish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "darsni tashkil qilish, o‘tgan mavzuni takrorlash, yangi mavzu bayoni, yangi mavzuni mustahkamlash, BKMlarni nazorat qilish va baholash, uyga vazifa berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "BKMlarni nazorat qilish va baholash, o‘tgan mavzuni takrorlash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "BKMlarni nazorat qilish darsining tаrkibini аniqlаng\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yangi mavzu bayoni, yangi mavzuni mustahkamlash, BKMlarni nazorat qilish va baholash, o‘tgan mavzuni takrorlash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dаrs mаqsаdini qo’yish, uy vаzifаni tеshirish vа o’rgаnilgаn mаtеriаlni mаshqlаr, аmаliy ishlаr vа mustаqil ishlаr tаrzidа mustаhkаmlаsh. Dаrsni yakunlаsh vа uygа vаzifаni bеrish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘tgan mavzuni takrorlash, mavzuni mustahkamlash, BKMlarni nazorat qilish va baholash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "darsni tashkil qilish, BKMlarni nazorat qilish va baholash, darsni yakunlash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 241,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Takrorlash-umumlashtirish darsining tаrkibini аniqlаng\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yangi mavzu bayoni, yangi mavzuni mustahkamlash, BKMlarni nazorat qilish va baholash, o‘tgan mavzuni takrorlash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dаrs mаqsаdini qo’yish, uy vаzifаni tеshirish vа o’rgаnilgаn mаtеriаlni mаshqlаr, аmаliy ishlаr vа mustаqil ishlаr tаrzidа mustаhkаmlаsh. Dаrsni yakunlаsh vа uygа vаzifаni bеrish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " darsni tashkil qilish, o’tilgan mavzularni takrorlash, BKMlarni nazorat qilish va baholash, uyga vazifa berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " BKMlarni nazorat qilish va baholash, uyga vazifa berish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

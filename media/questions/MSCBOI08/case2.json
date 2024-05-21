@@ -1,0 +1,5776 @@
+[
+    {
+        "id": 111,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое гомогенизатор?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Насос высокого давления, из которого получают дисперсные эмульсии в пищевой промышленности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Насос низкого давления, из которого получают дисперсные эмульсии в пищевой промышленности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Испаритель низкого давления, из которого получают дисперсные эмульсии в пищевой промышленности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Теплообменник низкого давления, из которого получают дисперсные эмульсии в пищевой\n"
+            },
+            {
+                "type": "text",
+                "content": "промышленности\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое гранулирование?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Придание веществу формы гранул мелких кусочков\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Упаковка продукта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Смешивание веществ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Упаковка вещества\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "На каком аппарате осуществляется передача неоднородных систем?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Фильтры\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Гидроциклоны\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Искатели\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Аппараты вакуумного испарения\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое биофильтр?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Установка биологической очистки сточных вод\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Биологический фильтр\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Установка для очистки твердых тел\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "закон движения тел\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "В отношении чего говорят, что это инертный субстрат?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "К биофильтрам\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "К реакторам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "К однородным реакторам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Насос\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая ось вращения у механических аэраторов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Вертикальный и горизонтальный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Параллельный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Горизонтальный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Вертикальный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие биологические процессы используются при очистке сточных вод?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Аэробный против анаэробного\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Аэробный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Анаэробный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Аэробный, анаэробный и биологический\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Методы стерилизации биореакторов включают:..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ионизирующее излучение, действие химических реагентов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "воздействие ультразвука, ультрафиолетовое излучение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "действие ионизирующих реагентов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ионизированное излучение, химическое ультрафиолетовое излучение\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "При какой температуре происходит пастеризация?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "80-90\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "100-120\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "более 100\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "150-160\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "чему учит гидродинамика ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Закон движения жидкостей и газов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Закон движения жидкости\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Закон движения ошибки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "закон движения тел\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Подвеска - что?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " различные гендерные системы, состоящие из жидких и твердых частиц.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "различные гендерные системы, в которых жидкость состоит из частиц\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Системы разного пола, состоящие из газовых систем\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "смеси, состоящие из дисперсионных фаз\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "На сколько типов делятся биохимические реакторы ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Периодическая работа, непрерывная, полупостоянная\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Реакторы непрерывного действия\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Реакторы с полупостоянной работой\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Реакторы периодического действия\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "К какому методу относится акустический метод пенообразования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "физический\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "физико-химический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Химический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Простой\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Лабораторное ферментационное оборудование должно обладать основными параметрами процесса; они:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " измерительный блок, регулировка, контроль\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "отрегулировать\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "контроль,\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "размер блока\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Вещества, демонстрирующие широкие возможности биотехнологии:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Биопрепараты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Биоаппараты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Биомасса\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Биосинтез\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как происходит теплообмен в биохимических реакторах ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Непрерывный, многоступенчатый\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Многоступенчатый\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Столбец\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Непрерывный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "К какому способу очистки относятся восстановление, окисление, нейтрализация?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Химический\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Термический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Физический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Теплофизический\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Каково среднее количество бактерий и спор в 1 м3 воздуха?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1000 -1500\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "150-200\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "50 – 100\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "500\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой процесс называется извлечением?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Процесс извлечения одного или нескольких компонентов из состава раствора или твердых тел с помощью специальной жидкости (растворителя) в системах’’ жидкость – жидкость\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Процесс извлечения одного или нескольких компонентов из раствора или твердых тел с помощью специальной жидкости (растворителя) в системах’’ твердое тело - жидкость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Процесс извлечения одного или нескольких компонентов из состава раствора или твердого тела с помощью специальной жидкости (растворителя) в системах \" газ-жидкость\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "процесс экстракции с использованием специальной жидкости (растворителя)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какое химическое вещество образуется в анаэробных процессах?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Метан\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Этан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Пропан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Бутан\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Типы центрифуги в соответствии с методами разделения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Фильтрующий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Искатель\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Раковина\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Фильтратор\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Через какую фазу получает энергию реактор с барботером?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Через газовую фазу\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Через жидкую фазу\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Через комбинированную фазу\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "через смешанную фазу\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Типы механической вспенивание?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Роторный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Циклонический, Циркуляционный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Циклонический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Циркуляционный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сколько видов пены по физическому состоянию?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Два типа, динамический и структурный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Однородный, структурный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Однородный, динамичный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Три типа: динамический, структурный и смешанный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Через какую фазу реактор эрлифта получает энергию?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Через газовую фазу\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Через жидкую фазу\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Через комбинированную фазу\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "через смешанную фазу\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое газлифт?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Подъемное устройство за счет энергии жидкостей или воздуха\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Подъемное устройство за счет энергии жидкостей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Подъемное устройство за счет энергии воздуха\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Газовое устройство\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что требует конструктивного обмена?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " энергия\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "мощность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "плотность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Вязкость\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Перечислите физические процессы, происходящие в биореакторах.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Гидромеханические, тепловые и массообменные процессы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Тепломассообменные процессы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Гидромеханический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Массообмен и гидромеханический\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "На какой тип реакторов в целом делятся?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Однородные реакторы и реакторы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Реакторы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Идеальный и реальный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Однородные ректоры\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Эмульсия-что?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " система смесей, состоящая из одной нерастворимой, дисперсной и дисперсионной фаз в другой\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "система смесей, состоящая из одной растворимой, дисперсной и дисперсионной фаз в другой.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "смеси, состоящие из дисперсионных фаз\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Дисперсные системы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Мембрана – что?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "это полупроницаемый барьер, способный в одностороннем порядке пропускать один или несколько компонентов из жидкой или газовой смеси\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "полупроницаемый барьер\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " препятствие\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "полупроводниковый барьер с односторонней пропускной способностью нескольких компонентов.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Совпадает ли время прибытия реагента со временем реакции в реакторах непрерывного действия?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Нет, не подходит\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Да, это правильно\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "иногда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "всегда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Реакторы, которые обеспечивают энергию через газовую фазу, включают ферментеры из рода?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "эрлифт, барботер, газлифт\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Барботер\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Газлифтный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Эрлифтный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы используются при химической очистке?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Восстановление, окисление, нейтрализация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Возврат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Окисление\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Нейтрализовать\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы используются при термической очистке?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Высокая температура вовлечена\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Окисление\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Возврат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "при низкой температуре\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Назовите функции циклона...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Позволяет удалять пыль в центробежном силовом поле\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Позволяет удалить пыль с поля\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "позволяет очищать пар в поле\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "позволяет очищать паром\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется метод очистки при наличии высокочастотной температуры?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " термическая очистка\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Очистка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Химическая очистка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Частотная очистка\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Через какие этапы проходит вся информация, получаемая от исследуемого объекта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Гипотеза исследователя в текстовой форме, логико-математическая модель биотехнологической системы микробиологического синтеза, системная схема процесса (структурно-функциональная портретная система), использование моделей в управлении биотехнологическими процессами\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Логико-математическая модель биотехнологической системы микробиологического синтеза.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Систематическая схема процесса (структурно-функциональная портретная система), использование моделей в управлении биотехнологическими процессами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Гипотеза исследователя в текстовой форме.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что называется герметизацией ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Обеспечение того, чтобы жидкость и газ не просачивались через стенки и стыки жидкостных и газовых аппаратов, машин, сооружений или резервуаров.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Обеспечение того, чтобы жидкость не проходила через стенки и стыки жидкостных аппаратов, машин, конструкций или контейнеров.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Обеспечение того, чтобы газ не просачивался через стены и стыки газовых аппаратов, машин, сооружений или резервуаров.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Предотвращение утечки газа через стенки и стыки резервуаров\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой метод очистки включает аэробную и анаэробную очистку сточных вод?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Биохимический\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Физико-химический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Термический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Механический\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "На сколько типов делятся центрифуги в соответствии с методами разделения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Фильтрующий, разрыхлитель\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Искатель\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Раковина\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Фильтратор\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какое содержание углеводов в дрожжах?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "29%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "10%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "26%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "15%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При какой температуре проводят стерилизацию?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "При температуре 140\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "При температуре 80\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "При температуре 120\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "При температуре 70\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "По физическому состоянию пены бывает?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Два типа, динамический и структурный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Однородный, структурный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Однородный, динамичный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Три типа: динамический, структурный и смешанный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какова цель смешивания в ферментерах?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Уравнение концентрации веществ в объеме среды.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "усиление теплопередачи в термостатируемую среду\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "дисперсия пузырьков газа и капель жидкости\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "интенсификация массообмена газо-жидкостей и жидкостных элементов;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какое оборудование входит в состав конструктивных элементов реакторов для передачи энергии комбинированным способом 3\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " диспергирование, гомогенизация, смешивание\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Гомогенизация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Смешивание\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Диспергирование\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как эрлифт работает каждая кювета ферментера?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " к погруженному эрлифту\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "к дымящемуся эрлифту\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "к охлажденному эрлифту\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "к встроенному эрлифту\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "На сколько групп делятся газодисперсионные механические ферментеры и какие они бывают?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2: свободный и конический\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2: тонкий и циркуляционный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2: свободный и циркуляционный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "3: тонкая коническая и свободная\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "В ферментерах с эрлифтом контактная поверхность фаз образуется при введении газа через газораспределительные структуры в слой жидкости в чем?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " в циркуляции\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "В распределении\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "В центрифуге\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "В Газе\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Каким образом дополнительная энергия, затрачиваемая на развитие межфазной поверхности, влияет на пену?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " гидродинамический и механический\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "физико-механический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "химический и гидродинамический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "комбинированные и флотационные\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что называется пеной?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " системы, состоящие из жидкости и распределенных в ней пузырьков газа\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "различные гендерные системы, состоящие из жидких частиц.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "системы разного пола, состоящие из газовых систем\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "смеси, состоящие из дисперсионных фаз\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сколько существует физических методов тушения пены и какие они бывают?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Гидроаэродинамический, механический, акустический\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Гидроаэродинамический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Акустический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Механический\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При механическом способе пенообразования...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " пузырьки частично или полностью разрушаются механической силой\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "пузырьки частично или полностью удаляются с помощью электричества\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "пузырьки частично или полностью удаляются с помощью газа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "пузыри частично или полностью удаляются вручную\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При электрическом способе пенообразования...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " пузыри частично или полностью устраняются с помощью электричества\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "пузырьки частично или полностью разрушаются механической силой\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "пузырьки частично или полностью удаляются с помощью газа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "пузыри частично или полностью удаляются вручную\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой метод используется для сгущения дрожжевых клеток в процессе производства кормового белка ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " флотация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "испарение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Нагревать\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Отопление\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "На какие группы делятся приборы термического концентрирования растворов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " К 3 группам (испарительная, морозильная и кристаллогидратная)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4 группы (испарительная, морозильная, кристаллогидратная, концентрирующая)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "5 групп (испарительная, нагревательная, морозильная, кристаллогидратная, концентрирующая)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "2 группы (испаритель и морозильная камера)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое испарительный аппарат?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Устройство, осуществляющее процесс испарения жидкостей\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Устройство, осуществляющее процесс испарения газов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Установка для очистки твердых тел\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Теплообменник\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "С помощью чего производится разделение подвесок?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " искатели, гидроциклоны, фильтры\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Гидроциклоны\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Фильтры\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Искатели\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "На какие типы делятся сушилки?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " контактный, конвективный, радиационный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Конвективный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Радиационный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Контактный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "На сколько типов делится сушка в зависимости от способа термического воздействия на твердый влажный материал?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Конвективная, контактная, радиационная, диэлектрическая, сублимация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Конвективно-Контактный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Радиационная Диэлектрическая Сублимация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Диэлектрическая Сублимация\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что называется конвективной сушкой ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "При этом влажный материал и сушильная сетка взаимодействуют напрямую. Обычно в качестве сушильного веера используется нагретый воздух или дымовые газы;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Между теплоносителем и влажным материалом будет перегородка. Тепло передается материалу через эту стену;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Тепло не передается влажному материалу инфракрасными лучами;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Тепло передается влажному материалу инфракрасными лучами;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что называется контактной сушкой ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Между теплоносителем и влажным материалом будет перегородка. Тепло передается материалу через эту стену;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "При этом влажный материал и сушильная сетка взаимодействуют напрямую. Обычно в качестве сушильного веера используется нагретый воздух или дымовые газы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Влажный материал передается в поле тока высокой частоты;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Тепло передается влажному материалу инфракрасными лучами;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что называется радиационной сушкой ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Тепло передается влажному материалу инфракрасными лучами;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Между теплоносителем и влажным материалом будет перегородка. Тепло передается материалу через эту стену;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "При этом влажный материал и сушильная сетка взаимодействуют напрямую. Обычно в качестве сушильного веера используется нагретый воздух или дымовые газы;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Влажный материал передается в поле тока высокой частоты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что называется диэлектрической сушкой ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Влажный материал передается в поле тока высокой частоты;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Между теплоносителем и влажным материалом будет перегородка. Тепло передается материалу через эту стену;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Тепло передается влажному материалу инфракрасными лучами;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "При этом влажный материал и сушильная сетка взаимодействуют напрямую. Обычно в качестве сушильного веера используется нагретый воздух или дымовые газы;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что называется сублимационной сушкой ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Влажный материал сушат в замороженном состоянии под высоким вакуумом.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Между теплоносителем и влажным материалом будет перегородка. Тепло передается материалу через эту стену;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Тепло передается влажному материалу инфракрасными лучами;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Влажный материал передается в поле тока высокой частоты;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сколько °С составляет температура рассеивателей света?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "700-2200\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "500-1000\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2200-3000\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "100-500\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое центрифугирование?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Это процесс разделения жидких неоднородных систем в центробежном силовом поле\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Это процесс разделения жидких однородных систем в центробежном силовом поле\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Это процесс разделения систем, которые являются жидкими однородными в поле центростремительных сил\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Это процесс разделения систем, которые строго однородны в силовом поле, стремящемся к центру\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы используются при механической очистке?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Центрифугирование,осаждение, фильтрация,, плавание, настойка.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Центрифугирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Осаждение и фильтрация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Плавание и поиск\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При химической очистке используются какие методы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "нейтрализация, окисление, восстановление\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Возврат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Окисление\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Нейтрализовать\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Функция циклона...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Позволяет удалять пыль в центробежном силовом поле.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Позволяет удалить пыль с поля\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "позволяет очищать пар в поле\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "позволяет очищать паром\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Метод очистки при наличии высокочастотной температуры?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "термическая очистка\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "физическая очистка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Химическая очистка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Частотная очистка\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Позволяет удалять пыль в центробежном силовом поле?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Циклон\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Уловитель пыли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Площадь\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сушилка, Площадь\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какое оборудование используется в микробиологической промышленности для подачи нейтральных и химических жидкостей?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " насосы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "конвейеры\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "лифты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "монтеджю\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое габариты?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Внешний граничный вид объектных конструкций и устройств\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Внутреннее граничное изображение объектных конструкций и устройств\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Состояние газов, заключенных в сосуд, давление которых намного ниже атмосферного\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Установка для очистки твердых тел\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое деаэратор?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Аппарат, удаляющий растворенный в воде кислород и углекислый газ из воды\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Обезвоживание продукта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Смешивание веществ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Придание веществу формы крошечных гранул\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Лопаточные насосы...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "центробежные, осевые, диагональные насосы, принцип работы которых основан на перемещении жидкости под действием центробежной силы, возникающей при вращении рабочего колеса с лопастями.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "центробежные, осевые, диагональные насосы, принцип работы которых основан на перемещении жидкости под действием центробежной силы, возникающей при вращении рабочего колеса с лопастями\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "центробежный, основанный на перемещении жидкости.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "центробежный, основанный на перемещении газа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сколько способов используют в биореакторах для удаления образовавшейся пены из реакционного аппарата?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Физический, физико-химический, технологический, комбинированный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Физический, физико-химический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "технологический, комбинированный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Химический\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие типы насосов не относятся к категории вентиляторных насосов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "раковина\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "вихревой\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "центробежная сила\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "прямолинейный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "К какому типу насосов относятся поршневые, шестеренчатые и диафрагменные насосы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "к объемному насосу\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "К плунжерному насосу\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "К пневматическому насосу\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Лопастной насос\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие типы насосов не являются примерами поплавковых насосов\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "отстойниковый\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "вихревой\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "центробежный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "шестерни\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "На какие виды грузоподъемных машин делятся?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ленточный, скребковый, винтовой конвейер\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Лента, плунжер, скребок\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Объемный, шестеренчатый, ленточный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Лопата, винтовой конвейер, диафрагма\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие типы насосов относятся к объемным насосам?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Поршневой, шестеренный и диафрагменный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Поршневой\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Шестерни\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Диафрагма\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Каков принцип работы фильтров шебена?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Сточные воды всасываются через фильтр и собираются в осушителе, а затем удаляются.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сточные воды проходят через фильтр с одной стороны.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Сточные воды собираются в осушителе, а затем фильтруются\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сточные воды проходят через фильтр с двух сторон.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называются биохимические реакторы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ферментер\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Теплообменник\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Испарительный аппарат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Пастеризатор\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как происходит процесс в реакторах циклического действия?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Процессы во всех отдельных разделах происходят в разное время.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Процессы во всех отдельных разделах происходят одновременно\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Простой\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "сложный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сколько типов ферментов, передающих энергию через газовую фазу?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " тип колонны, трубчатый тип, объемный тип\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "трубчатый тип\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "объемный тип\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "тип столбца\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сколько типов ферментов, передающих энергию через жидкую фазу?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " тип колонны, трубчатый тип, объемный тип\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "трубчатый тип\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "объемный тип\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "тип столбца\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сколько типов ферментов, обеспечивающих энергию через комбинированную фазу?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Объемный, объемный тип с миксерным устройством , Колонный тип\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Объемный тип с миксерным устройством\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Тип столбца\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Объемный тип\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Использование мембранных биореакторов:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Очистка сточных вод в обрабатывающей промышленности, очистка сточных вод в масложировой и молочной промышленности, очистка сточных вод в текстильной промышленности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Очистка воды в масложировой и молочной промышленности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Очистка сточных вод текстильной промышленности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Очистка сточных вод в обрабатывающей промышленности\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "По конструкции биохимические реакторы подразделяются на:..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Реакторы контейнерного типа, колонного типа, трубчатого типа, пленочного типа, мембранные и воздушно-сжатые слоистые реакторы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "реакторы трубчатого типа, пленочного типа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Мембранные и воздушно-сжатые слоистые реакторы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "реакторы контейнерного типа, колонного типа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "На сколько типов делится оборудование для механической вспенивания? Назовите их.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2, с Ротором и циклоном\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3, роторный, циклонический и эффективный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3, роторный, циклонический и смешанный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1 роторный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Физический метод пенообразования делится на несколько методов? Они есть...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " акустический метод пенообразования, тепловой метод пенообразования, электрический метод пенообразования\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Тепловой метод пенообразования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Электрический метод пенообразования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Акустический метод пенообразования\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При получении чего происходит процесс микробиологического биосинтеза?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Микробная биомасса (дрожжи, микроводоросли, белок, витаминный концентрат, биохимический продукт со сложной структурой (антибиотики, витамины, органические кислоты, ферменты, спирты и др.) с использованием микроорганизмов и их компонентов;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Биохимический продукт со сложной структурой (антибиотики, витамины, органические кислоты, ферменты, спирты и т. д.)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Химические продукты с использованием микроорганизмов и их компонентов;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Микробная биомасса(дрожжи, микроводоросли, оксил, витаминный концентрат (ОВК) и т. д.);\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что позволяет удалять пыль в центробежном силовом поле?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Циклон\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Уловитель пыли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Площадь\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сушилка, Уловитель пыли\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Насколько разнообразен процесс смешивания в биореакторах?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " механический и пневматический\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "механический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "пневматический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "физико-химический\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Процесс смешивания в ферментерах является основой интенсификации массопоглощения, на какие причины опирается изменение кислорода из газовой фазы в жидкую?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " обеспечивает дополнительную диспергацию газа в крошечные пузырьки, расширяя верхнюю часть фазных контактов; обеспечивает время, необходимое пузырькам газа для достижения жидкой фазы, и время контакта фаз;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "обеспечивает время, необходимое пузырькам газа для достижения жидкой фазы, и время контакта фаз;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "уменьшает размер столбца ячеек и снижает эффективную вязкость среды;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "обеспечивает дополнительную диспергацию газа в крошечные пузырьки, расширяя верхнюю часть фазных контактов;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "На сколько типов делится механическая вспенивание ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Роторный и циклонный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Роторный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Циклонический\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Циркуляционный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "На сколько групп они делятся в зависимости от процесса, происходящего в ферментерах?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " аэробный, анаэробный, периодический и непрерывный, асептический и нестерильный\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "периодический и непрерывный\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "асептический против нестерильного\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "аэробный, анаэробный\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Реакторы, работающие по гидродинамическому режиму, делятся на три группы? Перечислите их.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " реакторы, работающие в режиме идеального сжатия, идеального перемешивания, промежуточного гидродинамического режима\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "идеальное смешивание\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Реакторы, работающие в промежуточном гидродинамическом режиме\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "идеальное сжатие.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ультрафильтрация – что это?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Молекулы-это процесс разделения растворенных веществ и коллоидных частиц, диаметр которых более чем в 10 раз превышает диаметр молекул растворителя\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Процесс разделения частиц, диаметр молекул которых более чем в 10 раз превышает диаметр молекул растворителя\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Процесс разделения коллоидных частиц, диаметр молекул которых более чем в 10 раз превышает диаметр молекул растворителя\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Процесс разделения растворенных веществ с диаметром молекул более чем в 10 раз больше диаметра молекул растворителя\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "На что следует обратить внимание при культивировании, чтобы были оптимальные условия?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Температура, pH среды, давление\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "pH среды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Давление\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Температура\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Перемешивание –- это процесс приведения:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " неоднородной системы к гомогенному виду за счет тесного механического контакта компонентов этой системы;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " однородной системы к гетерогенному виду под действием движущих сил механического характера;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " неоднородной системы к гомогенному виду за счет тепловой конвекции в этой системе;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " неоднородной системы в гетерогенное состояние при тепловом воздействии на эту систему;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Эффективность перемешивания оценивается:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " гомогенностью смеси;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " однородностью смеси;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " вязкостью смеси;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " критерием Эйлера;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сепарирование –- это процесс:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " гравитационного осаждения;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " центробежного осаждения;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " осаждения частиц на мембранах;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " осмотическое осаждение;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Фильтрование –- это процесс:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " гравитационного осаждения;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " центробежного осаждения;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " осаждения частиц на мембранах;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " осмотическое осаждение;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Движущей силой процессов мембранной технологии является:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " разность давлений на фильтре;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " геометрическое подобие размеров отделяемых частиц и пор фильтра;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " коэффициент сопротивления фильтра;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " разность плотностей компонентов системы;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Процесс экстракции это:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " избирательное извлечение одного или нескольких растворимых\n"
+            },
+            {
+                "type": "text",
+                "content": "компонентов из растворов или твердых тел с помощью жидкого\n"
+            },
+            {
+                "type": "text",
+                "content": "растворителя;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " извлечение нескольких нерастворимых компонентов из растворов или\n"
+            },
+            {
+                "type": "text",
+                "content": "твердых тел с помощью жидкого растворителя;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " избирательное извлечение одного или нескольких растворимых\n"
+            },
+            {
+                "type": "text",
+                "content": "компонентов из твердых тел с помощью жидкого растворителя;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " избирательное извлечение одного или нескольких растворимых\n"
+            },
+            {
+                "type": "text",
+                "content": "компонентов из растворов с помощью жидкого растворителя;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кристаллизацией называют:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " процесс выделения твердого вещества из расплава или раствора;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " процесс выделения газа из расплава или раствора;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " процесс выделения жидкости из раствора;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " процесс выделения твердого вещества из смеси веществ;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Прессование –- процесс обработки материалов\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " распределением его в необходимую форму\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " давлением, производимый с целью увеличения плотности, изменения формы, перераспределения фаз материала, для измельчения механических или иных его свойств\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " дроблением для измельчения материала до необходимых размеров\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " смешиванием нескольких видов материалов для придания определенной лекарственной формы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сущность процесса гранулирования в псевдоожиженном слое состоит\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " В отсутствии опудривания гранул\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " в смешивании порошкообразных ингредиентов во взвешенном слое с последующим их увлажнением гранулирующей жидкостью при продолжающемся перемешивании\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " в использовании дражировочного котла\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " в отсутствии необходимости использования склеивающих веществ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Принципом процесса эмульгирования является\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " смешивание жидкости с эмульгатором\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " устойчивое распределение твердых частиц в жидкости в виде более или менее устойчивой системы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " устойчивое распределение одной жидкости в другой в виде более или менее устойчивых частиц\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " механическое перемешивание жидкостей\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "При измельчении материала в открытом цикле\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " материал проходит через мельницу один раз;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " процесс происходит без анализатора;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " процесс происходит без участия мельницы;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " основная часть материала проходит через мельницу многократно\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Угловая скорость центрифугирования характеризует\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " угол наклона центрифуги;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " вращающееся тело в целом в случае, если угол поворота всех точек одинаков;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " угол вращения тела;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " скорость движения какой-либо точки, расположенной на данной окружности.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Окружная скорость центрифугирования характеризует\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " величину отношения центрального угла поворота равномерно вращающегося тела ко времени, в период которого был совершен поворот;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " скорость движения какой-либо точки, расположенной на данной окружности;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " скорость движения какой-либо точки, в период которого был совершен поворот;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " скорость вращающегося тела зависит и от радиуса вращения и числа оборотов в минуту.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "В пищевом производстве препаратов растительного происхождения отделение жидкости из твердых материалов может проводиться\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " эмульгированием\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " прессованием материала\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " настаиванием\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " просеиванием\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Просеивание (грохочение) –- это процесс\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " разделения смеси частиц различных размеров посредством сит на две или более группы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " проверки соответствия отверстия сит установленным нормативам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " смешивания частиц одинакового размера посредством сит\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " измельчения частиц с помощью сит\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "При проведении процесса центрифугирования происходит\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " разделение компонентов смеси путем отстаивания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " разделение компонентов смеси под действием силы тяжести\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " разделение компонентов смеси под действием фильтрации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " разделение компонентов смеси под действием центробежной силы\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Переход одного или нескольких компонентов из одной фазы в другую через поверхность их раздела путем диффузии характеризует\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " гидромеханические процессы;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " механические процессы;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " массообъемные процессы;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " тепловые процессы.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "При производстве ферментов, антибиотиков, иммунобиологических препаратов при удалении влаги из замороженных образцов в условиях вакуума используется:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " лиофильная сушка\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " распылительная сушка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " камерная сушилка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " барабанный кристаллизатор\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Спецификация тех технологического оборудования и аппартурная схема производства биотехнологических продуктов должны быть включены\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " в руководство по качеству биотехнологического предприятия\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " в нормативную документацию по контролю качества\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " в лицензию на производство био-продукта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " в технологический регламент на производство био-продукта\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Рамный фильтр-пресс представляет собой аппарат, состоящий\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " из нескольких чередующихся плит и рам с фильтрующими перегородками\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " из нескольких патронных фильтров, собранных в одном корпусе\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " из фильтровальных перегородок, осадок на которых осушается методом отжима под прессом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " из фильтровальных материалов, изготовленных методом прессования\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Основной критерий для отбора продуцента\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "быстрое накопление биомассы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "дешевизна\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "способность синтезировать целевой продукт\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "устойчивость к посторонней микрофлоре\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Для подавления нежелательной ферментации при производстве вина и этилового спирта используют\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "углекислый газ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "аммиак\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "сернистый газ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "метан\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Для перевода дрожжей с брожения на дыхание при спиртовом брожении используют\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "углекислый газ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "аммиак\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "сернистый газ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "воздух\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Для получения мелкой пены при бутылировании пива используют\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "углекислый газ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "аммиак\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "смесь углекислого газа и азота\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "воздух\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    }
+]

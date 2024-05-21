@@ -1,0 +1,5752 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Investitsiya loyihasi nima?\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning aktsiyalariga sarmoya kiritishdan foyda olishga qaratilgan loyiha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muayyan maqsadlarga erishish uchun investitsiyalarni amalga oshirish bilan bog’ liq loyiha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyalashtirishsiz yangi korxona yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tovarlar va xizmatlarni sotish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Investitsiya loyihasini moliyaviy baholash nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Fond bozorida kompaniya aksiyalarining qiymatini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kutilayotgan moliyaviy natijalarni hisoblash va loyiha samaradorligini baholash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Raqobatchilar va loyihaning bozor ulushini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha uchun buxgalteriya hisobi va soliq hisobotini tuzish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasining maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Korxonaning bozor ulushini oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investitsiyalardan foyda olish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish quvvatlarini kengaytirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Buxgalteriya hisobini optimallashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasini rejalashtirish bosqichining asosiy maqsadi nimadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning maqsadlari va kutilayotgan natijalarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Marketing tadqiqotlarini o’ tkazish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Biznes-rejani tayyorlash va kutilayotgan foydani hisoblash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Resurslarni taqsimlash va mas’ ul shaxslarni tayinlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish investitsiya loyihasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yangi dasturiy ta’ minotni ishlab chiqishni o’ z ichiga olgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish korxonalarini qurish yoki modernizatsiya qilishga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sotish hajmini oshirish va sotish bozorini kengaytirishga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Fond bozorida moliyaviy operatsiyalar bilan bog’ liq loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ijtimoiy investitsiya loyihasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy infratuzilmani rivojlantirish va odamlarning turmush sharoitini yaxshilashga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yangi texnologiyalar va innovatsiyalarni rivojlantirish bilan bog’ liq loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Foyda va moliyaviy natijalarni oshirishga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yangi mahsulot va xizmatlarni yaratish va rivojlantirish bilan bog’ liq loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Infratuzilma investitsiya loyihasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Transport, energetika yoki kommunal infratuzilmani rivojlantirish bilan bog’ liq loyiha.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish jarayonlari samaradorligini oshirishga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xalqaro hamkorlik va eksportga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yangi brendlar va mahsulotlarni ishlab chiqish va rivojlantirish bilan bog’ liq loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tijoriy loyiha tahlilidan qanday natijalar kutish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning maqsadli auditoriyasini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning narx siyosatini ishlab chiqish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning bozor salohiyatini baholash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha jamoasining samaradorligini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion investitsiya loyihasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yangi texnologiyalar, mahsulotlar yoki xizmatlarni ishlab chiqish va joriy etishga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Fond bozorida moliyaviy operatsiyalar bilan bog’ liq loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish quvvatini oshirish va mahsulot turlarini kengaytirishga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy infratuzilmani rivojlantirish va odamlarning turmush sharoitini yaxshilash bilan bog’ liq loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ekologik investitsiya loyihasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ekologik toza texnologiyalar va ishlab chiqarish jarayonlarini ishlab chiqish va joriy etish bilan bog’ liq loyiha.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Reklama kampaniyalari va marketing strategiyalarini ishlab chiqishga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Resurslardan foydalanish samaradorligini oshirish va xarajatlarni kamaytirishga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy infratuzilmani rivojlantirish va odamlarning turmush sharoitini yaxshilash bilan bog’ liq loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalari kontekstida loyiha tavakkalchiligi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihadan yuqori foyda olish imkoniyati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning muvaffaqiyatsiz natijasi tufayli investitsiyalarni yo’ qotish ehtimoli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning qiymati uning potentsial foydasiga qarab belgilanishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaga kiritilgan mablag’ lardan foiz daromadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy loyiha tahlilining qaysi tamoyili turli xil alternativ yechimlarni ko’ rib chiqishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Diskontlash printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Imkoniyatli xarajatlar printsipi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Proportsionallik printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Rezervlash printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy loyiha tahlilining qaysi tamoyili risklarni boshqarish uchun vaqt va resurslar zaxirasini yaratishni nazarda tutadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Diskontlash printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Imkoniyat narxi printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Proportsionallik printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ortiqchalik printsipi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy loyiha tahlilining qaysi tamoyili loyihani uning hayot tsiklini hisobga olgan holda baholashni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Diskontlash printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Imkoniyat narxi printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Proportsionallik printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Hayot tsikl printsipi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ekspress loyiha tahlili nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning barcha jihatlari bo’ yicha to’ liq tadqiqot.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning asosiy parametrlarini tezkor baholash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha uchun hujjatlarni tayyorlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning batafsil rejasini ishlab chiqish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Strategik loyiha tahlili nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy samaradorligini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning raqobat muhitini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning strategik maqsadi va yo’ nalishini aniqlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish rejasini ishlab chiqish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning strategik tahlilini o’ tkazishdan asosiy maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning hayotiyligini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyiha byudjetini ishlab chiqish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha samaradorligini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha muvaffaqiyati uchun strategik omillarni aniqlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning texnik tahlili nimani o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy samaradorligini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Texnik talablar va loyiha imkoniyatlarini o’ rganish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish rejasini ishlab chiqish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha risklari va imkoniyatlarini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani texnik tahlil qilishdan asosiy maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning hayotiyligini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning texnik murakkabligini baholash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Resurslarni rejalashtirish va loyiha byudjetini ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha uchun texnik hujjatlarni ishlab chiqish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha riskini tahlil qilishning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xatarlar va ularning salbiy oqibatlarini oldini olish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Potentsial loyiha imkoniyatlarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha byudjetini belgilash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha resurslarini rejalashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning ekologik tahlilidan asosiy maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning atrof-muhitga salbiy ta’ sirini minimallashtirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning ekologik imkoniyatlarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha uchun ekologik standartlarni belgilash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha uchun axloqiy me’ yorlarni belgilash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning ekologik tahlilidan asosiy maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning atrof-muhitga salbiy ta’ sirini minimallashtirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning ekologik imkoniyatlarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha uchun ekologik standartlarni belgilash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning atrof-muhitni muhofaza qilish xarajatlarini rejalashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning moliyaviy-iqtisodiy tahlilining asosiy maqsadi nimadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy barqarorligini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy samaradorligini baholash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning zararsizlik nuqtasini hisoblash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha foydasini maksimal darajada oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion loyihaning texnik-iqtisodiy asoslanishi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning texnik murakkabligini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning kutilayotgan natijalarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning iqtisodiy samaradorligini hisoblash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy risklarini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish manbasi korxonaning o’ z mablag’ laridan foydalanishga asoslangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlar kapitali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ z kapitali.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish manbasi bankdan mol-mulk bilan garovga olingan mablag’ larni olishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlar kapitali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ z kapitali.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish vositasi ko’ chmas mulk yoki boshqa aktivlar bilan ta’ minlangan mablag’ larni olishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Venchur moliyalashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Emissiya bilan moliyalashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "DXSh qisqartmasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Davriy-xususiy shartnoma.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Davlat-xususiy sheriklik.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Davlat ximoyasidagi shaxs.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Davriy xukumat sho’basi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish manbasi loyihadagi ulush evaziga boshqa kompaniyalar yoki jismoniy shaxslardan mablag’ olishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlar kapitali.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ z kapitali.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish vositasi bankdan kompaniya aktivlari bilan ta’ minlangan mablag’ larni olishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Venchur moliyalashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ z kapitali.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasi qanday asosiy elementlarni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning maqsad va vazifalari, moliyalashtirish tuzilmasi, amalga oshirish muddatlari.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kompaniya tarixi, moliyaviy hisobotlar, bozor tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Buxgalteriya hisobi, soliq hisoboti, riskni baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xodimlar tarkibi, tashkiliy tuzilmasi, marketing strategiyasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy investitsiya loyihasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yangi moliyaviy vositalar va investitsiya strategiyalarini ishlab chiqish bilan bog’ liq loyiha.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisobot va soliq qonunchiligini rivojlantirishga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning bozor ulushini va raqobatbardoshligini oshirishga qaratilgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aktsiyalar yoki obligatsiyalarni sotib olish kabi moliyaviy operatsiyalarni o’ z ichiga olgan loyiha.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalari kontekstida diskont stavkasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi pul tushumlarining joriy qiymatini aniqlash uchun foydalaniladigan foiz stavkasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaga sarmoya kiritish bilan bog’ liq risk darajasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirishning butun davri uchun pul tushumlari miqdori.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsiya paytida kompaniya aktivlarining qiymati.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalar kontekstida investitsiya gorizonti nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirishning butun davri uchun pul tushumlari miqdori.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sarmoyadan to’ liq daromad olish uchun zarur bo’ lgan vaqt.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha maksimal foyda keltiradigan davr.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish rejalashtirilgan vaqt oralig’ i.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasining hayot tsiklidagi bosqichlar ketma-ketligi qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Rejalashtirish, amalga oshirish, nazorat qilish, yakunlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Boshlash, rejalashtirish, amalga oshirish, nazorat qilish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Rejalashtirish, boshlash, nazorat qilish, tugatish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Boshlash, amalga oshirish, nazorat qilish, tugatish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasini boshlash bosqichida nima sodir bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning maqsadlari va kutilayotgan natijalarini aniqlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Marketing tadqiqotlarini o’ tkazish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Biznes-rejani tayyorlash va kutilayotgan foydani hisoblash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Resurslarni taqsimlash va mas’ ul shaxslarni tayinlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasini amalga oshirish bosqichida nima sodir bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning borishini baholash va monitoring qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Resurslarni taqsimlash va mas’ ul shaxslarni tayinlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Vazifalarni amalga oshirish va belgilangan maqsadlarga erishish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Biznes-rejani tayyorlash va kutilayotgan foydani hisoblash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasini nazorat qilish bosqichining asosiy maqsadi nimadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning borishini baholash va monitoring qilish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Resurslarni taqsimlash va mas’ ul shaxslarni tayinlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Biznes-rejani tayyorlash va kutilayotgan foydani hisoblash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning maqsadlari va kutilayotgan natijalarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasini yakunlash bosqichida nima sodir bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning borishini baholash va monitoring qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Resurslarni taqsimlash va mas’ ul shaxslarni tayinlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Vazifalarni amalga oshirish va belgilangan maqsadlarga erishish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani yakunlash, natijalarni tahlil qilish va sarhisob qilish.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasini baholash bosqichida nima sodir bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning maqsadlari va kutilayotgan natijalarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Marketing tadqiqotlarini o’ tkazish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xatarlar va yuzaga kelishi mumkin bo’ lgan to’ siqlarni tahlil qilish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Biznes-rejani tayyorlash va kutilayotgan foydani hisoblash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy loyiha tahlilining qaysi tamoyili pulning vaqt qiymatini hisobga olishni nazarda tutadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Diskontlash tamoyili.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Imkoniyat narxi printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Proportsionallik printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Rezervlash printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tahlilining qaysi bosqichi loyihaning maqsad va talablarini o‘rganishni o‘z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Rejalashtirish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Boshlang’ich bosqich.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Amalga oshirish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nazorat bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tahlilining qaysi bosqichi loyihaning resurslari, muddati va byudjetini aniqlashni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Rejalashtirish bosqichi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Boshlang’ich bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Amalga oshirish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nazorat bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tahlilining qaysi bosqichi loyihaning batafsil rejasini ishlab chiqishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Rejalashtirish bosqichi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Boshlanish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Amalga oshirish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nazorat bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tahlilining qaysi bosqichi vazifalarni amalga oshirish va belgilangan maqsadlarga erishish bilan bog’ liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Rejalashtirish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Boshlanish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Amalga oshirish bosqichi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nazorat bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning tezkor tahlilini o’ tkazishdan asosiy maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning hayotiyligini aniqlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyiha byudjetini ishlab chiqish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha risklarini boshqarish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha samaradorligini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tsiklining qaysi bosqichi odatda loyihaning tezkor tahlilini o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning boshlanishi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihani rejalashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani nazorat qilish va yakunlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tsiklining qaysi bosqichi odatda loyihaning strategik tahlilini o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihani rejalashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning boshlanishi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani nazorat qilish va yakunlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tsiklining qaysi bosqichi odatda loyihaning texnik tahlilini o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihani rejalashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning boshlanishi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani nazorat qilish va yakunlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tijoriy loyiha tahlili nimani o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyiha raqobatchilarining tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning mahsulot yoki xizmatlariga bozor talabini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy samaradorligini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Potentsial loyiha xatarlarini baholash.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tijoriy loyiha tahlilining asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning potentsial rentabelligini aniqlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning raqobat muhitini o’ rganish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha marketing strategiyalarini rejalashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tijorat strategiyasini ishlab chiqish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani tijoriy tahlil qilishda qanday jihatlar e’ tiborga olinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning bozordagi o’rni.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Potentsial mijozlar va ularning ehtiyojlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning mahsulot yoki xizmatlarini targ’ ib qilish usullari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaga moliyaviy qo’ yilmalarni baholash.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tsiklining qaysi bosqichi odatda loyihani tijoriy tahlilini o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihani rejalashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning boshlanishi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani nazorat qilish va yakunlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani tijorat tahlilida qanday omillarni hisobga olish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bozor tendentsiyalari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bozordagi raqobat.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy va siyosiy vaziyat.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy barqarorligini baholash.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tijoriy tahlil loyihaga qanday ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning raqobatdosh ustunligini aniqlashga yordam beradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bozor talablariga moslashish imkonini beradi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning marketing strategiyasini aniqlaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha uchun texnologiyalarni tanlashga ta’ sir qiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani institutsional tahlil qilishning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihani tartibga soluvchi mavjud qoidalarni aniqlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaga ta’ sir etuvchi ijtimoiy va siyosiy omillarni aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning manfaatdor tomonlari bilan ziddiyatlarning oldini olish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha risklarini boshqarish strategiyasini ishlab chiqish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani institutsional tahlil qilishda qanday jihatlar hisobga olinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyiha faoliyatini tartibga soluvchi qonunchilik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaga ta’ sir qiluvchi madaniy va ijtimoiy normalar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Davlat organlari va jamoatchilik bilan o‘zaro hamkorlik.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy samaradorligini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tsiklining qaysi bosqichi odatda loyihani institutsional tahlilni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihani rejalashtirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning boshlanishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani nazorat qilish va yakunlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani institutsional tahlil qilishda qanday omillarni hisobga olish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning huquqiy va tartibga soluvchi muhiti.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyiha bilan bog’ liq madaniy va ijtimoiy normalar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning atrof-muhit va inson salomatligiga ta’ siri.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy barqarorligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning institutsional tahlilidan qanday natijalar kutish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning asosiy manfaatdor tomonlarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Davlat organlari bilan o’ zaro hamkorlik strategiyasini ishlab chiqish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning qonuniy va me’ yoriy talablarga muvofiqligini baholash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha jamoasining samaradorligini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Institutsional tahlil loyihaga qanday ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning huquqiy va tartibga soluvchi muhitga muvofiqligini aniqlashga yordam beradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning manfaatdor tomonlari bilan o’ zaro aloqani ta’ minlaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning ijtimoiy-madaniy xususiyatlariga moslashishga imkon beradi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha uchun moliyaviy strategiyani tanlashga ta’ sir qiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tsiklining qaysi bosqichi odatda loyiha tavakkalchiligi tahlilini o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihani rejalashtirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning boshlanishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani nazorat qilish va yakunlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xatarlarni tahlil qilish loyihaga qanday ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning mumkin bo’ lgan muammolari va tahdidlarini yaxshiroq tushunish imkonini beradi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xatarlarni kamaytirish va loyiha muvaffaqiyatini oshirish uchun strategiyalarni ishlab chiqishga yordam beradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha uchun byudjet va resurslarni taqsimlashni belgilaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani yakunlash uchun texnologiya va usullarni tanlashga ta’ sir qiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tsiklining qaysi bosqichi odatda loyihaning ekologik tahlilini o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihani rejalashtirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning boshlanishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani nazorat qilish va yakunlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning investitsion jozibadorligi nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning investitsiyalarni jalb qilish qobiliyati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investitsiya qilingan mablag’ lar va olingan loyiha daromadlari o’ rtasidagi nisbat.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investor loyihani amalga oshirishdan oladigan iqtisodiy foyda.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning kompaniyaning strategik maqsadlariga muvofiqligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion loyihalar samaradorligini baholashning qaysi xususiyati vaqtinchalik omillarni hisobga olish zarurati bilan bog’ liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi pul oqimlarini diskontlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sezuvchanlikni tahlil qilish usulini qo’ llash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investitsion daromad usulidan foydalanish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Joriy nisbatni hisoblash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish manbasi asbob-uskunalar yoki sotib olish imkoniyati bilan ko’ chmas mulkni ijaraga olishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlar kapitali.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ z kapitali.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish manbasi aksiyalar yoki obligatsiyalar chiqarish orqali mablag’ larni jalb qilishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlar kapitali.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ z kapitali.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish manbalari davlat yoki xalqaro tashkilotlardan mablag’ olishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Davlat investorlari kapitali.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ z kapitali.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qimmatli qog’ ozlarni sotishdan olingan mablag’ lardan foydalanish qaysi moliyalashtirish manbasini o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlar kapitali.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Emissiya orqali moliyalashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish manbalari ixtisoslashtirilgan fondlar yoki investitsiya kompaniyalaridan mablag’ larni olishni nazarda tutadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlar kapitali.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Venchur moliyalashtirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish vositasi obligatsiyalar chiqarish orqali mablag’ larni jalb qilishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Venchur moliyalashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Obligatsiya orqali moliyalashtirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyalashtirish vositasi evaziga kompaniyaning ulushini sotishni nazarda tutadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bank krediti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizing.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Venchur moliyalashtirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ z kapitali.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalarini kompleks monitoring qilish nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy samaradorligini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ish jadvalining bajarilishini nazorat qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha bilan bog’ liq risklarni tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qo’ shimcha resurslarga bo’ lgan ehtiyojni aniqlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalari monitoringi doirasida ish jadvalining bajarilishini monitoring qilish nimani o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyiha xarajatlarini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Vazifalarni amalga oshirish muddatlariga muvofiqligini tekshirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qo’ shimcha resurslarga bo’ lgan ehtiyojni aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Resurslardan foydalanish samaradorligini tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kompleks monitoring doirasida investitsiya loyihasining xarajatlarini baholash nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy imkoniyatlarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihadan kutilayotgan foydani hisoblash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Resurslardan foydalanish samaradorligini tahlil qilish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha aktivlarining bozor qiymatini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "DXSh (Davlat-xususiy sheriklik)ning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihalar ustidan davlat nazoratining kuchayishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlar uchun risklarni kamaytirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xususiy kompaniyalar uchun soliq stavkalarini oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani moliyalashtirish bozorida raqobatni yaxshilash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi elementlardan qaysi biri DXSh ning xarakteristikasi emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Davlat va xususiy sektorning birgalikdagi ishtiroki.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Hamkorlikning uzoq muddatli xarakteri.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xatarlar va mas’ uliyatlarni taqsimlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani davlat tomonidan to’ liq moliyalashtirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xususiy sektor DXSh loyihalarida qanday ishtirok etishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihani moliyalashtirishni ta’ minlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihani davlat tomonidan to’ liq nazorat qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Davlatga maslahat xizmatlarini ko’ rsatish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha uchun yer bilan ta’ minlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "DXSh orqali qanday turdagi loyihalarni amalga oshirish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat infratuzilma loyihalari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat ijtimoiy loyihalar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Infratuzilma va ijtimoiy loyihalar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat energiya loyihalari.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat tashkilotlari DXShdan foydalanishda qanday afzalliklarga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xususiy sektor manfaatlarini hisobga olmasdan qaror qabul qilishda katta erkinlik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlar ishtirokida moliyaviy xarajatlarni kamaytirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xususiy kompaniyalarga risklarni qayta taqsimlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihalarda davlat ta’sirini orttirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi bosqichlardan qaysi biri DXSh loyihasining hayot tsikliga kirmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tayyorgarlik bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirish bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Monitoring va nazorat bosqichi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani tugatish bosqichi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri DXSh loyihalarining davlat uchun afzalligi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xususiy sektor barcha moliyaviy xarajatlarni o’ z zimmasiga oladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Davlat loyihaning barcha risklarini o’ z zimmasiga oladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Taqdim etilayotgan xizmatlar sifatini oshirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tashqi investitsiyalarni jalb qilishning hojati yo’ qligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi omillardan qaysi biri DXShni loyihani moliyalashtirish shakli sifatida tanlash uchun asos emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Davlatda mavjud moliyaviy resurslarning mavjudligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xususiy sektor tajribasini jalb qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning murakkabligi va miqyosi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bozorda raqobatning yo’ qligi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri DXSh loyihalariga xos xususiyatdir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihalarda faqat yirik kompaniyalarning ishtiroki.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Uzoq muddatli shartnomalar yo’ q.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishtirokchilar o’ rtasida risklarni taqsimlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani moliyalashtirishga hojat yo’ qligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilarning qaysi biri DXSh loyihasiga misol bo‘la oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hukumat tomonidan moliyalashtirilgan yangi ko’ prik qurilishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " To’ liq xususiy mulk bo’ lgan yangi restoranning ochilishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Davlat maktabini ta’ mirlash xususiy kompaniya tomonidan moliyalashtirilishi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Davlat korxonasi tomonidan ishlab chiqarishni tashkil etish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qonunchilik bazasini rivojlantirish loyihalarni moliyalashtirishga qanday yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaviy investitsiyalar bo’ yicha soliq stavkalarini oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihalar ustidan davlat nazoratini kuchaytirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qulay investitsiya muhitini yaratish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlarning loyihalarga kirishini qisqartirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri loyihani moliyalashtirish uchun ishlab chiqilgan qonunchilik bazasining afzalligi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Moliyalash jarayonining murakkabligi va byurokratiyasining kuchayishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihalar ustidan davlat nazoratini kuchaytirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bashorat qilish va investorlarni himoya qilish yaxshilanishi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaviy investitsiyalar bo’ yicha soliq stavkalarini oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi omillardan qaysi biri loyihani moliyalashtirishning huquqiy asoslarini ishlab chiqish usuli emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ixtisoslashgan moliyaviy vositalarni yaratish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bozor ishtirokchilari uchun o’ quv dasturlari va seminarlar o’ tkazish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xalqaro standartlar va amaliyotlarni joriy etish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsiyalarga soliq stavkalarini oshirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri loyihani moliyalashtirishning qonunchilik bazasini ishlab chiqishga misol bo’ la oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyiha ishtirokchilari o’ rtasida risklarni taqsimlash qoidalarini belgilash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investitsiyalarga soliq yukining ortishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xorijiy investorlarning loyihalarga kirishini cheklash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani moliyalashtirish vaqtini qisqartirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalari kontekstida NPV (sof joriy qiymat) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiyalar va to’ lovlarni taqqoslash asosida loyiha samaradorligini baholash usuli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning ma’ lum vaqt oralig’ ida qoplanishini ko’ rsatadigan ko’ rsatkich.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompaniya aktsiyalarining bozor qiymatini aniqlash uchun foydalaniladigan model.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ ozlar bozori o’ zgaruvchanligi bilan bog’ liq risk o’ lchovi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalari kontekstida ROI (investitsiyalar rentabelligi) nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jamiyat aktsiyalarining fond bozoridagi qiymati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investitsiya loyihasining likvidligini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investitsiya qilingan mablag’ lardan foiz daromadlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sof foydaning investitsiya qilingan mablag’ larga nisbati.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalari kontekstida IRR (ichki daromad darajasi) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning NPV qiymati nolga teng bo’ lgan foiz stavkasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaga sarmoya kiritish bilan bog’ liq risk darajasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani amalga oshirishning butun davri uchun pul tushumlari miqdori.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaga kiritilgan mablag’ lardan foiz daromadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalari kontekstida qoplash muddati nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiyalarning to’ liq qaytishi uchun zarur bo’ lgan vaqt.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning qiymati uning potentsial foydasiga qarab belgilanishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning butun amalga oshirish davridagi rentabelligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha maksimal foyda keltiradigan davr.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalari kontekstida DCF (diskontlangan pul oqimi) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiya paytida kompaniya aktivlarining qiymati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barcha xarajatlarni hisobga olgan holda loyihaning qiymati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihadan rejalashtirilgan pul oqimi, joriy tannarxga tenglashtiriladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaga kiritilgan mablag’ lardan foiz daromadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalari kontekstida sof joriy qiymat nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiya paytida kompaniya aktivlarining qiymati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barcha xarajatlarni hisobga olgan holda loyihaning qiymati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pul tushumlari va investitsiyalarning joriy qiymati o’ rtasidagi farq.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Jamiyat aktsiyalarining fond bozoridagi qiymati.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning ekspress-tahlilini o’ tkazishda ko’ pincha qaysi vositadan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " SWOT tahlili.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gant diagrammasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy ko’ rsatkichlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " SCRUM metodologiyasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning texnik tahlilini o’ tkazishda ko’ pincha qaysi vositadan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gant diagrammasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Texnik-iqtisodiy asoslash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " SWOT tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " SCRUM metodologiyasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tijoriy loyiha tahlilini o’ tkazishda ko’ pincha qaysi vositadan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " SWOT tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bozorni segmentatsiyalash usullari.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy ko’ rsatkichlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning bozor ulushini baholash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning institutsional tahlilini o’ tkazishda ko’ pincha qaysi vositadan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " SWOT tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sotsiologik tadqiqot usullari.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha raqobatchilarining tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning texnik auditi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning moliyaviy-iqtisodiy tahlilida pul oqimlarini diskontlash nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi pul oqimlarini hozirgi qiymatigacha kamaytirish jarayoni.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktsiyalarning joriy qiymatiga asoslangan loyihaning rentabelligini baholash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kutilayotgan pul oqimlari asosida loyihaning rentabelligini aniqlash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihada foydalanilgan kapital qiymatini hisoblash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning rentabelligini baholash uchun qanday ko’ rsatkichdan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ichki daromad darajasi (IRR).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sof joriy qiymat (NPV).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaytarilish muddati (PBP).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsiya rentabelligi (ROI).\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi usul loyihaning zararsizlik nuqtasini aniqlash imkonini beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " SWOT tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Diskontlangan xarajat usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy rejalashtirish usuli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish xarajatlarini hisoblash usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihada o’ z mablag’ laridan foydalanish samaradorligini baholash uchun qaysi ko’ rsatkichdan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Joriy sof qiymat (NPV).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Joriy likvidlilik nisbati (CR).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ z kapitalining rentabelligi (ROE).\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy barqarorlik koeffitsienti (FSCR).\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning moliyaviy-iqtisodiy tahlilida diskontlangan qaytish muddati (DPP) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Diskontlangan pul oqimlarini hisobga olgan holda loyihaga investitsiyalar to’ liq qaytishi uchun ketadigan vaqt.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Diskontlangan pul oqimlarini hisobga olmagan holda loyihaga kiritilgan investitsiyalar to’ liq qoplanadigan vaqt.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha eng katta foyda keltiradigan vaqt.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyiha belgilangan moliyaviy ko’ rsatkichlarga erishadigan vaqt.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi usul loyihaning tavakkalchilik darajasini baholash imkonini beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Moliyaviy barqarorlikni tahlil qilish usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Diskontlangan xarajat usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qiyosiy tahlil usuli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Statistik modellashtirish usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalarining iqtisodiy samaradorligini baholash metodologiyasida sof joriy qiymat (NPV) nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Naqd pul tushumlarining joriy qiymati va loyiha xarajatlari o’ rtasidagi farq.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning investitsiyalar va pul tushumlari qiymatining tengligini ta’ minlaydigan foiz stavkasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning naqd pul tushumlari summasi joriy qiymatga tenglashtirilishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning risk darajasi, foizda ifodalangan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalarining iqtisodiy samaradorligini baholash metodologiyasida ichki daromadlilik darajasi (IRR) nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning sof joriy qiymati nolga teng bo’ lgan foiz stavkasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyiha risk darajasi, foizda ifodalanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaning naqd pul tushumlari summasi joriy qiymatga tenglashtirilishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Naqd pul tushumlarining joriy qiymati va loyiha xarajatlari o’ rtasidagi farq.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihalarining iqtisodiy samaradorligini baholash metodologiyasida o’ zini o’ zi qoplash muddati (PBP) nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaga kiritilgan investitsiyalar to’ liq qaytadigan vaqt.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning risk darajasi, foizda ifodalangan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Naqd pul tushumlarining joriy qiymati va loyiha xarajatlari o’ rtasidagi farq.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsiyalar qiymati va pul tushumlari teng bo’ lishini ta’ minlaydigan foiz stavkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi ko’ rsatkich kapital qo’ yilmalardan uzoq muddatda foydalanish samaradorligini baholash imkonini beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiya rentabelligi (ROI).\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Joriy likvidlilik nisbati (CR).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Joriy sof qiymat (NPV).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy barqarorlik koeffitsienti (FSCR).\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion loyihalar samaradorligini baholash qanday xususiyatga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Noaniqlik va risklar yuqoriligi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisob-kitoblarga ehtiyoj yo’ qligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Standart baholash usullaridan foydalanish osonligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Raqobatbardosh bozor tahliliga ehtiyoj yo’ qligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion loyihalarning rentabelligini baholash uchun odatda qanday ko’ rsatkichdan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " NPV (sof joriy qiymat).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ROI (Investitsiya rentabelligi).\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " IRR (ichki daromad darajasi).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " PBP (qaytarilish muddati).\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasining moliyaviy samaradorligini baholash uchun qanday vositadan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " SWOT tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Balans tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " NPV (sof joriy qiymat).\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gant diagrammasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi vosita investitsiya loyihasi bilan bog’ liq risklarni tahlil qilish imkonini beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pareto diagrammasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ‘‘Sotish voronkasi’’.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Risk matritsasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ABC tahlil texnikasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi vosita investitsiya loyihasini muvaffaqiyatli amalga oshirish uchun qo’ shimcha resurslarga bo’ lgan ehtiyojni aniqlash imkonini beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Balans hisoboti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gant diagrammasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Risk matritsasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ABC tahlil usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya loyihasining moliyaviy imkoniyatlarini baholash uchun qanday usuldan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Diskontlangan pul oqimi usuli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qiyosiy tahlil usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faktor tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Regressiya usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi vosita investitsiya loyihasi doirasida resurslardan foydalanish samaradorligini aniqlash imkonini beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Balans tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " SWOT tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ROI (Investitsiya rentabelligi).\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ABC tahlil usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion loyihalar samaradorligini baholashning qaysi usuli noaniqlik va risklarni hisobga olishga imkon beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Diskontlangan xarajat usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sezuvchanlikni tahlil qilish usuli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investitsion daromad usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ichki daromad darajasi usuli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion loyihalar samaradorligini baholashning qaysi xususiyati vaqt o’ tishi bilan o’ zgarishlarni hisobga olish zarurati bilan bog’ liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi pul oqimlarini diskontlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sezuvchanlikni tahlil qilish usulini qo’ llash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investitsion daromad usulidan foydalanish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy barqarorlik koeffitsientini hisoblash.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani moliyaviy-iqtisodiy tahlil qilishda investitsion oqimlar nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaga investitsiyalar bilan bog’ liq pul oqimlari.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning mahsulot yoki xizmatlarini sotishdan olingan pul oqimlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihani moliyalashtirish bilan bog’ liq pul oqimlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning operatsion faoliyatidan kelib chiqadigan pul oqimlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion loyihalar samaradorligini baholashda asosiy omil nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Loyihaning texnik murakkabligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investitsiyalar hajmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bozordagi raqobat darajasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning o’ sishi va rivojlanishi istiqbollari.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sezuvchanlik tahlili loyihaning moliyaviy-iqtisodiy tahlilida qanday ma’ lumotlarni beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Shaxsiy parametrlardagi o’ zgarishlarning loyiha samaradorligiga ta’ siri.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Loyihaning haqiqiy va prognoz moliyaviy ko’ rsatkichlarini taqqoslash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyihaga jami investitsiyalarni hisoblash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy holatini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihalarni moliyalashtirish uchun qonunchilik bazasining barqarorligi nima uchun zarur?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Davlatning loyihani moliyalashtirishga bo’ lgan ehtiyojlarini qondirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xususiy investorlarni jalb qilish va qo’ llab-quvvatlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Chet ellik investorlarning loyihalarga kirishini cheklash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihani moliyalashtirish jarayonini tezlashtirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tavakkalchiligini tahlil qilishda qaysi vosita tez-tez ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " SWOT tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ehtimollik-ta’ sir matritsasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Loyiha raqobatchilarining tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Loyihaning moliyaviy modeli.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy loyiha tahlilining qaysi tamoyili vaqt o’ tishi bilan risk va noaniqliklarning o’ zgarishini hisobga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Diskontlash printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Imkoniyat narxi printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Proportsionallik printsipi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Rezervlash printsipi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

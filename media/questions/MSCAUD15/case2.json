@@ -1,0 +1,3544 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Xavf’’ tushunchasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Foyda olish imkoniyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Zararli hodisalarning yuzaga kelish ehtimoli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Atrof-muhitga bog’ liqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsion daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagi omillardan qaysi biri xavfni oshiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiya portfeli tasnifi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barqaror daromad manbaiga ega bo’ lish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Past bozor o’ zgaruvchanligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qarzdorlikning yuqori darajasi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Xavf darajasi\" atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Atrof-muhitga xavf ta’ siri darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xavf hodisasi natijasida yetkazilgan yo’ qotishlar darajasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xavf hodisasining vaqt davomiyligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xavfli hodisaning yuzaga kelish ehtimoli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi omil ‘‘xavfning vaqtinchalik qiymati’’ni aks ettiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xavf hodisasining davomiyligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xavfni sub’ ektiv idrok etish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Riskdan foyda olish imkoniyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xavf hodisasi natijasida yetkazilgan zarar miqdori\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Xavf korrelyatsiyasi\" tushunchasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Turli xavflar o’ rtasidagi munosabat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xavfni sub’ ektiv idrok etish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xavf hodisasi natijasida yetkazilgan zarar miqdori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xavf hodisasining davomiyligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Inflyatsiya xavfi’’ tushunchasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bozor ulushini yo’ qotish xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy siyosatdagi o’ zgarishlar xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tovar va xizmatlar narxining oshishi xavfi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy inqiroz xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Valyuta riskini’’ aniqlashda qaysi omil asosiy hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Inflyatsiya o’ zgarishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Siyosiy beqarorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ ozlar bozori o’ zgaruvchanligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Valyuta kursining o’ zgarishi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Past xavf\" nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " To’ liq bartaraf etilgan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Minimal potentsial yo’ qotishlar bo’lgan xavf\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ rtacha darajadagi yo’ qotishlar bo’lgan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuqori darajadagi yo’ qotishlar bo’lgan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Yuqori xavf\" nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " To’ liq bartaraf etilgan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Minimal potentsial yo’ qotishlar bo’lgan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ rtacha darajadagi yo’ qotishlar bo’lgan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuqori darajadagi yo’ qotishlar bo’lgan xavf\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xatarlarni boshqarishda ‘‘xavfni aniqlash’’ tushunchasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xavf hodisasining yuzaga kelish ehtimolini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xavfli hodisaning mumkin bo’ lgan oqibatlarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Potentsial xavf hodisalarini aniqlash va tavsiflash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xatarlarni kamaytirish strategiyasini ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Risklarni boshqarishda \"xavf monitoringi\" tushunchasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xavf hodisasining yuzaga kelish ehtimolini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xavfli hodisaning mumkin bo’ lgan oqibatlarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Potentsial xavf hodisalarini aniqlash va tavsiflash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xavfli vaziyatlardagi o’ zgarishlarni kuzatib borish va tuzatish choralarini ko’ rish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urtada risklarni taqsimlashning asosiy mexanizmi qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Rezervlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Diversifikatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompensatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bashorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi sug’ urta tamoyili sug’ urta mukofoti va sug’ urta tovonining mutanosibligini ta’ minlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Individual yondashuv tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy maqsadga muvofiqlik tamoyilini hisobga olish tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urta tariflari va sug’ urta risklarini moslashtirish tamoyili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sug’ urta fondining xavfsizligi tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi sug’ urta ob’ ekti \"mulk sug’ urtasi\" toifasiga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Inson hayoti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Inson salomatligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Avtomobil sug’urtasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Uchinchi shaxslar oldidagi javobgarlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi sug’ urta ob’ ekti \"mas’ uliyat\" toifasiga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Inson hayoti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Inson salomatligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Avtomobil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Uchinchi shaxslar oldidagi javobgarlik\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi sug’ urta ob’ ekti \"shaxsiy sug’ urta\" toifasiga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Inson hayoti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Inson salomatligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Avtomobil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Uchinchi shaxslar oldidagi javobgarlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi sug’ urta ob’ ekti \"salomatlik\" toifasiga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Inson hayoti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Inson salomatligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Avtomobil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Uchinchi shaxslar oldidagi javobgarlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi sug’ urta ob’ ekti \"moliyaviy xavfni sug’ urtalash\" toifasiga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Inson hayoti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Inson salomatligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Avtomobil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy vositalar va investitsiyalar sug’urtasi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xavfni aniqlash nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xavf hodisasining yuzaga kelish ehtimolini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Potentsial xavflarni aniqlash va tavsiflash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xatarlarni minimallashtirish strategiyasini ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Riskdan moliyaviy yo’ qotishlarni baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Sug’ urta\" atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xatarlar va moliyaviy yo’ qotishlardan himoya qilish jarayoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi iqtisodiy tendentsiyalarni prognoz qilish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Risklardan moliyaviy yo’ qotishlarni baholash jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsiyalarni boshqarish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xavfni aniqlash nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Zarar holatlari tavsifi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Zarar ko’ rish ehtimolini aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xarajatlar smetasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Foydani prognozlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Xavfli aktiv’’ atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Barqaror daromad keltiradigan aktiv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bozor sharoitidagi o’ zgarishlarga tobe bo’ lmagan aktiv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qiymati sezilarli darajada o’ zgarishi mumkin bo’ lgan aktiv\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qo’ shimcha investitsiyalarni talab qilmaydigan aktiv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Moliyaviy xavf\" nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiyalar natijasida yo’ qotish xavfi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mijozlar bazasini o’ zgartirish xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Hosildorlikni pasayishi xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Raqobat ustunligini yo’ qotish xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Siyosiy xavf’’ni aniqlashda asosiy omil qaysi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ ozlar bozori o’ zgaruvchanligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qonunchilikdagi o’ zgarishlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy siyosatdagi o’ zgarishlar xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Siyosiy beqarorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Bozor riski\" atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bozor ulushini yo’ qotish xavfi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mijozlar bazasini o’ zgartirish xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tovar va xizmatlar narxining oshishi xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy siyosatdagi o’ zgarishlar xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi tasnif mezonida nomaqbul hodisa natijasida yetkazilgan zararlar nisbati hisobga olinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nazoratga muvofiq mezon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ehtimollik bo’ yicha mezon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ta’ sir darajasi mezoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yo’ qotishlar ulushi mezoni\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Vaqt mezoni’’ atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nomaqbul hodisaning yuzaga kelish ehtimolini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nomaqbul hodisadan mumkin bo’ lgan zararni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xavfni himoya qilish darajasini hisobga olib baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xavfli hodisaning vaqt doirasini baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday xavflarni tasniflash mezoni potentsial yo’ qotishlarga asoslanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ehtimollik bo’ yicha mezon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ta’ sir darajasi mezoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nazoratga muvofiq mezon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yo’ qotishlar ulushi mezoni\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Riskni o’ lchash va uning ustuvorligini aniqlash uchun qanday usul qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Diversifikatsiya usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Risklarni aniqlash usuli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Statistik tahlil usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Boshqarish usulini o’ zgartirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Risklarni boshqarishda ‘‘xavf tahlili’’ atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xavf hodisasining yuzaga kelish ehtimolini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xavfli hodisaning mumkin bo’ lgan oqibatlarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Potentsial xavf hodisalarini aniqlash va tavsiflash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xavf xususiyatlarini va ularning munosabatlarini o’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Risklarni moliyalashtirishning qaysi usuli risklarni boshqarish uchun moliyaviy vositalardan foydalanishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zini sug’ urta qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qayta investitsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " hosilalari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xatarlarni moliyalashtirishning qaysi usuli xavflarni va ularning oqibatlarini kamaytirish bo’ yicha chora-tadbirlar tizimini joriy qilishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zini sug’ urta qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qayta investitsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Proaktiv risklarni boshqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi tavakkalchilikni moliyalashtirish usuli korxona daromadlari va jamg‘armalaridan zararlarni qoplash uchun foydalanishni o‘z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zini sug’ urta qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qayta investitsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ z-o’ zini moliyalashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urta iqtisodiyotda qanday rol o’ ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aholi daromadlari darajasining oshishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xatarlar bilan bog’ liq moliyaviy yo’ qotishlardan himoya qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Davlat uchun zaxiralarni shakllantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Iqtisodiyotga investitsiyalarning ortishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Iqtisodiyot sug’ urtadan qanday foyda ko’ radi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kamaytirilgan soliq to’ lovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Uy xo’ jaliklari jamg’ armalarining o’ sishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy risklarni kamaytirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Raqobat darajasining oshishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug‘urta tadbirkorlik rivojiga qanday hissa qo‘shadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Moliyalashtirishga kirishni ta’ minlaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Soliq yukini kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bozorda raqobatni kuchaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy barqarorlik darajasini oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyalari iqtisodiyotda qanday rol o’ ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Byudjet zahiralarini shakllantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xalqaro moliyaviy oqimlarni boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy investitsiyalarni ta’ minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy risklarni uzatish va taqsimlash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urtaning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasining foydasini ta’ minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xatarlar bilan bog’ liq moliyaviy yo’ qotishlardan himoya qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Davlat uchun zaxiralarni shakllantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kamaytirilgan soliq to’ lovlarini joriy qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Risklarni diversifikatsiya qilish orqali sug’ urta qilishdan maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasi foydasining oshishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urtalovchilar o’ rtasida risklarni taqsimlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy zaxiralarning qisqarishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tadbirkorlikni moliyalashtirishni ta’ minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urtaning qaysi tamoyili sug’ urta qildiruvchi tomonidan taqdim etilgan ma’ lumotlarning halolligi va to’ g’ riligini nazorat qilishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Individual yondashuv tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy maqsadga muvofiqlikni hisobga olish tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishonch va halollik tamoyili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sug’ urta fondining xavfsizligi tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urta hodisasi yuz berganda sug’ urtalangan shaxsning manfaatlarini himoya qilishni qanday sug’ urta tamoyili nazarda tutadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Individual yondashuv tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy maqsadga muvofiqlik tamoyilini hisobga olish tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Majburiyatlarni vijdonan bajarish tamoyili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sug’ urta fondining xavfsizligi tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O’ zaro sug’ urtaning asosiy g’ oyasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasining tijorat foydasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ishtirokchilar o’ rtasida sug’ urta risklarini o’ zaro taqsimlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faqat bitta ishtirokchiga sug’ urta qoplamasini taqdim etish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsiyalar uchun kapitalni shakllantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi shaxslar o’ zaro sug’ urta ishtirokchilari hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat sug’ urta kompaniyasi va sug’ urta egasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat sug’ urta kompaniyasi va broker\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zaro sug’ urta qilish uchun birlashgan odamlar yoki tashkilotlar guruhi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat sug’ urta agenti va sug’ urta egasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O’ zaro sug’ urta tashkilotlarining sug’ urta to’ lovlari qanday moliyalashtiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ular banklardan kredit olishadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ular tashqi investorlardan investitsiyalarni jalb qiladilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug‘urta to‘lovlari bo‘yicha xarajatlar ishtirokchilarning badallari hisobidan shakllantirilgan sug‘urta fondi hisobidan qoplanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyalashtirish davlat byudjeti hisobidan amalga oshiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " A’ zolar o’ zaro sug’ urta tashkilotlarini boshqarishda qanday ishtirok etadilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat sug’ urta kompaniyasi tomonidan boshqariladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " A’ zolar muhim qarorlar bo’ yicha ovoz berish huquqiga ega\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " A’ zolar boshqaruv kengashini tayinlaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishtirokchilar kompaniya foydasidan dividendlar olishadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O’ zaro sug’ urta an’ anaviy tijorat sug’ urtasidan qanday xususiyat bilan ajralib turadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zaro sug’ urta sug’ urta himoyasini ta’ minlamaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O‘zaro sug‘urta birdamlik va o‘zaro yordam tamoyiliga asoslanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zaro sug’ urta ishtirokchilardan to’ lovlarni talab qilmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ zaro sug’ urta yaxshiroq sug’ urta polislarini taqdim etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ehtimollik va ta’ sirga asoslangan xavfni tahlil qilish uchun qaysi usul qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qarorlar daraxti usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " \"Ekspert baholashlari\" usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Risk matritsasi usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " \"Ehtimollik-ta’ sir tahlili\" usuli\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xavf matritsasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xavfni aniqlash vositasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xatarlarning ehtimoli va ta’ sirini ko’ rsatadigan diagramma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Riskdan moliyaviy yo’ qotishlarni hisoblash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi xavf hodisalarini bashorat qilish modeli\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sifatli xavf tahlili nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Miqdoriy ma’ lumotlarga asoslangan tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ekspert baholashlari va toifalari asosida tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy yo’ qotishlarni aniqlashga qaratilgan tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Statistik usullarga asoslangan tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Risklarni boshqarish nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xatarlarni aniqlash va boshqarish jarayoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi xavf hodisalarini bashorat qilish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xatarlardan moliyaviy yo’ qotishlarni tahlil qilish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xavfli hodisalarning yuzaga kelish ehtimolini aniqlash jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urta iqtisodiyotda qanday rol o’ ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Iqtisodiyotning xavfsizlik va barqarorlik darajasini oshiradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Inflyatsiya va foiz stavkalarini pasaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy o’ sish darajasini oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Davlat soliq tushumlarini oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday xo’ jalik yurituvchi sub’ ektlar sug’ urtadan foydalanishlari mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat jismoniy shaxslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat yuridik shaxslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Jismoniy va yuridik shaxslar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat davlat tashkilotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyalari iqtisodiyotga qanday ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hukumatga moliyaviy yordam ko’ rsatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ish o’ rinlari yaratish va iqtisodiy o’ sishga yordam berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Inflyatsiya va foiz stavkalarini pasaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Fuqarolarning investitsiya portfellarini boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urta mukofotlari qanday rol o’ ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyalari uchun foyda olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta da’ volarini ko’ rib chiqish xarajatlarini qoplash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yo’ qotishlarni qoplash uchun sug’ urta fondini shakllantirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mijozlar uchun sug’ urta xizmatlari narxini pasaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi sug’ urta tamoyili barcha fuqarolar uchun sug’ urtaning majburiy xususiyatini tavsiflaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Zararni qoplash tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy adolat tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Umumjahonlik tamoyili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aktuar adolat tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urtada ijtimoiy adolat tamoyili nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Barcha fuqarolar uchun majburiy sug’ urta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta mukofotini to’ g’ ri aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urtalovchilar o’ rtasida riskni taqsimlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aholining barcha toifalari uchun sug’ urta xizmatlari mavjudligini ta’ minlash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urtada tarif guruhlarini shakllantirishdan maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug‘urta to‘lovlarining adolatli taqsimlanishini ta’minlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasining foydasini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Barcha mijozlar uchun sug’ urta xizmatlari narxini pasaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sug’ urta polislarini olish jarayonini soddalashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tarif guruhlarini shakllantirish uchun qanday usullardan foydalanish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Statistik tahlil va aktuar hisoblar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta mahsulotlari uchun tariflarni o’ zboshimchalik bilan belgilash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Istalgan sug’ urta mukofoti bo’ yicha mijozning taklifi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Boshqa sug’ urta kompaniyalari tariflari bilan taqqoslash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tarif guruhlarini shakllantirishda reyting bahosi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasining moliyaviy barqarorligini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta qildiruvchining sug’ urta tavakkalchiligini baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urta xizmatlari sifatini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mijozlarning qoniqish darajasini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Kargo\" atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Transportda yo’ lovchilarni tashish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yuk yoki tovarlarni tashish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Birjada aktsiyalarni sotish va sotib olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Konteynerlarni tushirish va yuklash ishlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urtalashda tsessiya qanday rol o’ ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Riskni bir nechta sug’ urta kompaniyalari o’ rtasida taqsimlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta mukofotini belgilash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasining moliyaviy barqarorligini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mijozlarni tibbiy ko’ rikdan o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Sug’ urtada franshiza nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Franchayzing korxonalari uchun sug’ urta polisining maxsus turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urtalovchi va sug’ urta kompaniyasi o’ rtasida riskni bo’ lishish bo’ yicha kelishuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urtalovchi sug’ urta to’ lovini olishdan oldin to’ lashi kerak bo’ lgan xarajat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sug’ urta polisiga qaysi risklarni kiritish to’ g’ risida sug’ urta qildiruvchi mustaqil qaror qabul qilish huquqi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bir martalik to’ lov (paushal) tizimi nima bilan tavsiflanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xizmat yoki mahsulotdan haqiqiy foydalanishga asoslangan to’ lov\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Foydalanish yoki iste’ mol qilishdan qat’ i nazar, belgilangan miqdor\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mijozning daromadiga qarab davriy to’ lovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat xizmat yoki mahsulotni dastlabki o’ rnatish uchun to’ lov\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sug’ urtalashda surveyerning asosiy vazifasi nimadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urta ob’ ekti uchun sug’ urta summasini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Hayotni sug’ urtalashdan oldin mijozni tibbiy ko’ rikdan o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urta mukofotini aniqlash uchun mijozning moliyaviy holatini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ob’ ektlarni texnik ko’ rikdan o’ tkazish va sug’ urtalashdan oldin yoki sug’ urta hodisasi sodir bo’ lganda xavflarni baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sug’ urtada \"disklouz\" atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urtalovchiga sug’ urta tavakkalchiligi haqidagi barcha ma’ lumotlarni majburiy ravishda oshkor qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urtalovchining sug’ urta polisi bo’ yicha to’ lovni rad etish huquqi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urtalovchiga sug’ urta hodisasi haqida noto’ g’ ri ma’ lumot berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sug’ urtalovchi va sug’ urtalovchi o’ rtasida sug’ urta shartnomasini tuzish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Avtomobil sug’ urtasi kontekstida Green Card nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Avtomobilga egalik huquqini tasdiqlovchi hujjat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Fuqarolik javobgarligi sug’ urtasi mavjudligini tasdiqlovchi xalqaro hujjat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xalqaro haydovchilik guvohnomasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Avtotransport vositalarini texnik ko’ rikdan o’ tkazish natijalari to’ g’ risidagi guvohnoma\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sug’ urtada bordero nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urta hodisasi haqidagi ma’ lumotlarni o’ z ichiga olgan va sug’ urta kompaniyasiga topshirilgan hujjat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta polisini olishda mijozga berilgan hujjat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urta agenti tomonidan tayyorlangan sug’ urta xavfining texnik tavsifi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasi tomonidan jabrlanuvchiga berilgan sug’ urta to’ lovi to’ g’ risidagi guvohnoma\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sug’ urta sohasida aktuariy nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urta shartnomalarini tuzuvchi sug’ urta agenti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Risklarni baholaydigan va tariflarni ishlab chiqadigan sug’ urta kompaniyasi xodimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urta fondlarini investitsiyalash bilan shug’ ullanadigan moliyaviy tahlilchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mijozlarga sug’ urta mahsulotlarini tanlashda yordam beradigan sug’ urta brokeri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sug’ urta kompaniyasida anderrayter kim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xatarlarni baholaydigan va sug’ urta bo’ yicha qaror qabul qiladigan sug’ urta kompaniyasi xodimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasini sudda himoya qiluvchi advokat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urta shartnomalarini tuzuvchi sug’ urta agenti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sug’ urta fondlarini investitsiyalash bilan shug’ ullanadigan moliyaviy tahlilchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Adjaster kim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urta shartnomalarini tuzuvchi sug’ urta agenti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yo’ qotishlarni baholaydigan va sug’ urta to’ lovi to’ g’ risida qaror qabul qiladigan sug’ urta kompaniyasi xodimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mijozlarga sug’ urta mahsulotlarini tanlashda yordam beradigan sug’ urta brokeri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasini sudda himoya qiluvchi advokat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Benefitsiar sug’ urta holatida qanday huquqlarga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sug’ urta hodisasi yuz berganda sug’ urta to’ lovini olish huquqi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasining roziligisiz sug’ urta shartnomasi shartlarini o’ zgartirish huquqi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urta to’ lovini rad etish va yo’ qotishlarni to’ liq qoplashni talab qilish huquqi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sug’ urta kompaniyasining moliyaviy faoliyatini nazorat qilish huquqi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi sug’ urta tamoyili sug’ urtalanuvchilar o’ rtasida risk taqsimotini tavsiflaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Zararni qoplash tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy adolat tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Universallik tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Risklarni kollektivlashtirish tamoyili\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sug’ urtada qanday tarif guruhlari mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hududiy asosda birlashtirilgan sug’ urta egalari guruhlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’hshash sug’ urta shartlarini taklif qiluvchi sug’ urta kompaniyalari guruhlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Turli toifadagi mijozlar uchun mo’ ljallangan sug’ urta mahsulotlari guruhlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Umumiy belgilar bilan belgilanadigan sug’ urta risklari guruhlari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi sug’ urta tamoyili sug’ urta mukofotlarini adolatli aniqlash zarurligini tavsiflaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Zararni qoplash printsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy adolat tamoyili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Universallik printsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aktuar adolat tamoyili\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sug’ urtada zararni qoplash tamoyili nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Barcha fuqarolar uchun majburiy sug’ urta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yo’ qotishlarni to’ liq qoplash, lekin foyda keltirmaslik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sug’ urtalovchilar o’ rtasida riskni taqsimlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aktuar hisob-kitoblar asosida sug’ urta to’ lovi miqdorini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Xedjing\" atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Narxlarning noqulay o’ zgarishidan himoya qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yuqori daromadli aktivlarga sarmoya kiritish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning qo’ shimcha filiallarini ochish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Riskni boshqa tomonlarga o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tizimli xavf nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muayyan kompaniya yoki aktiv bilan bog’ liq xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Umumiy iqtisodiy vaziyatning o’ zgarishi bilan bog’ liq xavf\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kutilmagan hodisalardan kelib chiqadigan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Siyosiy beqarorlik bilan bog’ liq xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

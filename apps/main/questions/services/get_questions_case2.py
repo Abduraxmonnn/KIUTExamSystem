@@ -10,13 +10,11 @@ from apps.main.questions.models import Question
 from apps.services.load_json_to_cache_service import get_json_data_from_cache
 
 
-def get_question_case_2(subject_name, stage, file_path, question_id=None, num_questions: int = 20) -> Response:
+def get_question_case_2(question, file_path, question_id=None, num_questions: int = 20) -> Response:
     try:
         # Convert question_id to integer if provided
         question_id_int = int(question_id) if question_id is not None else None
 
-        # Retrieve question based on subject_name and stage
-        get_question = Question.objects.get(subject__full_name=subject_name, stage=stage)
 
         json_data = get_json_data_from_cache(file_path=file_path)
 
@@ -29,14 +27,14 @@ def get_question_case_2(subject_name, stage, file_path, question_id=None, num_qu
         valid_questions = [item for item in json_data if 'rate' in item]
 
         # Define target rates and initialize rate counters
-        target_rates = {1: 5, 2: 8, 3: 7}
+        target_rates = {1: 6, 2: 8, 3: 6}
         rates = {1: 0, 2: 0, 3: 0}
 
         # Prepare result list to collect selected questions
         result = {
-            'specialization': get_question.specialization,
-            'language': get_question.language,
-            'academic_semester': get_question.academic_semester,
+            'specialization': question.specialization,
+            'language': question.language,
+            'academic_semester': question.academic_semester,
             'questions': []
         }
 

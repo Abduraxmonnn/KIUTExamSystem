@@ -1,0 +1,5784 @@
+[
+    {
+        "id": 111,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yangi tayyorlangan sut tarkibidagi eng keng tarqalgan mikroorganizmni ko’rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Staphylococcus epidermidis\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Staphylococcus aureus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Escherichia coli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mycobacterium bovies\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqatning buzilganligini qanday belgilariga ko’ra aniqlash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqatning tashqi ko’ rinishi, hidi yoki ta’ midagi har qanday o’ zgarish, uni iste’ molchilar uchun nomaqbul bo’lishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqatning istalmagan ko’ rinishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tarkibida ko’p miqdorda qandlar bo’lishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qandli diabetga chalinganlar iste’ mol qilolmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tez buziladigan mahsulotning saqlash muddati qachon mikroblar soniga qarab belgilanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Boshida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 24 soat ichida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 48 soat ichida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bir hafta ichida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri tez buziladigan mahsulotlarga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Non, ichimliklar, kefir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tuxum va sut, kolbasa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Go’ sht va baliq, aksariyat mevalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Pishloq, yogurt, sut\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yogurt hosil bo’ lishi uchun mas’ ul bo’ lgan organizmlar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Streptococcus salivarius\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Streptococcus salivarius sp. thermophilus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Lactobacillus thermophilus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Streptococcus bulgaricus\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bakteriyalar tuzlangan bodringda yashay olmaydi, chunki\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tuz ko’ payishni inhibe qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bakteriyalar fotosintez uchun yetarlicha quyosh nurini olmaydilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Brin tarkibida bakteriyalar rivojlanishi uchun ozuqa moddalari mavjud emas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bakteriyalar plazmolizga uchraydi va natijada nobud bo’ ladi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sutdan qanday fermentlangan ovqatlar tayyorlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Vanillin, kefir, xamir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pishloq, yogurt, kefir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kolbasa, pishloq, mizuno\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kvas, pivo, limonad\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday mikroorganizm profilaktikasi uchun natriy yoki kaltsiy propionat keng qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Viruslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qo’ ziqorinlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bakteriyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mog’orlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Konserva qilishni qaysi olim kashf qilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Robert Koch\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Alfred Viven\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nikolay Apert\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Jon Tyndall\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ k rangli pishloq tayyorlashda asosan qaysi zamburug’ lar ishtirok etadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Penicillium roqueforti va Aspergillus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Penicillium notatum va Penicillium chrysogenum\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Penicillium chrysogenum va Fusarium\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Penicillium expansum va Cladosporium\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Go’ sht tufayli mikroblar uchun yaxshi ko’ payish maydoni hisoblanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yuqori namlik, qulay pH\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yuqori harorat, shamollatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oziq moddalarning ko’ pligi, sho’ rlanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sho’ rlanish, past harorat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Konservalash nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bu oziq-ovqat mahsuloti qalay yoki shisha idish kabi idishga muhrlanib, keyin isitiladigan jarayondir.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bu jarayonni Robert Kox kashf etgan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Idish muhrlanganidan keyin changyutgich bilan tozalanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muzlatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Somonda qanday qo’ ziqorinlarni o’stirish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Coprinus sp., Aspergillus niger\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pleurotus ostreatus, Volvariella volvacea\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Serpula lacrymans, Mukor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Rhizopus, Aspergillus terreus\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Molyuskasimonlarning paralitik zaharlanishi odatda issiqlikda barqaror va kislotada eriydigan toksin bilan ifloslangan mollyuskalarni iste’ mol qilgandan keyin paydo bo’ ladi. Bu toksik birikmani nomi ____\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Okadaik kislota\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mitotoksin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Saksitoksin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aflatoksin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi mikroblardan qaysi biri qand miqdori kam bo‘lgan sharoitda erkin suv uchun yaxshi raqobatlashadi va ko‘pincha sirop kabi yuqori shakarli ovqatlarda yaxshi o‘sadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pseudomonas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Clostridium\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mog’orlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xamirturush\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xom sutning mikrob ingibitorlariga quyidagilar kiradi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Laktoferrin va laktoperoksidaza tizimi, lizozimlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Lizozimlar, shakar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Vitamin B12 bog’ lash tizimi, oqsillar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Laktoza, zardob\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Meva va sabzavotlarni vaqtincha saqlash uchun saqlash kerak\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 10 - 20 ° C\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 15 - 20 ° S\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 30 - 35 ° S\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 39 - 45 ° S gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kuyidagi manbalardan qaysi biri xom sut mikroflorasiga yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hayvon terisi, minerallar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Idishlar, sabzavotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sog’ ish, sigir yelini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Havo, meva\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi mikroorganizmlardan qaysi biri soya sousini tayyorlashda ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A. niger\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " A. flavus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " A. fumigatsiya qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " A. oryzae\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kraxmal gidrolizatidan bitta hujayrali oqsillarni (SCP) tijorat maqsadida ishlab chiqarish uchun qaysi organizm ishlatilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Candida utilis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Saccharomyces cerevisiae\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Fusarium gaminearum\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kluyveromyes fragilis\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Parranda go‘shtining tashqi yuzasida o‘ziga xos cho‘kmalari bo‘lgan past haroratlarda birlamchi bakterial buzilishiga sabab bo‘ladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pseudomonas spp.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aspergillus spp.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bacillus spp.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Candida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ultra yuqori haroratda sut qancha vaqt isitiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 133 °C 2 soniya davomida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 140-150 °C 1-5 soniya davomida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 100 °C 5 daqiqa davomida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 100 °C 10 daqiqa davomida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Konservalash oziq-ovqat mahsulotlarini ____da muhim hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Biologik yuvish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bioproctses texnologiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bioreaktorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqat ishlab chiqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gaz hosil qiluvchi kulturalar Propionibacterium shermani va P.freudenreichii Shveytsariya pishloqini tayyorlashda nima uchun zarur?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ko’ zchalar yoki g’ovak teshikchalar va ta’ mi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Uning ta’ mi va rangi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Uning ta’ mi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Uning rangi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi mikrob sut 30 minut 143ºC da qizdirilganda ham sutda yashay oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Salmonella\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Clostridium\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Coxiella burnettii\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mikobakteriya tuberkulyozi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Limon kislotasi _____ ni nordonlashtiruvchi vosita sifatida qo’llaniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqat, ozuqa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qandolat mahsulotlari, ichimliklar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Muzqaymoq, xushbo’ y hid\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Minerallar, yogurt\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ pchilik sabzavotlarni ____ haroratda xavfsiz saqlash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 10 °C dan past\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 15 °C dan yuqori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 20 °C dan past\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 24 °C dan yuqori\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Laktozaning laktaza ta’ sirida gidrolizlanishida qanday monosaxaridlar hosil bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " D-glyukoza va D-glyukoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " D-glyukoza va β-D-galaktoza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " β-D-galaktoza va β-D-galaktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " D-glyukoza va D-fruktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Suv faolligi ___ da eng past bo’ladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tuzlangan go’ sht\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tuzlangan bodring va murabbo\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yangi sabzavotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Suvsizlangan oziq ovqatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri bosim ostida nam issiqlik yordamida oziq-ovqat mahsulotlarini saqlashning usulidir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yog’ och chekish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Marinadlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Konservalash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Pasterizatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qandli diabetga chalinganlar uchun tayyorlangan muzqaymoq tarkibida qandning qanday turi bo’ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Glyukoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Saxaroza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Fruktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Saxarin\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ovqatdan zaharlanishning qanday qo’ zg’ atuvchisi, odatda \"ergotizm\" deb ataladigan kasallik keltirib chiqaradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Salmonella\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Laktobakteriyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Claviceps\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xlamidiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pishirish uchun unib chiqqan arpa urug’ laridan ____ tayyorlashda foydalaniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sut kislotasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Vino\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pishloq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Pivo\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tez buzilmaydigan mahsulotlarni tanlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Shakar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kartoshka\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Meva\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qulupnay\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan sutni pasterizatsiya qilish uchun maqsadli organizmlarni tanlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mikobakteriya tuberkulyozi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Coxiella burnetii\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Clostridium botulinum\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bacillus cereus\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Samarali bo’ lishi uchun laktoferrin ___bo’ lishi kerak.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bikarbonatsiz past temir muhiti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Oz miqdorda temir bikarbonat muhiti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bikarbonatsiz temirga boy muhit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bikarbonatli temirga boy muhitda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Oziq-ovqat sifati quyidagi qanday testlarga tekshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Fosfataza testi, reduktaza testi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barqarorlik, eruvchanlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Plitalar standart soni,\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tuzlilik, kul miqdori\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Botulizmni qanday mikroorganizm keltirib chiqaradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Staphylococcus aureus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Clostridium perfringens\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Clostridium botulinum\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Salmonella typhi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ pchilik bakteriyalar 7,5% natriy xlorid konsentratsiyasi bilan ingibirlanadi, quyidagi qaysi gram-musbat kokklar bundan mustasno.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Stafilokokklar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pseudomonas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Aspergillus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Бацилла\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Miso ovqat mahsulotida qanday mikroorganizm asosida tayyorlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aspergillus oryzae\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tripanosama guzi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Lieshmania brazialiensis\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Plasmodium vivax\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tvorog suti, pishloq va sariyogʻlar tayyorlashda qanday mikroorganizmlardan foydalaniladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Achitqilar, penitsilium\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pseudomonas, stafilokokklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Streptokokklar, psevdomonaslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xamirturush, Aspergillus\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Buzilish darajasiga ko’ ra oziq ovqat mahsulotlar nechta toifalarga bo’ linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikki\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Uch\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ rt\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Besh\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Achitilgan sut mahsulotlarida diasetatning vazifasi ___berishdir.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sariyog’ ga yog ’ ta’ mi va xushbo’ ylik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Shveytsariya ta’ mi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faqat rang\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Hid\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Torulopsis utilis ___ hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oziq ovqat achitqilari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muhim ichak kommensal mikrobi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Uchinchi avlod vaktsinalarini ishlab chiqaradigan mikroorganizm\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Limon kislotasini sintez qilish uchun ishlatiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi mahsulot biriga bakteriyalar yopishmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sitrus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sabzavotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sut mahsulotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Go’ sht\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi ovqatlardan qaysi biri mikroblar tomonidan ishlab chiqarilmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tuzlangan karam\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Zaytun va soya sousi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sirka\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " NaCl\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mog’ or va achitqilar yangi uzilgan mevalarni buzishi mumkin, lekin ko’ pincha achitqi uchraydi, chunki\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xamirturush meva shakarlari tomonidan inhibe qilinmaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xamirturush sellyulozali materialni oson hazm qiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xamirturush mog’ orga qaraganda tezroq o’ sadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Meva shakarlari mog’ or shakllanishiga to’ sqinlik qiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi usullardan qaysi biri issiqqa chidamli bakteriyalar bo’ lgan oziq-ovqat mahsulotlarini saqlash uchun eng mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kimyoviy tozalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muzlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nurlanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Konservalash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qand miqdori yuqori bo’ lgan ovqatlar ___ ta’sirida buziladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Klostridiyalar, batsillalar va flavobakteriyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aspergillus va Torula\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Clostriduim va Proteus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " E. coli va salmonellalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bir hujayrali oqsillarni ishlab chiqarishda ishlatiladigan qaysi organizmlar eng tez o’ sish sur’ atlariga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bacillus polymyxa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aspergillus niger\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Achitqilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Spirulina\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qovoq tayyorlashda quyidagi konservantlardan qaysi biri ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Formaldegid\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " NaCl\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kaliy metabisulfit\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Natriy benzoate\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nordon meva sharbatlarini saqlash uchun natriy benzoate ____ ulushda qo’ shiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 0,01 - 0,5%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 0,06 - 0,10%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1,10 - 1,5%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1,6 - 2%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yogurt quyidagi qaysi mikroorganizmlar yordamida ishlab chiqariladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Lactobacillus bulgaricus, Thermophilus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Streptococcus thermophiles, Lactobacillus bulgaricus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Streptococcus salivarius sp., E.coli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Streptococcus thermophiles, Streptococcus salivarius sp.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Achitilgan sut mahsulotlarining asosiy ta’ mi va uni nima ta’siridan kelib chiqadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sirka kislotasi, dietil efir, diatsetil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Diasetil, sirka kislotasi, asetaldegid\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xloroform, benzo kislotasi, efir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Diasetil, metanol, dietil efir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’ mni saqlaydigan va yaxshilaydigan ataylab qo’ shilgan moddaga... deyiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oziqlantiruvchi qo’ shimchalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqatlarni ifloslantiruvchi moddalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqatlar cho’kmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqat materiallari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri oziq ovqat qo’shimchalarining vazifasi emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mahsulotning mustahkamligini saqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Oziqlanish qiymatini saqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kislota/ishqoriylikni nazorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuqoridagilarning hech biri\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri boshqariladigan sharoitlarda suvsizlanishning quyoshda quritishdan ustunligi hisoblanmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Narxi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Quritish vaqti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Quritish sifati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuqoridagilarning hech biri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri muzlash-suvsizlanish belgisi emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muz kristallarining doimiy chekinayotgan zonasi chegarasidan sublimatsiya natijasida namlikning yo’ qolishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Uzluksiz jarayon\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Eritishning oldini olish uchun etarlicha past haroratlardan foydalaning.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yuqoridagilarning hech biri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi bakteriyalardan qaysi biri oziq-ovqat mahsulotlarining rangsizlanishida ishtirok etadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Lactobacillus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mikrokokklar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Streptokokk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xamirturush\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi mahsulotlardan qaysi biri fermentlangan sut mahsulotlari hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pishloq va yogurt\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yog’ va qaymoq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qaymoq va muzqaymoq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sharob va pivo\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri fermentlangan ovqat mahsuloti hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kefir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pishloq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mol go’ shti ekstrakti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yogurt\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi fermentlardan qaysi biri o’ simliklardan ajratib olinmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Alfa amilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Papin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Izomeraza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Beta glyukanaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Lactobacillus kabi bakteriyalar tuzlangan karam, yogurt va zakvaskalar tayyorlash uchun zarur bo’ lgan birikmalarni ishlab chiqaradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sut kislotasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Karbonat angidrid\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xamirturush\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Un\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kislorodli yoki kislorodsiz sharoitda yashay oladigan bakteriyalar nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aerobik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Fakultativ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Anaerob\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Simbiotik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Meva va sabzavotlarni konservalash oziq ovqat mahsulotida qanday o’zgarishga sabab bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ranglar to’ plami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bakteriya sporalarini yo’ q qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ferment inaktivatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mikrob populyatsiyasining kamayishi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pishloq quyidagi oqsillardan qaysi biri bilan koagulyatsiya natijasida hosil bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Rennin fermenti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kazein\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Pepsin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tripsin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pishloq tayyorlash jarayonida sutni quyish uchun qaysi ferment ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ximozin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Rennin fermenti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tripsin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Amilaza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fermentlar qaysi xususiyatlari sabab oziq-ovqat komponentini parchalaydi, o’ zgartiradi yoki sintez qiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oksidlanish/qaytarilish/izomerlanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gidroliz/sintez\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Guruh o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Transfer\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Suvda eriydigan vitamin qaysi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " S vitamini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " B vitamini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " A vitamini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vitamin E\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Probiotiklar qaysi kasallik profilaktikasi maqsadida ishlatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yurak-qon tomir kasalliklari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gipertenziya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ovqat hazm qilish trakti kasalliklari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ pka infektsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Escherichia coli xususiyatini ko’rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Grammanfiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Grammusbat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kokk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vibrion\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri oziq-ovqat biotexnologiyasining afzalligi hisoblanmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yaxshiroq sifatli yangi mahsulotlarni taqdim etish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqat xavfsizligi yaxshilandi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqat xavfsizligining pasayishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xarajatlarni kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ko’ p iste’ mol qilinadigan disaxaridlarga misol bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Glyukoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Fruktoza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Saxaroza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Maltoza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tijorat maqsadida ishlab chiqarishda ishlatiladigan birinchi transgen o’ simlik nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Paxta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Pomidor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tamaki\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Guruch\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biotexnologiya nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oziq-ovqat, dori-darmon va boshqa foydali mahsulotlar ishlab chiqarish uchun tirik organizmlar va biologik jarayonlardan foydalanadigan sanoat usullari majmui\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Hayot haqidagi bilimlar majmuasi va hayotni oʻrganuvchi ilmiy fanlar majmui\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Biologiya fanlari yutuqlaridan texnik maqsadlarda foydalanadigan ilmiy tarmoqlar majmui\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mikroorganizmlarni o’ rganadigan biologik fan - ularning sistematikasi, morfologiyasi, fiziologiyasi, biokimyosi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ zgartirilgan hujayralar quyidagilardir:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xromosomalardan tashqari hujayralarda mavjud aylana DNK molekulalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bitta genomning ko’ p nusxalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mikroorganizmlar, shuningdek, tanadan tashqarida o’ sadigan hujayralar, ularga yangi genlar o’ tkazilgandan keyin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Biologik faol moddalar ishlab chiqaruvchilari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Micrococcum glutamicus o’stirish natijasida olingan oziq-ovqat mahsulotlarining ta’ mini kuchaytiruvchi vosita:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Izomalt\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Atsesulfam-M\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Glutamin kislota\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Neogesperedin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Har qanday biotexnologik jarayonning eng muhim qismi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Uskuna\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Texnologiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Energiya ta’ minoti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bioob’ ekt\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Insulin, fermentlar, antibiotiklar va vaktsinalar kabi farmatsevtika mahsulotlarini ishlab chiqarishda foydalaniladigan tibbiy biotexnologiya nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oq biotexnologiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qizil biotexnologiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moviy biotexnologiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yashil biotexnologiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mikroorganizmlarning biologik ob’ ektlaridan olingan biologik faol moddalar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aminokislotalar, antibiotiklar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Fenol, kumarin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Alkaloidlar, terpenoidlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Diagnostika\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bioob’ ektlar - fermentativ faollikka ega makromolekulalar biotexnologiyada quyidagilar uchun qo’ llaniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muolajalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Biotransformatsiyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Diagnostika tizimlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Oldini olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Peptid to’ qimalarining o’ sish omillarining xususiyatlarini ko’rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " To’ qimalarning o’ ziga xosligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Turlarning o’ ziga xosligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ichki sekretsiya bezlari tomonidan hosil bo’ lishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tabiiy konformatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tibbiyotda qo’ llaniladigan ferment preparatlarini olish uchun qanday usullar qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kimyoviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Jismoniy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mikrobiologik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kimyoviy-fermentativ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi moddalardan qaysi biri saxarozadan 300 marta shirinroq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Saxarin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aspartam\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sukraloza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Siklamatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Non pishirishda achitqilar quyidagi qaysi vazifalarni bajaradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Non mahsulotlarining saqlash muddatini oshiring\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Shirin ta’ m beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Uglevodlarning karbonat angidrid va etanolga parchalanishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Pishgan mahsulotlarda jigarrang qobiq paydo bo’ ladigan qizarish reaktsiyasiga duchor bo’ ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi achitqi nonni achitishga olib keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Saccharomyces cerevisiae\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mikrokokklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bolgar laktobakteriyalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Streptococcus thermophilus\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Genetik modifikatsiyalangan oziq-ovqatlar nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish texnologiyasidan foydalangan holda olingan biologik faol moddalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " DNKsi genetik muhandislik yordamida o’ zgartirilgan o’ simliklar, hayvonlar yoki mikroblardan olingan oziq-ovqatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tirik organizmlar, biologik ob’ ektlar va biologik jarayonlardan foydalanishga asoslangan biologik faol moddalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Istalgan mikroblarning o’ sishi va oziq-ovqat tarkibidagi oziq-ovqat tarkibiy qismlarining fermentativ o’ zgarishi natijasida hosil bo’ lgan oziq-ovqat va ichimliklar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi mahsulotlarni ishlab chiqarishda ko’ proq genetik modifikatsiyalangan organizmlardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pishloq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sabzavotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Baliq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Go’ sht\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Genetik modifikatsiyalangan ekinlardan tayyorlangan oziq-ovqatlarning hozirgi afzalliklari qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ular rentabellikni yaxshilaydi va ba’ zi fermerlarning ishini osonlashtiradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ular fermerlarga yetishtiriladigan ekinlar hajmini sezilarli darajada oshirish imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ular iste’ molchilar uchun qulaylikni oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ular oziq-ovqatlarning ozuqaviy sifatini yaxshilaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Genetik modifikatsiyalangan ekinlardan olingan ko’ pgina oziq-ovqatlar quyidagilarni o’ z ichiga oladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " An’ anaviy ekinlardan olingan oziq-ovqatlardagi kabi genlar soni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gibrid ekinlardan olingan mahsulotlar bilan bir xil miqdordagi genlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bir yoki ikkita qo’ shimcha gen\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuzlab qo’ shimcha genlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Gen injeneriyasi yordamida insulin ishlab chiqarish uchun qaysi bakteriyadan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sakkaromitslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Rhizobium\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Escherichia\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mikobakteriya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Geni o‘zgartirilgan oziq-ovqatlarning qaysi biri afzalligi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ekinlarning kamroq tez o’ sishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kasalliklarga chidamlilik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko’ proq mos yashash joylarida ekinlarni etishtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ko’ tarilgan xarajatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri gen muhandisligida muhim hisoblanmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Makkajo’ xori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Paxta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Soya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qora loviya\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri gen muhandisligi bilan bog’ liq muammo emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Inson tanasiga toksinlarni kiritish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yangi allergiya rivojlanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Genetik qarshilikni rivojlantiruvchi zararkunandalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vitamin va minerallarga ta’ sir qilishning kuchayishi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri qishloq xo‘jaligi biotexnologiyasining keng qo‘llanilishi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hosildorlikni oshirish uchun ekinlarning genetik modifikatsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Almashlab ekish usullari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kimyoviy pestitsidlar yordamida zararkunandalarga qarshi kurash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tuproq eroziyasini oldini olish usullari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qishloq xo’ jaligida muhim genlarni topish va aniqlash _________ deyiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Immobilizatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gen terapiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Genni tartibga solish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Genni aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qishloq xo‘jaligi biotexnologiyasining asosiy maqsadi nimadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qishloq xo’ jaligi samaradorligi va barqarorligini oshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ekinlar xilma-xilligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oziqlanish qiymati yuqori bo’ lgan ekinlarni rag’ batlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kimyoviy o’ g’ itlardan foydalanishni kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kimlar biotexnologiyani biologik organizmlar, tizimlar yoki jarayonlarni ishlab chiqarish va xizmat ko’ rsatish sohalarida qo’ llash deb ta’ riflagan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yaponiya biotexnologlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " AQSh Milliy fan fondi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Britaniya biotexnologlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yevropa biotexnologiya federatsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ simliklar zararkunandalariga qarshi kurashning yangi yondashuvlarini o’ z ichiga olgan biotexnologiya qanday nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Biotexnologiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mikrob agrobiotexnologiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Chorvachilik biotexnologiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Dengiz biotexnologiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Klonlashning qaysi turi monoklonal antitelalar texnologiyasi bilan bog’ liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Hayvonlarni klonlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ simliklarni klonlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Hujayrani klonlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Molekulyar klonlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Glifosatga chidamlilik geni qaysi bakteriyadan ajratilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Salmonella typhimurium\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Staphylococcus aureus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Treponema pallidum\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Borrelia afzelii\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi birikma yog’ ochni chirishga chidamli qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xlorofil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sellyuloza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Lignin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yog’ och\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bulardan qaysi biri ochiq urug’li hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Paxta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Oq archa\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nok\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Lotus\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi gerbitsid nitrilaza bilan zararsizlantiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Atrazin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Imidazolinonlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Glifosat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bromoksinil\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri o‘zaro himoyalanishning kamchiliklari emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sinergetika\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mutatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Hosildorlikni yo’ qotish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Virusning tarqalishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ushbu genlardan qaysi biri Rhizoctina solani ga chidamli?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sitinaza geni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Asetiltransferaza geni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Osmotin geni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xitinaza geni\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagi usullardan qaysi biri gen muhandisligda o’ simliklarda azot fiksatsiyasini kuchaytirish uchun keng qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Polimeraza zanjiri reaktsiyasi (PCR)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Janubiy qorayish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " CRISPR-Cas9\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " RNK aralashuvi (RNAi)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Muz idishidagi fermentlarning saqlash muddati qancha?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2-3 daqiqa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1-2 daqiqa\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 4-5 daqiqa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 3-4 daqiqa\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ushbu fermentlarning qaysi biri DNK duplekslarining uchma uch birlashishiga yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Polinukleotidligaza T4\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ligaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ribonukleaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tsellyuloza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi bir jarayonda plazmiddan foydalanilmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gen almashinuvi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Klonlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Organizmlarni yo’ q qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gen manipulyatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Vektorlarning o’ zini klonlashda ulardan qaysi biri mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Gen ishlab chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Genetik ketma-ketlikni saqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gen tarjimasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Gen transkripsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bakteriofagning asosiy tarkibiy qismlari nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Proteinlar va lipidlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Uglevodlar va lipidlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Proteinlar va uglevodlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nuklein kislotalar va oqsillar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " _____ ga chidamli o’ simliklar RNK aralashuvi yordamida yaratilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Zararkunandalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Zamburug’lar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nematodalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Viruslar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xo’jayin hujayraga rekombinant DNKni kiritish jarayoni qanday bo’ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ampitsillinni o’ z ichiga olgan ozuqaviy muhitda xost hujayrasini o’ stirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " DNKni hujayralar tomonidan o’ zlashtirilishini rag’ batlantirish uchun DNKni uglevodlar bilan qoplash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Hujayralarni elektr impulslari yoki kaltsiy ionlari bilan rag’ batlantirish, ularni o’ tkazuvchanligini oshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Proteinlarni xost hujayralariga ularning o’ tkazuvchanligini oshirish uchun kiritish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi ferment DNK uchlaridan nukleotidlarni olib tashlash uchun javobgardir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Endonukleaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ekzonukleaza\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " DNK ligaza\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Hind II\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Yangi nav yaratishda quyidagilardan qaysi biri gen muhandisligiga kiradi?\n"
+            },
+            {
+                "type": "text",
+                "content": "(1) gen yaratish; (2) in vitro urug’ lantirish; (3) noto’ g’ ri genni tuzatish; (4) DNK-vaktsina yaratish.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " (1) va (2)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " (2) va (3)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " (3) va (4)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " (1), (2), (3) va (4)\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "DNK gel elektroforezida yakuniy gelda turlicha yo’llarni hosil qiladi, chunki DNK molekulalari ________.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Turli organizmlarga tegishli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Turli uzunliklarga ega bo’ ladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Turli xil nukleotid tarkibiga ega\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Turli xil genlarga ega\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yashil biotexnologiya mahsulini to’g’ri ko’rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sanoat kimyoviy moddalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sanoat katalizatorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " BT makkajo’ xori\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sanoat antibiotiklari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bir organizmdan bakteriya hujayrasiga genni nima o’ tkazadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Plazmid\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Elektroforez jeli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Cheklash fermenti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Polimeraza zanjiri reaktsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Genetik modifikatsiyalangan organizm (GMO) nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muayyan genlari olib tashlangan o’ simlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sun’ iy ravishda o’ zgartirilgan genomga ega organizm\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Gibrid organizm\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Naslchilik yoki biotexnologiya yo’ li bilan ishlab chiqarilgan har qanday qishloq xo’ jaligi organizmi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Agrobacterium tumefaciens transgen o’ simliklarni olishda qanday rol o’ ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A. tumefaciens genlari oʻsimlik DNKsiga kiritilib, oʻsimlikka har xil xususiyatlarni beradi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Transgen o’ simliklar A. tumefaciens zararkunandalariga qarshilik ko’ rsatdi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " A.tumefaciens genlarni o’ simlik hujayralariga ko’ chirish uchun vektor sifatida ishlatiladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’ simlik genlari Agrobacterium tumefaciens genomiga kiritilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Genom sekvensi oldida turgan eng katta muammo nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tez va aniq ketma-ketlik usullarini ishlab chiqmaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Individual darajada genomik ma’ lumotlardan foydalanish etikasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " DNK ning mavjudligi va barqarorligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Restriktaza ferment\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qishloq xo’ jaligida genomikadan quyidagilar foydalanish mumkin:\n"
+            },
+            {
+                "type": "text",
+                "content": "1) yangi gibrid shtammlarni yaratish; 2) kasalliklarga chidamliligini oshirish; 3) mehnat unumdorligini oshirish; 4) virusli kasalliklar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1,2,4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2,3,4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1,2,3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1,2,3,4\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday kasalliklar to’liq genom bo’ yicha assotsiatsiyalar yordamida o’ rganiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Virusli kasalliklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Monogen irsiy kasalliklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko’ p genlar keltirib chiqaradigan kasalliklar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Atrof-muhit omillaridan kelib chiqqan kasalliklar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri muvaffaqiyatli PZR amplifikatsiyasi uchun zarur?\n"
+            },
+            {
+                "type": "text",
+                "content": "a) DNKning bir yoki bir nechta nusxalari kuchaytirilishi kerak;\n"
+            },
+            {
+                "type": "text",
+                "content": "b) Barcha normal DNK nukleotidlari;\n"
+            },
+            {
+                "type": "text",
+                "content": "c) Ayrim dideoksinukleotidlar;\n"
+            },
+            {
+                "type": "text",
+                "content": "d) Ikki xil praymer;\n"
+            },
+            {
+                "type": "text",
+                "content": "f) E. coli DNK polimerazasi;\n"
+            },
+            {
+                "type": "text",
+                "content": "f) yuqori haroratda yashovchi organizmning DNK polimerazasi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " b, d, e, f\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "a, b, d, f\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " a, c, d, e\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " a, c, d, f\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

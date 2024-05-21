@@ -1,0 +1,5878 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya kontekstida risk nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sarmoyani yo’ qotish ehtimoli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Vaqtni behuda sarflash imkoniyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Daromadni yo’ qotish ehtimoli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishni yo’ qotish ehtimoli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Portfel riskini o’ lchash uchun qaysi vositadan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Standart og’ ish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ rtacha daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Median daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Standart og’ ish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Diversifikatsiya nima ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiyalarni turli aktivlar orasida taqsimlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barcha kapitalni bitta aktivga investitsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bir tarmoqqa investitsiyalar jamlanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat yuqori xavfli aktivlarni tanlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Daromad olish va kapitalni ko‘paytirish maqsadida aksiyalar, obligatsiyalar va boshqa moliyaviy vositalarga investitsiya qilish qanday nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Portfel investitsiyalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Spekulyatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Arbitraj\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Depozit\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Diversifikasiya yo’ li bilan qanday xavf turini bartaraf etib bo’ lmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bozor xavfi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Noyob xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Maxsus xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Diversifikatsiya qilinadigan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy ekonometriya nimani o’ rganadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Moliyaviy ma’ lumotlarni tahlil qilish uchun matematik usullarni qo’ llash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bozorda investorlarning xulq-atvori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy bozorlar faoliyati qoidalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy tsikllar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Obligatsiyalarni baholashda qaysi ko’ rsatkich eng muhim hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kredit reytingi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Dividend daromadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Muomaladagi aksiyalar soni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mahsulot narxi tarixi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sharp koeffitsienti nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsion daromadning uning riskiga nisbatan o’ lchovi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning kredit reytingini baholash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ rtacha portfel daromadini hisoblash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Dividendlarni to’ lashning baholash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiyalar kontekstida ‘‘likvidlik’’ tushunchasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aktivning qiymatini sezilarli darajada yo’ qotmasdan tezda sotilishi qobiliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktivning daromad olish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Aktivlarning bozor tebranishlariga chidamliligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aktiv qiymatining uzoq muddatli o’ sish potentsiali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Obligatsiya nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Egasiga belgilangan foiz to’ lovlarini olish huquqini beruvchi qarz vositasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning kapitalidagi ulush\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kelajakda aktsiyalarni sotib olish shartnomasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy derivativ turi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya risklarini boshqarishda xedjlashdan foydalanishdan maqsad nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mumkin bo’ lgan yo’ qotishlardan himoya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kafolatlangan yuqori daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bozor o’ zgarishlari bo’ yicha chayqovchilik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bozor ulushini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aktivlarni baholashning qaysi usuli kelajakdagi pul oqimlarining joriy qiymatini hisobga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Diskontlangan pul oqimi (DCF)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bozor multiplikatori usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xarajat yondashuvi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qoldiq qiymat usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ma’ lum daromad darajasida minimal xavfga ega portfel nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Samarali portfel\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Diversifikatsiyalangan portfel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Balanslangan portfel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Agressiv portfel\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aktivning rentabelligini uning riski bilan solishtirish uchun qaysi moliyaviy tahlil vositasidan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sharp koeffitsienti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sortino koeffitsienti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Beta koeffitsienti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Alfa koeffitsienti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Beta-koeffitsienti nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aktivning bozor xavfining o’ lchovi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktiv daromadining bozor daromadiga nisbati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Risksiz daromadga nisbatan aktivning daromadliligi o’ lchovi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aktiv o’ zgaruvchanligining bozor o’ zgaruvchanligiga nisbati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi investitsiyalar eng likvidli hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pul mablag’ lari va ularning ekvivalentlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ko’ chmas mulk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ plamlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Uzoq muddatli obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muqobil investitsiyalar nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Standart toifalarga kiritilmagan aktivlarga investitsiyalar (aktsiyalar, obligatsiyalar)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktsiyalar va obligatsiyalarga an’ anaviy investitsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy derivativlarga investitsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Banklardagi omonat depozitlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tahlilning qaysi turi aktsiyalarni baholash uchun moliyaviy hisobotlarni va iqtisodiy tendentsiyalarni tekshirishga qaratilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Asosiy tahlil\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Texnik tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Miqdoriy tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sifatli tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Indeks fondi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muayyan bozor indeksiga amal qiluvchi investitsiya fondi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ayrim aktsiyalarga sarmoya kirituvchi fond\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Jamg’ arma daromadni maksimal darajada oshirishga faol erishdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xususiy investitsiya fondi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi jarayon investitsiya kapitalini turli xil aktivlar orasida taqsimlashni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aktivlarni taqsimlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bozor vaqti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Zaxiralarni yig’ ish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xedjlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya mahsuloti bilan bog’ liq shartlar va risklarni tushunish uchun investor qanday hujjatga muhtoj?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Emissiya prospekti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yillik hisobot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Auditor hisoboti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Daromad sertifikati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bozor konyunkturasidan qat’ i nazar, investitsiyalar muntazam ravishda amalga oshiriladigan strategiya qanday nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Dollarning o’ rtacha qiymati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Spekulyativ savdo\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bozor vaqti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mavsumiy investitsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ zgaruvchanlik nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aktivlar narxining o’ zgaruvchanligi o’ lchovi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktivdan olinadigan daromadning barqarorligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kafolatlangan foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yo’ qotish xavfi past\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi moliyaviy vosita investorga aktivni belgilangan muddatda belgilangan narxda sotib olish yoki sotish majburiyatini emas, balki huquqni beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Optsion\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Obligatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Rag’ batlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ETF\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kompaniya qiymatini baholashning qaysi usuli uning moliyaviy ko’ rsatkichlarini boshqa kompaniyalarning o’ xshash ko’ rsatkichlari bilan solishtirishni o’ z ichiga oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Taqqoslanadigan kompaniyalar usuli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sof aktiv usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Diskontlangan pul oqimi usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qoldiq qiymat usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya strategiyasini tanlashga qanday omillar ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Moliyaviy maqsadlar, investitsiya shartlari, investorlar xavfi profili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mamlakatdagi siyosiy vaziyat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mavsum\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsiya mahsulotining rangi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ayiq bozori nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Narxlarning pasayishi bilan tavsiflangan bozor\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Narxlarning o’ sishi bilan tavsiflangan bozor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Narxlarning sezilarli o’ zgarishisiz barqaror bozor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuqori volatillik bozori\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliya bozorining qaysi vositasi obligatsiya egasiga nominal qiymati va muddati kelganda foizlarni to’ lash bo’ yicha uzoq muddatli majburiyatni ifodalaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Obligatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Rag’ batlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Variant\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Fyuchers\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bozor kapitallashuvi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning barcha chiqarilgan aksiyalarining umumiy qiymati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kompaniya tomonidan to’ langan dividendlar miqdori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Umumiy bozor savdosi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Birjada sotiladigan aksiyalar soni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Portfel nazariyasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investorlar ma’ lum bir xavf darajasi uchun daromadni maksimal darajada oshirish uchun portfellarni qanday shakllantirishlari mumkinligini tushuntiruvchi nazariya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bozorda aktsiyalarni tanlash usullarini tavsiflovchi nazariya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bozor doimo muvozanatda ekanligi haqidagi nazariya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aktsiyalarga sarmoya kiritish daromad keltirmaydi degan nazariya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Portfelni diversifikatsiya qilish nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xavfni kamaytirish uchun investitsiyalarni turli aktiv turlariga tarqatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barcha kapitalni bitta aktivga investitsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Maksimal foyda olish uchun turli aktivlarga sarmoya kiritish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bitta kompaniyaning qo’ shimcha aktsiyalarini sotib olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya daromadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiyalardan olingan foyda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investitsiyalar miqdori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Foyda olish uchun zarur bo’ lgan vaqt\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsion xavf darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya tavakkalchiligi miqdoriga qanday omil ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Narxlarning o’ zgaruvchanligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kapital miqdori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investitsiya muddati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Narxlarni kutish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya xavfini baholashda qanday omillarni hisobga olish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zgaruvchanlik, likvidlik, rentabellikning barqarorligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktiv rangi, chiqarilgan yili, kompaniya tarixi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Geografik joylashuv, ob-havo, ijtimoiy tendentsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sotib olish vaqtidagi aktivlarning qiymati, komissiyalar miqdori, brokerning kredit reytingi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korrelyatsiya koeffitsienti nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ikki o’ zgaruvchi o’ rtasidagi munosabat o’ lchovi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktivlar narxining o’ zgaruvchanligi darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kredit foiz stavkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aktiv qiymatining uning rentabelligiga nisbati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Birja indeksi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Birjadagi aksiyalar qiymatining o’ zgarishi ko’ rsatkichi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ommaviy sotiladigan kompaniyalar ro’ yxati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning yillik hisobotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kredit foiz stavkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion strategiyani tanlashga qanday omil ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investorning moliyaviy maqsadlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investitsiya mahsulotining rangi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investitsiya mahsulotining chiqarilgan yili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsion mintaqadagi ob-havo\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’ rtacha og’ irlikdagi daromad darajasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiyaning barcha daromadlari va xarajatlarini hisobga oladigan stavka\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktivni sotib olish vaqtida aniqlangan stavka\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Inflyatsiyaga bog’ liq stavka\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Broker tomonidan taklif qilingan kurs\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi turdagi risk ma’ lum bir kompaniya yoki individual aktiv bilan bog’ liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Maxsus xavf\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tizimli xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tarkibiy bo’ lmagan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Valyuta xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya davri nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investor sarmoyani ushlab turishni rejalashtirgan vaqt davri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Turli aktivlarga sarmoya kiritish strategiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Birja joylashgan shahar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qabul qilinadigan maksimal investitsiya xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya faoliyatidagi ‘‘tizimli risk’’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Davlatning iqtisodiy siyosatidagi o’ zgarishlar bilan bog’ liq xavf\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muayyan kompaniya yoki individual aktiv bilan bog’ liq xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Butun sanoat yoki umuman bozorga ta’ sir qiladigan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kutilmagan tabiiy ofatlardan kelib chiqadigan xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiyalarni boshqarish kontekstida ‘‘erkin bozor’’ tushunchasi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiyalarga kirish yoki undan chiqish uchun hech qanday cheklovlar yoki to’ siqlar bo’ lmagan bozor\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barcha aktivlar nol qiymatga ega bo’ lgan bozor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Barcha investitsiyalar butunlay risksiz bo’ lgan bozor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bitta sotuvchi va bitta xaridor bo’ lgan bozor\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday omil obligatsiyalar daromadining oshishiga ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Inflyatsiyaning pasayishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ishsizlikning ortishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Daromad solig’ i stavkasini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kompaniya tomonidan to’ lanadigan foyda ulushining kamayishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Portfel investitsiyalari’’ atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xavfni kamaytirish uchun turli moliyaviy vositalarga sarmoya kiritish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Barcha kapitalni bitta kompaniya yoki aktivga investitsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faqat bitta kompaniyaning aktsiyalarini sotib olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat naqd pulga investitsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " \"Qayta moliyalash foiz stavkasi\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Banklar markaziy bankdan qarz olishi mumkin bo’ lgan stavka\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Banklar korxonalar va jismoniy shaxslarga kredit berish stavkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Banklar markaziy bankka depozit qo’ yishi mumkin bo’ lgan stavka\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Markaziy bankning banklardan obligatsiyalarni sotib olish kursi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Uzoq muddatli investitsiyalar’’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 5 yildan ortiq muddatga investitsiyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktsiyalarga investitsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Davlat obligatsiyalariga investitsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qisqa muddatli depozitlarga investitsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi investitsion yondashuv portfelni faol boshqarish orqali daromadni maksimal darajada oshirishga qaratilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faol boshqaruv\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Passiv nazorat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Dollarning o’ rtacha qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sotib olish va ushlab turish strategiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya aktivini «tugatish» nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aktivni sotish va pul mablag’ larini olish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Birjada aktiv sotib olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yangi aktivga investitsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aktiv qiymatining oshishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya profilini aniqlashda odatda qanday omillar hisobga olinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Moliyaviy maqsadlar, investitsiya tajribasi, xavf profili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investitsiya mahsulotining rangi, portfeldagi aksiyalar soni, investorning geografik joylashuvi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oila a’ zolari soni, ijtimoiy mavqei, ta’ lim darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Siz yashayotgan hududdagi ob-havo, filmlardagi afzalliklar, sevimli sport turi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Samarali bozor’’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aktivlar narxi har doim imkon qadar samarali bo’ lgan bozor\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Hech qanday investitsiya xavfi mavjud bo’ lmagan bozor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faqat malakali investorlar ishlaydigan bozor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Aktivlar narxi haqidagi ma’ lumotlar barcha ishtirokchilar uchun mavjud bo’ lgan va barcha mavjud ma’ lumotlarni aks ettiradigan bozor\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Alfa-koeffitsient atamasi investitsiyalarni boshqarish kontekstida nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bozor daromadiga nisbatan sarmoyaning ortiqcha daromadlilik o’ lchovi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investitsion riskning o’ lchovi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Investitsiyalar bo’ yicha minimal daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sarmoyadan maksimal foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy tahlilda ‘‘qiyoslanadigan kompaniyalar usuli’’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning moliyaviy ko’ rsatkichlarini boshqa kompaniyalarning o’ xshash ko’ rsatkichlari bilan solishtirish orqali uning qiymatini baholash usuli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi pul oqimlari asosida kompaniyaning joriy qiymatini aniqlash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompaniya qiymatini uning aktivlarining qoldiq qiymatiga qarab hisoblash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning foydasiga qarab uning qiymatini aniqlash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Birja korrelyatsiyasi indeksi’’ atamasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Turli fond indekslari o’ rtasidagi munosabatlarning o’ lchovi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Birjadagi aktsiya bahosi o’ zgaruvchanligi o’ lchovi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Birja korrelyatsiyasi indeksiga kiritilgan kompaniyalar ro’ yxati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Birjada sotiladigan kompaniyalar ro’ yxati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Portfel menejeri’’ kim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsiya portfelini boshqarish uchun mas’ ul bo’ lgan professional\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Birja savdosiga ixtisoslashgan professional\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ z investitsiya portfelini boshqaradigan investor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investitsiya portfelini boshqarishning avtomatlashtirilgan tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Portfel faoliyatini baholash uchun qaysi statistika eng muhim hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ rtacha yillik daromad\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qaytishning standart og’ ishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Barcha investitsiya davri uchun o’ rtacha daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Median daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aktivning qiymatini uning narxini o‘xshash aktivlar bahosi bilan solishtirish yo‘li bilan baholash usuli qanday nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Taqqoslanadigan tranzaktsiyalar usuli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xarajatga yondashuv usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Diskontlangan pul oqimi usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qoldiq qiymat usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Bozor o‘zgaruvchanligi’’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Moliya bozoridagi narxlarning o’ zgaruvchanligi o’ lchovi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bozordagi narxlarning barqarorligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bozor inflyatsiya darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bozordagi narxlarning o’ zgarishi darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aktsiyalarning bozor narxiga qanday omillar ta’ sir qilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning moliyaviy hisobotlari, makroiqtisodiy ko’ rsatkichlar, qonunchilikdagi o’ zgarishlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ob-havo, siyosiy vaziyat, investorlarning tavakkalchilik ishtahasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Stok rangi, boshqaruv moliyaviy holati, yil vaqti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Futbol chempionati, markaziy bank qarori, iste’ molchilarning afzalliklari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Passiv investitsiya strategiyasi’’ nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bozor indekslariga mos keladigan fondlarga sarmoya kiritish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Maksimal daromad olish uchun portfelni faol boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bozordagi alohida aktsiyalarga sarmoya kiritish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ko’ chmas mulk va ko’ chmas mulkka sarmoya kiritish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Beta-koeffitsient atamasi investitsiyalarni boshqarish kontekstida nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bozor tavakkalchiligiga nisbatan investitsiya xavfining o’ lchovi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Investitsiyalarning daromadlilik o’ lchovi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Banklar kredit berish stavkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ikki aktivning korrelyatsiya koeffitsienti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri investitsiya emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yangi mashina\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bank tomonidan berilgan depozit sertifikati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " AQSh jamg’ armasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pensiya hisobidagi o’ zaro fond\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qimmatli qog’ ozlar - bu korxonani _______ ifodalovchi ________ investitsiyalar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " egalik qilishni; to’ g’ ri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " burchini; to’ g’ ri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mulkini; bilvosita\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " burchini; bilvosita\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yirik korporatsiyalar aktsiyalariga investitsiya qiluvchi birja fondi quyidagilarning qaysi biriga misol bo’ la oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " to’ g’ ridan-to’ g’ ri investitsiyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bilvosita investitsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hosilaviy investitsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moddiy investitsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri keyingi yillarda kamaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yakka tartibdagi investorlarning aktsiyalarga bevosita egalik qilishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tipik portfellardagi xorijiy aktsiyalarning ulushi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " oddiy aktsiyalarga institutsional egalik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " investorlar uchun mavjud bo’ lgan ma’ lumotlarning dolzarbligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarz bu - ..... evaziga qarzga berilgan puldir.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " foizli daromadlar va asosiy qarzni qaytarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " dividend daromadi va kreditning asosiy to’ lovi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dividend daromadi va firmadagi egalik ulushi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " foizli daromad va kompaniyada qisman ishtirok etish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hukumat odatda.....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " moliya bozoridagi mablag’ larning iste’ molchisi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " moliyaviy bozorlarda qatnashmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " moliya bozorining egasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moliya bozoriga mablag’{} yetkazib beruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sof asosda moliya bozorlaridagi mablag’ lar odatda kim tomonidan taqdim etiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " jismoniy shaxslar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " jismoniy shaxslar va tijorat firmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tijorat firmalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " hukumat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yetkazib beruvchilar va xaridorlar moliyaviy operatsiyalarni amalga oshiradigan forum moliyaviy ..... deb ataladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bozor\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " muassasa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bank\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " vosita\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri institutsional investorlarga tegishli?\n"
+            },
+            {
+                "type": "text",
+                "content": "I. Institutsional investorlar boshqa odamlar uchun pulni boshqaradigan mutaxassislardir\n"
+            },
+            {
+                "type": "text",
+                "content": "II. Banklar, sug’ urta kompaniyalari va investitsion fondlar institutsional investorlardir\n"
+            },
+            {
+                "type": "text",
+                "content": "III. Institutsional investorlar moliyaviy institutlar orqali bilvosita investitsiya kiritadigan shaxslardir\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. Institutsional investorlar katta miqdordagi mablag’ ni investitsiya qiladilar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " faqat I , II va IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat I va II\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faqat II , III va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " I , II , III va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri qimmatli qog’ ozlar bozorida sotilmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ko’ chmas mulk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aktsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " hosilalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri moddiy boyliklarga misol bo‘la oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ko’ chmas mulk\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " investitsiya fondlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aktsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi investitsiyalardan qaysi biri eng likvidli bo’ ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pul bozori investitsiya fondi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " rag’ batlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " E seriyali AQSh jamg’ arma obligatsiyalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ko’ chmas mulk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi investitsiyalardan qaysi biri korporatsiyaning qisman egalik huquqini ifodalaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " oddiy aktsiyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " investitsiya fondlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tijorat qog’ ozi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Diversifikatsiyalangan, professional boshqariladigan qimmatli qog’ ozlar portfelini qidirayotgan investorlar quyidagilarning qaysi birini sotib olishlari mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " investitsiya fondlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " imtiyozli aktsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " konvertatsiya qilinadigan qimmatli qog’ ozlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " sug’ urta polislari.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya fondlari va birja fondlarining umumiy xususiyatlaridan biri shundaki, …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ular qimmatli qog’ ozlarning keng ko’ lamli diversifikatsiyalangan portfellariga sarmoya kiritadilar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ular savdo kuni davomida uzluksiz savdo qiladilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ularning portfellari har doim asosiy bozor indekslaridan biriga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " investorlar aktsiyalarni boshqa investorlardan emas, balki fond menejerlaridan sotib olishadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ ozlar bozoridagi aktsiyaning joriy narxi bu.....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bozor qiymati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kitob qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " investitsiya qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nominal xarajat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri investitsiya maqsadlarini ifodalaydi?\n"
+            },
+            {
+                "type": "text",
+                "content": "I. uy yoki ta’ lim kabi asosiy xarajatlar uchun tejash\n"
+            },
+            {
+                "type": "text",
+                "content": "II. daromadlarni soliqdan yashirish\n"
+            },
+            {
+                "type": "text",
+                "content": "III. joriy daromadning oshishi\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. nafaqa uchun pul tejash\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Faqat I , III va IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat I va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faqat III va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " hammasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Maqsadlaringizga mos keladigan investitsiyalarni tanlashda siz e’ tiborga olishingiz kerak\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " risklar, daromadlar va soliqlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " faqat foyda marjasi va soliqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " faqat soliqdan oldin deklaratsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " faqat yillik dividendlar va soliqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sara bir yil oldin aksiyani har bir aksiya uchun 32 dollarga sotib olgan. O’ tgan yili u har chorakda 0,75 dollardan to’ rtta dividend oldi. Bugun u bir aktsiyani 38 dollarga sotdi. Uning har bir aksiya uchun kapital daromadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 6 dollar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 3 dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 8 dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 9 dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Puxta o’ ylangan investitsiya siyosati bayonotida quyidagilarning qaysi biri ko’ rsatiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sanab o’ tilganlarning hammasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " investorning hozirgi yoshi va uning iqtisodiy holati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tez-tez yoki kamdan-kam savdo qilish uchun investor afzalligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " investor ko’ rib chiqmoqchi bo’ lgan investitsiyalar turlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kichik miqdordagi investitsiyalarga ega bo’ lgan yangi investorlar qanday yo’l tutgani maqul?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " investitsiya fondlari yoki birja fondlarini sotib olish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aktsiyalarga sarmoya kiritishdan butunlay saqlanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " barcha pullarni bitta yuqori sifatli aktsiyaga investitsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " juda past narxdagi aktsiyalar portfelini sotib olish (arzon aktsiyalar)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tadqiqotlar shuni ko’ rsatadiki, o’ z portfellarini diqqat bilan kuzatadigan va narxlarning kichik o’ zgarishiga javoban tez savdo qiladigan investorlar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " uzoq muddatli investitsiyalarga ega bo’ lgan va kamdan-kam savdo qiladiganlardan past\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " uzoq muddatli investitsiyalarga ega bo’ lgan va kamdan-kam savdo qiladiganlardan ustundir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " uzoq muddatli investitsiyalarga ega bo’ lgan va kamdan-kam savdo qiladiganlar bilan bir xil daromad stavkalarini oling\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " uzoq muddatli investitsiyalarga ega bo’ lgan va kamdan-kam savdo qiladiganlarga qaraganda ko’ proq ma’ lumotli va yuqori daromadga ega\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri iqtisodiy tahlilga tegishli?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " umumiy reyting iqtisodiyotning holati va uning biznesga potentsial ta’ siri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kompaniya faoliyat yuritadigan muayyan sohaning umumiy ko’ rinishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kompaniyaning moliyaviy holati va faoliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " barcha javoblar to’ g’ ri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri sanoat tahliliga tegishli?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kompaniya faoliyat yuritadigan aniq sohaning umumiy ko’ rinishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " umumiy ball iqtisodiyotning holati va uning biznesga potentsial ta’ siri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kompaniyaning moliyaviy holati va faoliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " barcha javoblar to’ g’ ri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri fundamental tahlilga to’ g’ ri keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kompaniyaning moliyaviy holati va faoliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " umumiy ball iqtisodiyotning holati va uning biznesga potentsial ta’ siri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kompaniya faoliyat yuritadigan muayyan sohaning umumiy ko’ rinishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ushbu sohadagi raqobat darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion daromadlar (foizlar, dividendlar, kapital daromadlari ) bu.….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " portfel daromadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " passiv daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dividend\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " faol daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ham ushlab turish davri, ham uzoq muddatli kapital daromadlari uchun soliq stavkasi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " siyosiy bosim va vaqti-vaqti bilan o’ zgarib turadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " juda barqaror va 1960-yillardan beri o’ zgarmagan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " $388,351 dan ortiq daromad bilan tugatiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " har yili inflyatsiyaga moslashtirilgan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq rejalashtirish\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qabul qilinadigan xavf darajasida uzoq muddatda soliqdan keyingi daromadlarni maksimal darajada oshirishga yo’ naltiradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " daromad manbasini e’ tiborsiz qoldiradi va faqat daromad miqdoriga e’ tibor beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " asosan daromadi 200 000 dollardan past bo’ lgan odamlar tomonidan amalga oshiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " joriy yil daromadlarini ko’ rib chiqish va joriy soliqlarni minimallashtirish yo’ llarini aniqlash bilan cheklangan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Spekulyativ va o’ sishga yo’ naltirilgan investitsiyalar quyidagilarning qaysi biriga eng kam mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " nafaqaxo’r investorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yosh investorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’ rta yoshli investorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yuqori daromadli investorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O’ z boyligini imkon qadar tezroq ko’ paytirishga intilayotgan investorlar quyidagilarning qaysi biriga sarmoya kiritadilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tez o’ sishga intilayotgan kichik kompaniyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " korporativ obligatsiyalar va imtiyozli aktsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " yuqori dividendli yirik kompaniyalarning aktsiyalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " past riskli davlat obligatsiyalari va aktsiyalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilarning qaysi biri qisqa muddatli investitsiyalar bilan bog’ liq asosiy xavf hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sotib olish qobiliyati xavfi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " defolt xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " foiz stavkasi xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " iqtisodiy xavf\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qisqa muddatli investitsiyalar:\n"
+            },
+            {
+                "type": "text",
+                "content": "I. Likvidlikni ta’ minlaydi\n"
+            },
+            {
+                "type": "text",
+                "content": "II. Ko’ pgina investitsion dasturlarning muhim qismini tashkil qiladi\n"
+            },
+            {
+                "type": "text",
+                "content": "III. Past xavf bilan yuqori daromad keltiradi\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. Favqulodda resurslar bilan ta’ minlaydi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " faqat I , II va IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat I va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faqat II va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " I , II , III va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi summagacha federal sug’ urta jamg’ arma va pul bozori depozit hisoblarini (MMDA) himoya qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 250 000 dollar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 100 000 dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 150 000 dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1 000 000 dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "2010 yildan boshlab depozitlarni sug’ urtalash bo’ yicha Federal korporatsiya tomonidan foizsiz hisobvaraqlarda himoyalangan miqdor?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " cheksiz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nol\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 100 000 dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 250 000 dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " 2010 yildan boshlab omonat daftarlari va depozit sertifikatlari bo’ yicha foiz stavkasi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " inflyatsiya darajasidan past edi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " inflyatsiya sur’ atlarini yaqindan kuzatib boradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " inflyatsiya darajasidan o’ rtacha 1,5% ga oshdi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " juda ikkilandi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri eng past xavf darajasiga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " AQSh g’ aznachilik vekseli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tijorat qog’ ozi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pul bozori investitsiya fondi hisobi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bankirning qabuli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Korporativ muhitda moliyaviy mutaxassislarning odatiy majburiyatlariga quyidagilar kiradi:\n"
+            },
+            {
+                "type": "text",
+                "content": "I. Pul mablag’ larini boshqarish va qisqa muddatli investitsiyalar\n"
+            },
+            {
+                "type": "text",
+                "content": "II. Investitsiya imkoniyatlarini baholash.\n"
+            },
+            {
+                "type": "text",
+                "content": "III. Moliyaviy maqsadlariga erishishni ko’zlab rejalar tuzish uchun odamlar bilan yakkama-yakka ishlash\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. Qarz va kapital kabi tashqi moliyalashtirish manbalarini topish uchun moliya bozorlari bilan o’ zaro hamkorlik\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " faqat I , II va IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat I va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faqat II , III va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " I , II , III va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi sohalarning qaysi birida ishlash investitsiya muhitini tushunishni talab qiladi?\n"
+            },
+            {
+                "type": "text",
+                "content": "I. Tijorat banki\n"
+            },
+            {
+                "type": "text",
+                "content": "II. Korporativ moliya\n"
+            },
+            {
+                "type": "text",
+                "content": "III. Moliyaviy rejalashtirish\n"
+            },
+            {
+                "type": "text",
+                "content": "IV. Sug’ urta\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " I , II , III va IV\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat I va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Faqat I , II va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faqat II , III va IV\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiya banki firmalarining asosiy vazifasi ..... hisoblanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aksiyalar va obligatsiyalar chiqarishda korxonalarga yordam berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " investorlarga kreditlar berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " boy shaxslarga moliyaviy rejalashtirish xizmatlarini ko’ rsatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " riskni zararsizlantirish uchun investitsiya strategiyalarini ishlab chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " ….. ijobiy daromad keltiradi va/yoki uning qiymatini oshiradi degan umidda sarmoya kiritish mumkin boʻlgan har qanday aktiv.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " investitsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " portfel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dividendlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qaytish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Huquqlar taklifi - bu .... .\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aksiyalar mavjud aksiyadorlarga mutanosib ravishda taklif etiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " davlat investorlariga sotish uchun taklif qilingan qimmatli qog’ ozlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ ozlar sarmoyadorlarning tanlangan guruhlariga taklif etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " barcha javoblar noto’ g’ ri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. fond provayderlari va xaridorlari odatda qimmatli qog’ ozlar brokerlari va dilerlari kabi vositachilar orqali moliyaviy aktivlar savdosini amalga oshiradigan bozorlar .\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " moliyaviy bozorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " moliya institutlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " moliyaviy vositachilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tovar bozorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " ….. banklar va sug’ urta kompaniyalari kabi fond provayderlarining resurslarini birlashtirgan va bu mablag’ lardan kreditlar berish va qimmatli qog’ ozlarga investitsiya qilish uchun foydalanadigan tashkilotlar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " moliya institutlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " moliyaviy bozorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " moliyaviy vositachilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tovar bozorlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliyaviy maqsadlariga erishish uchun o’ z mablag’ larini boshqaradigan shaxslar -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " individual investorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " institutsional investorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " brokerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dilerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiyani sotishdan tushgan tushum va uning dastlabki sotib olish narxi o’ rtasidagi farq ....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kapital daromad (yoki zarar)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " umumiy daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " faol daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " passiv daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " …. . investorga boshqa qimmatli qog’ ozni ma’ lum vaqt davomida ma’ lum narxda sotish yoki sotib olish imkoniyatini beradigan qimmatli qog’ ozlar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " optsion\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " veksel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " fyucherslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’ g’ ri javob yo’ q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "I Mehnatdan olingan daromad (ish haqi, ish haqi, pensiyalar) bu .....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aktiv daromad\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " portfel daromadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " passiv daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dividend\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Amaldagi soliq qonunchiligiga ko’ ra, dividendlar daromadlar ..... bilan bir xil stavkada soliqqa tortiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kapitalning uzoq muddatli o’ sishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oddiy daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qisqa muddatli kapital daromadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " foiz daromadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Joriy dollarda ifodalangan investitsion daromad. Inflyatsiya ta’ sirini hisobga olmaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " nominal daromad darajasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " real daromad darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kutilayotgan daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " rejalashtirilgan daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Birlamchi ommaviy taklif ( IPO ) bu -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kompaniya aktsiyalarining birinchi ommaviy savdosi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kompaniya aktsiyalarini qayta sotish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kompaniyaning sotilgan aktsiyalarini qaytarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’ g’ ri javob yo’ q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xatarlarni qoplash uchun investor xavfli investitsiyadan talab qiladigan qo’ shimcha daromad bu -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " risk mukofoti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " daromad darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qaytish darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’ g’ ri javob yo’ q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli investitsiyalar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir yil yoki undan kam muddatga ega\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ikki yil muddatga , lekin uch yildan ortiq bo’ lmagan muddatga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " muddati bir yildan ortiq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muddati besh yildan ortiq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Firma pul olganida paydo bo’ ladigan noaniqlikning kuchayishi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " moliyaviy xavf\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " biznes xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sotib olish qobiliyati xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " foiz stavkasi xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Anderrayting - bu ... .\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aktsiyalarni ilgari surish va kompaniya aktsiyalarini sotishda yordam berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " emissiya va emitentni tavsiflovchi ro’ yxatga olish bayonoti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " prospektni topshirgandan keyingi vaqt davri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " potentsial investorlar uchun taqdimotlar seriyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Iqtisodiyot, bozor, sanoat yoki investitsiya ma’ lumotlarining o’ tmishdagi xatti-harakatlari haqidagi haqiqiy ma’ lumotlar bu -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tavsiflovchi ma’ lumotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " analitik ma’ lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " asosiy ma’ lumot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’ g’ ri javob yo’ q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Agar kompaniya muomaladagi har bir aktsiyaga ma’ lum miqdordagi yangi aktsiyalarni almashtirish orqali muomaladagi aktsiyalar sonini ko’ paytirsa, bu ....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aktsiyalar spliti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aktsiyalarning likvidligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aktsiyalarni taqsimlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’ g’ ri javob yo’ q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Aksiya birinchi marta chiqarilganda unga ixtiyoriy ravishda tayinlangan qiymat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " nominal qiymat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kitob qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bozor narxi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " investitsiya qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Narxlarni sezilarli darajada oshirish potentsialini taklif qiladigan, ammo barqaror muvaffaqiyatga erisha olmaydigan qimmatli qog’ ozlar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " spekulyativ aktsiyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’ sish zaxiralari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tsiklik zaxiralar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " foydali aktsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investorlar aktsiyani sotishi kerak bo’ lgan miqdor yoki ular qanchalik arziydi deb o’ ylashlari\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " investitsiya qiymati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kitob qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bozor narxi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nominal xarajat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Foiz stavkalarining o’ zgarishi qimmatli qog’ ozning qiymatiga salbiy ta’ sir ko’ rsatishi ehtimoli\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " foiz stavkasi xavfi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " likvidlik xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " soliq xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " biznes xavfi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri investitsiyalar ta’ minlaydigan xarid qobiliyatining o’ sishini o’ lchaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " real daromad darajasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nominal daromad darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kutilayotgan daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " rejalashtirilgan daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " …. . boshqa odamlarning pullarini boshqarish orqali tirikchilik qiladigan sarmoyaviy mutaxassislar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " institutsional investorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " individual investorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " brokerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dilerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Maxsus investitsiyalardan olingan daromadlar (ko’ chmas mulk ijarasi, royalti, komandit shirkatlari) ....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " passiv daromad\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " portfel daromadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dividend\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " faol daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ommaviy taklif bu .….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ommaviy investorlarga sotiladigan qimmatli qog’ ozlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aksiyalar mavjud aktsiyadorlarga mutanosib ravishda taklif etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ ozlar bevosita xususiy investorlarning tanlangan guruhlariga sotiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " barcha javoblar to’ g’ ri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xususiy joylashtirish …..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ ozlar bevosita xususiy investorlarning tanlangan guruhlariga sotiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aksiyalar mavjud aktsiyadorlarga mutanosib ravishda taklif etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " davlat investorlariga sotish uchun taklif qilingan qimmatli qog’ ozlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " barcha javoblar to’ g’ ri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Potentsial investitsiyalar bo’ yicha prognozlar va tavsiyalar bilan birgalikda mavjud joriy ma’ lumotlar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tahliliy ma’ lumotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tavsiflovchi ma’ lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " asosiy ma’ lumot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’ g’ ri javob yo’ q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

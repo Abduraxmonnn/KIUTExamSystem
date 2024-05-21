@@ -1,0 +1,5684 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagi funksiyalarning qaysi biri Xalqaro audit standartlarining funksiyalariga kirmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yuqori sifatli tekshirishni ta'minlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kasbning ommaviy imidjini yaratish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " moliyaviy hisobotlarni tayyorlash qoidalarini yaratish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " auditorlik amaliyotiga yangi ilmiy yutuqlarni joriy etishga ko`maklashish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditorlik tekshiruv uchun to`lanadigan mukofot nima asosida aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Avvalgi yil auditi uchun to`langan haq asosida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Auditorlik tekshiruviga ketadigan harajatlar asosida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mijozning to`lov qobiliyatiga bog`liq;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Auditorlik tekshiruviga sarflanishi mo`ljalangan soatlar asosida.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditor korxonaning faoliyat turlari xususidagi ma'lumotni qaysi hujjatdan oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ta'sis hujjatlaridan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "13-jurnal-orderdan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "uchinchi shaxslar bilan tuzilgan shartnomalardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hisob siyosatidan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Korxonalarda auditorlik tekshiruvi o`tkazish uchun nechta auditor malaka sertifikatiga ega bo`lishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 5ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 4 ta;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1 ta;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorlik kompaniyasining sifat nazorati siyosati va proseduralarining tabiati, muddati va darajasi xarajatlar va foyda koeffisientlari bilan bog`liq bo`lgan omillarga bog`liqmi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ha;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yo`q;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " auditorlik firmasi rahbariyatining ixtiyori bilan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tekshiruv jarayonida aniqlangan xato bo`lsagina\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Audit jarayonida soliq qonunchiligi buzilishi aniqlanganda soliq organlariga bildirishi mumkinmi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "auditorlik xizmatlari ko`rsatilgan shaxslarning yozma roziligisiz mumkin emas.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tekshiruv natijalari bo`yicha majburiy.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "auditorlik hisobotining bir nusxasini taqdim etishi shart.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "soliq organlarining talabiga ko`ra majburiy.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditning xalqaro standartlarini O`zbekiston Respublikasida hududida qo`llash uchun ularni tan olish tartibini kim tomonidan belgilanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O`zbekiston Respublikasi Moliya vazirligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O`zbekiston Respublikasi Adliya vazirligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O`zbekiston Respublikasi Soliq Qo`mitasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O`zbekiston Respublikasi Vazirlar Mahkamasi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliyaviy nazorat turlari...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " davlat, nodavlat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " davlat, ijtimoiy, mustaqil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " davlat va mustaqil nazorat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nodavlat va mustaqil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kompaniyaning moliyaviy hisoboti ishonchli va haqqoniy taqdim etilganligi aniqlandi. Ushbu jarayon auditning qaysi shakli orqali aniqlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "moliyaviy hisobot auditi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "operatsion audit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mos keluvchanlik auditi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ichki audit\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Operatsion audit bu-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "nazorat tizimining unumdorligi va samaradorligini baholashdan hamda ma'muriyat uchun tavsiyanomalar berishdan iborat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "moliyaviy hisobotlarni to'g'ri shakllantirilishi tekshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "moliyaviy hisobotlarni qonun hujjatlariga muvofiqligini o'rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "korxona faoliyatini qonun hujjatlariga muvofiqligini o'rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagi qo`shimcha funksiyalardan qaysi birini auditorlik hujjatlari bajarmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " intizomni saqlash va ish joyida bo`ysunishga (subordinasiya saqlash) rioya qilish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " auditni rejalashtirish va o`tkazishda audit guruhiga yordam berish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " audit ishini boshqarish va nazorat qilishda nazorat uchun javobgar bo`lgan auditorlik guruhining a\\textquotesingle zolariga yordam berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kelgusi audit majburiyatlari uchun ahamiyatli bo`lgan masalalar bo`yicha ma\\textquotesingle lumotlarni saqlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tekshiruv hujjatlarining saqlash muddati qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir yildan kam emas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kamida uch yil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kamida besh yil\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kamida olti yil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qanday xollarda auditor moliyaviy hisobot ma\\textquotesingle lumotlarini ta\\textquotesingle sis hujjatlarining ma\\textquotesingle lumotlari bilan taqqoslaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " foydaning taqsimlanishini aniqlashda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " hujjatlar rekvizitlarini to`g`riligini tekshirishda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " moliyaviy hisobot ko`rsatkichlarini tekshirishda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " korxona faoliyat turini belgilashda;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditor asosiy vositalarni qabul qilish-topshirish to'g'risidagi ma'lumotni qaysi hujjatdan oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "AV-1 shakl\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "AV-3 shakl\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "AV-7 shakl\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "AV-6 shakl\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditor qanday hollarda muhimlilikni ko'rib chiqish lozim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "xatolar ta'sirini aniqlashda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "auditorlik amallarining xususiyatlarini aniqlashda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "auditorlik vaqti va chuqurligini aniqlashda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "auditda muhimlik ko'rsatkichi mavjud emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditor tekshiruv jarayonida hisob-kitob schetidagi pul mablag'lari holati xususidagi ma'lumotlarni qaysi jurnal-orderdan oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2-jurnal-order\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1-jurnal-order\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4-jurnal-order\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "6-jurnal-order\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditor tekshiruv jarayonida kassadagi pul mablag'lari holati xususidagi ma'lumotlarni qaysi jurnal-orderdan oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1-jurnal-order\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3-jurnal-order\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4-jurnal-order\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "6-jurnal-order\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorlik tashkiloti quyidagi tashkiliy-huquqiy shakllarda tuzilishi mumkin.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "aksiyadorlik jamiyati ko`rinishidan tashqari, qonunda ko`zda tutilgan istalgan shaklda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O`zbekiston Respublikasi Fuqarolik kodeksida belgilangan istalgan shakllarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "faqat xususiy korxona shaklida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "faqat mas`uliyati cheklangan jamiyat shaklida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxonada bankdan olingan naqd pullar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Istalgan maqsadda ishlatiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Chekda ko`rsatilgan maqsadlarda ishlatiladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Rahbar ko`rsatmasiga muvofiq ishlatiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mulkdorlar xohishiga ko`ra ishlatiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Majburiy auditorlik tekshiruvi deb nimaga aytiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xo`jalik yurituvchi subyekt rahbariyati yoki ta'sischilarining tashabbusiga ko`ra;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Nazorat qiluvchi yoki huquqni muhofaza qiluvchi organlarning tashabbusiga ko`ra o`tkaziladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Auditorlik tashkiloti tomonidan xo`jalik yurituvchi subyekt bilan tuzilgan shartnoma asosida buxgalteriya hisobi va hisoboti axborotlarining ishonchliligini baholash hamda korxona moliyaviy holatini yaxshilash, faoliyat samaradorligini oshirish va foydalanilmayotgan imkoniyatlarini topish maqsadida o`tkaziladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qonunchilik talablariga muvofiq amalga oshirilishi majburiy hisoblangan xo`jalik yurituvchi subyektlar;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ichki audit yig\\textquotesingle ma hisoboti kimga taqdim qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kuzatuv kengashiga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "direktorga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bosh buxgalterga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bosh menegerga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysi biri xat-majburiyatda albatta ko`rsatilishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tekshiruv davomida auditorning foydalaniladigan qonuniy va me'yoriy hujjatlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kassani tekshirish hujjatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Buxgalteriya balansi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bitim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Hisobotning unchalik ahamiyatga ega bo`lmagan moddalarini o`qish -?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Skanerlashdir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Dalillashdir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ko`zdan kechirishdir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Testlashdir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Debitorlik qarzi tovarlar haqiqatda yuklab jo`natilgan, ishlar bajarilgan, xizmatlar ko`rsatilgan boshlab qachon muddati o`tgan deb hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "90 kun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "60 kun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "45 kun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "65 kun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nima uchun auditor tekshirilayotgan kompaniyaning faoliyat turini aniqlashi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " buxgalteriya hisobining to`g`riligini o`rganishda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ko`rsatkich shakllarini o`zaro mosligini aniqlashda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hisobot davri boshidagi ko`rsatkichlarning to`g`ri aks ettirilganligini tekshirishda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " korxona daromadlari va xarajatlarini to`g`ri tasniflash uchun.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisobot hujjatlarining rekvizitlari to`ldirilganligi tekshirilgandan so`ng auditor tomonidan nimalar aniqlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hisobotning ko`rsatkichlari bo`lmagan satrlarida chiziqlar (procherk) qo`yilganligi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " hisobot ma\\textquotesingle lumotlarida noo`rin tuzatishlar mavjudligi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hujjatlarda o`zboshimchalik bilan o`zgartirishlar kiritilganligi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " «Davr boshida» ustunining to`g`ri to`ldirilganligini tekshirish.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditorlik tekshiruvining qaysi bosqichida buxgalteriya hisobining to`g`riligini tekshiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " shakl bo`yicha moliyaviy hisobotni tekshirish paytida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " moliyaviy hisobotlarning har bir shaklini to`g`ri tayyorlash tekshirilganda;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hujjatlarning rekvizitlari to`g`ri to`ldirilganligini tekshirishda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moliyaviy hisobot ko`rsatkichlarining muvofiqligi tekshirilganda;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxonalarda ichki nazorat tizimi xodimlari tomonidan kassa operatsiyalarini tekshirish nimadan boshlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "pul hujjatlariga asosan qoldiq chiqarishdan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "pul mablag`larini saqlanishi ta'minlanishining tekshiruvidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kassadagi pul mablag`larini sanab chiqishdan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kassirga kassani tekshirish uchun korxona rahbarining farmoyishini ko`rsatishdan\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tegishli xo'jalik muomalalarini yozishga taalluqli hisob siyosati va amallar nima deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "korxonadagi buxgalterlik hisobi tizimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "nazorat muhiti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "nazorat amallari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ichki nazorat tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Audit natijalari qanday hujjatlar ko`rinishida rasmiylashtiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "auditorlik hisoboti va auditorlik xulosasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ma'lumotnoma va auditorlik xulosasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "yillik moliyaviy hisobotga qo`shimcha ilova.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kamchiliklarni tugatish bo`yicha tavsiyanoma.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashqi auditor, agar quyidagi hollarda ichki auditorni bevosita ishtirok etishga jalb qilmasligi kerak:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ichki auditorning ob\\textquotesingle ektivligiga jiddiy tahdidlar mavjud bo`lsa va ichki auditor tegishli ishlarni bajarish uchun malakaga ega bo`lmasa;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ichki auditor o`z kasbida 10 yillik tajribaga ega bo`lmasa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ichki auditorning ob\\textquotesingle ektivligiga jiddiy tahdidlar mavjud bo`lsa;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ichki auditor tegishli ishlarni bajarish uchun malakaga ega emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Adolatsiz harakatlar -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir yoki bir nechta shaxslarning rahbariyat, korporativ boshqaruv uchun mas\\textquotesingle ul shaxslar, xodimlar yoki uchinchi shaxslar tomonidan firibgarlik yo`li bilan noqonuniy yoki noqonuniy foyda olish maqsadida qasddan qilingan harakatlari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " g`ayriqonuniy xatti-harakatlar qilishga yoki ularni sodir etish imkoniyatiga qaratilgan o`ylar yoki bosim olib keladigan voqealar yoki sharoitlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xalqaro audit standartlari maqsadlari uchun keng huquqiy tushuncha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " uchinchi shaxslar tomonidan firibgarlik yo`li bilan noqonuniy yoki noqonuniy foyda olish maqsadida qasddan qilingan harakatlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisobotlar darajasida firibgarlik tufayli kelib chiqadigan jiddiy buzib ko`rsatishlar baholangan risklarga javoban umumiy xarakterdagi choralarni belgilashda auditor:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " audit proseduralarining mohiyati, muddati va hajmini tanlashda oldindan aytib bo`lmaydigan elementni o`z ichiga oladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " firibgarlik tufayli yuzaga kelgan jiddiy noto`g`ri ma\\textquotesingle lumotlarning baholangan risklarini ahamiyatli deb tasniflash va shuning uchun u hanuzgacha buni amalga oshirmagan darajada u tekshirilayotgan tashkilotning ichki nazorat tizimi, shu jumladan, ushbu xatarlar bilan bog`liq bo`lgan xatti-harakatlar to`g`risida tushunchaga ega bo`lishi kerak.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " daromadlarni aniqlashda firibgarlik riski mavjud degan tahminga asoslanib, daromadlarning qaysi turlarini baholasin, daromadlarni aniqlash bo`yicha operatsiyalar yoki taxminlar bunday xatarlarni keltirib chiqaradi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bosh buxgalterning malakasiga va ish tajribasiga shubha bilan qarasa, hisobotlarda qo'pol xatoliklar mavjud degan tahminga asoslanga holda tekshiruvni amalga oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditorlik firmasining sifat nazorati tizimi quyidagi elementlarni o`z ichiga olishi kerak:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " monitoring, mehnat resurslari, rahbariyat;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nazorat va tekshirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " standartlardan tog'ri foydalanish, rikslarni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ichki nazorat tizimini baholash, samarasorlikni tekshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Agar mijozning ichki nazorat tizimi yaxshi tashkil etilgan bo`lsa, auditor quyidagilarni bajarishi kerak:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " barcha ma\\textquotesingle lumotlardan foydalanish va tekshirish vaqtini minimumga qisqartirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " uning ishonchliligini tekshirish va keyin barcha ma\\textquotesingle lumotlardan foydalanish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " uning ishonchliligini tekshirish, so`ngra tashqi audit uchun shubhasiz ishonchli va zarur deb hisoblanadigan ma\\textquotesingle lumotlardan foydalanish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xodimlar bilan suhbat va test amallarini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditni qaysi bosqichda auditor rasmiy moliyaviy hisobotni tekshirishni amalga oshiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " shakl bo`yicha moliyaviy hisobotni tekshirish paytida;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " moliyaviy hisobotlarning har bir shaklini to`g`ri tayyorlashni tekshirilganda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hujjatlar rekvizitlari to`g`ri to`ldirilganligini tekshirishda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moliyaviy hisobot ko`rsatkichlarining muvofiqligi tekshirilganda;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditorlik riski va muhimlilik o`rtasida nima mavjud:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " to`g`ridan to`g`ri bog`liqlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " teskari bog`liqlik;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bog`liqlik mavjud emas.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " korxona faoliyatiga bog`liq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditor muhimlilikni ko`rib chiqadi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " umumiy moliyaviy hisobot darajasida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " schyotlar qoldig`i, operatsiyalar guruxi va axborotni yoritib berish holatlari bo`yicha;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " umumiy moliyaviy hisobot darajasida, schyotlar qoldig`i, operatsiyalar guruhi va axborotni yoritib berish holatlariga nisbatan.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Buxgalteriya hisobotlaridagi ehtimoliy xatoliklar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Agar auditor muayyan riskni boshqarish uchun boshqarish vositalariga tayanishni rejalashtirsa, u muhim deb hisoblagan auditor:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " joriy davrda nazorat vositalarini tekshirib ko`rishi kerak;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " so`rov bilan birgalikda boshqa audit proseduralarini o`tkazishi kerak;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " test o`tkazilayotgan vositalari boshqa nazorat vositalariga bog`liqligini aniqlashi kerak;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ichki narozat riskini o'rganishi kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisob auditi nima aks ettiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yig`uluvchan va siklik takrorlanadigan jarayon;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " auditorlik prosedurasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " jarayonlarni guruhlash va tarqatish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " rejalashtirilgan audit proseduralarini qayta tahlil qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditorlik hujjatlarining shakli va hajmi nimaga bog`liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tashkilotning xarakteri, hajmi va murakkabligiga, ma\\textquotesingle lumotlari va auditning qo`llaniladigan usullari va texnologiyalari asosiga va ichki nazorat tizimiga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " korxonaning faoliyat turiga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " auditorlik malakasi va tekshiruv usuliga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " korxonaning ichki nazorat va moliyaviy hujjatlarning haqqoniyligiga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Agar nomoddiy aktiv kelgusida korxonaga samara keltirishi xaqida ma'lumot mavjud bo`lmasa, nomoddiy aktiv\\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "aktiv sifatida aks ettiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kelgusi davr xarajatlari sifatida aks ettiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kelgusi davr daromadlari sifatida aks ettiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "xarajat sifatida aks ettiriladi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kassani inventarizatsiya qilish dalolatnomasida qanday ma'lumotlarni aks ettirish lozim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kassadagi naqd pul miqdorini sanash va kassa hisoboti bilan solishtirish natijasida naqd pul kamomadi yoki ortiqcha ekanligini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kassadagi naqd pul kamomadi yoki ortiqchaligini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "inventarizatsiya natijalarini, kassa operatsiyalarini yuritish holatini, ulardagi kamchiliklarni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kassadagi naqd pul miqdorini\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxona kassasidagi pul mablag`lari auditining maqsadi qaysi javobda to`g`ri keltirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kassadagi milliy va xorijiy valyutadagi naqd pul mablag`lariga doir muomalalar hisobining qonunchilikka muvofiqligi va moliyaviy hisobotning ``Pul mablag`lari'' bo`limi bo`yicha ma'lumotlari ishonchliligi bo`yicha xulosa shakllantirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Korxona kassasidagi naqd pul mablag`larini inventarizatsiyadan o`tkazish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Korxona kassasidagi muomalar hisobining to`g`ri tashkil etilishi va yuritilishini tekshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Korxona kassasida o`rnatilgan naqd pul mablag`lari limitiga amal qilinishini tekshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Naqd pulsiz xo`jalik muomalalarining qanday turlari mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "aksept, akkreditiv, to`lov topshirig`i, chek va hisob cheklari formalarida hisobga olinadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "naqd pulsiz muomalalar xo`jaliklarda to`lov topshirig`i, to`lov talabnomasi asosida hisobga olinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "naqd pulsiz xo`jalik muomalalari hisob-kitoblari va chek formalari asosida hisobga olinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "naqd pulsiz xo`jalik muomalalari aksept va akkreditiv formalarida hisobga olinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy hisobotdagi hisob-kitob scho`tiga doir ko`rsatkichlarining ishonchliligini tasdiqlash maqsadida auditor tomonidan amalga oshirishi kerak bo`lgan amallar qaysi javobda to`g`ri keltirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Moliyaviy hisobotdagi ko`rsatkichlarning ishonchliligini tasdiqlash uchun ularning sintetik va nalitik hisob, bank ko`chirmasi ma'lumotlariga mosligini tekshirishi kerak.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Analitik va sintetik scho`tlar ko`rsatkichlarini taqqoslashi kerak.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Moliyaviy hisobot ko`rsatkichlarining bosh daftar ko`rsatkichlariga mosligini tekshirishi kerak.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Analitik scho`t ko`rsatkichlarining dastlabki hujjatlar ma'lumotlariga mosligini tekshirishi kerak.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mijoz-korxonada o`tkazilgan majburiy audit jarayonida o`tkazilgan eksport-import operatsiyalari auditi natijalarini qanday rasmiylashtiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Eksport-import operatsiyalari auditi natijalari oraliq dalolatnomada rasmiylashtiriladi hamda uning ma'lumotlari auditorlik hisobotiga kiritiladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Eksport-import operatsiyalari auditi natijalari to`g`ridan to`g`ri auditorlik hisobotida aks ettiriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Esport-import operatsiyalari auditi natijalari auditorlik xulosasida rasmiylashtiriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Eskport-import operatsiyalari auditi natijalari auditor ixtiyoriga ko`ra istalgan shaklda rasmiylashtirilishi mumkin.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rezer kapitali mablag`lari quyidagilarga ishlatilishi mumkin:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "zararlarni qoplash va dividendlar to`lash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "zararlarni qoplash, jamiyatning obligatsiyalarni so`ndirish va xususiy aksiyalarni xarid qilishga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "investitsiya qilish va imtiyozli aksiyalar bo`yicha dividendlar to`lash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "foydalanish mumkin emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorlik hisobotidagi axborotlar \\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "maxfiy hisoblanadi va uni oshkor etish mumkin emas.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "jamoaning umumiy majlisida e'lon qilinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "gazeta yoki jurnalda e'lon qilinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "davlat soliq inspeksiyasiga taqdim etiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorlik xulosasi -- bu \\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "moliyaviy hisobot to`griligi va buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to`grisida auditorlik tashkilotining fikri, yozma shaklda ifodalangan, xo`jalik yurituvchi subekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo`lgan hujjat.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "aniqlangan xato-kamchiliklar asosida tuzilgan ma'lumotnoma.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "buxgalteriya hisobi va moliyaviy hisobotdagi xato-kamchiliklarni tugatish bo`yicha tavsiyalar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "moliyaviy hisobot va statistik hisobotdagi barcha ko`rsatkichlarning to`g`riligi va haqqoniyligi tasdiqlangan, ularning qonun talablariga muvofiqligi to`grisida auditorlik tashkilotining yozma fikri bayon etilgan hujjat.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorlik xulosasi qay tarzda tuziladi?\\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "auditorning ichki hujjatlariga asosan tuziladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dalolatnomalarga asosan tuziladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bank va soliq inspeksiyasining ma'lumotnomasiga asosan tuziladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "auditorlik hisoboti asosida tuziladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorning ish hujjatlari soni va tarkibiga quyidagilar qaysi biri ta\\textquotesingle sir qilmaydi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "auditorning malakasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "audit shartnomasi shartlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mutaxassisning mavjudligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tekshirilayotgan korxona rahbariyatining malakasi;\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilarning qaysi biri qo'shilgan kapital tarkibiga kiritilganida auditor qo'shilgan kapital tarkibini to'g'ri shakllangan deb hisoblaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tekinga olingan mol mulk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tekinga berilgan mol mulk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "aktsiyalarni nominal qiymatidan yuqori bahoda dastlabki sotishdan olingan emission daromadlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "aktsiyalarni real qiymatida bahoda sotishdan olingan daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilarning qaysi biri zaxira kapital tarkibiga kiritilganida auditor zaxira kapital tarkibining to'g'ri shakllanishini asosli deb hisoblaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tekinga berilgan mol mulk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mulklarni qayta baholash bo'yicha tuzatishlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "aktsiyalarni nominal qiymatidan yuqori bahoda dastlabki sotishdan olingan emission daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kurs farqidan yuzaga kelgan daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rejalashtirishning qaysi tamoyili tekshiruvda ishtirok etadigan auditorlarga kelishilgan topshiriqlar belgilanishi va rejalashtirish bosqichlarining muddatlar hamda tarkibiy bo'linmalar bo'yicha bog'liqligida ifodalanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "uzluksizlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mustaqillik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "oshkoralik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "konfidentsiallik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Majburiy auditorlik tekshiruvini o`tkazishdan bo`yin tovlaganlik uchun jarima miqdori qancha?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bazaviy hisoblash miqdorining 100 barobari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bazaviy hisoblash miqdorining 25 barobari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bazaviy hisoblash miqdorining 200 barobari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bazaviy hisoblash miqdorining 50 barobari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi javobda muvofiqlik auditi ta'rifi keltirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Korxona moliya-xo`jalik faoliyati jarayonida ish yuritish uslublari va amallarining samaradorligini baholash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xo`jalik yurituvchi subyekt faoliyatining muayyan jihatini, ma'lum tartib-qoidalar, me'yorlar va mezonlarga rioya qilinishini tekshirishga yo`naltirilgan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Korxona moliya-xo`jalik faoliyatining qonunlar va me'yoriy hujjatlar talablariga muvofiqligini tekshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Korxonaning ishlab chiqarish faoliyatini tashkil etish va boshqarishning sifat jihatlarini tekshirish hamda takomillashtirish, ishlab chiqarish va moliyaviy qo`yilmalar samaradorligi, mehnat unumdorligi va mablag`lardan oqilona foydalanishni baholash;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi javobda operatsion audit ta'rifi keltirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xo`jalik yurituvchi subyekt faoliyatining muayyan jihatini, ma'lum tartib-qoidalar, me'yorlar va mezonlarga rioya qilinishini tekshirishga yo`naltirilgan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Korxona moliya-xo`jalik faoliyati jarayonida ish yuritish uslublari va amallarining samaradorligini baholash;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Korxona moliya-xo`jalik faoliyatining qonunlar va me'yoriy hujjatlar talablariga muvofiqligini tekshirish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Korxonaning ishlab chiqarish faoliyatini tashkil etish va boshqarishning sifat jihatlarini tekshirish hamda takomillashtirish, ishlab chiqarish va moliyaviy qo`yilmalar samaradorligi, mehnat unumdorligi va mablag`lardan oqilona foydalanishni baholash;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ichki nazorat tizimi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " buxgalteriya hisobi va hisobotining to'g'riligini ta'minlashga qaratilgan hamda korxona resurslaridan maqsadga muvofiq oqilona foydalanishga imkon yaratadigan doimiy, kundalik ishlar majmuidir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " buxgalteriya hisobotining to'g'riligini ta'minlashga qaratilgan hamda korxona resurslaridan maqsadga muvofiq oqilona foydalanishga imkon yaratadigan doimiy, kundalik ishlar majmuidir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " buxgalteriya hisobi va hisobotining to'g'riligini ta'minlashga qaratilgan hamda korxona resurslaridan maqsadga muvofiq oqilona foydalanishga imkon yaratadigan vaqtincha, kundalik ishlar majmuidir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " buxgalteriya hisobining to'g'riligini ta'minlashga qaratilgan hamda korxona resurslaridan maqsadga muvofiq oqilona foydalanishga imkon yaratadigan doimiy, kundalik ishlar majmuidir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditor korxonaning to'lovga layoqatliligini aniqlamoqchi, u qanday aniqlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " joriy aktivlarni, muddati kelgan majburiyatlarga bo'lish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o'z mablag'lari manbaini jami mulkka bo'lish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " oborot mablag'larini, o'z mablag'lariga bo'lish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qarz mablag'larini, uzoq muddatli aktivlarga bo'lish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditor moliyaviy hisobotlardagi qanday ma'lumotlarni jiddiy zid kelishlar sifatida tan oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tekshirilgan moliya hisobotlarida bo'lgan ma'lumot bilan hujjatning boshqa qismlarida bo'lgan ma'lumot o'rtasidagi muhim farqlarni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tekshirilgan moliya hisobotlari va ularga doir xulosadan tashqari, xo'jalik yurituvchi sub'ekt tomonidan e'lon qilingan, tekshirilgan moliya hisobotlarini o'z ichiga oladigan hujjatda ko'rsatilgan har qanday ma'lumot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "faktlarni jiddiy zid kelishga qaraganda boshqacha tusdagi buzish bo'lib, auditorning fikricha u ahamiyatli hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "auditorlik riskidan farq qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tekshiruv mobaynida tuziladigan taqqoslash qaydnomalarini kimlar imzolaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "auditor, bosh buxgalter va moddiy javobgar shaxs\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bosh buxgalter va moddiy javobgar shaxs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "auditor va bosh buxgalter\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "faqat auditor\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorlik tekshiruvi natijasida ishlab chiqarish xodimlarini va ishlab chiqarish aktivlarini majburiy va ixtiyoriy sug'urta qilish xarajatlari boshqa operatsion xarajatlar tarkibiga qo'shilganligi aniqlandi. Qonunchilikka binoan bu turdagi xarajat qaysi qatorga qo'shilishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ishlab chiqarish tusidagi boshqa xarajatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ishlab chiqarish xususiyatiga ega bo'lgan mehnatga haq to'lash xarajatlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ishlab chiqarish bilan bog'liq moddiy xarajatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sotish xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Naqd pulsiz hisob-kitoblarning asosiy shakllari to'g'ri, to'liq keltirilgan javobni aniqlang?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "to`lov topshiriqnoma, to`lov talabnoma, akkreditiv, inkassa topshirig`i, cheklar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "to`lov talabnoma, akkreditiv; inkassa topshirig`i, cheklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "overdraft, to`lov talabnoma, akkreditiv; inkassa topshirig`i, cheklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "to`lov topshiriqnoma, akkreditiv; inkassa topshirig`i, cheklar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kassani tekshirish boshlanganda auditorning dastlabki asosiy ishi nimadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "buxgalterning kassa muomalalarini yuritish qoidalariga rioya qilishini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kassir hisobotlariga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tekshirilayotgan korxonada bir nechta kassir ishlashini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bosh buxgalterni bitta yoki bir nechta korxonada ishlashinia\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O\\textquotesingle tkazilgan ichki audit yakunlari bo\\textquotesingle yicha qanday hisobotlar tuziladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yig\\textquotesingle ma hisobotlar tuziladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ichki audit rahbari tomonidan imzolanadigan birlamchi xisobot tuziladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ichki auditda yeg\\textquotesingle iladgan hamma hisobotlardan foydalanib hisobot tuziladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Auditorlik xulosasi tuziladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ichki audit yig\\textquotesingle ma hisobot qanday qismlardan tashkil topadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tahliliy qism, yakuniy qism, tasdiqlaydigan xujjatlarning to\\textquotesingle liq paketi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "yig\\textquotesingle ma qism, yakuniy qism\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tahliliy qism, yakuniy qism,\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "to'g'ri javob yo'q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yig\\textquotesingle ma hisobot ichki audit yakunlangandan keyin necha kun ichida tayyorlanishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "10 kun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1 oy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "15 kun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bir hafta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tekshiruv jarayonida balans qiymati 200000 so`m, eskirish qiymati 150000 so`m bo`lgan nomoddiy aktivning sotilganligi aniqlandi. Nomoddiy aktivning sotish qiymati 80000 so`m. Moliyaviy natija qanchaga teng bo`ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "30000;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "32000;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "34000;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "36000;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorlik dalili (isbot)lari quyidagilar hisoblanadi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " auditorlik hisoboti;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " auditor tomonidan tekshiruv davomida yig`ilgan ma'lumotlar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " auditorlik dasturi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " auditorlik tekshiruvi rejasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qisqa muddatli qarzlar auditda TMZ mavjudligini tekshirish uchun:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " omborchini so`roq qilishi kerak;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ombor daftari ma'lumotlarini ko`rishi kerak;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " inventarizatsiya o`tkazishi kerak;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " omborchini nazorat qilishi kerak.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditning maqsadlaridan birini mijoz va auditor korxona bahosini ko`zga ko`rinadigan (yaqin) kelajakda o`z faoliyatini davom ettirishga qodir deb baholadilar. Audit maqsadlariga erishish uchun qanday muolajalar eng samarali bo`ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aktivlar likvidligiga balansning moliyaviy tahlili;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " debitorlik va kreditorlik qarzdorligi o`sib borishining xronologik tahlili;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " inflyatsiya koyeffitsiyentiga tuzatishlar bilan sotish hajmi tahlili;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Xususiy kapitalni o`sib borish tahlili.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditorlik tekshiruvi strategiyasi ko`zda tutishi kerak:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " auditorlik tekshiruvini rivojlantirishni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " auditorlik dalillarini olishning tanlash usuli;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " riskni oldindan baholash va ichki nazorat samaradorligini;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " auditorlar ish sifati nazoratini.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xo`jalik yurituvchi subekt audit o`tkaziladigan moliyaviy hisobotlarga nisbatan kim hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " audit obekti;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " auditorlik tashkiloti;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mijoz;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xo`jalik yurituvchi subekt.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditor qanday tamoyillariga rioya qilmasligi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mustaqillik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " vakolatlilik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " manfaatdorlik;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xolislik (obektivlik).\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditor ishlarni sifatini nazorat qilish shakllari to`g`ri keltirilgan javobni toping?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " asosiy auditorning o`z yordamchilarini nazorat qilish, auditorlik tashkilotining auditor ishi ustidan nazorati, tashqi nazorat;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " soliq organi tomonidan auditorlar ishlarini sifati nazorat qilinadi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tashqi nazorat;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " litsenziyalovchi organ tomonidan auditorlar ishlari sifati nazorat qilinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilardan qaysinisi auditorlik dalillarning eng ishonchlisi hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " auditorning bevosita kuzatish va moliya xo`jalik muomalalarini o`rganishi natijasida olingan dalillar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " uchinchi shaxsning dastlabki hujjatlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " uchinchi shaxsning og`zaki bildirishlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mijoz korxonani inventarizatsiya qilishdan olingan ma'lumotlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xalqaro audit standartlari:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " barqaror, o`zgarishsiz hisoblanadi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " davriy ravishda iqtisodiy vaziyat va auditning rivojlanish darajasini hisobga olgan holda yangilanadi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " har 5 yilda bir marta o`zgaradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tegishli tashkilot tomonidan iqtisodiy va siyosiy vaziyatlardan kelib chiqib o'zgaradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Agar mijozning ichki nazorat tizimi yaxshi tashkil etilgan bo`lsa, auditor quyidagilarni bajarishi kerak:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " barcha ma'lumotlardan foydalanish va tekshirish vaqtini minimumga qisqartirishi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " uning ishonchliligini tekshirish va keyin barcha ma'lumotlardan foydalanishi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " uning ishonchliligini tekshirish, so`ngra tashqi audit uchun shubhasiz ishonchli va zarur deb hisoblanadigan ma'lumotlardan foydalanishi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nazorat testlaridan foydalanmagan holda tekshiruvlarni olib borish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xalqaro audit standartlari quyidagilarga yo`naltirilgan:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " moliyaviy hisobot auditi va tegishli turdosh xizmatlarning taqdim etilishiga;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " faqat moliyaviy hisobot auditi paytida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tegishli turdosh xizmatlarni taqdim etishda va ishonchni ta'minlaydigan auditorlik vazifalarni bajarishda.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moliyaviy hisobotlardagi operatsiyalarni tekshirishga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xalqaro audit standartlariga muvofiq qaysi hujjat audit topshiriqlarini bajarish shartlari rasmiylashtiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " shartnoma bilan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " majburiyat xati bilan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " majburiyat xati va / yoki shartnoma (shartnoma, bitim);\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " audit topshirig`i bilan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Maxsus maqsadli moliyaviy xisobotlar bu-?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bunday hisobotlar mavjud emas.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " maxsus maqsadli asosga muvofiq tayyorlangan moliyaviy hisobotlar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " moliyaviy natijalar to`g`risidagi xisobot.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " operatsion tekshiruv hisoboti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Audit tugagandan keyin moliyaviy hisobot kim tomonidan tasdiqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Auditorlik tashkilotining rahbari va auditor tomonidan;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Auditor yordamchi tomonidan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hujjatlarga imzo chekish huquqiga ega bo`lgan shaxslar tomonidan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Auditorlik firmasining menedjeri va auditor tomonidan;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Korxonaga qaysi holatda auditor tomonidan ijobiy xulosa taqdim etiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mijoz samaradorlik bilan ishlaganda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisobot ishonchli bo`lgan holda;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Soliq idorasi xodimlarining tekshiruvidan so`ng;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Balans ma'lumotlari ishonchli bo`lganda.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditorlik tekshiruvi bo`yicha auditorlik hisoboti mijozga qachon beriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " auditorlik xulosasi berilgandan keyin;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " auditorlik tekshiruvi rejalashtirilgandan keyin;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " auditorlik xulosasi berilishidan oldin;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mijozga auditorlik hisoboti berilmaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditorlik xulosasiga qaysi qatorda to`liqroq va aniqroq javob berilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisobotning to`g`riligi to`g`risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo`jalik yurituvchi subyekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo`lgan hujjat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to`g`risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo`jalik yurituvchi subyekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo`lgan hujjat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisobotning to`g`riligi va buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to`g`risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo`jalik yurituvchi subyektga taqdim etilgan hujjat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisobotning to`g`riligi va buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to`g`risida auditorlik tashkilotining maxfiy fikri yozma shaklda ifodalangan, xo`jalik yurituvchi subyekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo`lgan hujjat.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditorlik xulosasi tuzishdan voz kechish ayrim qaysi hollarda yuzaga keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Auditor mustaqilligini yo`qotganida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Balans tuzilgan sanadan keyin jiddiy hodisalar sodir bo`lganda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xo`jalik yurituvchi subyekt tomonidan audit o`tkazish sohasi cheklab qo`yilganida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ayrim murakkab vaziyatlar tufayli audit o`tkazish sohasi cheklab qo`yilganida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mijoz korxonasi biznesiga ta'sir qiladigan umumiy iqtisodiy omillarga quyidagilardan qaysi biri kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Tariflar, savdo cheklovlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Elektr quvvatini etkazib berish va uning tannarxi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish texnologiyasidagi o`zgarishlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tayanch ko`rsatkichlar va tezkor statistika\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xalqaro auditda tekshiruvning mamlakat qonunlariga to`g`ri kelish-kelmasligi auditning qaysi turida ko`rib o`tiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mos keluvchanlik auditi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Operatsion audit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisobotlar auditi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Majburiy audit\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ichki auditorlarning bevosita ishtiroki -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tashqi auditor tomonidan ishlarni boshqarish, nazorat qilish va tekshirish bajarilishi shart bo`lgan auditorlik protseduralarini amalga oshirishda ichki auditorlarni jalb qilish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tashqi auditor nazorati ostida bajarilishi shart bo`lmagan holda ichki protseduralarni amalga oshirishda ichki auditorlarni jalb qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bu kompaniyaning har qanday ishida ichki auditorlarning ishtiroki\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tashqi auditorlik tekshiruvida ichki auditorlarning bevosita ishtiroki mumkin emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tahliliy amallar auditor tomonidan quyidagi bosqichlarda qo`llaniladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " auditni rejalashtirish, umumiy tekshirishni o`tkazish, auditorlik tekshiruvini o`tkazish shartnomasini tuzishda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " auditorlik tekshiruvini o`tkazish shartnomasini tuzishda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " auditni rejalashtirish va dasturini tuzishda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " umumiy tekshirishni o`tkazish va rejasini tuzishda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorlik tekshiruvida kassa orderiga o'zgarish kiritilganligi aniqlandi. Ammo unda xato mavjud emas deb hisoblandi. Ushbu holatda auditor kassirga qanday yo'l tutishni tavsiya qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kassa orderini boshqatdan rasmiylashtirishni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kassa orderini «qizil storno» usulidan foydalangan holda to'g'rilashni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kassa orderining pastki qismiga tushuntirish yozishni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kassa orderiga qo'shimcha hujjatni ilova qilishni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Firibgarlik uchun risk omillari -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " buxgalteriya yozuvlarini asosiy registrda va moliyaviy hisobotni tuzishda kiritilgan boshqa tuzatishlardagi zarurligini tekshirish. noxolislik uchun hisoblangan qiymatlarni tahlil qilish va tarafkashlikni keltirib chiqargan holatlar firibgarlik natijasida yuzaga kelgan jiddiy buzilishlar riskini ko`rsatadimi yoki yo`qligini aniqlash.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bir yoki bir nechta shaxslarning rahbariyat, korporativ boshqaruv uchun mas\\textquotesingle ul shaxslar, xodimlar yoki uchinchi shaxslar tomonidan noqonuniy yoki noqonuniy ustunliklarni qo`lga kiritish maqsadida firibgarlik yo`li bilan sodir etgan qasddan qilingan harakatlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " g`ayriqonuniy xatti-harakatlar qilishga yoki ularni sodir etish imkoniyatiga qaratilgan qo`zg`atishga yoki bosimga olib keladigan voqealar yoki sharoitlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bular firibgarlikni amalga oshirishga qaratilgan harakatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Riskga asoslangan auditda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " operatsiyalarni nazorat qiluvchi tizimlar kuzatiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " asosan registrlar va hujjatlar ko`rib chiqiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tekshiruv korxonaning ish sharoitlaridan kelib chiqib tanlab olib boriladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " har bir xo`jalik operatsiyalari tasdiqlanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hisob-kitob operatsiyalarini auditi quyidagi tartibda o'tkaziladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sintetik va analitik hisob ma'lumotlari bo'yicha tashkilotlar, birlashmalar va alohida shaxslar bilan hisob-kitob ishlari tekshiriladi, so'ng qarzlarni haqqoniyligi inventarizatsiya qilinadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "barcha hujjatlar o'rganiladi va ulardagi ma'lumotlarni to'g'ri qayd etilganligi aniqlanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "hisobdor shaxslar bilan hisob-kitoblar, so'ng byudjet bilan hisob-kitoblar tekshiriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mol etkazib beruvchilar bilan bilan hisob-kitoblar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asosiy vositalar auditida tanlashni amalga oshirishda olingan natijalarni butun tekshirilayotgan jamlanmaga tatbiq etish nima deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "difraktsiyalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dispersiyalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ekstrapolyatsiyalash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "determinlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditor auditni rejalashtirish davrida ajratib bo'lmaydigan tavakkalchiligini 70\\%, ichki nazorat tavakkalchiligini 40\\%, aniqlanmaslik tavakkalchiligini 12\\% qilib belgiladi. Shunda auditorlik tavakkalchiligi necha foizga teng bo'ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3,36\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3,16\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3,46\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "2,15\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bozor iqtisodiyoti sharoitida asosiy vositalar auditining aniq maqsadi nimalardan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "asosiy vositalar tarkibining to'g'ri shakllantirilishi, ular xarakatini hisobga olishning to'liqligi va realligini tekshirilishidan iborat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ularni hisob kitob schetida to'g'ri aks ettirilganligini o'rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "asosiy vositalar xarakati to'g'risidagi hisobotni tekshirishdan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mol etkazib beruvchilan bilan aloqasini o'rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiyalar auditida aralash tanlash qaysi usullarning uyg'unligini o'zida mujassam qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tasodifiy ketma-ket va muntazam\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tasodifiy va muntazam\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ketma-ket va muntazam\n"
+            },
+            {
+                "type": "text",
+                "content": "tasodifiy va ketma-ket\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tekshiruv mobaynida tuziladigan taqqoslash qaydnomalarini kimlar imzolaydi?\n"
+            },
+            {
+                "type": "text",
+                "content": "auditor, bosh buxgalter va moddiy javobgar shaxs\n"
+            },
+            {
+                "type": "text",
+                "content": "bosh buxgalter va moddiy javobgar shaxs\n"
+            },
+            {
+                "type": "text",
+                "content": "auditor va bosh buxgalter\n"
+            },
+            {
+                "type": "text",
+                "content": "faqat auditor\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri ichki hisob-kitob muomalalari auditining ma'lumot manbai hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yollangan shaxslar bilan mehnat haqi bo'yicha hisob kitob\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "byudjet bilan hisob kitob\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "auditorlik tashkiloti bilan hisob kitob\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "MEB lar bilan hisob kitob\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bank kreditlari va qarzlarni auditorlik tekshiruvidan o`tkazishda ma\\textquotesingle lumot manbalaridan nimalar hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bank kreditlari va qarzlar bo`yicha muomalalarni rasmiylashtirish va hisobda aks ettirishga doir shartnomalar va dastlabki hujjatlar, kredit shartnomasiga muvofiq qaytariladigan kredit va foiz summalarining akseptsiz (roziliksiz) hisobdan o`chirilishini tasdiqlaydigan memorial-orderlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "To'lov vedomosti, to'lov topshiriqnomalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "overdraft, to`lov talabnoma, akkreditiv; inkassa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "to`lov topshiriqnoma, to`lov talabnoma, akkreditiv; inkassa topshirig`i, cheklar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorlik tekshiruvida korxona ustav kapitaliga ta'sischilar tomonidan ulushlar qo'shilmagan yoki to'liq qo'shilmagan holatlarning aniqlansa, qanday qarorga kelinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "korxona ta'sis etilmagan va tugatilishi kerak deb topilishiga asos bo'ladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "korxona vaqtinchalik to'xtatilishiga asos bo'ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "korxona faoliyati noqonuniy deb topilishiga asos bo'ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "korxona boshqa korxonaga qo'shilishi kerak deb topilishiga asos bo'ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tekshiruv chog'ida auditor ustav kapitalini kamaytirilishini qachon asosli deb hisoblaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "jamiyatning ustav kapitali aktsiyalarning nominal qiymatini qisqartirish yo'li bilan kamaytirilganda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "aktsiyalarning bir qismini jamiyatning o'zi keyinchalik muomaladan chiqarish sharti bilan sotish yo'li bilan kamaytirilganda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ustav kapitalini har qanday yo'l bilan kamaytirilishi noqonuniy deb topiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ustav kapitalini har qanday yo'l bilan kamaytirilishi qonuniy deb topiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditor tekshiruv jarayonida quyidagi ko'rsatkichlardan qaysi birini moliyaviy natijalar to'g'risidagi hisobotdan olmaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yordamchi ishlab chiqarish xarajatlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "valyuta kursi farqi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sotish xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ma'muriy xarajatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Agar tekshirilayotgan hisobotga tuzatish kiritish zarur bo'lsa-yu, xo'jalik yurituvchi sub'ekt tuzatishlarni o'z moliya hisobotiga kiritishdan bosh tortsa auditor bunga qanday qaraydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tekshirilgan moliya hisobotlarida bo'lgan ma'lumot bilan hujjatning boshqa qismlarida bo'lgan ma'lumot o'rtasidagi jiddiy farq sifatida e'tirof etadi va ijobiy xulosadan farqli xulosa beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "faktlarni jiddiy zid kelishga qaraganda boshqacha tusdagi buzish bo'lib, auditorning fikricha u ahamiyatli hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "buni tekshirilgan moliya hisobotlari va ularga doir xulosadan tashqari, xo'jalik yurituvchi sub'ekt tomonidan e'lon qilingan, tekshirilgan moliya hisobotlarini o'z ichiga oladigan hujjatda ko'rsatilgan har qanday ma'lumot sifatida\n"
+            },
+            {
+                "type": "text",
+                "content": "hisobga oladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bu muomala aks ettirilmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tahliliy amallar nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bu auditor tomonidan olingan ma'lumotlarni baholash, g'ayrioddiy va buxgalteriya hisobida noto'g'ri aks ettirilgan xo'jalik faoliyati faktlarini aniqlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bu sintetik va analitik hisob registrlarida dastlabki hujjatlar ma'lumotlarni aks ettirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bu auditor tomonidan reja va dasturini tuzish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bu mijoz korxonaning arifmetir hisob-kitoblarini tekshirish va inventarizatsiya qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rejalashtirish jarayonida auditor nazorat tavakkalchiligini 10\\%, ajratib bo`lmaydigan tavakkalchilikni 20\\%, topmaslik tavakkalchiligini 12\\% deb belgiladi. Auditorlik tekshiruvining umumiy tavakkalchiligi nimaga teng?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,2\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2,0\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3,2\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,8\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nazorat tavakkalchiligi, bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "xo`jalik subʼektida amalda bo`lgan va doimo qo`llanib kelinayotgan buxgalteriya hisobi va ichki nazorat tizimlari jiddiy bo`lgan buzilishlarni o`z vaqtida aniqlay va tuzata olmaslik ehtimoli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ishonchli bo`lmagan hisobotni tasdiqlanish ehtimoli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "auditorlik tekshiruvini sifatsiz o`tkazilish ehtimoli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "xo`jalik subʼektida amalda bo`lgan va doimo qo`llanib kelinayotgan buxgalteriya hisobi va ichki nazorat tizimlari jiddiy bo`lgan buzilishlarni o`z vaqtida aniqlash va tuzata olish ehtimoli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Topmaslik tavakkalchiligi quyidagini aks ettiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "auditor xizmatining samaradorligi va sifati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "nazorat vositalari faoliyatining samaradorligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "xo`jalik subʼekti hisobotining jiddiy buzilishlarga moyillik darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "auditorning malaka darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditorlik tekshiruvini dastlabki rejalashtirish bosqichida auditorlik tavakkalchiligi 8\\%, ajratib bo`lmaydigan tavakkalchilik 20\\%, nazorat tavakkalchiligi 15\\% deb aniqlandi. Topmaslik tavakkalchiligi nimaga teng?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2,6\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4,0\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "5,2\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "12\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditor qanday hollarda jiddiylikni ko'rib chiqish lozim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "xatolar ta'sirini aniqlashda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "auditorlik amallarining xususiyatlarini aniqlashda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "auditorlik vaqti va chuqurligini aniqlashda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "muxumlikni aniqlashda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday tanlashga uyg'unlashgan tanlash deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tasodifiy va sistematik tanlash usullarining yig'indisi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tasodifiy sonlar jadvali bo'yicha tanlash bunda elementlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tasodifan tanlangan ma'lum bir sondan boshlab, har bir doimiy interval tanlab olingan usul\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Reprezentativ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mijozning ichki nazorat tizimining qay darajada ishlayotganligini tekshirishga asoslangan audit bu...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tizimli-orientirlangan audit\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tasdiqlovchi audit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tavakkalchilikka asoslangan audit.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tashqi audit\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O'rganilayotgan jamlanmaning barcha elementlari tanlash uchun saylanish teng asosdagi ehtimollikka ega bo'lishini ko'zda tutadigan tanlash --\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Reprezentativ tanlashdir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Muntazam tanlashdir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aralash tanlashdir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bevosita tanlashdir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hozirgi kunda xalqaro audit standartlari qaysi tashkilot tomonidan ishlab chiqiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xalqaro buxgalterlar federasiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xalqaro buxgalterlar qo'mitasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Xalqaro auditorlar federatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xalqaro auditorlar Kengashi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Auditor tomonidan bir tomonlama aniqlanadigan u qo'llayotgan auditning taomillari buxgalteriya hisobi hamda moliyaviy hisobotda haqiqiy, alohida yoki birgalikda muhim xarakterga ega bo'lgan xatolar va buzib ko'rsatishlarni aniqlashga ruxsat bermasligining ehtimolini bildiradigan auditorlik tavakkalchiligi nima deb nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aniqlanmaslik tavakkalchiligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Nazorat tavakkalchiligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ajratib bo'lmaydigan tavakkalchilik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Auditorlik tavakkalchiligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Quyidagilardan qaysi biri xato toifasiga kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "\"Faktlarni unutish yoki ularni noto'g'ri tushunish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Moliyaviy-xo'jalik operatsiyalarini noto'g'ri hisobga olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Manipulyatsiya, falsifikatsiya yoki hisob hujjatlarini o'zgartirilishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Hisob hujjatlarida noto'g'ri ma'lumot, axborot berish yoki ularni yashirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsiyalar auditida kamchiliklar sabablarini surishtirish auditorlik dalillarini olishning qaysi turiga mansub?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "nazorat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "hisoblash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "analitik amallar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "so'rov\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rahbariyat va xodimlar malakaviy darajalarining pastligi qaysi riskka ta'sir ko'rsatuvchi omil hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ichki xo'jalik riski\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "nazorat riski\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "aniqlanmaslik riski\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ishonchlilik riski\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rejalashtirish auditorlik guruhi rahbari tomonidan audit o'tkazishning umumiy tamoyillari kabi xususiy tamoyillariga ham muvofiq amalga oshiriladi, ular...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "uyg'unlik, uzluksiz, maqbullik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mustaqillik, rejalilik, halollik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "izchillik, aniqlik, haqiqiylik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "muvofiqlik, tushunarlilik, tizimlilik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Eksport-import operatsiyalari bo`yicha kontragentlar bilan hisob-kitoblar hamda debitor va kreditor qarzdorlikning haqqoniyligi qanday tekshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mahsulot (tovar, ish, xizmat)lar eksport-importi bilan bog`liq operatsiyalari bo`yicha taqdim etilgan schet-faktura (invoys)larni tekshirish orqali tekshiriladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Eksport-import operatsiyalari bo`yicha shartnomalarni tekshirish orqali.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Eskport-import operatsiyalari bo`yicha yuk xatlarini tuzilgan shartnomalar bilan o`zaro taqqoslash yo`li bilan tekshiriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Eksport-import operatsiyalari bo`yicha analitik va sintetik hisob ma'lumotlarini o`zaro taqqoslash yo`li bilan amalga oshiriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tasdiqlash asosida auditorlik tekshiruvining mohiyati quyidagilardan iborat bo`lishi mumkin:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "oddiy bashoratli model\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "batafsil testlar, mohiyatan tahliliy protseduralar yoki ularning kombinatsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " operatsiyaning alohida tarkibiy qismlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " risklarni baholash usullari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Auditorlik dalillarining mosligi bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Auditorning fikri uchun asos bo`ladigan xulosalar tasdig`ini ta'minlashda dalillarning o`rinliligi va ishonchliligi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Moliyaviy hisobotlarda o`z aksini topgan va rahbariyat tomonidan aniq yoki boshqa yo`sinda taqdim qilingan bildirgilar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O`rganilayotgan masala bo`yicha ma'lumotda muhim buzib ko`rsatish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ichki dalillar bilan tashqi dalillarning o'zaro mosligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

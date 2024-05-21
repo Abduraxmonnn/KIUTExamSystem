@@ -1,0 +1,6006 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy hisobot tarkibi nechta shakldan iborat.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "5 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Vеrtikаl tаhlil nimа mаqsаddа о`tkаzilаdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Umumiy kо`rsаtkichdаgi аyrim mоddаlаr sаlmоg`ini аniqlаsh mаqsаdidа\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yuqоridаn pаstgа qаrаb tаhlilni аmаlgа оshirish mаqsаdidа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Pаstdаn yuqоrigа qаrаb tаhlilni аmаlgа оshirish mаqsаdidа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bir nеchа kо`rsаtkichlаrni о`zаrо farqlash mаqsаdidа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul oqimlari to`g`risidagi hisobotni tuzish chog`ida, to`langan dividendlar qaysi faoliyatga olib boriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Moliyaviy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Operatsion\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Investitsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq to`lovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul oqimlari to`g`risidagi hisobotni tuzishda, asosiy vositalarni sotishdan pul mablag`lari kelib tushishi qaysi faoliyat turiga tegishli bo`ladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Moliyaviy faoliyatga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Investitsiya faoliyatiga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Operatsion faoliyatga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq to`lovlariga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}``Balans'' atamasining ma'nosi nimadan iborat.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ikki marta degan ma'noni anglatadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kitob yurituvchi degan ma'noni anglatadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tarozi ikki pallasi degan ma'noni anglatadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tarkib topgan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Buxgalteriya balansi necha qismdan iborat.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2 qismdan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3 qismdan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4 qismdan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5 qismdan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Buxgalteriya balansi quyidagi elementlarni о`z ichiga oladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aktivlar, о`z kapitali va majburiyatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli aktivlar va daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Joriy aktivlar, daromadlar va majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aktivlar va davr xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Balansning aktiv qismi quyidagi tahliliy guruhlardan iborat.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli aktivlar va hisobdagi mablag`lar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli aktivlar va joriy aylanma aktivlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Materiallar va zaxiralar, pul mablag`lari va hisobdagi mablag`lar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Asosiy vositalar va oborotdan tashqari aktivlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bino, inshootlar, mashina va uskunalar -- bu\\ldots hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli aktivlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kо`chmas mulk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oson sotiladigan aktivlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Joriy aktivlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Balansning passiv qismi quyidagi tahliliy guruhlardan iborat:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "О`z mablag`lar manbasi va majburiyatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli aktivlar va kreditorlik qarzlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli va joriy majburiyatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qarz mablag`lari va taqsimlanmagan foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "О`z mablag`lari deganda nima tushuniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qarzga оlingan (uzoq muddatga) mablag`lar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mahsulot sоtishdan оlingan darоmadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kоrxоnaning о`ziga tegishli mablag`lari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Majburiyatlar qоplanishidagi оrtiqcha mablag`lar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kоrxоnaning majburiyatlari tarkibiga nimalar kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatga berilgan qarz mablag`lari, ssudalar va boshqa qarzlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli kreditlar, muddatida uzilmagan ssudalar va boshqa qarzga berilgan mablag`lar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qisqa va uzoq muddatga оlingan qarz mablag`lari, kreditlar va boshqa qarzlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qisqa va uzoq muddatli kredit va qarzlar, berilgan bо`naklar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ustav kapitali balansning qaysi bо`limida kо`rsatiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Passiv tоmоn -- 1-bо`limda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aktiv tоmоn -- 2-bо`limda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Passiv tоmоn -- 2-bо`limda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aktiv tоmоn -- 1-bо`limda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul mablag`lari balansning qaysi tomonida joylashgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Balans aktivi 2-bо`limda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Balans aktivi 1-bо`limda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Balans passivi 1-bо`limda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Balans passivi 2-bо`limda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Berilgan kо`rsatkichlarning qaysi biri kоrxоnaning mоliyaviy mustaqilligini ifоdalaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "О`ziga qarashli aylanma mablag` bilan jami о`ziga qarashli mablag` о`rtasidagi nisbat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O`zlik mablag`lari manbalari bilan jami mablag`lar manbalari о`rtasidagi nisbat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Majburiyatlar bilan о`z mablag`i о`rtasidagi nisbat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Majburiyatlar bilan jami mablag` о`rtasidagi nisbat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tez sоtiluvchi aktivlar deganda nima tushuniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Joriy debitоrlik qarzlarning muddati о`tmagan qismini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tayyor mahsulоtni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Pul mablag`larini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kelgusi davr xarajatlarini\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sekin sotiluvchi aktivlar deganda nimani tushuniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tayyor mahsulоtni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Pul mablag`larini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tovar-moddiy zahiralarni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Joriy debitоrlik qarzlarni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qiyin sotiluvchi aktivni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Asosiy vositalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tayyor mahsulоt\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Joriy debitоrlik qarzlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tovar-moddiy zahiralari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mоliyaviy mustaqillik deganda nima tushuniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Faоliyat natijasida barcha xarajatlarni qoplab fоyda оlishni ta'minlashga egaligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ustav kapitalining yuqori darajadaligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kоrxоnaning о`z mablag`lari manbasining jami mol-mulkdagi hissasining yuqoriligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tо`lovga qobillik darajasining yuqoriligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qiyin sоtiluvchi aktivlar qaysi passivlardan kichik bо`lishi shart.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Doimiy passivlardan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Muddati kelgan majburiyatlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qisqa muddali majburiyatlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Nоmоddiy aktivlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy barqarorlik shartlariga kо`ra sekin sotiluvchi aktivlar qaysi passivlardan katta bо`lishi kerak.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Doimiy passivlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Muddati kelgan passivlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli passivlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli passivlardan\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Joriy aktivlarga quyidagilar kiradi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "TMZ, kelgusi davr xarajatlari, debitorlik qarzlari, pul mablag`lari, qisqa muddatli investitsiyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ustav kapitali, qо`shilgan kapital, taqsimlanmagan foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Asosiy vositalar, nomoddiy aktivlar, kelgusi davr xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Asosiy vositalar, kelgusi davr xarajatlari, taqsimlanmagan foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy barqarorlik shartlariga kо`ra doimiy harakatdagi aktivlar qaysi passivlardan katta bо`lishi kerak.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tо`lov muddati kelgan passivlardan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli passivlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Doimiy passivlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli passivlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy barqarorlik shartlariga kо`ra tez sotiluvchi aktivlar qaysi passivlardan katta bо`lishi kerak.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli passivlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Muddati kelgan passivlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli passivlardan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Doimiy passivlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mоliyaviy mustaqillik kоeffisienti qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "О`z mablag`lari manbai / balans jami\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Jоriy aktivlar / majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Majburiyatlar / о`z mablag`lari manbai\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "О`z mablag`lari manbai / majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}``Na'muna'' MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 650 mln. so'm. Jami aktivlar qiymati 850 mln. so'm. Uzoq muddatli majburiyatlari 65 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,64\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,88\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,76\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}``ABS'' MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 550 mln. so'm. Jami aktivlar qiymati 850 mln. so'm. Uzoq muddatli majburiyatlari 65 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,88\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,77\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,64\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}``ABS'' MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 740 mln. so'm. Jami aktivlar qiymati 850 mln. so'm. Uzoq muddatli majburiyatlari 65 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,87\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,89\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,77\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "ABS MCHJning buxgalteriya balansi bo'yicha ushbu ma'lumotlar mavjud. Xususiy kapital miqdori 440 mln. so'm. Jami aktivlar qiymati 830 mln. so'm. Uzoq muddatli majburiyatlari 65 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,89\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,53\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,77\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "RAYXON MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 500 mln. so'm. Jami aktivlar qiymati 900 mln. so'm. Uzoq muddatli majburiyatlari 45 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,67\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,89\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,77\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "NUR MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 635 mln. so'm. Jami aktivlar qiymati 890 mln. so'm. Uzoq muddatli majburiyatlari 35 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,79\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,89\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,77\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "NUR MCHJning buxgalteriya balansi bo'yicha ushbu ma'lumotlar mavjud. Xususiy kapital miqdori 420 mln. so'm. Jami aktivlar qiymati 880 mln. so'm. Uzoq muddatli majburiyatlari 65 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,89\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,77\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,47\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamin MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 500 mln. so'm. Jami aktivlar qiymati 850 mln. so'm. Uzoq muddatli majburiyatlari 165 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,58\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,89\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,77\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}``ABS'' MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 740 mln. so'm. Jami aktivlar qiymati 950 mln. so'm. Uzoq muddatli majburiyatlari 75 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,89\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,77\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,65\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}``ABS'' MCHJning buxgalteriya balansi bo'yicha ushbu ma'lumotlar mavjud. Xususiy kapital miqdori 140 mln. so'm. Jami aktivlar qiymati 830 mln. so'm. Uzoq muddatli majburiyatlari 85 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,89\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,65\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,16\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "CHASHMA MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 800 mln. so'm. Jami aktivlar qiymati 850 mln. so'm. Uzoq muddatli majburiyatlari 165 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,94\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,89\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,65\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "DOVON MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 835 mln. so'm. Jami aktivlar qiymati 950 mln. so'm. Uzoq muddatli majburiyatlari 75 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,87\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,92\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,65\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "DON MCHJning buxgalteriya balansi bo'yicha ushbu ma'lumotlar mavjud. Xususiy kapital miqdori 240 mln. so'm. Jami aktivlar qiymati 830 mln. so'm. Uzoq muddatli majburiyatlari 85 mln. so'mni tashkil etadi. Korxona uchun moliyaviy mustaqillik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,92\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,65\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,29\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}``Obod'' MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 220 mln. so'm. Balans jami qiymati 700 mln. so'm. Uzoq muddatli majburiyatlari 65 mln. so'mni tashkil etadi. Korxona uchun moliyaviy qaramlik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3,18\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,92\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,65\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Obod MCHJning buxgalteriya balansi bo'yicha quyidagi ma'lumotlar mavjud. Xususiy kapital miqdori 230 mln. so'm. Balans jami qiymati 750 mln. so'm. Uzoq muddatli majburiyatlari 65 mln. so'mni tashkil etadi. Korxona uchun moliyaviy qaramlik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3,71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,92\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2,65\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "3,26\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul mablag`lari harakatdagi aktivlarning qaysi qatoriga kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tez sotiluvchi aktivlarga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Doimiy harakatdagi aktivlarga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sekin sotiluvchi aktivlarga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aylanma mablag`larga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yillik moliyaviy hisobot tarkibiga qaysi shakllar kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Buxgalteriya balansi, moliyaviy natijalar, asosiy vositalar, pul oqimlari va ishlab chiqarish qarorlari to`g`risidagi hisobotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Buxgalteriya balansi, moliyaviy natijalar, asosiy vositalar, pul oqimlari va mahsulotlar sotish to`g`risidagi hisobotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Buxgalteriya balansi, moliyaviy natijalar, pul oqimlari va xususiy kapital to`g`risidagi hisobotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Buxgalteriya balansi, moliyaviy natijalar, asosiy vositalar, pul oqimlari, debitorlik va kreditorlik qarzlari to`g`risidagi malumotnoma\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi ko`rsatkichlardan qaysi biri joriy to`lov qobiliyatini ifodalaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "pul mablag`lari / qisqa muddatli to`lov majburiyatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "pul mablag`lari va boshka aktivlar / qisqa muddatli to`lov majburiyatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "pul mablag`lari + qimmatli qog`ozlar) / qisqa muddatli to`lov majburiyatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "aylanma aktivlar / majburiyatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish fondlari bo`yicha rentabellik qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "(Foyda x 100) / asosiy vositalar + aylanma mablag`lar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "(Foyda x 100) / aktiv fondlar + passiv fondlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "(Foyda x 100) / balans aktivi 1-bulim + 2-bo`lim jami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "asosiy vositalar + aylanma mablag`lar / (Foyda x 100)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aylanma mablag`larning aylanish koeffisiyenti qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "(Mahsulotni sotishdan tushgan tushum + tayyor mahsulot) / aylanma mablag`larning yillik o`rtacha qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mahsulotni sotishdan tushgan tushum / aylanma mablag`larning yillik o`rtacha qiymati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sotilgan mahsulotning tannarxi / aylanma mablag`larning yillik o`rtacha qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mahsulotni sotishdan tushgan tushum / aylanma aktivlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli passivlar deganda nimani tushunasiz.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kreditor qarzlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli kredit va qarzlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Maqsadli tushumlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kelgusi davr sarflari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy mustaqillik koeffisiyenti qanday aniqlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula0.png"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula1.png"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula2.png"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula3.png"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tez likvidlik koeffisiyenti qaysi javobda to`g`ri ko`rsatilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula4.png"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula5.png"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula6.png"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula7.png"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy faoliyatning daromadlari tarkibiga \\ldots. kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Foizlar, dividendlar shaklidagi daromadlar, ijaradan, valyuta kursi farqidan daromadlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Foizlar shaklidan, dividendlar shaklidan daromadlar, valyuta kursi farqidan daromadlar, yordamchi ishlab chiqarishdan tushgan daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli (lizing)dan daromadlar, valyuta kursi farqidan daromadlar, mol -- mulkni sotishdan kelgan daromadlar, hisobot davrida o`tgan yilga tegishli foydani kelib tushishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Foizlar shaklidagi daromadlar, mol -- mulkni sotishdan kelgan daromadlar, boshqa daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hisobot davridagi korxonaning sof foydasi qanday maqsadlarga sarflanmaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish xarakteridagi qurilish ob'yektlariga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O`tgan yilga tegishli zararni qoplashga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kelgusi davr daromadlarini shakllanishiga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yangi texnikani sotib olishga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Balans aktivining rentabellik darajasi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula8.png"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula9.png"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula10.png"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula11.png"
+            },
+            {
+                "type": "text",
+                "content": ".\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Balans aktivining rentabellik darajasiga qanday omillar ta'sir etadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sotishdan ko`rilgan rentabellik, daromadning har so`miga to`g`ri keladigan tushum, balans aktivining har so`miga to`g`ri keladigan tushum\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sotishdan ko`rilgan rentabellik, mahsulot birligining rentabelligi, daromadning har so`miga to`g`ri keladigan tushum\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Balans aktivining har so`miga to`g`ri keladigan tushum, sotishdan ko`rilgan rentabellik, asosiy faoliyatdan ko`rilgan rentabellik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sotishdan ko`rilgan rentabellik, daromadning har so`miga to`g`ri keladigan tushum, asosiy faoliyatdan ko`rilgan rentabellik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Foydaning mohiyati nimalardan iborat.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mulk egasining asosiy maqsadi, raqobatga bardoshlikning mezoni, ijtimoiy ehtiyojlarni qondirishning manbai\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Korxona rivojlanishining asosiy manbai, mulk egasining asosiy daromad manbai, rentabellikka ta'sir etuvchi omil\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mulk egasining asosiy maqsadi, raqobatga bardoshlikning mezoni, oborot mablag`lar aylanishini tezlashtirish omili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Korxona rivojlanishining asosiy manbai, ijtimoiy ehtiyojlarni qondirishning manbai, kelgusi davr daromadlarini shakllanish manbai\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mol -- mulk rentabelligi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula12.png"
+            },
+            {
+                "type": "text",
+                "content": "\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula13.png"
+            },
+            {
+                "type": "text",
+                "content": "\\%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula14.png"
+            },
+            {
+                "type": "text",
+                "content": "\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/formula15.png"
+            },
+            {
+                "type": "text",
+                "content": "\\%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mahsulot sotishdan ko`rilgan foydaga qanday omillar ta'sir etadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mahsulot sotish hajmi, sotilgan mahsulot tannarxi, operasion daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mahsulot ishlab chiqarish hajmi, sotilgan mahsulot bahosi, sotilgan mahsulot tannarxi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sotish hajmi, sotilgan mahsulot tannarxi, operasion daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mahsulot sotish hajmi, sotilgan mahsulot tannarxi, sotilgan mahsulot bahosi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davr xarajatlariga qanday xarajatlar kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sotish xarajatlari, ma'muriy boshqaruv xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Umumsex va umumkorxona xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Amortizatsiya, telefon uchun to`lov, ijara haqi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sotish xarajatlari, ma'muriy-boshqaruv xarajatlari, muomala xarajatlari, tijorat va boshqa umumxo`jalik xarajatlari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to`lagunga qadar bo`lgan moliyaviy natijani hisoblang:\n"
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/image1.png"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "323:260\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "323:255\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "343:265\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "323:265\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi ma'lumotlar asosida mahsulot realizatsiyasidan ko`rilgan yalpi foyda miqdorini aniqlang:\n"
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/image2.png"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "41654\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "40760\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "20815\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "20647\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bitta aksiyaga to`g`ri keladigan foyda summasini aniqlang va tahlil qiling:\n"
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/image3.png"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "625; 1140; -515\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,47; 0,7; -0,10\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2,08; 2,70; 0,62\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "690,0 1212,7; 522,7\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sotilgan mahsulot rentabelligi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "(Mahsulotni sotishdan tushgan tushum x 100) / yalpi foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "(Sotishdan yalpi daromad x 100) / mahsulot sotishdan tushgan tushum\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "(Sotishdan yalpi foyda x 100) / maxsulot sotishdan tushgan sof tushum\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "(Mahsulotni sotishdan tushgan yalpi tushum x 100) / yalpi sarflar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sotishdan olingan yalpi foyda qanday topiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sotishdan olingan sof tushum minus o`zgaruvchan xarajatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sotishdan olingan sof tushum minus o`zgaruvchan va doimiy xarajatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sotishdan olingan sof tushum minus ishlab chiqarish tannarxi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sotishdan tushum minus sotish hajmiga soliqlar (qo`shilgan qiymatga soliq, aksiz, reklama va boshqa sotishlar hajmiga soliqlar)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sotishdan ko`rilgan foydaga qanday omillar ta'sir ko`rsatadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mahsulot sifati, sotish hajmi, mahsulot bahosi, ishlab chiqarish hajmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sotilgan mahsulot hajmi, mahsulot tannarxi, sotilgan mahsulot tarkibidagi strukturaviy o`zgarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sotish hajmi, bozorni tuzilishi, mahsulotni raqobatga bardoshligi, ishlab chiqarish xajmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarish maromiyligi, mahsulot sifati, mahsulot rentabelligi, sotilmay qolgan mahsulot hajmi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul mablag`lari harakatdagi aktivlarning qaysi qatoriga kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tez sotiluvchi aktivlarga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Doimiy harakatdagi aktivlarga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sekin sotiluvchi aktivlarga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aylanma mablag`larga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul oqimlari to`g`risidagi hisobotni tuzishdan maqsad nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Pul mablag`lari harakatining balansini tuzish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ma'lumot foydalanuvchilariga korxonaning pul mablag`larini boshqaruvidagi layoqatiga baho berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Pul mablag`larining faoliyat shakli bo`yicha harakatini ko`rsatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Pul mablag`lari harakatini boshqarishda axborotlar bilan ta'minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul oqimi to`g`risidagi hisobot qaysi davrga tuziladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yil bo`yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Choraklik, yarim yillik, 9 oylik, yillik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat choraklar bo`yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yarim yillik va yillik\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Firmaning pul mablag`lari qanday faoliyatlarda harakat qiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xo`jalik, investisiya, soliqqa tortish va tashqi iqtisodiy faoliyatlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xo`jalik, investisiya, soliqqa tortish va moliyaviy faoliyatlarda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Xo`jalik, investisiya, soliqqa tortish va valyuta mablag`lar harakatida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xo`jalik, investisiya, soliqqa tortish va ijara majburiyatlarida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy faoliyatdagi pul oqimini tahlil qilishda asosiy o`rganiladigan ko`rsatkichlarni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aksiya chiqarishdan, uzoq, qisqa muddatli qarzlar va ijara majburiyatlari bo`yicha kirim va chiqim, olingan va to`langan foizlar, olingan va to`langan dividendlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Olingan va to`langan foizlardan kirim va chiqim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Olingan va to`langan dividendlardan kirim va chiqim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "To`langan soliqlar bo`yicha chiqim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul oqimi deganda nimani tushunasiz.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Pul mablag`lari kirimini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Pul mablag`lari chiqimini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Pul va pul mablag`larining kirimi va chiqimini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Pul mablag`larining muayyan davr oralig`idagi harakatini\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul oqimi tahlili.\n"
+            },
+            {
+                "type": "text",
+                "content": ""
+            },
+            {
+                "type": "image",
+                "content": "/media/questions/MSCACC07/images/image4.png"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "13288; 4096; +9192\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "12790; 2886; +9904\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "12292; 1676; +10616\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "498; 1210; +712\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Operasion faoliyatdagi pul mablag`lari harakati nimalardan tashkil topadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mahsulotlarni sotishdan kelib tushgan pul mablag`lari; material, tovar, ish va xizmatlar uchun mol yetkazib beruvchilarga to`langan pul mablag`lari; xodimlarga va xodimlar nomidan t¤langan pul mablag`lari; boshqa operasion faoliyatdan pul mablag`lari tushumi va chiqimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xodimlarga va xodimlar nomidan to`langan pul kirimi va chiqimidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Turli xil pulli to`lovlar va tushumlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xaridor va mol yetkazib beruvchilar, xodimlar va boshqa turli xil to`lov va tushumlardan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul oqimi to`g`risidagi hisobot qaysi usulda tuziladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "To`g`ri va egri usulda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Balans usulda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "To`g`ri usulda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "To`g`ri va balans usulida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyida qayd qilingan qaysi ma'lumotlar valyuta mablag`lari harakatini to`liq ifodalaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Valyuta mablag`larining kirimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Valyuta mablag`larining chiqimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Valyuta mablag`larini hisobot davri boshidagi qoldig`i\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Valyuta mablag`larining yil boshidagi qoldig`i, jami tushum va chiqim, yil oxiridagi qoldiq\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ustav kapitali balansning qaysi bo`limida ko`rsatiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Passiv tomon -- 1-bo`limda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aktiv tomon -- 1-bo`limda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Passiv tomon -- 2-bo`limda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aktiv tomon -- 2-bo`limda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xususiy kapital qatoriga kiruvchi mablag`lar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ustav kapitali, taqsimlanmagan foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Zaxira kapitali, qo`shilgan kapital\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ustav kapitali, qo`shilgan kapital, zahira kapitali, taqsimlanmagan foyda, qoplanmagan zarar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ustav kapitali, zaxira kapitali, qo`shilgan kapital, taqsimlanmagan foyda (qoplanmagan zarar), maqsadli tushumlar va moliyalashtirishlar, kelgusi davr bo`yicha to`lovlar zahiralari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O`z mablag`lari deganda nimani tushunasiz.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Korxonaning o`ziga tegishli mablag`lari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qarzga olingan (uzoq muddatga) mablag`lar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Majburiyatlar qoplanishidagi ortiqcha mablag`lar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Hukumat tomonidan subsidiya sifatida berilgan mablag`lar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xususiy kapitalni tahlil qilishda qaysi hisobot shakllari ma'lumotlariga tayaniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1-shakl -- «Balans»\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2-shakl -- «Moliyaviy natijalar» to`g`risidagi hisobot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4-shakl -- «Pul oqimi» to`g`risidagi hisobot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5-shakl -- «Xususiy kapital» to`g`risidagi hisobot\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xususiy kapital to`g`risidagi hisobotni tuzishdan maqsad nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Balans passivi 1-bo`lim buyicha tarkiblashni berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Balansning 1-bo`limi passivini tartiblashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ma'lumotlardan foydalanuvchilar, qiziquvchilarga xususiy kapital o`zgarishi to`g`risidagi axborotlar berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O`z mablag`lari holati to`g`risida axborotlar berish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxonaning joriy aktivlari qiymati 750 mln. so`m. Joriy majburiyatlari qiymati 450 mln.so`m. Uzoq mmuddatli aktivlari qiymati 100 mln.so`m. Joriy likvidlik koeffitsiyentini toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1,66\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2,66\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3,56\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "4,8\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tezkor likvidlik kо`rsatkichi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yuqori likvid aktivlar/Qisqa muddatli majburiyatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sotishdan tushum/Joriy kapital\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Likvid aktivlar/Qisqa muddatli majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Joriy aktivlar/Qisqa muddatli majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi ma'lumotlardan foydalanib korxona uchun absolyut(tezkor) likvidlik koeffitsiyentini aniqlang. Pul mablag`lari 76 mln.so`m, debitorlik qarzlari 10 mln. so`m, tovarlar qiymati 15 mln. so`m, qisqa muddatli majburiyatlar 48 mln. so`m.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1,58\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1,48\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2,35\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "3,12\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pul mablag`lari 50 mln.so`m, debitorlik qarzlari 10 mln. so`m, tovarlar qiymati 15 mln. so`m, qisqa muddatli majburiyatlar 45 mln. so`m. Ushbu ma'lumotlardan foydalanib korxona uchun oraliq likvidlik koeffitsiyentini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1,51\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1,33\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2,35\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "3,12\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Joriy aktivlar aylanuvchanligi kо`rsatkichi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sotishdan tushgan sof tushum/Joriy aktivlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sotishdan tushum/Debitorlik majburiyatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Likvid aktivlar/Qisqa muddatli majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Joriy aktivlar/Qisqa muddatli majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Operatsion leveredj kо`rsatkichi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sof foyda/Aktivlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Likvid aktivlar/Qisqa muddatli majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sotishdan tushgan sof tushum /sotishdan foyda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Joriy aktivlar/Qisqa muddatli majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyida berilgan kо`rsatkichlardan qaysilari korxonaning moliyaviy barqarorlik darajasini ifodalaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qarzga olingan va о`z mablag`lari nisbati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Debitorlik qarzlarini aylanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Joriy aktivlarni aylanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Operatsion davr\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fond qaytimi bu-\\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "asosiy ishlab chiqarish vositalarining bir so`miga ishlab chiqariladigan mahsulot miqdoridir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bir so'mlik mahsulotga to`g`ri kеladigan asosiy ishlab chiqarish vositalarning qiymati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "moddiy xarajatlarning bir so`mi hisobiga qancha mahsulot ishlab chiqarilganligini ko`rsatadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bir so`m tovar mahsuloti ishlab chiqarish uchun qancha moddiy xarajatlar to`g`ri kеlishini ko`rsatadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyida keltirilgan ma'lumotlar berilgan: ishlab chiqarilgan mahsulot hajmi 26~700 ming so`m. asosiy vositalarning eskirish xarajatlari 800 ming so`m. Asosiy vositalarning o`rtacha yillik qiymati 24~700 ming so`m. Fond qaytimini toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2,15\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1,26\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1,14\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1,08\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fond sig`imi bu-\\ldots..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "asosiy ishlab chiqarish vositalarining bir sо`miga ishlab chiqariladigan mahsulot miqdoridir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "moddiy xarajatlarning bir sо`mi hisobiga qancha mahsulot ishlab chiqarilganligini ko'rsatadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bir so`mlik mahsulotga tо`g`ri kеladigan asosiy ishlab chiqarish vositalarning qiymati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bir so`m tovar mahsuloti ishlab chiqarish uchun qancha moddiy xarajatlar tо`g`ri kеlishini kо`rsatadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyida keltirilgan ma'lumotlardan foydalanib Fond sig`imini toping: ishlab chiqarilgan mahsulot hajmi 26~700 ming so`m. Asosiy vositalarning eskirish xarajatlari 800 ming so`m. Asosiy vositalarning o`rtacha yillik qiymati 24~750 ming so`m.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,92\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2,15\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1,26\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1,14\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyida keltirilgan ma'lumotlardan foydalanib Fond sig`imini toping: ishlab chiqarilgan mahsulot hajmi 26~800 ming so`m. Asosiy vositalarning eskirish xarajatlari 810 ming so`m. Asosiy vositalarning o`rtacha yillik qiymati 20~700 ming so`m.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2,15\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1,26\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,77\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1,14\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asоsiy fоndlarning texnik hоlatini tahlil qilishda hisоblanadigan kо`rsatkichlarni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yarоqlilik va eskirish darajasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "yangilanish va ishga tushirish darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "eskirish va yangilanish darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yarоqlilik va yangilanish darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asоsiy vоsitalar deb nimaga aytiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "mоddiy ishlab chiqarish, hamda nоishlab chiqarish sоhasidagi mоddiy aktivlarga aytiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mоddiy ishlab chiqarish sоhasida uzоq muddat mоbaynida ishlatiladigan vоsitalarga aytiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mоddiy ishlab chiqarish va nоishlab chiqarish sоhasida uzоq vaqt mоbaynida ishlatiladigan, shuningdek, ijaraga berish uchun ham fоydalaniladigan mоddiy aktivlarga aytiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "uzоq muddat mоbaynida ijaraga berish uchun ham fоydalaniladigan aktivlarga aytiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asоsiy vоsitalar harakatini ifоdalоvchi kоeffitsientlar qaysi javоbda tо`g`ri kо`rsatilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarning chiqib ketish, eskirish kоeffitsientlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarning tugatish, eskirish kоeffitsientlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarni yangilanish, eskirish kоeffitsientlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarning chiqib ketish, yangilanish kоeffitsientlari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asоsiy vоsitalar ishlab chiqarishda ishtirоk etishiga qarab qanday guruhlarga bо`linadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ishlab chiqarish asоsiy vоsitalariga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "aktiv va passiv asоsiy vоsitalarga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sanоat ishlab chiqarish asоsiy vоsitalariga va aktiv asоsiy vоsitalarga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kоrxоna ixtiyoridagi asоsiy vоsitalarga va ijaraga berilgan asоsiy vоsitalarga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asоsiy vоsitalardan fоydalanish samaradоrligiga qaysi kо`rsatkichlar оrqali bahо beriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarning yangilanish kоeffitsienti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarning yarоqlilik darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "fоnd qaytimi, fоnd sig`imi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarning eskirish darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashkilot asosiy vositalarining qoldiq qiymati 850 mln.so`m, boshlang`ich qiymati esa 790 mln.so`m. Eskirish qiymati 110 mln so`m. Asosiy vositalarning eskirish darajasini toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "12,15\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "11,26\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "13,14\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "13,92\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asоsiy vоsitalarning yarоqlilik darajasi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarning qоldiq qiymati ularning bоshlang`ich qiymatiga bо`linib, yuzga kо`paytiriladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarning eskirish qiymati ularning bоshlang`ich qiymatiga bо`linib, yuzga kо`paytiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarning tugatilish qiymati ularning bоshlang`ich qiymatiga bо`linib, yuzga kо`paytiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "asоsiy vоsitalarning real bоzоr qiymati ularning bоshlang`ich qiymatiga bо`linib, yuzga kо`paytiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hisobot yili davrida tashkilotning mahsulot sotishdan sof tushum miqdori 260 mln so`mni, aylanma mablag`larning o`rtacha yillik qiymati esa 600 mln so`mni, joriy majburiyatlar qiymati 125 mln so`mni tashkil etgan. Aylanma mablag`larning aylanish koeffitsiyentini hisoblang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,43\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,65\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,87\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,94\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri balans aktivining 1 bо`limiga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "debitorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "pul mablag`lari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "qisqa muddatli mоliyaviy qо`yilmalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "nomoddiy aktivlarning qоldiq qiymati\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri balans aktivining 2-bо`limida aks ettirilmaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ustav kapitali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "berilgan avans (bо`nak)lar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "pul mablag`lari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kelgusi davr xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Binо, inshоotlаr, mаshinа vа uskunаlаr, bu -- \\ldots{}\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "jоriy аktivlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "оsоn sоtilаdigаn аktivlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "qiyin sоtilаdigаn аktivlаr\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Buхgаltеriya bаlаnsi mа'lumоtlаri аsоsidа qаysi kо`rsаtkichni аniqlаsh mumkin.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "mоliyaviy bаrqаrоrlik kо`rsаtkichlаrini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mоliyaviy fаоliyatdаn оlingаn хаrаjаtlаr dinimikаsini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kоrхоnа rеntаbеlligi dаrаjаsini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mаhsulоtlаr sоtishdаn оlingаn tushum tаrkibini\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Buхgаltеriya bаlаnsi ... о`z ichigа оlаdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "uzоq muddаtli аktivlаr vа foizlarni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "jоriy аktivlаr vа mаjburiyatlаrni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "аktivlаr vа sotish xarajatlarini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "аktivlаr vа passivlarni\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bаlаnsning pаssiv qismi qanday tаhliliy guruhlаrdаn ibоrаt.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "о`z mablag`lari manbaalari vа majburiyatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "qisqа muddаtli аktivlаr vа krеditоrlik qаrzlаri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "uzоq muddаtli vа qisqа muddаtli аktivlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "berilgan qаrz mаblаg`lаri vа tаqsimlаnmаgаn fоydа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sof tushum tо`g`risidаgi mа'lumоtlаr qаysi hisоbоt shаklidа kо`rsаtilаdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2-shakl ``Moliyaviy natijalar tо`g`risidagi hisobot''\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4-shаkl ``Pul оqimlаri tо`g`risidаgi hisоbоt''\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1-shаkl ``Buхgаltеriya bаlаnsi''\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5-shаkl ``Хususiy kаpitаl tо`g`risidаgi hisоbоt''\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dоimiy harakatdagi aktivlar deganda nimani tushunasiz.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "materiallar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "nоmоddiy aktivlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "transportlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "pul va valyuta mablag`lari\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dоimiy harakatdagi aktivlar tarkibiga nimalar kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "pul mablag`lari, valyuta mablag`lari, qisqa muddatli investitsiyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "debitоrlik qarzlari, pul mablag`lari, valyuta mablag`lari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "pul mablag`lari, debitоrlik qarzlari, qisqa muddatli investitsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "valyuta mablag`lari, debitоrlik qarzlari, qisqa muddatli investitsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kоrхоnа аktivlаrining аylаnuvchаnlik kоeffisiеnti qаndаy аniqlаnаdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "mаhsulоt sоtishdаn sof tushum/ аktivlаrni о`rtаchа yillik qiymаti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sоf tushum : ishlab chiqarish zaхiralari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sоtilgan maхsulоtlarning tannarхi : tayyor maхsulоt\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "аylаnmа mаblаg`lаrni о`rtacha qоldig`i х 360 : sоf tushum\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kоrхоnаning о`z аylаnmа mаblаg`lаri tеng:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kоrхоnаning о`z mаblаg`lаri mаnbаlаri аyiruv uzоq muddаtli majburiyatlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "jоriy аktivlаr аyiruv qisqа muddаtli mаjburiyatlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "о`z mаblаg`lаri аyiruv uzоq muddаtli аktivlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kоrхоnаning о`z mаblаg`lаri mаnbаlаri аyiruv uzоq muddаtli аktivlаr\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kоrхоnаning хususiy kаpitаli yana qanday nomlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "о`z mаblаg`lаri mаnbаlаri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "jоriy аktivlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mаjburiyatlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "uzоq muddаtli аktivlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mahsulоt tannarxi nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tо`g`ri va egri xarajatlarning puldagi ifоdasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mahsulоt ishlab chiqarish uchun ketgan barcha о`zgaruvchan va dоimiy xarajatlarning puldagi ifоdasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "me'yoriy ishlab chiqarish xarajatlarining puldagi ifоdasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mahsulоt ishlab chiqarish uchun ketgan barcha dоimiy xarajatlarning puldagi ifоdasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Materiallar qaytimi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "mоddiy xarajatlar summasi ulgurji bahоdagi mahsulоt hajmiga bо`linadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mоddiy xarajatlar summasi xоdimlar sоniga bо`linadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ulgurji bahоdagi mahsulоt hajmi mоddiy xarajatlar summasiga bо`linadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sоf fоyda mоddiy xarajatlar summasiga bо`linadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qisqа muddаtli mаjburiyatlаr bаlаns passivining qаysi bо`limidа vа nеchаnchi sаtrdа kо`rsаtilаdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bаlаnsning 1-bо`limi 480- sаtrdа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bаlаnsning 1-bо`limi 400- sаtrdа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bаlаnsning 2-bо`limi 770 sаtrdа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bаlаnsning 2-bо`limi 600 -sаtrdа\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri qiyin sоtiluvchi aktiv hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "aylanma aktivlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tovar-moddiy zahiralar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "uzоq muddatli aktivlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "pul mablag`lari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidа bеrilgаn bаlаnsning qаysi mоddаsi хususiy kаpitаl tаrkibigа kirаdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "qо`shilgаn kаpitаl\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "nоmоddiy аktivlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "uzоq muddаtli bаnk krеditlаri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "krеditоrlik mаjburiyatlаri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidа bеrilgаn аylаnmа mаblаg`lаrning qаysi biri sеkin sоtilаdigаn аktiv hisоblаnmаydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "qisqа muddаtli dеbitоrlik qаrzlаri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kеlgusi dаvr хаrаjаtlаri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ishlаb chiqаrish zаhirаlаri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tаyyor mаhsulоt\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qаysi jаvоbdа likvidlilik kоeffisiеntlаri tо`liq vа tо`g`ri kо`rsаtilgаn.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "jоriy likvidlilik kоeffisiеnti, moliyaviy qaramlik kоeffisiеnti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mustaqillik vа jоriy likvidlilik kоeffisiеntlаri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "jоriy, mutlоq vа оrаliq likvidlilik kоeffisiеntlаri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mutlоq vа оrаliq likvidlilik kоeffisiеntlаri, moliyaviy qaramlik kоeffisiеnti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli investisiyalar bаlаnsning qаysi bо`limidа kо`rsаtilаdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "pаssiv tоmоn 1-bо`lim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "аktiv tоmоn 1-bо`lim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "pаssiv tоmоn 2-bо`lim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "аktiv tоmоn 2-bо`lim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hisobot yilida korxona 2000 dona mahsulot ishlab chiqardi. Doimiy xarajatlar 69~000 ming sо`m, о`zgaruvchan xarajatlar 523~000 ming sо`mni tashkil etdi. Mahsulot birligining jami tannarxini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "296000 sо`m\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "294000 sо`m\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "592000 sо`m\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "588000 sо`m\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mol-mulk rentabelligi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "(Sof foyda x 100) / korxonaning jami mol-mulki\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "(korxona mol-mulki x 100) / sof foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "(Sof foyda x 100) / uzoq muddatli aktivlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "(Sof foyda x 100) / о`z mablaglari manbasi jami\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bitta aktsiyaga tо`g`ri keladigan foyda summasi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sof foyda / Yil boshida sotilgan jami aktsiyalar soni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sof foyda / Yil oxirida sotilgan jami aktsiyalar soni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tо`g`ri javob yо`q.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sof foyda / Muomaladagi oddiy aksiyalar soni\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rentabellikka ta'sir qiladigan tashqi omillar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Talab\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tovarlar hajmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tovarlar tuzilishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tovarlar sifati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rentabellikka ta'sir qiladigan ichki omillar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tovarlar sifati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Talab\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Korxonaning joylashgan joyi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Raqobatchilar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rentabellik - \\ldots.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "korxona foydalik darajasini xarakterlaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "korxona xarajatlarini ifodalaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "korxona taklifi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "korxona balansi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mahsulot sotishdan olingan yalpi foyda qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "YaF-DX+BD\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "AFF+MD-MX\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "UFF+FF-FZ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "SST-IT\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Asosiy faoliyatdan kо`rilgan foyda (zarar) qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "AFF+MD-MX\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "UFF+FF-FZ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "YaF-DX+BD\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "STF-DS-BS\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Umumxо`jalik faoliyatidan olingan foyda (zarar) qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "AFF+MD-MX\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "STF-DS-BS\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "SST-IT\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "YaF-DX+BD\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq tо`lagunga qadar foyda qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "UFF+FF-FZ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "STF-DS-BS\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "SST-IT\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "YaF-DX+BD\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sof foyda qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "STF-DS-BS\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "SST-IT\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "YaF-DX+BD\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "AFF+MD-MX\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

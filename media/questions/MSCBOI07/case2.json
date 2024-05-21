@@ -1,0 +1,5908 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие из следующих направлений принадлежат к белково-ферментным технологиям? *\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " а) ферментная инженерия; б) клеточная биология; в) техническая и промышленная микробиология; г) техническая биохимия\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " а) генная и клеточная инженерия; б) клеточная биология; в) эмбриология\n"
+            },
+            {
+                "type": "text",
+                "content": "г) генетика; д) техническая микробиология\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " а) белково-ферментная инженерия; б) эмбриология; в) генетика; г) техническая микробиология;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " а) эмбриология; б) генетическая инженерия; в) техническая микробиология\n"
+            },
+            {
+                "type": "text",
+                "content": "г) техническая биохимия\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие ферменты могут лизировать клеточную оболочку растений?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " целлюлаза, пектиназа, протеиназа\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " целлюлаза, фенолоксидаза, амилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " амилаза протеиназа, пектиназа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " пектиназа инвертаза, эстераза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фермент используется в производстве сыра?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ренин, фосфатаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " амилаза, фосфолипаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " химозин, пепсин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " протеаза, липаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "По какому принципу происходит взаимодействие ферментно-субстратного комплекса?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " комплементарности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " субстанция квартирант\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ключ-замок\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " рука-перчатка\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие из перечисленных свойств ферментов играют важную роль в биотехнологии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " стабильность, специфичность\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " строение активного центра\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " влияние рН среды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " способность к денатурации\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "При использовании какого из технологических методов можно получить наибольший экономический эффект?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " получение биогаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " получение фотоводорода\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " непрерывный процесс гидролиза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " создание безотходного производства\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фермент применяется при биотехнологическом получении L аминокислот из L,D рацемата?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " аминоацилаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " аминопептидаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " аминооксидаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ацетаткиназа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая цель ставится в процессе получения безлактозного молока?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " повышение диетических свойств молока\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " повышение количества сахаристых веществ в молоке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " понижение содержания сахаристых веществ в молоке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " повышение калорийности молока\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фермент используется в медицине?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " трипсин\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " целлобиаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " фибриноген\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " стрептодеказа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фермент используется при очищении ран?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " протеаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " липаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " амилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " фосфолипаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Укажите тест, который отвечает современным требованиям и используются в диагностике различных заболеваний?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " иммуноферментный тест\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " преципитационный тест\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " агглютинационный тест\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " диффузионный тест\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "При помощи каких ферментов происходит диссоциация ткани (животной)?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " трипсин, коллагеназа, эластаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " протеаза, амилаза, лизоцим\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " лизоцим, трипсин, фосфолипаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " фосфолипаза, трипсин, лизоцим\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называется процесс превращения биомассы в энергию?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " образование биометана\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " выщелачивание\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " за счет изменения температуры\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " кислотное брожение\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из биологических объектов является лучшим источником получения фермента?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " микроорганизмы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " вирусы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " органы животных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " растения\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какая смесь называется рацемической?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " смесь D,L-аминоксилот\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " нуклеиновые кислоты и D-аминокислоты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " L-аминокислоты и аминоацилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " смесь носителя и аминокислот\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какую функцию выполняют ферменты, относящиеся к классу лиаз?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " негидролитический путь расщепления\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " усиливают функциональные группы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " участвуют в реакции изомеризации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " катализирующие гидролитические реакции\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Определите фермент осуществляющий реакцию синтеза с использованием АТФ.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " лигаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " лиаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " фосфолипаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " АТФ-аза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "К какому классу относятся ферменты катализирующие окислительно-восстановительные реакции?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " оксидоредуктазы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " лиазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " лигазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " трансферазы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие ферменты относятся к классу оксидоредуктаз?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " аспартаза, фумараза, пероксидаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " протеинкиназа, гликогенфосфорилаза, пируваткиназа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " протеазалар, амилазы, целлюлазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " глюкооксидаза, каталаза, алькогольдигидрогеназа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "При помощи каких сил фермент трипсин связывается со своим субстратом?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " электростатические силы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ван дер Ваальсовы силы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " водородные связи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " гидрофобные связи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какое количество ферментного препарата понимается под удельной активностью?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1 мг ферментного препарата\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 0,1 мг ферментного препарата\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 100 мг ферментного препарата\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 10 мг ферментного препарата\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая часть фермента обеспечивает специфичность фермента?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " центр связывания\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ко-факторная часть\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " активный центр\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " апоферментная часть\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие вещества считаются электрофильными?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " нуждающиеся в электроне чтобы заполнить свой энергетический уровень\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " нуждающиеся в протоне для заполнения энергетического уровня\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " вступающие в реакцию с другими веществами в водной среде\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " вступающие в реакцию с другими веществами в водно-органической среде\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Каким путем впервые была получена L-глутаминовая кислота?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " микробиологическим способом\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " биотехнологическим способом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " биохимическим способом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " химическим способом\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фермент способен гидролизовать сахарозу?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " инвертаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " эстераза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " амилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " глюкооксидаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие ферменты применяются в технологии приготовления сыра?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " пепсин, реннин\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " папаин, ренин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " трепсин,папаин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " амилаза, пепсин\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое экстракция?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " переход веществ из одно фазы в другую (в раствор)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " процесс очистки с помощью хроматографии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " процесс очистки ферментного препарата\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " кислотная обработка веществ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как называются ферменты которые постоянно находятся в клетке?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " конститутивные ферменты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " аллостерические ферменты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " коферменты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " конформационные ферменты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Из за чего целлюлоза начинает гнить если ее хранить на открытом пространстве?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " из-за микроорганизмов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " высокой температуры\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " из-за низкой температуры\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " из-за нейтрального рН\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Где применяется фермент выделенный из кишечника ягненка?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " в приготовлении сыра\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " в приготовлении консерв\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " в приготовлении пива\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " в приготовлении хлеба\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой класс ферментов осуществляет расщепление сложных веществ под действием воды?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " гидролазы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " оксидоредуктазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " лигазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " лиазы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какое сооружение имеет важную роль при получении антибиотиков?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ферментер\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " термостат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " метантенк\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " рН метр\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Назовите классы ферментов в правильном порядке\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " оксидоредуктазы, трансферазы, гидролазы, лиазы, изомеразы, лигазы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " оксидоредуктазы, рестриктазы, лиазы, изомеразы, лигазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " трансферазы, гидролазы, лиазы, изомеразы, лигазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " трансферазы, гидролазы, лиазы, лигазы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие ферменты относятся к классу протеаз?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " папаин, трипсин, пепсин\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " протеинкиназа, гликогенфосфорилаза,пируваткиназа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " протеазы, амилазы, целлюлазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " глюкозооксидаза, каталаза, алькогольдегидрогеназа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как вы понимаете образование под названием каллусная ткань?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " растительная ткань полученная Invitro\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " мышечная ткань\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " сложный белок\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " животная ткань полученная invitro\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фермент применяется при обработке мясных продуктов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " папаин\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " уреазa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " фитаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " пероксидазу\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фермент выделяется из кишечника ягеннка?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "реннин\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ацетилхолинэстераза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " пепсин\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " каталаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой класс ферментов под действием Н\\textsubscript{2}О\\textsubscript{2} катализирует окисление сложных соединений?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " оксидоредуктазы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " лигазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " гидролазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " лиазы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Определите реакцию, катализируемую гидролазами\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " разрыв химической связи в субстрате путем гидролиза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " осуществляют функцию переноса химических групп с одного субстрата на другой\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " катализируют окислительно-восстановительные реакции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " разрывают связи между С-С, С-О, С-N\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "В каких ситуациях применяется монометрический метод определения активности ферментного препарата?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " если один из компонентов реакции является газом\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " если один из компонентов реакции является углеводом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " если один из компонентов реакции является гликопротеидом\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " если один из компонентов реакции является стероидом\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие вещества образуются при гидролизе глюкозы глюкозооксидазой?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " глюконовая кислота, водород пероксид\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " водород переоксид, водород сульфид\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " сульфид ангидрид, глюконовая кислота\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " карбонат ангидрид, водород пероксид\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При каких условиях L-аминокислоты хорошо разделяются от смеси D,L-аминокислот?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " в растворимом\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " в нерастворимом состоянии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " при нагревании\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " при щелочной среде\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "На какие группы аминокислот действует фермент аминоацилаза?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ациламинокислоты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " D - ациламинокислоты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " D,L – ациламинокислоты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " рацемированные аминокислоты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какое свойство носителей является важнейшим при химической иммобилизации ферментов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " не растворимость в различных жидкостях, наличие активных групп не теряющие свои свойства после модификации\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " нерастворимость в воде, способность быстро терять свои свойства\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " хорошее взаимодействие с органическими вещества\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " растворимость в органических растворителях\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Сколько процентов фруктозы образуется в сиропе, полученном при помощи глюкозоизомеразы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 42-45 %\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 25-27 %\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 55-60 %\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 6-7 %\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как изменяется активность фермента при его иммобилизации?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " снижается\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " повышается\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Фермент связывается со своим субстратом и ускоряется гидролиз\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Фермент связывается со своим субстратом и снижается гидролиз\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При каких условиях фермент максимально адсорбируется на носитель?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " в изоэлектрической точке фермента\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " при малой концентрации фермента\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " при определенном рН среды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " при высоко температуре\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Определите способы иммобилизации ферментов.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " физические и химические\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " модификация и ректификация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " на основе обработки изотопами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " при помощи аффинной хроматографии\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Объясните процесс конкурентного ингибирования\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ингибитор и субстрат конкурируют за активный центр\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " процесс ингибирования активного центра фермента\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ингибитор ингибирует субстрат и останавливает ферментативную реакцию\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " активатор- субстрат конкурируют за активный центр\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "За счет каких сил химотрипсин связывается со своим субстратом?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " гидрофобные и электростатические силы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " водородные связи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " гидрофильные связи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ковалентные\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "За счет каких сил субстрат связывается с активным центром РНКазы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " водородные связи\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " гидрофобные связи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ван Дер Вальсовые силы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " электростатические связи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При помощи каких веществ осаждают активные вещества, применяемые в пищевой промышленности?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " этанол, натрий хлористый\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " натрий метаперийодат и аммоний сульфат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ацетон, этанол\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " натрий борогидрид и калий молибдат\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой процесс называется ферментацией?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " процесс выращивания микроорганизмов в ферментере\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " обработка микроорганизмов ферментами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " инкубация активных веществ при определенной температуре\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " выделение фермента из клеток микроорганизма при большом давлении\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие микроорганизмы являются главным источникомантибиотиков?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " микроскопические грибы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " дрожжевые грибы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " бактерии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " водоросли\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "В основном какие микроорганизмы используются при получении ферментов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " грибы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " бактерии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " вирусы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " дрожжи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как можно усилить активность иммобилизованного ферментного препарата?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ультразвуком или фотохимическим способом\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " при помощи детергента или ультразвука\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " под действием различных ионов метала\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " под действием органических веществ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Укажите самый эффективный способ очистки фермента.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " путем ступенчатой элюции и разделения на фракции\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " при помощи аффинной хроматографии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " способ биоспецифической хроматографии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " гель-хроматография\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какими методами необходимо обработать биомассу выделенную из микроорганизмов для лучшего усвоения в организме(животного)?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " механическим, ультразвуком, ферментативным, лизисом, нагреванием\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " кислотным гидролизом, лизисом, нагреванием, изотопами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ферментативным, кислотами, механически\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " перетиранием, кислотами, механически, ферментами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие условия считаются самыми главными при беспрерывном получении продукта в ферментёре?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " необходимо поддерживать стерильность питательной среды\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " необходимо поддерживать оптимальную температуру для фермента\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " необходима стерилизация фермента\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " необходимо поддерживать постоянный рН среды\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "При помощи каких органических веществ осаждаются биологические вещества белковой природы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " этанол, ацетон\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ацетон, антронил\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " хлороформ, ацетон\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " экдистерон, ацетонитрил\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Определите компонент, применяемый при иммунном анализе, имеющий высокую специфичность\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " авидин – биотин\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " фермент – субстрат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " антиген – антитело\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "фермент – комплемент\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как определяется стабильность иммобилизованных ферментов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " нужно инкубировать ферментный препарат при максимальной температуре до тех пор, пока фермент не потеряет свою активность\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " при помощи инкубации фермента при 37°С\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " при помощи инкубации с активаторами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " при помощи изменения концентрации субстрата\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что произойдет, если в реакционной среде имеется совместно и активатор и ингибитор?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " если в среде имеется ингибитор, то произойдет конкурентное ингибирование\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " активатор не сможет активировать фермент\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ингибируется ферментативный катализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " останавливается реакция\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " При помощи каких сил связывается субстрат с активным центром поджелудочного фермента РНКазы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " водородные связи\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " гидрофобные силы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " электростатические силы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ван Дер Ваальсовые силы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как осуществляется процесс иммобилизации активных веществ статистическим методом?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " нужно проводить инкубацию нанося фермент на поверхность носителя без мешалки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " нужно инкубировать смешав фермент с носителем\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " модификация фермента при помощи сшивки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " после модификации носителя, нужно смешать его с ферментам\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Назовите концепцию Кошланда фермент субстратного взаимодействия\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " индуцированного соответствия\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " субстрат – матрица\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " соответствие носитель-сшиватель\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " фермент – субстратная специфичность\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие ферменты называются изоферментами? *\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " относящиеся к одному классу, различающиеся генетическими признаками\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " относящиеся к различным классам, но катализирующие одну ферментативную реакцию\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " относящиеся к одной группе и катализирующие одну ферментативную реакцию\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " относящиеся к одной группе и катализирующие при одинаковом рН\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие типы ферментов катализируют удаление водорода из субстрата?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " дегидрогеназы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " гидролазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " изомеразы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " лиазы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Укажите факторы влияющие на фермент\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " рН- среды, температура, количества фермента, концентрация ионной силы, поверхность носителя\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " температура, концентрация носителя, поверхность носителя, концентрация фермента\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " концентрация фермента, концентрация ионной силы, вес носителя\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " внешнее механическое воздействие, термостабильность\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой препарат используется для получения глюкозо-фруктозного сиропа?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " глюкозоизомераза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " глюкоамилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " амилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " целлобиаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой из перечисленных методов физической иммобилизации ферментов более выгоден с экономической точки зрения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " механическая иммобилизация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " статическая иммобилизация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " колоночная иммобилизация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " связывание с электродом\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Если фермент является гидрофобным, то какие группы будут расположены на поверхности?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " SH, - COOH,- OH,-NH\\textsubscript{2},\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " -COOH,- CO,- OH,-СОН\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " -N=N-, -OH,-NH\\textsubscript{2}\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " -S-S-, -NH, -COOH,- OH,\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Для чего нужен жидкий лизин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " для обогащения животной пищи\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " для человека\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " для микроорганизмов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "для фармацевтики\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "В каком направлении больше всего используют аминокислоты?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " в животноводстве, медицине и в пищевой промышленности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " в фармацевтике\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " в химических технологиях\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " в промышленной микробиологии\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Для чего помещают лизин в ионообиенную смолу?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " чтобы адсорбировать молекулы лизина на смолу\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " для инкубации лизина некоторое время\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " для специфичности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " чтобы смешать лизин со смолой и затем очистить\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Для чего воздействуют хлорной кислотой при технологическом получении L-лизина?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " для получения кристаллов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " для получения чистого раствора лизина\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " для получения раствора лизина\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " для получения соединения лизина с хлором\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Для чего добавляется мочевина в среду при размножении микроорганизмов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " для повышения концентрации азота\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " для специфического питания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " для поддержания питания длительное время\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " для изменения рН среды\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что воздействует на сыр для его созревания?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " микроорганизмы, ферменты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " температура, рН среды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " давление и время инкубации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " субстрат и добавки для созревания сыра\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какое сахаристое вещество можно получить из молочной сыворотки?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " лактоза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "галактоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " глюкоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " фруктоза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При какой температуре необходимо держать сыр для его созревания.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2-16\\textsuperscript{0}С\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 40-45\\textsuperscript{0}С\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 30-40\\textsuperscript{0}С\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 65-67\\textsuperscript{0}С\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какими веществами богат мицелий микроскопических грибов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " белки, незаменимые аминокислоты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " белки, заменимые аминоксилоты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " углеводы и жироподобные вещества\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " аминокислоты и полисахариды\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "В какой отрасли широко применяется D,L-метионин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " птицеводство\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " животноводство\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " фармацевтика\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " медицина\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие микроорганизмы используются в промышленной микробиологии при получения триптофана?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ауксотрофные\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " дрожжи и клетки бактерий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " психрофилы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " мезофилы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Почему микроскопические грибы широко используются в пищевой промышленности и животноводстве по сравнению с другими?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " они богаты незаменимыми аминокислотами, ближе по составу к сое и мясному белку\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " они богаты заменимыми аминокислотами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " они богаты минеральными солями\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " они хорошо усваиваются в животном организме\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Водоросли хлорелла богата белком, но плохо усваивается в организме животных. Почему?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " у хлореллы имеется прочная клеточная стенка\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " потому что животные мало употребляют водоросли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " потому что у них не хватает ферментов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " в составе хлореллы имеются плохо растворимые вещества\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как нужно выращивать водоросли что бы они содержали большое количество белка?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " в закрытой системе\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " в открытой системе\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " в сточных водах\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " среде с минеральными солями\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "в каких целях выращивают водорослив сточных водах?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " чтобы очистить сточные воды от различных веществ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " чтобы водоросли образовали много биомассы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " чтобы водоросли быстрее размножались\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " чтобы водоросли хорошо усваивались в животном организме\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие ферменты широко используются в кожевенной промышленности\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " протеазы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " оксидоредуктазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " амилазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " фосфолипазы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как выбирается рН среды при электрофорезе белка?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " электрофорез проводят в изоэлектрической точке белка\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " значение рН оптимума и рН электрофореза должны быть одинаковыми\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " рН среды должно быть кислым\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " рН должно быть щелочным\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "На чем основана ионообменная хроматография?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " на основе обмена противозаряженными ионами\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " на основе фракционирования молекул по молекулярной массе\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " основано на степени модификации сорбента\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " основано на концентрации зарядов приготовленных для элюции\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Что необходимо сделать для получения высокоочищенных аминокислот?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " повторная кристализация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " необходима повторная очистка аминокислот\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " необходима фильтрация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " нужно центрифугировать\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие вещества можно использовать при химической иммобилизации для сшивания ферментов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " глутаровый диальдегид, госсипол, карбодиимид\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " госсипол, гидролаза, ЭДТА,\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " карбодиимид, госсипол, этилен\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " этилен, госсипол, лизин\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какими способами можно иммобилизовать ферменты в гель?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " сначала фермент растворяют в растворе мономера, а затем полимеризуют\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " на основе процеживания через полупроницаемую мембрану водный раствор, мелкие молекулы субстрата процеживаются, а большие молекулы ферменты застревают.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "мелкие молекулы субстрата процеживаются, а большие молекулы ферменты застревают.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " иммобилизация водного раствора фермента в полости микрокапсул\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие из перечисленных аминокислот и групп белковых молекул вступают в реакцию с глутаровым диальдегидом?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " -NH2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " -S-S-\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " -SH\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " -COOH\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какие из указанных процессов имеют важную роль при получении L-аминокислот из DL-аминокислот? а) ациллирование б) алкилирование в) кристализация г) гидролиз\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " а, г, в\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " а, г, б\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " б,г, в\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " б, в, а\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой источник углерода используется при получении триптофана?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " меласса\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " полисахариды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " СО , СО\\textsubscript{2}\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " некоторые микроорганизмы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Для чего применяется эстераза при приготовлении спиртных напитков?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " для превращения сивушных спиртов в эфиры\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " для очистки алкогольных напитков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " для расщепления белка в алкогольных напитках\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " для расщепления липидов в алкогольных напитках\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как отделяются нуклеиновые кислоты из белковой пищи?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " сферментами эндо- и экзо-нуклеаз\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " с органическими веществами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " помощью солей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " с помощью центрифугирования\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое автолиз?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " природное расщепление биополимеров клетки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " обмен веществ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " процесс гликолиза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " процесс осаждения веществ\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "При помощи каких веществ осуществляется автолиз?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " при помощи ферментов клетки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " при помощи полисахаридов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " при помощи нуклеиновых кислот\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " при помощи аминокислот\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие реакции происходят в процессе автолиза?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Не растворимые молекулы сложных веществ становятся растворимыми мономерами\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " растворимые вещества превращаются в нерастворимые мономеры\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " из простых веществ образуются сложные\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " маленькие пептиды превращаются в белковый полимер\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " В каком органе образуются ферменты участвующие в переваривании белков у млекопитающих?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " под желудочном железе\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " желудке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " кишечнике\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " в печени\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " В каком органе образуются ферменты участвующие в переваривании жиров у млекопитающих?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " под желудочном железе\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " желудке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " кишечнике\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " в печени\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " В каком органе образуются амилаза у человека?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " в ротовой полости\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " желудке\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " кишечнике\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " в печени\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как экстрагируются липиды из биомассы?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " при помощи метанола\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " при помощи этанола\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " при помощи сульфата аммония\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " при помощи хлорида натрия\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "По какому принципу фермент рестриктаза узнает цепь ДНК и разрезает ее?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " она узнает специфическую последовательность из 10-12 пар нуклеотидов и разрезает\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " она узнает специфическую последовательность, состоящую из 2-3 пар нуклеотидов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " она узнаетспецифическую последовательность состоящую из 5-6 пар нуклеотидов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "она узнаетспецифическую последовательность состоящую из 15-18 пар нуклеотидов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Имеются различные понятия предмета белково-ферментные технологии: Какие из перечисленных вариантов верны?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " а) белковая и ферментная инженерия - это часть биохимии, микробиологии и энзималогии; б)Белково-ферментные технологии в настоящее время из современных наук; в) самое востребованное направление; г) Белково-ферментные технологии- одно из направлений промышленной микробиологии\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " а) белково-ферменные технологии – это одно из направлений учебной программы биологии; б)Белково-ферментные технологии – это часть иммунобиотехнологии; в)белково-ферментные технологии в настоящее время из современных наук самое востребованное направление\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " а) белково-ферменные технологии – это одно из направлений учебной программы биологии; б) белково-ферментные технологии в настоящее время из современных наук в)самое востребованное направление; г) Белково-ферментные технологии- одно из направлений промышленной микробиологии\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " а)белково-ферменные технологии – это одно из направлений экобиотехнологии; б)белковая и ферментная инженерия- это одно из направлений учебной программы биологии; в)белково-ферментные технологии – это самое востребованное направление\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие цели ставит перед собой инженерная энзимология?\n"
+            },
+            {
+                "type": "text",
+                "content": "а) получение нового продукта,\n"
+            },
+            {
+                "type": "text",
+                "content": "б) получение известного продукта, но нового качества,\n"
+            },
+            {
+                "type": "text",
+                "content": "\n"
+            },
+            {
+                "type": "text",
+                "content": "в) улучшение технико-экономических показателей процесса по сравнению с аналогичными существующими процессами,\n"
+            },
+            {
+                "type": "text",
+                "content": "\n"
+            },
+            {
+                "type": "text",
+                "content": "г) применение иммобилизованных ферментов,\n"
+            },
+            {
+                "type": "text",
+                "content": "д) промышленное получение ферментов,\n"
+            },
+            {
+                "type": "text",
+                "content": "е) модификация ферментов.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " а, б, в\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " д, е, г\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " г, в\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "д, г, в\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Активностью, равной одной международной единице, обладает такое количество фермента,\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " которое катализирует превращение 1 мкмоль субстрата в продукт за одну минуту в нестандартных условиях.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " которое катализирует превращение 1 мкмоль субстрата в продукт за одну минуту в стандартных условиях\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " которое катализирует превращение 1 моль субстрата в продукт за одну минуту в стандартных условиях\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " которое катализирует превращение 1 мкмоль субстрата в продукт за одну секунду в стандартных условиях.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Константа специфичности:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " является показателем специфичности фермента при ее ингибировании.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " является мерой, показывающей, насколько быстро фермент может работать при низких концентрациях субстратах.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " является мерой, показывающей, насколько быстро фермент может работать при высоких концентрациях субстратах.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " является показателем стабильности фермента.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Необратимые ингибиторы\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " химически модифицируют функциональные группы на поверхности ферментной молекулы.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " химически модифицируют важные для активности функциональные группы фермента.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " нековалентно присоединяются к активному центру фермента.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " нековалентно присоединяются к аллостерическому центру фермента.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Обратимые ингибиторы взаимодействуют с ферментом\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " с образованием ковалентной связи с важными для активности функциональными группами фермента.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " с образованием ковалентной связи с аллостерическим центром фермента.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " химически модифицируя важные для активности функциональные группы фермента.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " без образования ковалентной связи.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "После удаления свободного обратимого ингибитора активность фермента\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " увеличивается\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " уменьшается\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " восстанавливается\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " не восстанавливается\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие соединения образуются в результате биотехнологического разложения целлюлозных и лигноцеллюлозных материалов ферментами целлюлазного комплекса?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " глюкоза, мальтоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " целлобиоза, фруктоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " глюкоза, целлобиоза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " галактоза, мальтоза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие ферменты используют для расщепления наружной стенки растительных клеток?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " целлюлазы, амилазы, пероксидазы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " пероксидазы, инвертаза, амилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " пектиназа, амилаза, инвертаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " целлюлазы, гемицеллюлазы, пектиназы, лигниназы\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие из ферментов входят в состав целлюлазных комплексов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " эндоглюканаза, целлобиогидролаза, глюкозидаза, целлобиаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " целлобиаза, гидролаза, мальтаза, глюкозидаза, эндоглюканаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " целлобиагидролаза, глюкозооксидаза, эндоглюканаза, глюкоамилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " глюкозидаза, глюкозооксидаза, эндоглюканаза, глюкоамилаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие моно- и дисахариды образуются в результате биотехнологического процесса разложения крахмала?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " глюкоза, мальтоза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " фруктоза, мальтоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " глюкоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " глюкоза, фруктоза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Какие из перечисленных ниже ферментов осуществляют гидролиз крахмала?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " α-амилаза, глюкоамилаза, гликозидаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " α-амилаза, β-амилаза,глюкоамилаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " α-амилаза, целлобиаза, глюкозидаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " α-амилаза, инвертаза, целлобиаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Процесс превращения крахмала в глюкозный сироп заключается в:\n"
+            },
+            {
+                "type": "text",
+                "content": "\n"
+            },
+            {
+                "type": "text",
+                "content": "а) распаривание крахмалсодержащего субстрата;\n"
+            },
+            {
+                "type": "text",
+                "content": "б) добавление α-амилазы;\n"
+            },
+            {
+                "type": "text",
+                "content": "в) добавление β-амилазы;\n"
+            },
+            {
+                "type": "text",
+                "content": "г) обработка нативнойглюкоамилазой;\n"
+            },
+            {
+                "type": "text",
+                "content": "д) обработка иммобилизованной глюкоамилазой;\n"
+            },
+            {
+                "type": "text",
+                "content": "е) концентрирование;\n"
+            },
+            {
+                "type": "text",
+                "content": "ж) разбавление.\n"
+            },
+            {
+                "type": "text",
+                "content": "\n"
+            },
+            {
+                "type": "text",
+                "content": "Какой из перечисленных вариантов соответствует такой биотехнологии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " авге\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " абде\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ажгв\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " бвжаг\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Вещества образующиеся в результате гидролиза молочной сыворотки:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " глюкоза, фруктоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " фруктоза, галактоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " целлобиоза, галактоза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " глюкоза, галактоза\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Назовите фермент, который используется в биотехнологическом получении безлактозного молока?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " лактаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " липаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " протеаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " протеиназа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Процесс получения безлактозного молока заключается в:\n"
+            },
+            {
+                "type": "text",
+                "content": "\n"
+            },
+            {
+                "type": "text",
+                "content": "а) обработке нативной лактазой;\n"
+            },
+            {
+                "type": "text",
+                "content": "б) стерилизации молока;\n"
+            },
+            {
+                "type": "text",
+                "content": "в) добавление нативной лактазы;\n"
+            },
+            {
+                "type": "text",
+                "content": "г) обработка нативной галактазой;\n"
+            },
+            {
+                "type": "text",
+                "content": "д) обработка иммобилизованной лактазой;\n"
+            },
+            {
+                "type": "text",
+                "content": "е) сборе в асептический резервуар.\n"
+            },
+            {
+                "type": "text",
+                "content": "\n"
+            },
+            {
+                "type": "text",
+                "content": "Какой из перечисленных вариантов соответствует такой биотехнологии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " а б в е\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " г б е а\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " б д е\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " е б в\n"
+            },
+            {
+                "type": "text",
+                "content": "\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Процесс получения глюкозо-фруктозного сиропа из глюкозного сиропа заключается в:\n"
+            },
+            {
+                "type": "text",
+                "content": "а) стерилизации глюкозного сиропа;\n"
+            },
+            {
+                "type": "text",
+                "content": "б) добавление солевых и кислотно-щелочных ингредиентов;\n"
+            },
+            {
+                "type": "text",
+                "content": "в) добавление нативной глюкозоизомеразы;\n"
+            },
+            {
+                "type": "text",
+                "content": "г) обработка нативной глюкоамилазой;\n"
+            },
+            {
+                "type": "text",
+                "content": "д) обработка иммобилизованной глюкозоизомеразой;\n"
+            },
+            {
+                "type": "text",
+                "content": "е) обработка в ионообменных колонках;\n"
+            },
+            {
+                "type": "text",
+                "content": "ж) концентрирование.\n"
+            },
+            {
+                "type": "text",
+                "content": "\n"
+            },
+            {
+                "type": "text",
+                "content": "Какой из перечисленных вариантов соответствует такой биотехнологии?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " абдеж\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " авеж\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " бажве\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " абев\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие функциональные группы ферментов очень важны при ковалентной иммобилизации ферментов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Экспонированные наружу группы каталитического центра\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Группы центра «узнавания»\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Группы экспонированные наружу, не имеющие никакого отношения к активному центру\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Группы центра «связывания» субстрата\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие ферменты широко применяются в иммуноферментном анализе?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " пероксидаза, щелочная фосфатаза, β-глюкозидаза\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " пероксидаза, амилаза, фосфолипаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " щелочная фосфатаза, фосфолипаза, уреаза\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " уреаза, пероксидаза, липаза\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

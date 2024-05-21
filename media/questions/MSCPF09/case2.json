@@ -1,0 +1,4970 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholash jarayonida birinchi qadam nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Natijalarni tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Siyosatni amalga oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Siyosat maqsadlarini belgilash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Resurslarni baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi siyosatni baholash usuli real vaqt rejimida ta’ sirni tahlil qilishga imkon beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Summative baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Formativ baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Terminal baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Integratsion baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri siyosatni baholashning maqsadi emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Samaradorlik yaxshilandi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oshkoralikning oshishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ishsizlik darajasining pasayishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qarorlarni qo’ llab-quvvatlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ijtimoiy siyosatning ta’ sirini tahlil qilish uchun qaysi turdagi ma’ lumotlar afzalroq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ob-havo ma’ lumotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kompaniyalarning moliyaviy hisobotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Demografiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Valyuta kurslari bo’ yicha ma’ lumotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’ lim siyosatini baholashda qaysi jihat asosiy hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Savodxonlik darajasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mamlakatning yillik yalpi ichki mahsuloti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Urbanizatsiya darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Iste’ mol narxlari indeksi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholash kontekstida \"o’ zgarish nazariyasi\" nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Taklif etilgan o’ zgarishlar qanday va nima uchun amalga oshirilishini tavsiflovchi model\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Moliyaviy oqimlarni aniqlash usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Loyihalarni boshqarish tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Strategik rejalashtirish vositasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholashda tasodifiy sinovlardan foydalanishning asosiy maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xarajatlarni minimallashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sabab-oqibat munosabatlarini tekshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O’ rganish ishtirokchilarining ko’ payishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Siyosiy yordam kafolati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri siyosatni baholashning bevosita natijasi emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Birjada aksiyalarning o’ sishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Dastur yaxshilanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Siyosatni o’ zgartirish bo’ yicha tavsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Manfaatdor tomonlarning xabardorligini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xalqaro siyosatni baholashda quyidagi elementlardan qaysi biri eng muhim hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Madaniy farqlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mahalliy ob-havo sharoiti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Korporativ moliyaviy hisobot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yerdan foydalanishning mahalliy qonunlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholash usulini tanlashda qaysi omil hal qiluvchi ahamiyatga ega emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlar mavjudligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mamlakatdagi siyosiy vaziyat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Baholash uchun manbalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Baholash maqsadlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatlarni baholash uchun ijtimoiy media ma’ lumotlaridan foydalanishda qanday xatolar yuzaga kelishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ma’lumotlar yetarli emas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Namuna olishning noto’ g’ riligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarning haddan tashqari aniqligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Siyosat samaradorligini yetarlicha baholamaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatning uzoq muddatli ta’ sirini baholashda qaysi yondashuv afzalroq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bo’ ylama o’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tezkor tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kesimlarni o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ekspert so’ rovi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion texnologiya loyihalarini tahlil qilishda siyosatni baholashning qaysi turi eng samarali hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Regressiya tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ekonometrik modellashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Pilot loyihalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Statistik usullar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri siyosatni samarali baholash natijasi emas?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Takomillashtirilgan siyosiy qarorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aholining ko’ payishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ommaviy yordamning ortishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Samarasiz xarajatlarni kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’ sirni baholash siyosatni o’ zgartirishga qanday yordam berishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Siyosatlarning haqiqiy ta’ siri haqida ma’ lumot beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Siyosat uchun byudjetni oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ommaviy ishtirokni kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Siyosiy bahslarni cheklaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sog’ liqni saqlash siyosatini baholash uchun qaysi ko’ rsatkich kamroq ahamiyatga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tibbiy xizmatlardan foydalanish imkoniyati darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ lim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Birja indekslari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tibbiy yordam sifati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholay olmaslik qanday oqibatlarga olib keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Samaradorlikni oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Resurslarni isrof qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Shaffoflikni oshiring\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Fuqarolarning qoniqish darajasini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sifatli baholash usullari qachon ayniqsa muhimdir?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Siyosatning ijtimoiy va madaniy jihatlarini tahlil qilganda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "YaIMni hisoblashda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Foyda-xarajat tahlilida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Iqtisodiy o’ sishni baholashda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholashning qaysi yondashuvi uning amaliy amalga oshirilishini o’ rganishga yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Case Study\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Nazariy tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Moliyaviy audit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Logistik regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ p madaniyatli jamiyatlarda siyosatni baholashning qanday xususiyatlarini hisobga olish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Fikrlar va qadriyatlar xilma-xilligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarning bir xilligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Usullarni standartlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Omma bilan cheklangan muloqot\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xalqaro siyosatni baholashda qanday muammo yuzaga kelishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Me’ yorlar va standartlarning ziddiyatlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Madaniy amaliyotlarning bir xilligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Huquqiy bazalarning universalligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xalqaro baholovchilarning etishmasligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Atrof-muhitga ta’ sir tahlilida siyosatni baholashning qaysi usullari samarali?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ekologik audit va ta’ sirni modellashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Psixologik tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Moliyaviy hisobotlar auditi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Demografik tadqiqotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosiy bosimning ta’ siri siyosatni baholash natijalarini qanday buzishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarni talqin qilishda tarafkashlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarning aniqligi yaxshilandi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Baholash vaqti qisqardi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xulosalarning xolisligi ortdi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatning uzoq muddatli ta’ sirini o’ rganish uchun qanday uslubiy yondashuvlar qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bo’ ylama tadqiqotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "So’ rovnoma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kesmaviy tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ekspert baholashlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Barqarorlik tamoyillari siyosatni baholash jarayoniga qanday kiritilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ekologik va ijtimoiy ko’ rsatkichlarni kiritish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Moliyaviy cheklovlarni oshirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Boshqaruv auditi yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xalqaro huquqiy tartibga solish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat siyosatini baholashda eksperimental usullardan foydalanishning qanday qiyinchiliklari bor?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Haqiqiy dunyo sharoitida axloqiy mulohazalar va cheklovlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarning soddaligi va qulayligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Arzon narxlardagi usullar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tezkor natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Madaniy siyosatni baholashning xususiyatlari qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Baholarning subyektivligi va madaniy qadriyatlar xilma-xilligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Madaniy standartlarning bir xilligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ g’ ridan-to’ g’ ri iqtisodiy foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Madaniy farqlar yo’ q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholashda sezgirlik tahlilidan qanday foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kirish parametrlaridagi o’ zgarishlarga natijalarning barqarorligini tekshirish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Noaniqlikning umumiy darajasini kamaytirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarni yig’ ishning asosiy usuli sifatida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Natijalarni bevosita bashorat qilish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholash jarayonida iqtisodiy simulyatsiyalar qanday rol o’ ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilish uchun turli stsenariylarni simulyatsiya qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Haqiqiy tajribalarni almashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yillik hisobotlarni tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Boshqaruv malakalarini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Globallashuv jarayonlari siyosatni baholashda uslub va yondashuvlarga qanday ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xalqaro standartlarni birlashtirish va global ta’ sirlarni hisobga olishni talab qiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Baholash tartib-qoidalarini soddalashtiring\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tashqi ta’ sirlarni cheklang\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xalqaro hamkorlikning ahamiyatini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuqori texnologiyalar sohasidagi siyosatni baholashning xususiyatlari qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli texnologiya tendentsiyalarini bashorat qilishda qiyinchilik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ma’lumotlar yetarli emas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tahlil qilish oson\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sektor rivojlanishining past dinamikasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Baholash natijalarining siyosiy qaramligi muammosi nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mavjud siyosiy tizim foydasiga ma’ lumotlarni buzib ko’ rsatish tendentsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xulosalarning betarafligi va xolisligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Analitik mustaqillikning ortishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Usullarni standartlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholash jarayonida axloqiy tamoyillar qanday qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Maxfiylikni saqlash va xolislikni ta’ minlash orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Siyosiy jarayonlarga bevosita aralashuv orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aniqlik standartlarini pasaytirish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tadqiqotchilar uchun ma’ lumotlarga kirishni cheklash orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat dasturlari siyosatining yomon baholanishi qanday oqibatlarga olib keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Davlat resurslaridan samarasiz foydalanishga olib kelishi mumkin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qarorlarning shaffofligini oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ommaviy ishtirokni kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Davlat xizmatlari narxini pasaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholashda barqarorlik ko’ rsatkichlaridan foydalanishning ahamiyati nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Siyosatlarning atrof-muhit va jamiyatga uzoq muddatli ta’ sirini baholashga yordam beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sifatli analitik usullarga bo’ lgan ehtiyojni kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarni yig’ ish jarayonini soddalashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tahlil qilinadigan ma’ lumotlar miqdorini cheklaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ p bosqichli boshqaruv tizimlarida siyosatni baholash bilan bog’ liq qanday muammolar mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Hukumatning turli darajalarini muvofiqlashtirish va muvofiqlashtirishning murakkabligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilish jarayonini soddalashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mahalliy ishtirok etishning etishmasligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Oddiy tartibga soluvchi yuk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sun’ iy intellekt texnologiyalari siyosatni baholashni qanday yaxshilashi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Katta hajmdagi ma’ lumotlarni qayta ishlashning aniqligi va tezligini oshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Analitik fikrlashning ahamiyatini kamaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tahlil usullarining o’ zgaruvchanligini cheklash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Professional tahlilchilarga ehtiyoj kamayadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ijtimoiy siyosatning zaif qatlamlarga ta’ sirini baholash uchun qanday usullar mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Maqsadli guruh suhbatlari va amaliy tadqiqotlardan foydalanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Asosiy statistik tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Global iqtisodiy istiqbol\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yuzaki adabiyotlarni ko’ rib chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xalqaro siyosatdagi o’ zgarishlar mahalliy siyosatni baholashga qanday ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tashqi siyosatning ustuvor yo‘nalishlarini qayta ko‘rib chiqish va ichki chora-tadbirlarni moslashtirishni talab qiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ichki siyosiy muhitni barqarorlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Xalqaro hamkorlikka ehtiyojni kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Milliy valyuta barqarorligini ta’ minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni muvaffaqiyatli baholashning qanday misollari yangi yondashuvlarni ishlab chiqishda yordam berishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Milliy sog’ liqni saqlash dasturlari samaradorligini tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yillik inflyatsiya hisoboti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Davlat veb-saytlariga trafik statistikasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Iqlim o’ zgarishini kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy tartibga solish ta’ sirini tahlil qilish uchun siyosatni baholashning qaysi usullari eng samarali hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Moliyaviy hisobotlarni har tomonlama tahlil qilish va bozor reaktsiyalarini modellashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oddiy iqtisodiy tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Asosiy audit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qoidalarga muvofiqligini tekshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ekologik siyosatning ta’ sirini baholashda qanday asosiy qiyinchiliklar yuzaga keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli ekologik o‘zgarishlar va ularning ijtimoiy-iqtisodiy oqibatlarini o‘lchash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli moliyaviy natijalarni hisoblash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ob-havo ma’ lumotlarining etishmasligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uslubiy ishlanmalarning ortiqchaligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy tadqiqotlar siyosatni baholashning qanday innovatsion usullarini taklif etadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Siyosat ta’ sirini bashorat qilish uchun katta ma’ lumotlar va mashinani o’ rganishdan foydalanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "An’ anaviy aholi so’ rovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarni qo’ lda yig’ ish va tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Klassik ekonometrik modellarni qo’ llash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’ lim siyosatining talabalar natijalariga ta’ sirini baholash uchun qaysi statistik tahlil vositalari afzalroq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ierarxik chiziqli modellashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Asosiy tavsiflovchi statistika\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oddiy foizlarni hisoblash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Iste’ mol narxlari indeksi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli barqaror rivojlanish siyosatini baholashda qanday mezonlarni hisobga olish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ekologik muvozanat va ijtimoiy adolatga ta’ siri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat iqtisodiy foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Loyihani amalga oshirish muddati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tabiiy resurslardan ularning qayta tiklanishini hisobga olmasdan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ p o’ lchovli tahlildan foydalanish davlat siyosati samaradorligini tushunishni qanday yaxshilashi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bir vaqtning o’ zida ko’ plab o’ zgaruvchilar va ularning munosabatlarini hisobga olish imkonini beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tahlil jarayonini soddalashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Baholash xarajatlarini kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sifatli tahlil qilish zaruriyatini bartaraf qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholashda qanday axloqiy mulohazalar yo’ naltirilishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Usullarning maxfiyligi, adolatliligi va shaffofligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat miqdoriy usullardan foydalaning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Manfaatdor tomonlarning fikr-mulohazalarini cheklash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Madaniy farqlarga e’ tibor bermaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko’ p millatli davlatlarda siyosatni baholash bilan bog’ liq qanday muammolar mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Madaniy va etnik guruhlarning xilma-xilligini hisobga olish zarurati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat federal organlar bilan o’ zaro hamkorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Hududiy farqlarga e’ tibor bermang\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xorijiy tadqiqotlardan cheklangan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishsizlikka qarshi kurash siyosatining samaradorligini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Siyosat joriy etilishidan oldin va keyin ishsizlik va bandlik darajasidagi o’ zgarishlarni tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yaratilgan ish o’ rinlari sonini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat iqtisodiy ko’ rsatkichlarni o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Byudjet mablag‘lariga e’tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholashda xalqaro hamkorlikning ahamiyati qanday?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tajriba va axborot almashish baholash sifati va aniqligini oshirishi mumkin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Milliy siyosat nazoratini cheklaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Byurokratik kechikishlarni oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Milliy tadqiqotlarning ta’ sirini kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholashda kompyuter modellashtirish qanday rol o’ ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mumkin natijalarni bashorat qilishga va oʻzgaruvchilar oʻrtasidagi murakkab oʻzaro taʼsirlarni tahlil qilishga yordam beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Haqiqiy siyosat sinoviga bo’ lgan ehtiyojni almashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mutaxassis fikrining ahamiyatini pasaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilish jarayonini soddalashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Milliy xavfsizlik ta’ sirini tahlil qilish uchun siyosatni baholashning qanday usullaridan foydalanish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ssenariy tahlili va strategik rejalashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat sifatli intervyular\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ g’ ridan-to’ g’ ri kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Cheklangan amaliy tadqiqotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni ishlab chiqishda jamoatchilik fikrini e’ tiborsiz qoldirish qanday oqibatlarga olib keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ommaviy qo‘llab-quvvatlashning pasayishiga va siyosat samarasizligiga olib kelishi mumkin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ommaviy idrokni yaxshilaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Amalga oshirish jarayonini tezlashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Siyosatni amalga oshirish xarajatlarini kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Shaffoflik tamoyillari siyosatni baholash jarayoniga qanday ta’ sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ishonch va jamoatchilik ishtirokini ta’minlaydi, shu orqali siyosiy qarorlarning sifati va maqbulligini oshiradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Axborotga kirishni cheklash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ma’ lumot sifatini pasaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Baholashdagi xatolar chastotasini oshiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yangi siyosatlarni baholashda qaysi prognozlash usullari eng samarali hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Delfi usuli, stsenariy rejalashtirish va ekonometrik modellashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat tarixiy tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Asosiy vosita sifatida ommaviy so’ rovlardan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xorijiy modellarni to’ g’ ridan-to’ g’ ri nusxalash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday omillar siyosatni baholash natijalariga salbiy ta’ sir ko’ rsatishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tadqiqotchilarning tarafkashligi, ma’ lumotlarning etishmasligi, siyosiy bosim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarning haddan tashqari miqdori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tadqiqot shaffofligining yuqori darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Zamonaviy texnologiyalardan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Transchegaraviy siyosatni baholashda qanday qiyinchiliklar mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mamlakatlar qonunchiligi, madaniy va iqtisodiy sharoitlaridagi farqlarni hisobga olish zarurati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Turli mamlakatlardagi sharoitlarning bir xilligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Xalqaro muvofiqlashtirish kerak emas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Amalga oshirish va tahlil qilish oson\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy tadqiqotlar siyosatni baholashga qanday yangi yondashuvlarni taklif etadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aniqroq va tezroq tahlil qilish uchun katta ma’ lumotlar, sun’ iy intellekt va mashinani o’ rganishni amalga oshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sifatli usullarni istisno qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Texnologiyadan foydalanishni rad etish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xalqaro tajribaga mutlaqo e’ tibor bermaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Iqlim siyosatidagi o’ zgarishlarning milliy iqtisodiyotga ta’ sirini qanday vositalar va usullar bilan baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ekonometrik modellashtirish, tizim dinamikasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Fikr so’ rovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ijtimoiy tarmoq tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Intuitiv qaror qabul qilish usullari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’ lim siyosatini baholashda multidisiplinar yondashuvning ahamiyati nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ta’lim jarayonining turli jihatlari va uning aholining turli guruhlariga ta’siri hisobga olinishini ta’minlaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarni yig’ ish jarayonini soddalashtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tahlil vaqtini qisqartiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Baholash xarajatlarini kamaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sog’ liqni saqlash siyosatining ta’ sirini o’ rganish uchun qanday aniq statistik tahlil usullari mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Omon qolish tahlili, logistik regressiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O’ rtacha arifmetik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Orta vositalarning oddiy harakati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Standart chetlanishni hisoblash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Globallashuvning mahalliy siyosiy qarorlarga ta’ sirini qanday o’ lchash va baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qiyosiy tahlildan foydalanish, globallashuv indekslari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bir o’ lchovli skanerlash usullari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bevosita, xalqaro reytinglar orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Anekdot dalillari yordamida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Madaniy siyosatning ta’ sirini bevosita baholashni qanday omillar qiyinlashtiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Baholashning sub’ ektivligi, madaniy ifodalarning xilma-xilligi va muvaffaqiyatning aniq ko’ rsatkichlarining yo’ qligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Madaniy standartlarning universalligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Aniq va o’ lchanadigan mezonlarga ega bo’ lish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Madaniy tadbirlarni oson talqin qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq siyosatining investitsiya faoliyatiga ta’ sirini qanday usullar bilan baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Regressiya tahlili, vaqt seriyalari tahlili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Investor so’ rovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’ g’ ridan-to’ g’ ri kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ish usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat siyosatini baholash jarayonida stsenariy rejalashtirish qanday rol o’ ynaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kelajakdagi turli sharoitlarni simulyatsiya qilish va siyosatni amalga oshirishning potentsial natijalarini baholash imkonini beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat qisqa muddatli rejalashtirish uchun foydalaniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O’ tgan voqealarni baholash uchun xizmat qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Moliyaviy tahlil bilan cheklangan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biz jamoat xavfsizligi siyosatining samaradorligini qanday baholashimiz mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Jinoyatchilik haqidagi ma’lumotlarni tahlil qilish, fuqarolarning xavfsizlik choralaridan qoniqishini o‘rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Politsiya patrullari soniga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qo’ ng’ iroqlarga javob berish tezligini o’ lchash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat hibsga olish statistikasini hisobga olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xalqaro savdo siyosatini baholashda qanday qiyinchiliklar yuzaga keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Savdo tizimlarining murakkabligi, ko’ plab manfaatdor tomonlar va global iqtisodiy sharoitlarning ta’ siri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarga kirish cheklangan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Xalqaro standartlarning yo’ qligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Baholash modellarining soddaligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mehnat qonunchiligidagi o’ zgarishlarning ta’ sirini qanday usullar bilan baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mehnat bozori tahlili, iqtisodiy va ijtimoiy oqibatlarni simulyatsiya modellashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ish joylarini bevosita kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ish beruvchilarning o’ z-o’ zini baholashi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aholi oʻrtasida cheklangan soʻrovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy tadqiqotlar siyosatni baholashga qanday innovatsion yondashuvlarni taklif qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aniqroq va tezroq tahlil qilish uchun katta ma’ lumotlar, sun’ iy intellekt va mashinani o’ rganishni amalga oshirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sifatli usullarni istisno qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Texnologiyadan foydalanishni rad etish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xalqaro tajribaga mutlaqo e’ tibor bermaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sezuvchanlik tahlili siyosatni baholash jarayonida qanday yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Siyosatdagi o‘zgarishlarga turli iqtisodiy o‘zgaruvchilarning javobini baholash, eng barqaror jihatlar va potentsial xavflarni aniqlash imkonini beradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Umumiy prognoz aniqligini pasaytiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli rejalashtirish zaruriyatini bartaraf qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tahlilni faqat bitta stsenariy bilan cheklaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat investitsiyalarining infratuzilmaga ta’ sirini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Iqtisodiyotga to’ g’ ridan-to’ g’ ri va bilvosita ta’ sirni hisobga oladigan multiplikator effekti modellaridan foydalanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Xarajatlarni oson hisoblash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "YaIMga faqat asosiy hissasini tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ijtimoiy o’ zgarishlarga e’ tibor bermaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ijtimoiy himoya siyosatini baholash uchun qaysi usullar eng mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aholining turli qatlamlariga ta’ sirlarni har tomonlama tahlil qilish uchun miqdoriy va sifat usullarini birlashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat hukumat hisobotlaridan foydalaning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli natijalarga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat benefitsiarlarning so’ rovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq siyosatidagi o’ zgarishlarning kichik va o’ rta biznesga ta’ siri qanday baholanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq o’ zgarishlarining uzoq muddatli ta’ sirini baholash uchun moliyaviy modellashtirish modellari va pul oqimlari tahlilidan foydalanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq stavkalaridagi o’ zgarishlarni kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kompaniya daromadlarining bevosita auditi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yirik korxonalarga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat sog’ liqni saqlash siyosati samaradorligini baholashda qanday vositalar yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aholi salomatligi indekslari, kasallanish va o’ lim statistikasi, shuningdek, xizmatlar mavjudligining iqtisodiy tahlili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xizmat sifati haqida bemorlarning sharhlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Cheklangan klinik sinovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat davlat xarajatlari tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’ lim siyosatining o’ quvchilar muvaffaqiyatiga ta’ sirini baholash uchun qanday yondashuvlar qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Siyosatni amalga oshirishdan oldin va keyin imtihon natijalarini statistik taqqoslash, ta’ lim traektoriyalarini uzunlamasına o’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O’ qituvchilarning fikrlari bo’ yicha so’ rovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O’ quvchilarning sinfdagi xatti-harakatlarini kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat maktab byudjeti bo’ yicha tadqiqot\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aralash usullardan foydalanish tashqi savdoni baholash jarayonini qanday yaxshilash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Savdo motivlari va to’ siqlarini chuqur tushunish uchun savdo oqimlarining miqdoriy tahlilini bozorning asosiy ishtirokchilari bilan sifatli suhbatlar bilan birlashtiring.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat hukumat ma’ lumotlariga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat xalqaro shartnomalardan foydalaning\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Iste’ molchilarning yuzaki so’ rovlarini o’ tkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ekologik siyosatning barqaror rivojlanishga ta’ sirini baholashda qanday omillar hisobga olinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " biologik xilma-xillik, ifloslanish darajasi, iqlim o’ zgarishi va mahalliy hamjamiyatlarga ijtimoiy-iqtisodiy ta’ sirlarni tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat ekologik jihatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat iqtisodiy ko’ rsatkichlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bir martalik ekologik audit\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarni himoya qilish qonunchiligidagi o’ zgarishlarning xususiy kompaniyalarga ta’ sirini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kompaniyalarning ma’ lumotlarni boshqarish tizimlaridagi o’ zgarishlarni o’ rganish, muvofiqlik xarajatlarini tahlil qilish va ma’ lumotlar bilan bog’ liq hodisalarni monitoring qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Iste’ molchilarning shikoyatlarini umumiy tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Eski va yangi qonun hujjatlarini oddiy taqqoslash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ma’ lumotlarni himoya qilishning faqat texnologik jihatlarini o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xalqaro sanksiyalarning milliy iqtisodiyotlarga ta’ sirini baholashda qanday qiyinchiliklar mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Iqtisodiy aloqalarning murakkabligi, sanktsiyalarning turli sohalarga ta’ sirining xilma-xilligi va iqtisodiyotlar barqarorligidagi farqlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli o’ zgarishlarga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Norasmiy iqtisodiyotga e’ tibor bermaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat ijobiy tomonlarini baholang\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Raqamli transformatsiya siyosatini baholash uchun qanday usullar va vositalar samarali?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Raqamlashtirish ko‘rsatkichlaridan foydalanish, samaradorlik va innovatsiyalarga ta’sirini tahlil qilish, iste’molchi xatti-harakatlaridagi o‘zgarishlarni baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yangi texnologiyalar soniga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Foydalanuvchi tajribasini o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat texnologik investitsiya tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat sog’ liqni saqlash siyosatining umr ko’ rish davomiyligiga ta’ sirini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sog‘liqni saqlash statistikasini tahlil qilish, umr ko‘rish davomiyligi va sifatini o‘rganish, salomatlikni bashorat qilish modellaridan foydalanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aholini bevosita kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O’ lim ma’ lumotlarini kontekstsiz to’ plash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat tibbiyot muassasalarining tadqiqotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq siyosatini baholash jarayonida qanday tamoyillarga amal qilish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Holislik, oshkoralik, asoslilik va o‘zgaruvchan iqtisodiy sharoitlarga va jamoatchilik kutishlariga moslashish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat qisqa muddatli fiskal maqsadlarni hisobga olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Cheklangan ta’ sir tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq to’ lovchilarning qarashlariga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qashshoqlikni kamaytirish bo‘yicha davlat dasturlari samaradorligini baholashda qaysi jihatlarga e’tibor qaratish lozim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Maqsadlarga erishish, benefitsiarlarning hayot sifatini yaxshilash, natijalar barqarorligi va ijtimoiy tengsizlikka ta’ sir qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat mutlaq qashshoqlik ko’ rsatkichlarini baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qoʻshni tarmoqlarga taʼsiri yoʻq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat byudjet xarajatlariga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qabul qiluvchi davlatning mehnat bozoriga migratsiya siyosatining ta’ sirini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bandlik va ishsizlik haqidagi ma’ lumotlarni tahlil qilish, ish haqi va mehnat sharoitlariga ta’ sirini o’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aholining o’ zgarishini bevosita kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mahalliy aholining muhojirlarni idrok etishi boʻyicha soʻrovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat qonuniy migratsiyani o’ rganing\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq o’ zgarishlarining iste’ molchilarning xohishlariga ta’ sirini baholash uchun qanday usullar mos keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Iste’mol xarajatlarining ekonometrik tahlili, talabning narx egiluvchanligi tahlili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq o’ zgarishidan oldin va keyin narxlarni taqqoslash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ijtimoiy tarmoq tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aholining faqat yuqori daromadli qatlamlarini o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korrupsiyaga qarshi kurash dasturining samaradorligini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Korruptsiyani idrok etish indekslaridan foydalanish, korrupsiya holatlari soni va natijalarini tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Baholashni faqat qonunchilikdagi o’ zgarishlar bilan cheklash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mansabdor shaxslarning harakatlarini bevosita kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Shaxsiy taassurotlar haqida ommaviy so’ rovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Raqamli infratuzilmaga davlat investitsiyalarining ta’ sirini qanday o’ lchashimiz mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Internetga ulanishning mavjudligi va sifatini tahlil qilish, mahalliy iqtisodiy rivojlanishga ta’ sirini baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "IT sohasida yangi ish o’ rinlari soniga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat davlat xarajatlarini o’ rganing\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Foydalanuvchining qoniqish darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Jamoat transporti siyosatini baholashda qanday omillarni hisobga olish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mavjudligi, narxi, ishonchliligi, atrof-muhitga ta’ siri va ijtimoiy inklyuziya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat yo’ lovchi tashish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Transportni kutish vaqti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat xususiy tashuvchilarning fikrlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Karbonat angidrid chiqindilarini kamaytirish siyosatini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Siyosatni amalga oshirishdan oldin va keyin emissiya darajasini o’ lchash, joriy etilgan texnologiyalar samaradorligini tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Standartlarga rioya qilish qulayligi bo’ yicha korxonalarning so’ rovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mahalliy sharoitlarni hisobga olmagan holda xalqaro standartlar bilan solishtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat yirik sanoat ob’ ektlarini o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosat ta’ sirini tahlil qilish siyosatga tuzatishlar kiritish qarorlarini qabul qilishga qanday yordam berishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Maqsadlarga erishish uchun samarasiz tomonlarni aniqlash va kerakli oʻzgarishlarni amalga oshirish imkonini beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Muvaffaqiyatsizlikning birinchi belgisida siyosatdan darhol voz kechishga e’ tibor qaratadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ichki hisobotlarga fikr-mulohazalarni cheklaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tashqi ekspert baholarini e’ tiborsiz qoldiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ijtimoiy siyosatning aholining zaif qatlamlariga ta’ sirini baholash uchun qanday yondashuvlar qo’ llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Maxsus tadqiqotlar, ijtimoiy o‘tishlarni tahlil qilish, ko‘rsatilayotgan xizmatlarning mavjudligi va sifatini o‘rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Standart iqtisodiy tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Umumiy demografik ma’ lumotlardan foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tahlilni hukumat hisobotlari bilan cheklash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat dasturlari samaradorligini miqdoriy baholash uchun qanday usullardan foydalaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Statistik tahlil, ekonometrik modellar, daromad va xarajatlar tahlili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Byudjet ajratmalarini oddiy taqqoslash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Dastur ishtirokchilarining so’ rovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Anekdot dalillaridan eksklyuziv foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Siyosatni baholash jamoatchilikning davlat institutlariga ishonchiga qanday ta’ sir qilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Baholash va fikr-mulohazalar jarayonida shaffoflik fuqarolarning davlat ishlarida ishonchi va ishtirokini oshirishi mumkin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Agar natijalar jamoatchilik muhokamasi boʻlmasa, shubha tugʻdirishi mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tashqi maslahatchilarga haddan tashqari ishonish tufayli ishonchning pasayishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ishonch faqat ijobiy baholar bilan ortdi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’ limga yangi texnologiya siyosatini joriy etishda qanday qiyinchiliklar mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Texnologiyani o’ quv rejasi, o’ qituvchilar tayyorlash, talabalar moslashuvi va infratuzilma bilan ta’ minlash bilan sinxronlashtirish zarurati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat yuqori texnologiyali yechimlarga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Quyi sinflarga cheklangan e’ tibor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sinfdan tashqari mashg’ ulotlarga e’ tibor bermaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Barqaror rivojlanish siyosatini baholash uchun qanday usullardan foydalanish mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Barqaror rivojlanish ko‘rsatkichlaridan foydalanish, iqtisodiy va ekologik ta’sirlarni uzoq muddatli modellashtirish, ijtimoiy adolatni tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli moliyaviy audit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Baholashni yagona ekologik loyihalar bilan cheklash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mahalliy jamoalarga ta’ siri yo’ q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Madaniy tashabbuslarning aholining ijtimoiy farovonligiga ta’ sirini qanday baholay olasiz?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Madaniy tadbirlarda ishtirok etishni tahlil qilish, ularning ijtimoiy integratsiya va psixologik farovonlikka ta’ sirini o’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Chiptalarni sotish uchun baholashning cheklanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Nomoddiy imtiyozlarni istisno qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tadbir daromadiga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hududiy darajada sog’ liqni saqlash siyosatini baholash uchun qanday vositalar samarali?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kasallik va o’ lim ma’ lumotlaridan foydalanish, tibbiy xizmatlarning mavjudligi va sifatini tahlil qilish, mahalliy byudjetlarga ta’ sirini baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat shifoxonalarni baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tibbiyot xodimlarining so’ rovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xususiy sog’ liqni saqlash muassasalariga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Turizm sohasidagi davlat chora-tadbirlari samaradorligini qanday tahlil qilish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Barqaror turizm ko‘rsatkichlaridan foydalangan holda turistik oqimlarga, iqtisodiy manfaatlarga va mahalliy hamjamiyatlarga ta’sirini baholash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sayohlar soniga alohida e’ tibor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat mehmondo’ stlik sanoati so’ rovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sektor bandligi darajasiga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Madaniy merosga davlat investitsiyalarining ta’ sirini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Turizmga, madaniy qadriyatlarni saqlashga va mahalliy aholining iqtisodiy faolligiga ta’ sirini tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qayta tiklash xarajatlariga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Chipta daromadiga tahlilni cheklash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xalqaro manfaatlarga e’ tibor bermaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion startaplarni davlat tomonidan qo‘llab-quvvatlashni baholashda qanday usullar qo‘llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kompaniya o’ sishi, ish o’ rinlari yaratish va innovatsion faollikka ta’ sirini o’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Startap asoschilari soʻrovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat moliyaviy investitsiyalar tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli natijalarga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aholining kasbiy malakasini oshirishda ta’ lim siyosatining samaradorligini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ta’lim dasturlarining mehnat bozori talablariga muvofiqligini tahlil qilish, bitiruvchilarning bandlik darajasini o‘rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Talaba muvaffaqiyatiga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat ta’ lim muassasalari bo’ yicha so’ rovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Norasmiy ta’ limga e’ tibor bermaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Transport siyosatidagi o’ zgarishlarning atrof-muhit ifloslanishiga ta’ sirini baholashga qanday yondashuvlar yordam beradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Emissiya ma’ lumotlari, transport oqimi tahlili va havo sifatini prognozlash modellaridan foydalaning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Avtomobillar sonidagi o’ zgarishlarni kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat shahar transporti tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ekologlarning fikrlariga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Suvni boshqarish siyosatini baholashda qanday omillar muhim ahamiyatga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Suvning mavjudligi, suv sifati va qishloq xo’ jaligi va aholiga ta’ sirini tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Faqat suv iste’ molini o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Suvni tozalash xarajatlarini baholashni cheklash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Suv ta’ minotining texnik jihatlariga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mahalliy boshqaruvni rivojlantirish siyosatining aholi turmush sifatini yaxshilashga ta’ sirini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xizmatlardan qoniqish darajasi, infratuzilmaning mavjudligi va boshqaruv shaffofligi bo’ yicha tadqiqotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Baholash faqat oʻtkazilgan tadbirlar soniga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Byudjet xarajatlarining tahlili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mahalliy amaldorlarning fikrlariga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qishloq xo’ jaligini davlat tomonidan qo’ llab-quvvatlashni baholashda qanday qiyinchiliklar yuzaga keladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Fermerlarning mahsuldorligi, iqtisodiy foydalari va ijtimoiy farovonligiga ta’ sirini tahlil qilishning kompleks yondashuvi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatli moliyaviy natijalarga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Atrof-muhit oqibatlariga e’ tibor bermaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Baholashni subsidiyalar bilan cheklash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fiskal rag’ batlantirishning iqtisodiy inqirozdan chiqishga ta’ sirini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "YaIM o’ sishi, ishsizlik darajasi va iste’ molchilar ishonchi kabi makroiqtisodiy ko’ rsatkichlarning tahlili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Fiskal taqchillikka e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Birjani kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat davlat investitsiyalarini o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ijtimoiy siyosatdagi o’ zgarishlarni baholashning qanday usullari samarali?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ko’ p o’ lchovli yondashuv, shu jumladan siyosatning turli ijtimoiy guruhlarga ta’ sirini miqdoriy va sifat jihatidan tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bir ijtimoiy parametrga e’ tibor qarating\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Faqat davlat xizmatchilarining soʻrovlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Uzoq muddatli ijtimoiy o’ zgarishlarga e’ tibor bermaslik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnologik innovatsiyalarning korxona samaradorligiga ta’ sirini qanday baholash mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ish samaradorligi, texnologiya investitsiyalari va ularning kompaniyalarning bozordagi pozitsiyalariga ta’ siri haqidagi ma’ lumotlardan foydalaning\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Texnologik jihozlar darajasiga e’ tibor bering\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kadrlar sonidagi o’ zgarishlarni kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Faqat IT sohasida innovatsiyalarni o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

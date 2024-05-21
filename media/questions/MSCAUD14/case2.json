@@ -1,0 +1,5890 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyida qayd etilgan soliqlarning qaysi biri egri (bilvosita) soliqlar guruhiga kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "QQS\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Jismoniy shaxslar daromadiga solinadigan soliq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yer solig‘i\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mol-mulk solig‘I\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq hisoboti va hisobot shakllari qanday me’yoriy xujjat yordamida tartibga solinadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq kodeksi,BHMS-1, 3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq kodeksi, BHMS-4, 20\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq kodeksi, BHMS-5, 7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq kodeksi, BHMS-1, 4\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq kodeksining 312-moddasiga asosan budjetdan tashqari pensiya jamg’armasiga majburiy ajratmani to’lovchilari bo’lib kimlar hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi rezidentlari bo’lgan yuridik shaxslar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi rezidentlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi rezidentlari va norezidentlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi rezidentlari bo’lgan jismoniy shaxslar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat obligatsiyalari va davlatning boshqa qimmatli qog‘ozlari bo‘yicha dividendlar va foizlar soliqqa tortiladimi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ozod etiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliqqa tortiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Qisman soliqqa tortiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Imtiyozli stavkalarda tortiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlarni undirish qaysi organlar vakolatiga kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq xizmati organlari, bojxona xizmati organlari.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Moliya vazirligi, soliq qo‘mitasi, bojxona qo‘mitasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sud va prokuratura organlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Jismoniy shaxs.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlar va yig‘imlarni to‘lov muddati o‘tkazib yuborilgan har bir kun uchun penya miqdorini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Markaziy bankining shu davrda amalda bo‘lgan qayta moliyalash stavkasining uch yuzdan biriga teng\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,046 %\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,033 %\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,05 %\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq obyektiga ta’rif bering.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchining soliq hisoblanadigan va soliqqa tortish uchun asos bo‘lib xizmat qiladigan daromadi, oboroti va mol-mulki\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchilarning manfaatlari, majburiyatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliqqa tortiladigan mol-mulk, daromadlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yollanib ishlovchilarning majburiyatlari va tadbirkorlar mulklari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq stavkasi nimani ifodalaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq bazasi (obyekti)ning bir qismini byudjetga olishni.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq manbaiga o‘rnatilgan meyorini.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq imtiyozlari bo‘yicha chegirmalarni.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bir xil tartibda soliq undirishni.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqqa tortishning kadastrli usulining o‘ziga xos xususiyati nimada?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliqqa tortish obyektining kam yoki ko‘pligiga bog‘liq bo‘ladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliqning to‘lanish payti daromadning olinishi payti bilan aslo bog‘liq bo‘lmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq stavkalarining pastligida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq imtiyozlarining nisbatan ko‘pligida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchini javobgarlikka tortish:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq va to‘lovlarni to‘lash majburiyatidan ozod etmaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq va to‘lovlarni to‘lash majburiyatidan ozod etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq va to‘lovlarni to‘lash majburiyatidan qisman ozod etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq va to‘lovlarni to‘lash majburiyatidan vaqtincha ozod etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlarning qanday funktsiyalari mavjud.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Fiskal, tartibga solish, rag‘batlantiruvchi, nazorat, axborot bilan ta’minlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Fiskal, tartibga solish, nazorat, byudjetga tushish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Foiz olish, rag‘batlantiruvchi, axborot bilan ta’minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Rag‘batlantiruvchi, nazorat, axborot bilan ta’minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi satrda soliq elementlari to‘liq keltirilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq solish obyekti, bazasi, stavkasi, soliq davri, hisoblab chiqarish tartibi, hisobotni taqdim etish tartibi, to‘lash tartibi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq turlari, soliq solish obyekti, bazasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq agenti, hisobotni taqdim etish tartibi, to‘lash tartibi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "To‘langan soliq summasi, stavkasi, soliq davri, hisoblab chiqarish tartibi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi vakolatli organ soliq turlarini joriy etish huquqiga ega.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Oliy Majlisi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Davlat Soliq Qo‘mitasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Moliya Vazirligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Adliya Vazirligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqqa tortish maqsadida O‘zbekiston Respublikasi rezident jismoniy shaxsi deganda … tushuniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasida doimiy yashab turgan yoki moliya yilida 183 kun (yoki undan ko‘proq muddatda) bo‘lgan jismoniy shaxs\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasida vaqtincha yashovchi jismoniy shaxs;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasida doimiy ishab turgan yuridik shaxs;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Chet ellik fuqarolar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat byudjeti qaysi organ tomonidan qabul qilinadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Oliy Majlisi tomonidan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Vazirlar Mahkamasi tomonidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Moliya vazirligi tomonidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Prezidenti tomonidan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasining Soliq kodeksi (yangi tahriri) qachon kuchga kirdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2020 yil 1 yanvar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2018 yil 1 yanvar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2017 yil 1 yanvar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "2021 yil 1 yanvar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasining Soliq kodeksi (yangi tahriri) nechta moddadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "483-modda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "390-modda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "192-modda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "392-modda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasining Soliq kodeksi (yangi tahriri) nechta bobdan iborat.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "73\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "60\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "71\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "62\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasining Soliq kodeksi (yangi tahriri) nechta bo‘limdan iborat.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "21\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "18\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "22\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "33\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlarning iqtisodiy mohiyatini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliqlar, yig‘imlar, bojlar va boshqa to‘lovlar hisobiga davlat moliyaviy resurslarini tashkil etishda namoyon bo‘ladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Davlatning pul mablag‘lariga bo‘lgan ehtiyojini qondirishda namoyon bo‘lmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliqlar majburiy to‘lovlarni ifoda etuvchi pul munosabatlarida namoyon bo‘ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sohalar o‘rtasida mutanosiblikni ta‘minlashda namoyon bo‘ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat budjeti daromadlarining asosiy manbalarini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliqlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Majburiy to‘lovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tashqi qarzlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Musodara qilingan mulklar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasida yuridik shaxslarning oladigan dividend va foiz daromadlari qanday stavkada soliqqa tortiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "5 %\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "13 %\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "15 %\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "10 %.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasida norezident yuridik shaxslarning oladigan dividend va foiz daromadlari qanday stavkada soliqqa tortiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "10 %\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "13 %\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "15 %\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5 %.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Soliq kodeksi yangi tahriri qachon qabul qilingan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2019 yil dekabr\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2020 yil noyabr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2016 yil yanvar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "2018 yil yanvar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Jismoniy shaxslar soliqlarni qanday shaklda to‘laydilar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Naqd pul va naqd pulsiz shaklda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Naqd pul shaklida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Naqd pulsiz shaklida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Natura shaklida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslar soliqlarni qanday shaklda to‘laydilar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Naqd pulsiz shaklida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Naqd pul shaklida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Natura shaklida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Naqd pul va naqd pulsiz shaklda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq obyekti deganda:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq solinadigan daromad, mol-mulk yoki iqtisodiy faoliyat tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq undiruvchilar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchilar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aholi, ya’ni ayrim jismoniy shaxslar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq stavkalarini qaysi vakolatli davlat organi belgilaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Oliy Majlis\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Vazirlar Mahkamasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Davlat soliq qo‘mitasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Davlat soliq qo‘mitasi va Moliya vazirligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilarning qaysi biri soliq obyekti bo‘la oladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Korxona va tashkilotlarning moliyaviy natijasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Korxona va tashkilotlarning smeta rejasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kreditorlik qarzlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Byudjet subsidiyalari.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq imtiyozining turlarini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Butunlay, vaqtinchalik, qisman\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Butunlay, oz muddatga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Vaqtincha, uzoq muddatga, to‘liq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qisqa muddatga, uzoq muddatli, butunlay\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq subyekti bu - ...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lash majburiyati yuklangan yuridik va jismoniy shaxslar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslar va davlat soliq organlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Jismoniy shaxslar va davlat soliq organlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yollanib ishlovchilar va tadbirkorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslardan undiriladigan foyda solig‘i qaysi soliqlar tarkibiga kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "To‘g‘ri soliqlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Egri soliqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mahalliy soliqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Federal soliqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlar – deganda …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "muayyan miqdorlarda undiriladigan, muntazam, qaytarib berilmaydigan va beg‘araz xususiyatga ega bo‘lgan, byudjetga yo‘naltiriladigan majburiy pul to‘lovlari tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "davlat byudjetiga undiriluvchi majburiy to‘lovlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "yuridik shaxslar tomonidan byudjetga undiriladigan to‘lovlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "jismoniy shaxslar tomonidan byudjetga toManadigan majburiy to‘lovlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq stavkalarining turlarini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "proporsional, progressiv, regressiv\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "to‘g‘ri, egri, resurs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘sib boruvchi, bazaviy stavkalar, egri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "regressiv, qat’iy bo‘lmagan, bazaviy stavkalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqqa tortishning qanday usullari mavjud?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kadastrli, deklaratsiya, manba oldida soliqqa tortish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "to‘g‘ri va egri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bevosita va bilvosita\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "to‘lov manbaida soliqqa tortish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi soliq qonunchiligi prinsiplarini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq solishning majburiyligi, aniqligi, adolatliligi, soliq tizimining yagonaligi, soliq to‘g‘risidagi qonun hujjatlarining oshkoraligi va soliq to‘lovchining haqligi prezumptsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "oddiylik va xolislik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tenglik, soliq stavkalarini qiyoslash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tadbirkorlik va investitsiyalami rag‘batlantirish, hamma daromadlami soliqqa tortish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlarning fiskal funksiyasi nimani anglatadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliqlar yordamida davlatning moliyaviy mablag‘larni tashkil qilishni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "davlat soliqlar orqali tovarlar, xizmatlami ishlab chiqarish va sotishning iqtisodiy shart-sharoitini tartibga solishini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ishlab chiqarishni rivojlantirishga, moddiy xom ashyo resurslari, shuningdek moliyaviy va mehnat resurslari, jamg‘arilgan mol-mulkdan samarali foydalanishga ta’sir ko‘rsatishini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "soliqlar vositasida shakllangan daromadlar haqida axborot berishni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq agenti qaysi javobda to‘g‘ri ko‘rsatilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "zimmasiga soliqlar va boshqa majburiy to‘lovlami hisoblab chiqarish, soliq to‘lovchidan ushlab qolish hamda byudjetga va davlat maqsadli jamg‘armalariga o‘tkazish majburiyati yuklatilgan shaxslardir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "zimmasiga soliqlar va boshqa majburiy to‘lovlami to‘lash majburiyati yuklatilgan jismoniy shaxslar, yuridik shaxslar va ularning alohida bo‘linmalaridir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "davlat soliq xizmati organlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "boshqa majburiy to‘lovlami undirish vazifasini amalga oshiruvchi davlat organlari va tashkilotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslarning foyda solig‘i solish obyektini aniqlashda jami daromaddan moliyaviy jarima va penya summalari chegirib tashlanadimi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "chegirib tashlanmaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "chegirib tashlanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "faqat moliyaviy jarima summasi chegirib tashlanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "faqat penya summasi chegirib tashlanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxsning jami daromadlari tarkibini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tovarlarni (ishlarni, xizmatlarni) realizatsiya qilishdan olinadigan daromadlar va boshqa daromadlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "realizatsiya qilinayotgan tovarlar (ishlar, xizmatlar) uchun boshqa shaxslardan dastlabki haq (bo‘nak) tarzida olingan mablag‘lar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "olingan grantlar va insonparvarlik yordami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sug‘urta shartnomalari bo‘yicha sug‘urta tovoni (sug‘urta summasi) tariqasida olingan mablag‘lar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilardan qaysi biri soliq to‘lovchining daromadi sifatida qaralmaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ijaraga beruvchi (lizing beruvchi) ijara (lizing) to‘lovining qismi tariqasida olgan moliyaviy ijara (lizing) obyekti qiymatining qoplamasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tovarlarni (ishlarni, xizmatlarni) realizatsiya qilishdan olinadigan daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "inventarizatsiya natijasida aniqlangan ortiqcha tovar-moddiy zaxiralar hamda boshqa mol-mulk qiymati tariqasidagi daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "majburiyatlarni hisobdan chiqarishdan olinadigan daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Majburiyatlarni hisobdan chiqarishdan olinadigan daromadlarga qanday daromadlar kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "fuqarolik qonun hujjatlariga muvofiq da‘vo muddati o‘tgan hisobdan chiqarilgan majburiyatlar; sudning yoki vakolatli davlat organining qaroriga binoan hisobdan chiqarilgan majburiyatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "soliq to‘lovchining byudjet va davlat maqsadli jamg‘armalari oldidagi qarzining qonun hujjatlariga muvofiq hisobdan chiqarilgan summalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "asosiy vositalar va nomoddiy aktivlami moliyaviy ijaraga berishdan olinadigan daromadlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "fuqarolik qonun hujjatlariga muvofiq da‘vo muddati o‘tgan hisobdan chiqarilgan majburiyatlar; soliq to‘lovchi tekin olgan mol- mulk, mulkiy huquqlar, shuningdek ishlar va xizmatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslarning quyidagi qaysi foydasi yuridik shaxslardan olinadigan foyda solig‘ini to‘lashdan ozod etiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xalq banki tomonidan fuqarolarning shaxsiy jamg‘arib boriladigan pensiya hisobvaraqlaridagi mablag‘lardan foydalanishdan olingan foydasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dengiz, daryo va havo kemalaridan, temir yo‘l yoki avtomobil transporti vositalaridan xalqaro tashishlarda foydalanishdan olinadigan daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "shirkat shartnomasi asosida birgalikdagi faoliyatda ishtirok etishdan olinadigan daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "asosiy vositalari va boshqa mol-mulki chiqib ketishidan olinadigan daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo‘shilgan qiymat solig‘ining soliqqa tortish obyekti nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq solinadigan oborot va soliq solinadigan import\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "muomala xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ishlab chiqarish tannarxi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sof foyda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlar – deganda…..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "muayyan miqdorlarda undiriladigan, muntazam, qaytarib berilmaydigan va beg‘araz xususiyatga ega bo‘lgan, byudjetga yo‘naltiriladigan majburiy pul to‘lovlari tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "davlat byudjetiga undiriluvchi to‘lovlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "yuridik shaxslar tomonidan byudjetga undiriladigan to‘lovlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "jismoniy shaxslar tomonidan byudjetga to‘lanadigan to‘lovlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi soliq qonunchiligi prinsiplarini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq solishning majburiyligi, aniqligi, adolatliligi, soliq tizimining yagonaligi, soliq to‘g‘risidagi qonun hujjatlarining oshkoraligi va soliq to‘lovchining haqligi prezumpsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "oddiylik va xolislik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tenglik, soliq stavkalarini qiyoslash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tadbirkorlik va investitsiyalarni rag‘batlantirish, hamma daromadlarni soliqqa tortish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslarning mahsulot (ish, xizmat)larni eksporti hajmi umumiy sotish hajmida 30 foiz va undan yuqorini tashkil etsa, foyda solig‘ini qanday stavkada to‘laydilar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "eksporti hajmiga 0 %\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "belgilangan stavka 10 foizga kamaytiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "belgilangan stavka bo‘yicha to‘lanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "belgilangan stavka 30 foizga kamaytiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslardan olinadigan foyda solig‘ining soliq hisoboti davlat soliq xizmati organlariga qanday muddatda taqdim etiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "hisobot davri yakunlari bo‘yicha –- hisobot davridan keyingi oyning yigirmanchi kunidan kechiktirmay\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "hisobot davri yakunlari bo‘yicha –- soliq davri o‘tgandan keyingi yilning 1-martidan kechiktirmay\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "hisobot davri yakunlari bo‘yicha –- hisobot davridan keyingi oyning yigirmanchi kunidan kechiktirib\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hisobot davri yakunlari bo‘yicha –- hisobot davridan keyingi oyning yigirma beshinchi kunidan kechiktirmay\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "2020-yilda xizmat ko‘rsatish sohasi korxonalari ko‘rsatgan xizmatlarini plastik kartalar qo‘llanilgan holda to‘langan hajmi bo‘yicha foyda solig‘ini qanday stavkada to‘laydilar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bekor qilingan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "belgilangan stavka 15% ga pasaytiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "umumbelgilangan stavkada\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "belgilangan stavka 5% ga pasaytiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Soliq’’ tushunchasiga ta‘rif bering.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "muayyan miqdorlarda undiriladigan, muntazam, qaytarib berilmaydigan va beg‘araz xususiyatga ega bo‘lgan, byudjetga yo‘naltiriladigan majburiy pul to‘lovlari tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "jismoniy shaxslar tomonidan byudjetga to‘lanadigan majburiy to‘lovlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "davlat byudjetiga undiriluvchi majburiy to‘lov tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yuridik shaxslar tomonidan byudjetga undiriladigan to‘lovlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Byudjetga to‘lanishi lozim bo‘lgan qo‘shilgan qiymat solig‘i summasi qanday aniqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq solinadigan oborot bo‘yicha hisoblab chiqarilgan soliq summasi bilan hisobga olinadigan soliq summasi o‘rtasidagi farq sifatida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "realizatsiya qilingan tovarlar, ishlar, xizmatlarga hisoblangan qo‘shilgan qiymat solig‘i sifatida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "soliq solinadigan jami oborot sifatida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "soliq solinadigan oborot bo‘yicha hisoblab chiqarilgan soliq summasi bilan hisobga olinmaydigan soliq summasi o‘rtasidagi farq sifatida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Hisobot davrining soliq solinadigan foydadan kelgusida chegiriladigan xarajatlarga qaysi xarajat kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "asosiy vositalar va nomoddiy aktivlarning jadallashtirilgan usulda hisoblangan amortizatsiya summasi bilan belgilangan normalar bo‘yicha hisoblangan amortizatsiya summasi o‘rtasidagi farq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Vazirlar Mahkamasining qarori asosida kollejlar, akademik litseylar, maktablar va maktabgacha tarbiya ta’lim muassasalari qurilishiga yo‘naltirilgan mablag‘lar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "xodimlarni ish joyiga olib kelish va qaytarib olib ketish xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "xodim bilan mehnat shartnomasi bekor qilinganda mehnat to‘g‘risidagi qonun hujjatlariga muvofiq amalga oshiriladigan ishdan bo‘shatish nafaqasi va boshqa to‘lovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo‘shilgan qiymat solig‘ini hisoblashda nollik stavka qachon qo‘llaniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tovarlarni chet el valyutasida eksportga realizatsiya qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ma‘lumotlarni ishlash va axborot ta‘limotiga doir xizmatlariga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kundalik ehtiyoji mollariga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "stenografiya xizmatlariga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo‘shilgan qiymat solig‘ining soliqqa tortish obyekti nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq solinadigan oborot va soliq solinadigan import\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "muomala xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mahsulot, ish va xizmatlarni sotishga doir oborotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ishlab chiqarish tannarxi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagilarning qaysilari tovarlarni (ishlarni, xizmatlarni) realizatsiya qilish oboroti deb e’tirof etiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq to‘lovchining xarajatlari sifatida qaraladigan, uning o‘z ehtiyojlari uchun tovarlarni berish, ishlarni bajarish, xizmatlar ko‘rsatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "banklar va sug‘urta tashkilotlari tomonidan mol-mulkni o‘z filiallariga berish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "qaytariladigan tarani jo‘natish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "soliq to‘lovchining o‘z ehtiyojlari uchun o‘z kuchi bilan qurilish, montaj, qurilish-montaj ishlarini bajarishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq solinadigan importga ta‘rif bering.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasining bojxona hududiga olib kirilayotgan tovarlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilangan tartibda insonparvarlik yordami tariqasida olib kirilayotgan tovarlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "jismoniy shaxslar tomonidan tovarlarni bojsiz olib kirishning bojxona to‘g‘risidagi qonun hujjatlarida tasdiqlangan normalari doirasida olib kirilayotgan tovarlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "investor bilan davlat mulkini boshqarish bo‘yicha vakolatli davlat organi o‘rtasida tuzilgan shartnomaga muvofiq investitsiya majburiyatlari sifatida olib kiriladigan mol-mulk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq solinadigan oborotning ta‘rifini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq to‘lovchining tovarlarni (ishlarni, xizmatlarni) realizatsiya qilish oboroti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "aloqa tashkilotlarining pensiya va nafaqalar to‘lash bo‘yicha xizmatlari oboroti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "realizatsiya qilingan joyi O‘zbekiston Respublikasi bo‘lmagan oborot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "davolash muassasalari huzuridagi davolash-ishlab chiqarish ustaxonalarining mazkur muassasalar tomonidan realizatsiya qilinadigan mahsulotlari oboroti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchining quyidagi qaysi xarajati soliq solinadigan foydani aniqlash paytida chegirilmaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "yillik moliyaviy hisobotni bir hisobot davrida bir martadan ortiq auditdan o‘tkazish xarajatlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "moddiy xarajatlar, mehnatga haq to‘lash xarajatlari, amortizatsiya xarajatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ishchi kuchlari qabul qilish va yangi ishga tushirilgan korxonada ishlash uchun kadrlar tayyorlash bilan bog‘liq xarajatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "barcha turdagi asbob-uskunalar va texnik qurilmalarni, ularning o‘rnatilish sifatini tekshirib ko‘rish maqsadida kompleks sinab ko‘rish (ishlab turgan holatida) xarajatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlarning qanday o‘ziga xos belgilari mavjud.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "majburiylik, davlat byudjetiga tushishi, qat‘iylik, aniqlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "qaytarilishi, foizlilik, noaniqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "majburiylik, foizlilik, muddatlilik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "muddatsizlik, noaniqlik, ekvivalentlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlarning soliqqa tortish obyekti bo‘yicha guruhlarini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "oborotdan, daromaddan, mol-mulk qiymatidan, maydonidan olinadigan soliqlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mol-mulk qiymatidan olinadigan soliqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mahalliy soliqlar va umumdavlat soliqlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yer maydoniga qarab olinadigan soliqlar, xarajatlariga qarab olinadigan soliqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslardan olinadigan foyda solig‘i obyektini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq to‘lovchi tomonidan olingan foyda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tovarlarni (ishlarni, xizmatlarni) realizatsiya qilishdan olinadigan daromadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "dividendlar va foizlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "chegirmalar qilinmagan holda to‘lov manbaida soliq solinadigan daromadlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslardan olinadigan foyda solig‘i to‘lovchilarini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasining soliq rezidentlari va norezidentlari bo‘lgan yuridik shaxslar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Notijorat tashkilotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasining rezidentlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq solishning soddalashtirilgan tartibi nazarda tutilgan yuridik shaxslar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslardan olinadigan foyda solig‘ini to‘lashdan quyidagi qaysi yuridik shaxs ozod qilinadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "aylanmadan soliq to‘lovi to‘lovchilari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "davolash muassasalari huzuridagi davolash-ishlab chiqarish ustaxonalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ishlovchilari umumiy sonining kamida 50 foizini nogironlar tashkil etgan yuridik shaxslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "notijorat tashkilotlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi soliq turi to‘lov manbaida undiriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Foiz va dividentlar solig‘i\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yer solig‘i\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Foyda solig‘i\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mol-mulk solig‘i\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxslardan olinadigan foyda solig‘ining stavkalari 2021 yil uchun qanday miqdorlarda belgilangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "15%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "10%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "25%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "12%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ortiqcha to‘langan soliq summalarini qaytarish qancha ish kuni ichida tegishli moliya organlari tomonidan amalga oshiriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o‘n besh ish kuni ichida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o‘ttiz ish kuni ichida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "besh ish kuni ichida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "o‘n ish kuni ichida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchining identifikatsiya raqami - bu.....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "muayyan soliq to‘lovchi hisobga qo‘yilganda unga beriladigan raqamdir.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "muayyan soliq to‘lovchi bankdan hisob raqami ochganda unga beriladigan raqamdir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "muayyan soliq to‘lovchiga g‘aznachilik bo‘limi tomonidan unga beriladigan raqamdir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "muayyan soliq to‘lovchiga statistika organlari tomonidan unga beriladigan raqamdir.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fiskal xotirali nazorat-kassa mashinalarini va (yoki) to‘lovlarni plastik kartochkalar asosida qabul qilish bo‘yicha hisob-kitob terminallarini ishlatish majburiy bo‘lgani holda ularni ishlatmasdan savdoni amalga oshirganlik va xizmatlar ko‘rsatganlik …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "besh million so‘m miqdorida jarima solishga sabab bo‘ladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bir million so‘m miqdorida jarima solishga sabab bo‘ladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "eng kam ish haqining bir yuz ellik baravarigacha miqdorda jarima solishga sabab bo‘ladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "eng kam ish haqining ikki yuz ellik baravarigacha miqdorda jarima solishga sabab bo‘ladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq bazasi deganda -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq obyektining soliq stavkasi qo‘llaniladigan miqdori tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Obyektning o‘lchov birligi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Obyektining har bir birligi uchun davlat tomonidan belgilab qo‘yilgan me’yor tushunladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchining to‘laydigan soliqlar manbai tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq stavkalari nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Obyektning har bir birligi uchun davlat tomonidan belgilangan me’yor\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq obyektining soliq stavkasi qo‘llaniladigan miqdori tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Subyektlar uchun davlat tomonidan belgilangan me’yor tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq solinadigan daromad, oborot va mol-mulk\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq imtiyozlari deb -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchilarga soliqlar bo‘yicha turli xil yengiliklar berishga aytiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lash muddatini uzaytirishga aytiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq obyektining oshib borishi bilan soliq stavkasining kamayishiga aytiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliqlarni regressiv stavkada undirishga aytiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kirim qilinmagan tovarlarni saqlash yoxud tovarlarni (ishlarni, xizmatlarni) realizatsiya qilishdan tushgan tushumni yashirishga qanday jarima solinadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kirim qilinmagan tovar qiymatining 20 foizi miqdorida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kirim qilinmagan tovar qiymatining 5 foizi miqdorida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kirim qilinmagan tovar qiymatining 15 foizi miqdorida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kirim qilinmagan tovar qiymatining 10 foizi miqdorida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq hisobi siyosati nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Korxonalar tomonidan qabul qilingan soliq hisobi tizimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliqlarni to‘lash shakllari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliqlarni to‘g‘ri hisoblanishini o‘rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq hisobotlarini to‘g‘ri shakllantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq hisobi siyosati nechta qismga bo‘linadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq hisobi siyosati qanday xujjat bilan tasdiqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "buyruq yoki farmoyish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "qonun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kodeks\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ariza\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Foyda solig‘i hisoblanganda qanday buxgalteriya provodkasi beriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Debet 9810, Kredit 6410\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Debet 9820, Kredit 6410\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Debet 5110, Kredit 6410\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Debet 4410, Kredit 6411\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchida yalpi tushumga tuzatish kiritish qanday hollarda amalga oshiriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tovarlar to‘liq yoki qisman qaytarilganda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bitim shartlari o‘zgarmaganda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Baholar o‘zgarmaganda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yalpi foyda o‘zgarganda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlar bo‘yicha bo‘nak to‘lovlari buxgalteriya yozuvida qanday aks ettiriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Debet 4410, Kredit 5110\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Debet 4410, Kredit 6010\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Debet 6410, Kredit 4410\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Debet 6410, Kredit 5110\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq hisobi registrlari … shaklda bo‘ladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Analitik va sintetik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Analitik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sintetik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Umumiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Amir Temur soliqqa tortishning qanday tamoyiliga amal qilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Adolatlilik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Umumiylik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ishonchlilik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Majburiylik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Budjetga soliqlar bo‘yicha qarz’’ buxgalteriyada qaysi schotda olib boriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "6410\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4410\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "6411\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "6500\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Soliq hisobi’’ fanining predmeti.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliqlar va majburiy to‘lovlarni hisoblash, budjetga to‘lash va ularni hisob regstrlarida aks ettirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq hisobini tashkil etish tizimlarini o‘rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq hisobini yuritishning metodik usullarini o‘rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq hisobotini tuzish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq hisob siyosati korxonalar uchun qanday me’yoriy xujjat hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ichki\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tashqi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Umumiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ommaviy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Shaxsning zimmasiga sud tartibida yuklatilgan jarimalar va boshqa to‘lovlar, shuningdek qonunda belgilangan hollarda mol-mulkni musodara qilish hamda boshqacha tarzda olib qo‘yish …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliqlar yoki yig‘imlar jumlasiga kirmaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "soliqlar yoki yig‘imlar jumlasiga kiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "soliqlar jumlasiga kiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yig‘imlar jumlasiga kiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "V.Pushkaryova soliqlar rivojlanish tarixini nechta bosqichga ajratib ko‘rsatadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "6\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "….. ayrim soliqlarni to‘lashdan ozod etishni, pasaytirilgan soliq stavkalarini va boshqa soliq imtiyozlarini qo‘llashni nazarda tutishi mumkin.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Maxsus soliq rejimlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq rejimlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Erkin rejim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Savdo rejimi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘g‘risidagi qonun hujjatlari ……\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "orqaga qaytish kuchiga ega emas\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "orqaga qaytish kuchiga ega\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "soliq undirish uchun orqaga qaytish kuchiga ega\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "soliqchilar manfaatiga zid kelmasa orqaga qaytish kuchiga ega emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yangi soliqlar va yig‘imlar belgilanishini nazarda tutuvchi soliq to‘g‘risidagi qonun hujjatlari rasman e’lon qilingan kundan e’tiboran kamida qancha o‘tgach amalga kiritiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "uch oy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bir oy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ikki oy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bunday talab belgilanmagan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq majburiyati bo‘yicha da’vo qilish muddati qancha.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq majburiyati aniqlanadigan soliq davri tugaganidan keyin besh yilni tashkil etadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "soliq majburiyati aniqlanadigan soliq davri tugaganidan keyin uch yilni tashkil etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "soliq majburiyati aniqlanadigan soliq davri tugaganidan keyin o‘n yilni tashkil etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "soliq majburiyati aniqlanadigan soliq davri tugaganidan keyin bir yilni tashkil etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lashni kechiktirish yoki bo‘lib-bo‘lib to‘lash qancha muddatga beriladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bir yildan oshmagan muddatga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ikki yildan oshmagan muddatga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bir oydan oshmagan muddatga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ikki oydan oshmagan muddatga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchilar uchun soliq monitoringi ….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ixtiyoriydir.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "majburiydir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "soliq organiga bog‘liq.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "prokuraturaga bog‘liq.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "…. deganda tugagandan keyin soliq bazasi aniqlanadigan hamda to‘lanishi lozim bo‘lgan soliq summasi hisoblab chiqariladigan kalendar yil yoki boshqa davr tushuniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq davri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Hisobot davri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Imtiyoz davri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kalendar yil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchi yoki soliq agenti soliq solish maqsadlarida hisobni ….. yuritadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "hisoblash usuli bo‘yicha milliy valyutada\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "hisoblash usuli bo‘yicha chet el valyutasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kassa usuli bo‘yicha milliy valyutada\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kassa usuli bo‘yicha chet el valyutasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq hisoboti shakllari kim tomonidan tasdiqlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘zR Davlat soliq qo‘mitasi tomonidan O‘zR Moliya vazirligi bilan kelishilgan holda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘zR Davlat soliq qo‘mitasi tomonidan O‘zR Adliya vazirligi bilan kelishilgan holda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘zR Davlat soliq qo‘mitasi tomonidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘zR Moliya vazirligi tomonidan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliqlar va yig‘imlar kamsitish xususiyatiga ega bo‘lishi hamda ijtimoiy, irqiy, milliy, diniy va boshqa shu kabi mezonlardan kelib chiqqan holda qo‘llanilishi mumkin emas.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Adolatlilik prinsipi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oshkoralik prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq tizimining yagonaligi prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq solish obyekti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq tizimi O‘zbekiston Respublikasining butun hududida yagonadir.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq tizimining yagonaligi prinsipi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Adolatlilik prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oshkoralik prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchining haqligi prezumpsiyasi prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rasman e’lon qilinmagan soliq to‘g‘risidagi qonun hujjatlari kuchga kiritilmagan hujjat sifatida huquqiy oqibatlarni keltirib chiqarmaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Oshkoralik prinsipi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq tizimining yagonaligi prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Adolatlilik prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq bazasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘g‘risidagi qonun hujjatlari rasman e’lon qilinishi shart.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Oshkoralik prinsipi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq tizimining yagonaligi prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Adolatlilik prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq stavkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘g‘risidagi qonun hujjatlaridagi barcha bartaraf etib bo‘lmaydigan qarama-qarshiliklar va noaniqliklar soliq to‘lovchining foydasiga talqin etiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchining haqligi prezumpsiyasi prinsipi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oshkoralik prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq tizimining yagonaligi prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Adolatlilik prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "… mol-mulk, harakat, harakat natijasi yoki qiymat, miqdoriy yoki fizik xususiyatga ega bo‘lgan boshqa holat bo‘lib, u mavjud bo‘lganda soliq to‘g‘risidagi qonun hujjatlari soliq to‘lovchida soliq majburiyatini vujudga keltiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq solish obyekti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq bazasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq stavkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Imtiyozlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "…. soliq solish obyektining qiymat, fizik yoki boshqa xususiyatini ifodalaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq bazasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq stavkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Imtiyozlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq solish obyekti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "… soliq bazasining o‘lchov birligiga nisbatan hisoblanadigan soliqning foizlardagi yoki mutlaq summadagi miqdorini ifodalaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq stavkasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq bazasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Imtiyozlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq solish obyekti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "… soliq bazasidan, soliq stavkasidan, shuningdek mavjud bo‘lgan taqdirda, soliq imtiyozlaridan kelib chiqqan holda soliq davri uchun soliq summasini hisob-kitob qilish qoidalarini belgilaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliqni hisoblab chiqarish tartibi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Soliq bazasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Soliq stavkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq solish obyekti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchilarning ayrim toifalariga boshqa soliq to‘lovchilarga nisbatan soliq to‘g‘risidagi qonun hujjatlarida nazarda tutilgan afzalliklar, shu jumladan soliqni to‘lamaslik yoki ularni kamroq miqdorda to‘lash imkoniyati soliq ….. deb e’tirof etiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "imtiyozlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bazasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "stavkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "solish obyekti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovchining hisobga qo‘yilganligini tasdiqlovchi hujjat nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "guvohnoma\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "buyruq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "nizom\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "patent\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Foyda solig‘i hisoboti nechta ilovadan iborat.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "10 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "5 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "15 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "20ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "2021-yilda qo‘shilgan qiymat solig‘i stavkasi necha foiz.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "15 foiz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "20 foiz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "28 foiz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "18 foiz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq munosabatlarini tartibga solishning asosiy qonun hujjati – …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq kodeksi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Konstitutsiyasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasining «Soliq idoralari faoliyati to‘g‘risida»gi Qonun.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Fuqarolik kodeksi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "2021-yilda foyda solig‘i stavkasi necha foizni tashkil etadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "15 foiz.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "12 foiz.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "20 foiz.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "18 foiz.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to‘lovlari va soliq organlari o‘rtasidagi nizolarni kim ko‘rib chiqadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Sud.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Vazirlar Mahkamasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Davlat soliq qo‘mitasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Moliya vazirligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zbekiston Respublikasi Davlat soliq qo‘mitasining Inter netdagi rasmiy web-saytini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "www.soliq.uz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "www.dsq.uz.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "www.tax.uz.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "www.nalog.uz.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq hisobotini elektron tarzda jo‘natish web-saytini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "www.my.soliq.uz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "www.dsq.uz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "www.tax.uz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "www.nalog.uz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxonaning soliqsiz to‘lovlariga quyidagilarning qaysi biri kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Davlat ro‘yxatidan o‘tganlik uchun to‘lanadigan yig‘im\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Foyda solig‘i\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yer solig‘i\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qo‘shilgan qiymat solig‘i\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rezident deb nimaga aytiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘zbekistonda 183 kundan ko‘p yashagan fuqarolarga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘zbekistonda 180 kungacha yashagan fuqarolarga.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘zbekistonda 176 kundan ko‘p yashagan fuqarolarga.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘zbekistonda 176 kungacha yashagan fuqarolarga.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "2021-yil tijorat banklari uchun foyda solig‘i stavkasi necha foiz qilib belgilangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "20\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "35\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "15\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "10\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aksiz solig‘i O‘zbekiston Respublikasida qachon joriy etilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1992-yil\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1991-yil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1995-yil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1998-yil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aksiz solig‘ini to‘lash muddatlarini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq davridan keyingi oyning o‘ninchi kunidan kechiktirmay\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "har chorakda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "soliq davridan keyingi oyning o‘n beshinchi kunidan kechiktirmay\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " soliq davridan keyingi oyning o‘ninchi kunidan kechikib\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aksiz solig‘ining to‘lovchilari bo‘lib kimlar hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aksiz solig‘iga tortiladigan tovarlar ishlab chiqaruvchi yuridik shaxslar va import qiluvchi yuridik va jismoniy shaxslar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aksiz solig‘iga tortiladigan tovarlar ishlab chiqaruvchi yuridik shaxslar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aksiz solig‘iga tortiladigan tovarlar ishlab chiqaruvchi jismoniy shaxslar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aksiz solig‘iga tortiladigan tovarlarni eksport qiluvchi yuridik shaxslar.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aksiz solig‘i quyidagilarning qaysilariga solinmaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aksiz to‘lanadigan tovarlarning eksportiga.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aksiz to‘lanadigan tovarlarning importiga.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Berilgan xomashyodan tayyorlangan mahsulotga.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Vino va vinomateriallariga.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aksiz solig‘ining soliq hisoboti soliq bo‘yicha hisobga olish joyidagi davlat soliq xizmati organlariga qachon taqdim etiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "soliq davridan keyingi oyning o‘ninchi kunidan kechiktirmay\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "har chorakda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "soliq davridan keyingi oyning o‘n beshinchi kunidan kechiktirmay\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " soliq davridan keyingi oyning o‘ninchi kunidan kechikib\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi mahsulot aksiz marka bilan markalanmaydi.:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Pivo\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aroq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Konyak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Vino\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aksiz solig‘i stavkalari qanday belgilanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Тovarning qiymatiga nisbatan foizlarda va naturada ifodalangan o‘lchov birligiga mutlaq summada qat’iy belgilanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Тovarning qiymatiga nisbatan qat’iy so‘mlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Тovarning qiymatiga nisbatan foizlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Тovarlarning o‘lchov birligiga nisbatan foizlarda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo‘shilgan qiymat solig‘i O‘zbekiston Respublikasida qachon joriy etilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1992-yil 1-yanvardan.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1991-yil 15-fevraldan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1993-yil 6-maydan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1997-yil 24-apreldan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo‘shilgan qiymat solig‘ini hisoblashda nollik stavka qachon qo‘llaniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tovarlar (ishlar, xizmatlar) eksportiga.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Stenografiya xizmatlariga.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Geologiya va topografiya ishlariga.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ma’lumotlarni ishlash va axborot ta’limotiga doir xizmatlariga.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo‘shilgan qiymat solig‘i bo‘yicha soliq to‘lovchining soliq solinadigan bazasiga quyidagi hollarda tuzatish kiritiladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tovarlar to‘liq yoki qisman qaytarilganda.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Sotib oluvchi hohlagan paytda o‘zgartirishi mumkin.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mahsulot sotuvchi hohlagan paytda o‘zgartirishi mumkin.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Soliq solinadigan bazaga tuzatish umuman kiritilmaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo‘shilgan qiymat solig‘i to‘lovchilari bu –\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq solinadigan oborotga ega bo‘lgan yuridik shaxslar hamda tovarlarni O‘zbekiston Respublikasi hududiga import qiluvchi yuridik va jismoniy shaxslar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O‘z ehtiyojlari uchun bojsiz olib kirish normalari doirasida tovarlar olub kiruvchi jismoniy shaxslar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Barcha tijorat tashkilotlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Notijorat tashkilotlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mamlakatimizda yangi tahrirdagi soliq kodeksini qabul qilishga zarurat nimada edi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "To’g’ridan-to’g’ri amal qiluvchi hujjat bo’lmaganligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Korxonalarning hisob siyosati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Prezident qaror va farmonlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Savdo tashkilotining hisob siyosati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Soliq to’lovchining indentifikatsiya raqami deganda nimani tushunasiz.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Soliq to’lovchining indentifikatsiya raqami muayyan soliq to’lovchi hisobga qo’yilganda unga beriladigan raqam\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Muayyan to’lovni amalga oshirish uchun mo’ljallangan raqam\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yuridik shaxsning bankdagi hisob raqami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Jismoniy shaxsning pasport seriya raqami\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

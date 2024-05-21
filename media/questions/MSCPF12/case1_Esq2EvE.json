@@ -1,0 +1,542 @@
+[
+    {
+        "id": 111,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarni amalga oshirishda qanday asosiy maqsadlarga erishiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihaning hayot siklining asosiy bosqichlari qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalar bilan bog’ liq asosiy risklar qanday va ularni qanday boshqarish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihani amalga oshirish uchun qanday moliyalashtirish manbalaridan foydalanish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihaning muvaffaqiyatiga qanday asosiy omillar ta’ sir qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarning qaysi toifalarini amalga oshirish muddatiga qarab aniqlash mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "question": [
+            {
+                "type": "text",
+                "content": "Maqsadli yo’ naltirilganligiga ko’ ra qanday turdagi investitsiya loyihalarini ajratish mumkin (masalan, innovatsion va boshqalar)?\n"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarni amalga oshirish ko’ lamini hisobga olgan holda tasniflashda qanday yondashuvlar qo’ llaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarni moliyalashtirish manbalariga ko‘ra qanday turlarini ajratish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning hayot tsikli nima va u qanday asosiy bosqichlarni o’ z ichiga oladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning hayot tsiklining har bir bosqichi bilan bog’ liq asosiy xususiyatlar va natijalar qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning hayot tsiklining turli bosqichlarida qanday tipik xavflar yuzaga keladi va ularni qanday kamaytirish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning hayot tsiklidagi bosqichlarning davomiyligi va ketma-ketligiga qanday omillar ta’ sir qilishi mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani tahlil qilish loyihaning zarurligi va moliyaviy hayotiyligini baholashga qanday yordam beradi?\n"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy loyiha tahlilida qanday usullar va vositalar qo’ llaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani tahlil qilish jarayonining asosiy bosqichlar qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha tahlilini o’ tkazishda qanday omillar va ma’ lumotlar hisobga olinadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ekspress loyiha tahlili nima va uning maqsadi nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani ekspress tahlil qilishda qanday asosiy bosqichlar va usullar qo’ llaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ekspress tahlil doirasida loyihaning moliyaviy samaradorligini baholash uchun qanday omillar va ko’ rsatkichlar qo’ llaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani ekspress tahlil qilish uchun qanday usul va vositalardan foydalanish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani ekspress tahlil qilishning afzalliklari va cheklovlari qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning strategik tahlili nima va u loyihani boshqarishdagi roli qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihalarni strategik tahlil qilishda qanday usullar va vositalar qo’ llaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "question": [
+            {
+                "type": "text",
+                "content": "Strategik loyiha tahlilidan foydalanishning afzalliklari va cheklovlari qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning strategik tahlili natijalari asosida qanday xulosalar va tavsiyalar berish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning texnik tahlili nima va uning loyihani boshqarishdagi roli qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani texnik tahlil qilishda qanday usullar va vositalar qo’ llaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnik tahlil loyiha uchun texnik yechimlar va optimal resurslarni aniqlashga qanday yordam beradi?\n"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "question": [
+            {
+                "type": "text",
+                "content": "Texnik tahlil moliyaviy yoki strategik tahlil kabi loyiha tahlilining boshqa jihatlari bilan qanday o’ zaro ta’ sir qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning institutsional tahlili nima va uning loyiha boshqaruvidagi roli qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "question": [
+            {
+                "type": "text",
+                "content": "Huquqiy, siyosiy va ijtimoiy-madaniy kabi institutsional omillar va ularning loyihaga ta’ siri qanday aniqlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "question": [
+            {
+                "type": "text",
+                "content": "Institutsional tahlil loyihaning manfaatdor tomonlari bilan o‘zaro hamkorlikning zarur mexanizmlarini aniqlashga qanday yordam beradi?\n"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning moliyaviy-iqtisodiy tahlili nima va uning loyihani boshqarishdagi roli qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani moliyaviy-iqtisodiy tahlil qilishda qanday usul va vositalardan foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning foyda-xarajat tahlili, shu jumladan xarajatlarning vaqt tarkibini baholash va daromadlarni prognozlash qanday amalga oshiriladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tahlilning bir qismi sifatida loyihaning rentabelligi, to’ lov qobiliyati va likvidligini baholashning qanday usullaridan foydalanish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliyaviy va iqtisodiy tahlil qanday qilib loyiha uchun moliyaviy strategiya va qarorlarni aniqlashga yordam beradi?\n"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning moliyaviy-iqtisodiy tahlili natijalari asosida qanday xulosa va tavsiyalar berish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarni moliyalashtirishning asosiy manbalari qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarni moliyalashtirishning qanday tashqi manbalari jalb etilishi mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha hajmi, rivojlanish bosqichi va risk kabi omillar moliyalashtirish manbalarini tanlashga qanday ta’ sir qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarni moliyalashtirishning tashqi manbalaridan foydalanish qanday risk va cheklovlar bilan bog’ liq?\n"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarni moliyalashtirish tuzilmasini optimallashtirishga qanday omillar va strategiyalar ta’sir qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarni moliyalashtirish manbalarini tahlil qilish va tanlash asosida qanday xulosa va tavsiyalar berish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarni moliyalashtirishning asosiy vositalari qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday qilib aktsiyalarni chiqarish investitsiya loyihalarini moliyalashtirish vositasi sifatida ishlatilishi mumkin va u bilan qanday xususiyatlar bog’ liq?\n"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihalarni moliyalashtirish uchun turli xil vositalardan foydalanish qanday risk va cheklovlar bilan bog’ liq?\n"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani moliyalashtirishning asosiy turlari qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani moliyalashtirishda venchur kapital qo’ yilmalaridan qanday foydalanish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning hajmi, uning rivojlanish bosqichi, risk va kutilayotgan daromad kabi omillar moliyalashtirish shaklini tanlashga qanday ta’ sir qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "question": [
+            {
+                "type": "text",
+                "content": "DXSh (Davlat-xususiy sheriklik) nima va u loyihani moliyalashtirish shakli sifatida qanday foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat-xususiy sheriklik loyihalari doirasida tomonlar qanday rol va majburiyatlarni bajaradi?\n"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday qilib DXSh (Davlat-xususiy sheriklik) orqali loyihalarni moliyalashtirish resurslarning samaradorligi va optimallashtirilishini ta’ minlaydi?\n"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihani moliyalashtirishning boshqa shakllariga nisbatan DXSh (Davlat-xususiy sheriklik) lardan foydalanishning qanday afzalliklari bor?\n"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "question": [
+            {
+                "type": "text",
+                "content": "DXSh (Davlat-xususiy sheriklik) loyihalari doirasida davlat va xususiy sheriklar o‘rtasida risklar qanday taqsimlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muvaffaqiyatli DXSh (Davlat-xususiy sheriklik) loyihalariga qanday misollar keltirish mumkin va ulardan qanday saboq olish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihaning borishini monitoring qilish nima va uning asosiy maqsadlari nimadan iborat?\n"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "question": [
+            {
+                "type": "text",
+                "content": "Investitsion loyihaning amalga oshirilishini monitoring qilish jarayonida manfaatdor tomonlar (benefitsiarlar) qanday rol va majburiyatlarni bajaradilar?\n"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha hajmi, murakkabligi, davomiyligi va riski kabi omillar monitoringga qanday ta’ sir qiladi?\n"
+            }
+        ]
+    }
+]

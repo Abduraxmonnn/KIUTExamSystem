@@ -1,0 +1,5768 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Loyihalash’’ so’zining lug’aviy ma’nosi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "(lotincha projectus – oldinga tashlangan) – tasvir, asoslanma, aniq hisob kitob, chizmalar shaklida aks ettirilgan g’oya.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " (inglizcha projectus – saralangan) – tasvir, asoslanma, aniq hisob kitob, chizmalar shaklida aks ettirilgan g’oya.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " (fransuzcha projectus – o’ylab topilgan) – tasvir, asoslanma, aniq hisob kitob, chizmalar shaklida aks ettirilgan g’oya.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "(ruscha projectus – o’ylab topilgan) – tasvir, asoslanma, aniq hisob kitob, chizmalar shaklida aks ettirilgan g’oya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’lim berish jarayonida loyihalash necha bosqichda bo’ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 3\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Oldindan bashorat qilish loyihalashning qaysi bosqichida sodir bo’ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ikkinchi bosqichda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " birinchi bosqichda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "taqdimotda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "jarayonda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Maktab + O’quvchining o’qish faoliyati+ O’qituvchining boshqaruvchilik faoliyati- ta’lim jarayonida qanday nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’qitishning tarkibiy qismlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’qitishning bosqichlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’qitishning xususiyatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’qitishning sub‘ekti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’limda ta’lim oluvchi(o’quvchi , talaba) aktiv bo’lishi kerakmi yoki ta’lim beruvchimi (o’qituvchi)?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o’quvchi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o’qituvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ota-ona\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "rahbar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha so’ziga qaysi muqobil bo’la oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "reja\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ish ko’lami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "samara\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "natija\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy rejalashtirish-…………………………………………….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ishni tasvir,chizmalar yordamida tayyorlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ishni so’zlar yordamida yozib tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " algoritmlar bilan ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ishni o‘gzaki fikrlar bilan tayyorlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "TIZIM – so’ziga to’g’ri berilgan ta’rifni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bosqichma-bosqich amalga oshiriladigan jarayon\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "loyihani amalga oshirish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ketma-ketlikda ilmiy asoslangan jarayon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ishni tasvir,chizmalar yordamida jarayon\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning murakkabligi bo’yicha turlarini ko’rsating\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Oddiy va murakkab\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oddiy va sodda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Murakkkab va o’ta murakkab\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Oddiy va murakkab va o’ta murakkab\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqaruv tizimi tarkibi nimalardan iborat\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Boshqaruvchi va boshqariluvchi tizimlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Menejerlar, rahbarlar va xodimlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Iqtisodiy, ma’muriy va ijtimoiy usullar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Oliy, quyi va o’rta boshqaruv bo’g’inlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida rejalashtirilgan faoliyatni amalga oshirish loyihasini yaratish bu-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni loyihalashning maqsadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni loyihalashning vazifalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni loyihalashning predmeti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni loyihalashning asosi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Amaliy muammolarni ta’lim oluvchilar tomonidan amalga tadbiq qilishning tadqiqotchilik, izlanuvchanlik, ijodkorlik ish turi nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’quv loyihasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’quv dasturi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’quv darsliklari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’quv reja\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida o’quv faoliyati nechta bir-biri bilan bog’liq o’qitishning tarkibiy qismlaridan tashkil topgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 5 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 3 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 4 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida o‘quv loyihasi qanday maqsadlarida o‘tkaziladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " axborot, ko‘rsatish~va tadqiqot\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "axborot, ma’lumot~va tadqiqot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " muammoni hal etish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " axborot, ma’lumot~va rasmiy usullar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pedagogik jarayonni loyihalashda nimalarga e‘tibor berish kerak\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aniq maqsad, mazmun va faoliyat o‘rtasidagi bog‘liqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " natijalarni ko‘ra olish, faoliyat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aniq maqsad, natijalarni ko‘ra olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "loyihani amalga oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihada ishtirokchilarining soniga qarab qanday guruhlarga bo‘linadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yakka tartibda, kichik guruh bo‘lib, jamoaviy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kichik guruhlarda va jamoaviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " to‘liq bir guruh\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yakka tartibda va ommaviy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida qog‘ozga taqvim-reja, qisqacha yozma bayon sifatida aks ettirilashiga nima deb nomlanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " loyihaning vazifasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " loyihaning maqsadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " loyihaning predmeti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " loyihaning natijasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "quyida keltirilgan bir bilim sohasi doirasida loyihalashga nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mono loyiha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "loyihalashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘quv loyihaviy faoliyat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tayyorgarlik bosqichi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’limning ijtimoiy, pedagogik maqsadlarga tayangan holda, pedagogik jarayonni aks etishi loyihaning nimasi hisoblanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " loyihaning maqsadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " loyiha dasturi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bosqichlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " umumiy strategiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonining davomiyligi muddatlari\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qisqa muddatli, o‘rta muddatli, uzoq muddatli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "qisqa muddatli, o‘rta muddatli, uzluksiz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qisqa muddatli, uzoq muddatli, uzluksiz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qisqa muddatli, uzoq muddatli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pedagogik jarayon mohiyati, jamoa va alohida o‘quvchilar harakatlari holatini aniq vaziyatlarda rejali o‘rganish kabi qanday dalillarga ega bo‘lishga yordam beradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ilmiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "pedagogik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ijtimoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " psixologik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Axborotli layoqatlar to‘g‘ri ko‘rsatilgan javobni belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " axborotni izlash, faol darslarda qatnashish, yuritish, qayta tiklash, saqlash bo‘yicha texnik va dasturiy vositalariga egaligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " axborotni izlash, ishlov berish, bilim malakalarni oshirib borish, qayta tiklash, saqlash bo‘yicha texnik va dasturiy vositalariga egaligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " axborotni izlash, o‘z ustida muntazam ishlash, qayta tiklash, saqlash bo‘yicha texnik va dasturiy vositalariga egaligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " axborotni izlash, ishlov berish, qabul qilish, yuritish, qayta tiklash, saqlash bo‘yicha texnik va dasturiy vositalariga egaligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Grekcha diagnostikos-tez anglab olish qaysi so‘zning ma’nosini bildiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tashhis\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "saralash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " test\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " imkoniyat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida oldindan ko‘ra bilish metodlari sirasiga qaysilar kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " modellashtirish, faraz qilish, sintezlash,dalillash,fikriy tajriba\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " modellashtirish, imkoniyat, sintezlash, fikriy tajriba\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "modellashtirish, faraz qilish, saralash, dalillash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " modellashtirish, test o‘tkazish, sintezlash,dalillash,saralash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi real natijaga olib keluvchi, qat’iy tartibga solingan harakatlar izchilligini o‘z ichiga oluvchi muammoni o‘zgartiruvchi faoliyatni anglatadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " loyihalashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o‘quv loyihaviy faoliyat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tayyorgarlik bosqichi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mono loyiha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida o‘quv dasturi yoki o‘quvchi shaxsi ta’lim mazmuni loyihalashning….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " natijasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sintezi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " asosi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " modellashtirgan loyihasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda loyihaviy ta’lim tushunchasi ko‘rsatilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " loyihalash ko‘rinishiga ega, muammoni izlash, uni tadqiq etish va hal etish, ijtimoiy ahamiyatga ega natija (mahsulot) ga erishish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "muayyan iste’molchiga mo‘ljallangan, muammolarni izlash, tadqiqot qilish va yechish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " turli~ijtimoiy vazifalarni bajarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " murakkab ishlanmalarni yaratish bo‘yicha hujjatlar bilan ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "loyihalahda murakkablik pedagogik jarayonni nechta omilni hisobga olish lozim\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda modul bilan bog’liq bo’ lib, uning bitta ma’ nosi - faoliyat ko’ rsata oladigan o’ zaro chambarchas bog’lik elementlardan iborat bo’ lgan tugunni bildiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " modulli o‘qitish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " onlayn o‘qish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " masofaviy o‘qish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " an’anaviy o‘qish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ekspert modeli nima\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Talabani kuzatadigan va o’ rganadigan model\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O’ rgatish kerak bo’ lgan ma’ lumotlarga ega model\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Haqiqatda ma’ lumotni uzatuvchi model\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tizim bilan o’ zaro ishlash uchun foydalanuvchi muhit\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ta’ lim modeli nima\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Haqiqatda ma’ lumotni uzatuvchi model\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tizim bilan o’ zaro ishlash uchun foydalanuvchi muhit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ rgatish kerak bo’ lgan ma’ lumotlarga ega model\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Talabani kuzatadigan va o’ rganadigan model\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Modullashtirish deb nimaga aytiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "pedagogik texnologiyani uning biror darajasidan boshlab tasvirlash maqsadi asosida bitta modul sifatida hisoblangan bir nechta modullar yig’ indisi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pedagogik texnologiya materiallarini modullarga ajratish jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "pedagogik texnologiyani tasvirlash ko’ lamiga muvofiq ravishda tanlangan modullarga ega ekanligi ko’ rsatkichi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "pedagogik texnologiyani tashkil qiluvchi tarkibiy bo’ laklarni ifodalovchi tushuncha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tadqiqiy ijodiy yondashuv ta’ lim jarayonida qanday ahamiyatga ega\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ta’ limning maqsadi talabaga biror muammoni echish qobiliyatini o’ stirish, yangi bilimni mustaqil o’ zlashtirish, harakatning yangi usullarini topish, shaxsan tashabbus ko’ rsatishni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Pedagogik texnologiya usulida ta’ lim takror ishlab chiqiladigan konveerli jarayon sifatida tashkil etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ko’ zlangan maqsadga kafolatlangan natija sifatida erishishni ifodalovchi jarayondir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Talabaning bilim olishga bo’ lgan qiziqishni orttiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ma’lumotlarning tahlili pedagogik jarayon mohiyati, jamoa va alohida o‘quvchilar harakatlari holatini aniq vaziyatlarda rejali o‘rganish kabi qanday dalillarga ega bo‘lishga yordam beradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ilmiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pedagogik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ijtimoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " psixologik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning davomiyligi muddatlirini ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qisqa muddatli, o‘rta muddatli, uzoq muddatli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qisqa muddatli, uzoq muddatli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qisqa muddatli, o‘rta muddatli, uzluksiz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qisqa muddatli, uzoq muddatli, uzluksiz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy jarayonni ilmiy va metodik jihatdan tartibli va maqsadga muvofiq bajarishga xizmat qiladigan o‘qitish tizimini ko‘rsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " sirtdan o’qitish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " masofaviy o’qitish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " an’anaviy o’qitish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " modulli o’qitish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Oldindan qog‘ozga taqvim-reja, qisqacha yozma bayon sifatida aks ettirilashiga nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " loyihaning vazifasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " loyihaning maqsadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " loyihaning predmeti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " loyihaning natijasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha ishtirokchilarining soniga qarab qanday bo‘linadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yakka tartibda, kichik guruh bo‘lib, jamoaviy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yakka tartibda va ommaviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kichik guruhlarda va jamoaviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to‘liq bir guruh\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pedagogik jarayonni loyihalashda nimalar aks etishi lozim\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aniq maqsad, mazmun va faoliyat o‘rtasidagi bog‘liqlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aniq maqsad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " natijalarni ko‘ra olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " loyihani amalga oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muayyan yangilikning ahamiyati va foydali ekanligini belgilovchi shaxs faoliyati va uning natijasi bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ijodkorlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kreativlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ijodiy yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " maqsad\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta’lim deganda nimani tushunasiz\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O‘qituvchi tomonidan loyihalash ko‘rinishiga ega, muammoni izlash, uni tadqiq etish va hal etish, ijtimoiy ahamiyatga ega natija (mahsulot) ga erishish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " turli~ijtimoiy vazifalarni bajarish, uni tadqiq etish va hal etish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " muayyan iste’molchiga mo‘ljallangan, muammolarni izlash, tadqiqot qilish va yechish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " murakkab ishlanmalarni yaratish bo‘yicha hujjatlar bilan ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘quv dasturi yoki o‘quvchi shaxsi ta’lim mazmuni loyihalashning….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " modellashtirgan loyihasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sintezi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " asosi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " hujjati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi qatorda qat’iy tartibga solingan harakatlar izchilligini o‘z ichiga oluvchi muammoni o‘zgartiruvchi faoliyatni ko‘rsatilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o‘quv loyihaviy faoliyat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " loyihalashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tayyorgarlik bosqichi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mono loyiha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’quv jarayoni nechta bir-biri bilan bog’liq o’qitishning tarkibiy qismlaridan tashkil topgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 5 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 3 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 4 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ahamiyatga molik nazariy yoki amaliy muammolarni ta’lim oluvchilar tomonidan amalga tadbiq qilishning tadqiqotchilik, izlanuvchanlik, ijodkorlik ish turi nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’quv loyihasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’quv dasturi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’quv darsliklari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’quv reja\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida amalga oshiriladigan rejalashtirilgan faoliyat bu-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni loyihalashning vazifalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni loyihalashning maqsadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni loyihalashning predmeti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni loyihalashning asosi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Termini xalqaro tushuncha-modul bilan bog’liq bo’ lib, uning bitta ma’ nosi - faoliyat ko’ rsata oladigan o’ zaro chambarchas bog’lik elementlardan iborat bo’ lgan tugunni bildiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " modulli o‘qitish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " onlayn o‘qish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " masofaviy o‘qish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " an’anaviy o‘qish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha bu nima\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ba’zi murakkab ishlanmalarni yaratish bo‘yicha hujjatlar yig‘indisi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o‘qituvchi tomonidan talabaning muammoni izlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " axborotni izlash, ishlov berish, qabul qilish, yuritish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " loyiha bo‘yicha ishlar turlarini ajratish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Murakkablik pedagogik jarayonni loyihalahda nechta omilni hisobga olish lozim\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Modullar to’ plami nima uchun qo’llaniladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’qitish jarayonini ilmiy tashkil etishga va uning sifat hamda samarasini ta’ minlashda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’qitish jarayonini boshqarishda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’qitish jarayonini faollshtirishda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’qitish jarayonini talabalar bilan muloqotga kirishishda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Amerikalik pedagog Dj. Dyuri nechanchi yillari muammoli ta‘limga asos solgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "(1895-1925)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "(1735-1805)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "(1865-1945)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "(1875-1935)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tadqiqotni amalga oshirish, tadqiqot asosida muammo izohini asoslash, yanada rivojlantirish uchun yangi muammolarni asoslovchi loyihalar – bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " amaliy loyihalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " axborotli loyihalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tadqiqot loyihalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ijodiy loyihalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dasturlashtirilgan o’qitish kimning nomi bilan bog’liq\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " G.K.Selevko\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " B.Skinner\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " V.P.Bespalko\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " N.Krauder\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fuqarolarning axborotga bo’ lgan ehtiyojini va ularning huquqlarini amalga oshirishni qanoatlantirishdagi maqbul shartlarni bajarish, davlat va hokimiyat, mahalliy va o’ zini o’ zi boshqarish organlarining talablari asosida axborot resurslaridan foydalangan holda jamoat birlashmalarini tashkil etish va ular faoliyatini yo’ lga qo’yishning ijtimoiy-iqtisodiy va ilmiy-texnik jarayonlar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ishlab chiqarishni axborotlashtirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " darsni axborotlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " jamiyatni axborotlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " jarayonni axborotlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dasturlashtirilgan o’qitish qachon paydo bo‘lgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " XX asrning 70-yillari boshida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " XX asrning 60-yillari boshida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " XX asrning 50-yillari boshida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " XX asrning 80-yillari boshida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muammoni hal etish usul, vositalarini ishlab chiquvchi loyihalar – bu ...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ijodiy loyihalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " axborotli loyihalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tadqiqot loyihalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " amaliy loyihalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kognitiv vizuallik (ko’ z bilan kuzatiladigan) tamoyili to‘gri ko‘rsatilgan qatorni belgilang.~\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " psixologik-pedagogik qonuniyatlardan kelib chiqadi, ularga ko’ ra o’qitishdagi ko’ rgazmalar, nafaqat surat vazifasini, shu bilan birga kognitiv vazifani bajargan taqdirdagina o’ zlashtirish unumdorligini oshiradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " axborotni siqib berish nazariyasi, muhandislik bilimlar kontsepsiyasi, didaktik birliklarni yiriklash nazariyalarining talablariga asoslanadigan usul\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pedagog va talabaning o’ zaro munosabati sub’ ekt - sub’ ektiv xarakterligini belgilaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’qitishni individuallashtirishning asosi bo’ lib xizmat qiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Natijasi maqola, referat, ma’ruza, keys bo‘lgan loyihalar ...\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " amaliy loyihalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tadqiqot loyihalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " axborotli loyihalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ijodiy loyihalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muammoga oid ma’lumotlarni to‘plash, tahlil qilish, umumlashtirish, muammoni hal etish usul, vositalarini tavsiflovchi loyihalar – bu\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " amaliy loyihalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " axborotli loyihalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tadqiqot loyihalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ijodiy loyihalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Loyiha jarayonida muammoni qo‘yish qaysi bosqichlarda amalga oshiriladi\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " muammoni izlash; muammoni qo‘yish; muammoni hal qilish\\\\\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " muammoni hal qilish; muammoni qo‘yish; muammoni izlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "muammoni qo‘yish; muammoni izlash; muammoni hal qilish\\\\\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muammoni izlash; muammoni hal qilish; muammoni qo‘yish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida muammoni qo‘yish sathlari ...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 4 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 2 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 3 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pedagogik texnologiyaning loyixachisi va uni amaliyotga joriy etuvchi kim\\\\\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pedagog\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’ quv yurti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’ qituvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ta’ lim jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida oldindan ko‘ra bilish metodlari sirasiga qaysilar kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " modellashtirish, faraz qilish, sintezlash,dalillash,fikriy tajriba\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " modellashtirish, imkoniyat, sintezlash, fikriy tajriba\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " modellashtirish, faraz qilish, saralash, dalillash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " modellashtirish, test o‘tkazish, sintezlash,dalillash,saralash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’qitishning modul tizimi haqida rasmiy ravishda birinchi bo’lib nechanchi yil so‘z yuritilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1972 yil\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1977 yil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1975 yil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1976 yil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida modullar nimaga xizmat qiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ta’lim sifatini yaxshilashga, qoidalarni o‘rganishga, qonuniyatlarni tushuntirishga, qoidalar, nazariyalar,\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ta’ lim mazmuniga daxldor tushunchalar, qoidalar, nazariyalar, qonunlar va ular orasidagi umumiy bog’lanishni ifodalovchi qonuniyatlarni tushuntirishga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ta’ lim usullari, metodlari va vositalarini tartibga solishga, qonuniyatlarni tushuntirishga, qoidalar, nazariyalar,\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’quv reja va dasturlarni loyihalashga, qonuniyatlarni tushuntirishga, qoidalar, nazariyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida taʼlimni texnologiyalashtirish – bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oʻqitish jarayoniga texnologik yondashish asosida taʼlim maqsadlariga erishishning eng maqbul yoʻllari, samarali vositalarni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Oʻqitish jarayoniga texnologik yondashish asosida taʼlim maqsadlarini rivojlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oʻqitish jarayoniga texnologik yondashish asosida taʼlim maqsadlariga erishishni shakllantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Oʻqitish jarayoniga texnologik yondashish asosida taʼlim maqsadlariga erishishning eng maqbul yoʻllari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda \"Interpretastiya\" so‘zining ma‘nosi nima\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "aholining turli qatlamlarini o’qitishning mazmun mohiyati va usullarini belgilash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "xujjatlar, manbalarni son-sifat jixatdan taxlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ma’lum bir gurux, shaxslar va ijtimoiy institutlarni uzoq muddat o’rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yosh davrlarini kattalar ta’limiga xos turli modellami taqqoslash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda moderator faoliyatini belgilovchi nechta asosiy tamoyili bor va ular qaysilar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "4ta, tenglik tamoyili, faol ijod, shaxsga tegishlilik, qulaylik yaratish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3ta, faol ijod, shaxsga tegishlilik, qulaylik yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "2ta, shaxsga tegishlilik, qulaylik yaratish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5ta, tenglik tamoyili, faol ijod, shaxsga tegishlilik, qulaylik yaratish,muammo yechish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "’’Psixologik - pedagogik nuqtai-nazardan aynan yosh, ta’lim sohasini loyihalashning dastlabki nuqtasini tashkil etadi’’degan fikr kimga tegishli\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "V.I.Slobodchikov\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "I.S.Konn\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Nikolay Gruntvig\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " S. I Zmeev\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Modulli ta’lim qachon va qayerda paydo bo’ lgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " XX asrning 60-yillarida AQSH\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " XX asrning 50-yillarida AQSH\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "XIX asrning 40-yillarida AQSH\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " XIX asrning 60-yillarida AQSH\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Uzluksiz ta’lim nima\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kishi hayot faoliyatining bir bo‘lagi davomiyligi asosidagi ta’lim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kishilarning faoliyatini yahshilashi asosidagi ta’lim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kishilarning bilimini yahshilash asosidagi ta’lim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kishilarning hayot taqzini yahshilash asosidagi ta’lim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Funksional savodsizlik termini qachon paydo boʻlgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " XX asrning 90-yillari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " XX asrning 80 yillari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " XIX asrning 90 yillari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " XIX asrning 80 yillari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Loyihaviy ta‘limda moderator kim………\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ta’ lim mazmunini yaratuvchi, modullarini ishlab chiquvchi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Masofadan o‘qitish dasturlarini yaratuvchisi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Darsda ko‘makchi, yo‘naltiruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tashkiliy–pedagogik va iqtisodiy masalalarni hal etuvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida kreativlik faoliyatini amalga oshirishni oziga xos qobiliyatlarini aniqlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tashkilotchilik, axboriy, kommunikativ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tashkilotchilik, samimiy, kommunikativ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mas‘uliyatlilik, axboriy, kommunikativ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Adolatlilik, tashkilotchilik, axboriy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ma’ruza ma‘nosi qanday va qaysi so‘zdan olingan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Arabcha, leksiya (lot. Lectio)-o‘qish) o‘quv materiali, biror masala, mavzu kabilarning izchil, ma’lum bir tizimga solingan bayonidir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Grekcha, leksiya (lot. Lectio)-o‘qish) o‘quv materiali, biror masala, mavzu kabilarning izchil, ma’lum bir tizimga solingan bayonidir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Lotincha, leksiya (lot. Lectio)-o‘qish) o‘quv materiali, biror masala, mavzu kabilarning izchil, ma’lum bir tizimga solingan bayonidir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Russcha, leksiya (lot. Lectio)-o‘qish) o‘quv materiali, biror masala, mavzu kabilarning izchil, ma’lum bir tizimga solingan bayonidir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta’ lim qanday turlarga ajratiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Umumiy va maxsus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Umumiy va asosiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Individual va maxsus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Umumiy va majburiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida metodlar (usullar)ni har qanday muammoni (maqsadni) uzatish va qabul qilish xarakteriga qarab quyidaga turlarga ajratish mumkin\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "So‘z orqali, ko‘rgazmali, amaliy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "So‘z orqali, tushuntirish, amaliy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "So‘z orqali, seminar, nazariy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "So‘z orqali, nazariy, amaliy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida shaxs yoki mutaxassis tomonidan o‘zini ijtimoiy hamda kasbiy jihatdan rivojlantirish, kamolotga erishish yo‘lida maqsadli, izchil, tizimli harakatlarning tashkil etishi bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o‘z ustida ishlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ijtimoiylashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " axborotlar bilan ishlay olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kreativlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida pedagog tomonidan kasbiy faoliyatda tashkil etayotgan o‘z amaliy harakatlari mohiyatining o‘rganilishi bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o‘zini-o‘zi tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o‘z ustida ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o‘zini- o‘zi baholash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ijtimoiylashuvi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muammoli ta’ lim XX asrning 20-yillarida kim tomonidan taklif etilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "J.Dyui\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "A.Murri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "V.Ratke\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "N.Smart\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muammoli ta‘limga amerikalik pedagog Dj. Dyuri nechanchi yillari asos solgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "(1895-1925)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "(1735-1805)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "(1865-1945)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "(1875-1935)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida quyidagi omillarning qaysilari mutaxassis yoki shaxsning o‘zini o‘zi samarali baholashiga sezilarli ta’sir ko‘rsatadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O‘zini tushunish, shaxs sifatida o‘z qadr-qimmatini anglash, o‘zini-o‘zi nazorat qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " O‘z-o‘zini tahlil qilish, o‘zini-o‘zi baholash, o‘ziga nisbatan hurmat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Shaxs sifatida o‘z qadr-qimmatini anglash, o‘z-o‘zini tahlil qilish, o‘ziga nisbatan hurmat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O‘zini tushunish, o‘zini-o‘zi baholash, o‘zini mukofotlash, o‘zini-o‘zi nazorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida kreativ faoliyatni tashkil etishga imkon beradigan malakalar guruhlarini belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bilishga oid (gnostik), loyihalash, ijodiy-amaliy (konstruktiv), tadqiqotchilik, muloqotga kiruvchanlik (kommunikativ), tashkilotchilik, izchillikni ta’minlovchi (protsesssual), texnik-texnologik malakalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pedagogik, psixologik, mutaxassislik bilimlari; didaktik, tarbiyaviy ishlarni tashkil etish malakalari; ruhiyatning kasbiy ahamiyatga ega xususiyatlari va shaxsiy sifatlar; o‘z-o‘zini rivojlantirish maqsadlari; o‘z-o‘zini rivojlantirish uchun topshiriqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " didaktik malakalar; tarbiyaviy ishlarni tashkil etish malakalari; bilishga oid (gnostik) malakalar; loyihalash malakalari; ijodiy-amaliy (konstruktiv) malakalar; tadqiqotchilik malakalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pedagogik bilimlar; psixologik bilimlar; mutaxassislik bilimlari; didaktik malakalar; tashkilotchilik malakalari; izchillikni ta’minlovchi (protsesssual) malakalar; texnik-texnologik malakalar; o‘z-o‘zini rivojlantirish maqsadlari; o‘z-o‘zini rivojlantirish uchun topshiriqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida pedagogik munosabatda muvaffaqiyatlarga erishish uchun o‘qituvchi nima qilishi zarur\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o‘quvchilar bilan bo‘lajak munosabatni modellashtira olishi; munosabatda bo‘ladigan sinf jamoasi xususiyatlarini oldindan bilishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " loyihalash (rejalashtirish) malakasini egallashi; kreativlik sifatlariga ega bo‘lishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " psixologik omillarni oldindan ko‘ra olishi; ektremal vaziyatlarga tayyor turishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " axborot kommunikativ vositalar bilan ishlay olishi; didaktik, pedagogik hamda metodik tayyor turishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida metodistning vazifasi…………\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Dasturlarni ishlab chiqishda va amalga oshirish jarayonida metodik masalalarni hal etuvchi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Zarur ma’ lumotlarni yozib boruvchi, tegishli hujjatlarni rasmiylashtiruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ustoz, o’rgatuvchi vazifasini bajaruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tashkiliy-pedagogik va iqtisodiy masalalarni hal etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida Leybnis konsepsiyasiga muvofiq refleksiya qanday ta’riflanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " insonning appersepsiyaga (idrokning inson o‘tmishidagi tajribasiga va individual xususiyatlariga bog‘liqligi) qodirlik xususiyati sifatida tilga olinadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " insonning o‘z –- o‘zini bilishga, nimalarga qodir ekanligini e’tirof etishga qaratilgan faoliyati ekanligini ta’kidlashadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " insonning bilish qobiliyatlarini rivojlantirish asosi sifatida qaraganlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " har tomonlama barkamol rivojlangan insonning o‘z xatti - harakatlari va ularning qonuniyatlarini anglashga qaratilgan nazariy faoliyat shakli ekanligini ta’kidlashadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida texnologik kompetentlik bu..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kasbiy-pedagogik BKMni boyitadigan ilg‘or texnologiyalarni o‘zlashtirish, zamonaviy vosita, texnika va texnologiyalardan foydalana olish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " izchil ravishda kasbiy o‘sishga erishish, malaka darajasini oshirib borish, kasbiy faoliyatda o‘z ichki imkoniyatlarini namoyon qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pedagogik faoliyatga nisbatan tanqidiy va ijodiy yondoshish, o‘zining ijodkorlik malakalariga egaligini namoyish eta olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " axborot muhitida zarur, muhim, kerakli, foydali ma’lumotlarni izlash, yig‘ish, saralash, qayta ishlash va ulardan maqsadli, o‘rinli, samarali foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida pedagogik muloqot turlari keltirilgan javobni belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o‘zaro ijodiy faoliyat qiziqtiradigan muloqot, muayyan masofani saqlagan holda tashkil qilinadigan muloqot, o‘zaro do‘stona munosabatga asoslangan muloqot,\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pedagogning alohida o‘quvchi bilan muloqoti, pedagogning alohida o‘quvchi bilan muloqoti, pedagogning alohida o‘quvchi orqali butun sinf bilan muloqoti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qo‘rqitish, tahdid qilishga asoslangan muloqot, hazil-mutoyibaga, yumorga asoslangan muloqot, pedagogning alohida o‘quvchi orqali butun sinf bilan muloqoti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pedagogning alohida o‘quvchi bilan muloqoti, pedagogning alohida o‘quvchi bilan muloqoti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyiha jarayonida zamonaviy pedagogik texnologiyalar asosidagi dasturlarni ishlab chiqish va amalga oshirishni ta’ minlash bilan bog‘liq masalalarni hal etuvchi …….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Texnolog\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tyutor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Lektor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sekretar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ijodkorlikning jarayon va natija sifatida ob’ektlar hamda muayyan kasbiy faoliyat turlariga munosabat ko’rinishidagi tuzilishi, mantiqiy tashkil etilishi, metod va vositalari haqidagi ta’limot bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kasbiy ijodkorlik metodologiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ijodkor shaxsni tarbiyalash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ijodkorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ijodiy yondashuv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘quv loyiha ta‘limida oʻqituvchi-pedagog faoliyatining oʻziga xosligi shundaki, u doimo\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Murakkab izlanish faoliyatidir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oʻz-oʻzini tarbiyalash bilan bogʻliqdir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Talaba faoliyatini boshqarish faoliyatidir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muvaffaqiyat quvonchlariga toʻladir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda oʻquv faoliyati – bu………….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Oʻqituvchi rahbarligida ilmiy bilimlar, malakalar va koʻnikmalarning\n"
+            },
+            {
+                "type": "text",
+                "content": "egallanishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Talabaning oʻqituvchi ishtirokisiz bilim egallashi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bilimlarni amalda qoʻllanilishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bevosita idrok va anglash orqali bilimlar egallashi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda quyida keltirilganlardan qaysi biri o‘qituvchi uchun mezonlar hisoblanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " zamonaviy talab darajasida bilim berish uchun, pedagogik bilimning bo‘lishi; o‘qitish, o‘rgatish strategiya, usullar, metodlar, topshiriqlar yordamida o‘quvchi-talabalarni fanni o‘rganishga jalb etish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pedagogik bilimlar; psixologik bilimlar; mutaxassislik bilimlari; didaktik malakalarga ega bo‘lishi, qadriyat va an’analarga sodiqligidan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pedagogik bilimning bo‘lishi; o‘qitish, o‘rgatish ko‘nikmasi bo‘lib, u qanday strategiya, usullar, metodlar, topshiriqlar yordamida o‘quvchi-talabalarni fanni o‘rganishga jalb eta olish, kommunikativ va perseptiv qobilyatlarga ega bo‘lishidan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o‘qitish, o‘rgatish ko‘nikmasi bo‘lib, u qanday strategiya, usullar, metodlar, topshiriqlar yordamida o‘quvchi-talabalarni fanni o‘rganishga jalb eta olish, pedagogik bilimlar; psixologik bilimlar; mutaxassislik bilimlari; didaktik malakalarga ega bo‘lishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda quyida berilgan elementlardan qaysilari pedagog tomonidan ishlab chiqiladigan ‘‘Loyiha dasturi’’ tarkib topadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pedagogik, psixologik, mutaxassislik bilimlari; didaktik, tarbiyaviy ishlarni tashkil etish malakalari; ruhiyatning kasbiy ahamiyatga ega xususiyatlari va shaxsiy sifatlar; o‘z-o‘zini rivojlantirish maqsadlari; o‘z-o‘zini rivojlantirish uchun topshiriqlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bilishga oid (gnostik), loyihalash, ijodiy-amaliy (konstruktiv), tadqiqotchilik, muloqotga kiruvchanlik (kommunikativ), tashkilotchilik, izchillikni ta’minlovchi (protsesssual), texnik-texnologik malakalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pedagogik bilimlar; psixologik bilimlar; mutaxassislik bilimlari; didaktik malakalar; tashkilotchilik malakalari; izchillikni ta’minlovchi (protsesssual) malakalar; texnik-texnologik malakalar; o‘z-o‘zini rivojlantirish maqsadlari; o‘z-o‘zini rivojlantirish uchun topshiriqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " didaktik malakalar; tarbiyaviy ishlarni tashkil etish malakalari; bilishga oid (gnostik) malakalar; loyihalash malakalari; ijodiy-amaliy (konstruktiv) malakalar; tadqiqotchilik malakalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda kasbiy kompetentlik qanday holatlarda yaqqol namoyon bo‘ladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " murakkab jarayonlarda; noaniq vazifalarni bajarishda; bir-biriga zid ma’lumotlardan foydalanishda; kutilmagan vaziyatlarda harakat rejasiga ega bo‘la olishda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " murakkab jarayonlarda; kutilmagan vaziyatlarda harakat rejasiga ega bo‘la olishda; kommunikatsiya jarayonida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kommunikatsiya jarayonida; noaniq vazifalarni bajarishda; axborotlarni uzatishda; xavfli vazifalarni bajarishda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " noaniq vazifalarni bajarishda; bir-biriga zid ma’lumotlardan foydalanishda; axborotlarni uzatishda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda lasbiy kompetentlikning muhim tarkibiy asoslari to‘g‘ri berilgan qatorni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Maxsus yoki kasbiy kompetentlik, ijtimoiy kompetentlik, shaxsiy kompetentlik, individual kompetentlik;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Maxsus yoki kasbiy kompetentlik, informatsion kompetentlik, metodik kompetentlik, shaxsiy kompetentlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Maxsus yoki kasbiy kompetentlik, kreativ kompetentlik, metodik kompetentlik, axborotlar bilan ishlay olish kompetentligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Maxsus yoki kasbiy kompetentlik, ijtimoiy kompetentlik, kommunikativ kompetentlik, individual kompetentlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Spekter qanday vazifani bajaradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kuzatadi, tahlil qilish va xulosalarni bayon qiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tashkiliy-pedagogik va iqtisodiy masalalarni hal etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "maslahat beradi, tushuntiradi, qo’shimcha ma’lumot beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "nazariy ma’lumotlar bilan tanishtiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta’limni tashkil etish shakllari to‘g‘ri ko‘rsatilgan javobni belgilang (ta’lim oluvchilar soni bo‘yicha) 1) Ommaviy; 2) 45 daqiqali; 3) jamoaviy; 4) auditoriyada; 5) auditoriyadan tashqarida; 6) guruhlarda ishlash; 7) yakka tartibda; 8) tanaffusiz darslar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1, 3, 6, 7\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1, 2, 3, 7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 2, 4, 6, 8\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2, 3, 5, 6\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limni tashkil etish shakllari to‘g‘ri ko ‘rsatilgan javobni belgilang (o‘qitish shakli bo‘yicha) 1) Ommaviy; 2) 45 daqiqali; 3) jamoaviy; 4) auditoriyada; 5) auditoriyadan tashqarida; 6) 80 daqiqali; 7) yakka tartibda; 8) tanaffusiz darslar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2, 6, 8\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1, 3, 6\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1, 2, 7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2, 4, 5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda konditsion muloqot bu..?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " psixologik va fiziologik holatlar ayirboshlanadi, tushkun kayfiyatini ko‘tarishi yoki, munosabat bildirishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sub’ektni dolzarb ehtiyojlarni qondirish vositasi sifatida, ayni paytda shug‘ullanayotgan faoliyatining mahsulotlari va predmetlarini ayirboshlash tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " shaxslarning hamkorlikdagi faoliyatida narsa va hodisalarni o‘rganish, ma’lumotlarni bilib olish jarayonida o‘zaro bilim almashinuviga aytiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muayyan yo‘nalishda hamkorlikda harakat qilish uchun o‘zaro maqsadlar, qiziqishlar, motivlar va ehtiyojlar almashinuvi jarayoni bilan izohlanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta’limni tashkil etish shakllari to‘g‘ri ko ‘rsatilgan javobni belgilang (o‘qitish joyi bo‘yicha) 1) Ommaviy; 2) 45 daqiqali; 3) jamoaviy; 4) auditoriyada; 5) auditoriyadan tashqarida; 6) 80 daqiqali; 7) yakka tartibda; 8) tanaffusiz darslar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 4, 5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2, 6\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1, 3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 7, 8\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda kognitiv muloqot bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " shaxslarning hamkorlikdagi faoliyatida narsa va hodisalarni o‘rganish, ma’lumotlarni bilib olish jarayonida o‘zaro bilim almashinuviga aytiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " psixologik va fiziologik holatlar ayirboshlanadi, harakat qilish uchun o‘zaro maqsadlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sub’ektni dolzarb ehtiyojlarni qondirish vositasi sifatida, ayni paytda shug‘ullanayotgan faoliyatining mahsulotlari va predmetlarini ayirboshlash tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muayyan yo‘nalishda hamkorlikda harakat qilish uchun o‘zaro maqsadlar, qiziqishlar, motivlar va ehtiyojlar almashinuvi jarayoni bilan izohlanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ma’ruza o‘qitishning funksiyalari to‘g‘ri berilgan javobni belgilang. 1) Professional ta’lim berish va dunyoqarashni shakllantirish; 2) Talaba\n"
+            },
+            {
+                "type": "text",
+                "content": "lar diqqatini asosiy maqsadga yo‘naltirish; 3) aqliy va jismoniy salomatlik;\n"
+            },
+            {
+                "type": "text",
+                "content": "4) yuksak axloqiy va insoniy fazilatlar; 5) Talabalarga tarbiyaviy ta’sir ko‘rsatish; 6) kuchli va keng qamrovli bilim; 7) Idrok, tafakkurni rivojlantirish; 8) nutq madaniyati, notiqlik san’ati va imlo savodxonligi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1, 2, 5, 7\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2, 4, 6, 8\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1, 3, 5, 7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2, 3, 5, 6\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda ijodiy qobiliyat bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ijodiy faoliyatni muvaffaqiyatli amalga oshirish va uning natijalanganligini baholashda namoyon bo’ladigan individual xususiyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tafakkurning ijod jarayonini tashkil etish va ijod natijalari (mahsullari)ni bashoratlashni ifodalovchi turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ijodkorlikning jarayon va natija sifatida ob’ektlar hamda muayyan kasbiy faoliyat turlariga munosabat ko’rinishidagi tuzilishi, mantiqiy tashkil etilishi, metod va vositalari haqidagi ta’limot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " shaxsning ijodiy faoliyatda o‘z imkoniyatlarini to‘laqonli namoyon qilishi va rivojlantirishining ijodkor va kreativ bo‘lishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda o‘qituvchidan bi­rinchi navbatda quyidagilardan qaysi biri talab qilinadi? 1) Professional ta’lim berish va dunyoqarashni shakllantirish; 2) Talaba lar diqqatini asosiy maqsadga yo‘naltirish; 3) aqliy va jismoniy salomatlik; 4) yuksak axloqiy va insoniy fazilatlar; 5) Talabalarga tarbiyaviy ta’sir ko‘rsatish; 6) kuchli va keng qamrovli bilim; 7) Idrok, tafakkurni rivojlantirish; 8) nutq madaniyati, notiqlik san’ati va imlo savodxonligi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3, 4, 6, 8\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 3, 5, 6, 7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 2, 4, 6, 8\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1, 3, 4, 7\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda psixologik kompetentlikning ta’rifini toping\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonda sog‘lom psixologik muhitni yarata olish, talabalar va ta’lim jarayonining boshqa ishtirokchilari bilan ijobiy muloqotni tashkil etish, turli salbiy psixologik ziddiyatlarni o‘z vaqtida anglay olish va bartaraf eta olish;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni metodik jihatdan oqilona tashkil etish, ta’lim yoki tarbiyaviy faoliyat shakllarini to‘g‘ri belgilash, metod va vositalarni maqsadga muvofiq tanlay olish, metodlarni samarali qo‘llay olish, vositalarni muvaffaqiyatli qo‘llash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pedagogik faoliyatga nisbatan tanqidiy va ijodiy yondoshish, o‘zining ijodkorlik malakalariga egaligini namoyish eta olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ta’lim jarayonining barcha ishtirokchilari, jumladan, talabalar bilan samimiy muloqotda bo‘lish, ularni tinglay bilish, ularga ijobiy ta’sir ko‘rsata olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Loyihaviy ta‘limda ijtimoiy kompetentlik bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ijtimoiy munosabatlarda faollik ko‘rsatish ko‘nikma, malakalariga egalik, kasbiy faoliyatda sub’ektlar bilan muloqotga kirisha olish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " professional faoliyatni amalga oshirish uchun zarur bo’ lgan xodimlarning qobiliyati bilim, qobiliyat, malaka va ularni amaliyotda eng yuqori darajada qo‘llash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonda sog‘lom psixologik muhitni yarata olish, talabalar va ta’lim jarayonining boshqa ishtirokchilari bilan ijobiy muloqotni tashkil etish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni metodik jihatdan oqilona tashkil etish, ta’lim yoki tarbiyaviy faoliyat shakllarini to‘g‘ri belgilash, metod va vositalarni maqsadga muvofiq tanlay olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaning turlari berilgan javobni belgilang. 1) Muammoli; 2) Vizul (ko‘rgazmali); 3) O‘rganilayotgan fan yoki kursini chuqur o‘rganishga yordam beradigan semenar darslari; 4) Binar; 5) Tadqiqot xarakteridagi semenarlar; 6) Ayrim muammo, asosiy yoki muxim mavzuni o‘rganish uchun o‘tkaziladigan semenarlar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 3, 5, 6\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1, 3, 6\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 2, 4, 6\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2, 4, 5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda texnologik kompetentlik bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kasbiy-pedagogik BKMni boyitadigan ilg‘or texnologiyalarni o‘zlashtirish, zamonaviy vosita, texnika va texnologiyalardan foydalana olish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " axborot muhitida zarur, muhim, kerakli, foydali ma’lumotlarni izlash, yig‘ish, saralash, qayta ishlash va ulardan maqsadli, o‘rinli, samarali foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pedagogik faoliyatga nisbatan tanqidiy va ijodiy yondoshish, o‘zining ijodkorlik malakalariga egaligini namoyish eta olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " izchil ravishda kasbiy o‘sishga erishish, malaka darajasini oshirib borish, kasbiy faoliyatda o‘z ichki imkoniyatlarini namoyon qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda ma’ruzaning turlari berilgan javobni belgilang. 1) Muammoli; 2) Vizul (ko‘rgazmali); 3) O‘rganilayotgan fan yoki kursini chuqur o‘rganishga yordam beradigan semenar darslari; 4) Binar; 5) Tadqiqot xarakteridagi semenarlar; 6) Ayrim muammo, asosiy yoki muxim mavzuni o‘rganish uchun o‘tkaziladigan semenarlar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1, 2, 4\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1, 3, 6\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 3, 4, 5\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2, 4, 6\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda pedagogik qobiliyatning tarkibiy qismlari qaysi javobda aniq ko‘rsatilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Akademik, didaktik, kommunikativ, pertseptiv, tashkilotchilik, avtoritar qobiliyatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Pedagogik ijod, pedagogik nazokat, avtoritar qobiliyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kommunikativ qobiliyat, avtoritar qobiliyat, tashkilotchilik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O‘zaro munosabat, avtoritar qobiliyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda innovasion kompetentlik bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pedagogik jarayonni takomillashtirish, ta’lim sifatini yaxshilash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ta’lim jarayonining barcha ishtirokchilari, jumladan, talabalar bilan samimiy muloqotda bo‘lish, ularni tinglay bilish, ularga ijobiy ta’sir ko‘rsata olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pedagogik faoliyatga nisbatan tanqidiy va ijodiy yondoshish, o‘zining ijodkorlik malakalariga egaligini namoyish eta olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " axborot muhitida zarur, muhim, kerakli, foydali ma’lumotlarni izlash, yig‘ish, saralash, qayta ishlash va ulardan maqsadli, o‘rinli, samarali foydalanish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Loyiha texnologiyasi\"~tushunchasi texnikaviy taraqqiyot bilan bog’liq holda fanga nechanchi yil kirib kelgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1875\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1892\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1865\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1872\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy taʼlimni texnologiyalashtirish – bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Oʻqitish jarayoniga texnologik yondashish asosida taʼlim maqsadlariga erishishning eng maqbul yoʻllari, samarali vositalarni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Oʻqitish jarayoniga texnologik yondashish asosida taʼlim maqsadlarini rivojlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Oʻqitish jarayoniga texnologik yondashish asosida taʼlim maqsadlariga erishishni shakllantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Oʻqitish jarayoniga texnologik yondashish asosida taʼlim maqsadlariga erishishning eng maqbul yoʻllari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda pedagogik tizim bu ……………………….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Tashkiliy, maqsadga yoʻnaltirilgan va pedagogik taʼsir koʻrsatishni koʻzlagan, vosita, usul, jarayonlarning yigʻindisini ifoda qiluvchi aniq yaxlitlikdir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mavjud yuzaga kelgan taʼlimiy jarayon subyektlarining hamkoriy harakatlari, haqiqiy jarayon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Taʼlim tizimida ushbu oʻquv fanining ahamiyati va oʻrnini belgilaydi, uning vazifalarini va oʻqitish mazmunini aniqlaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Oʻqitish jarayoniga texnologik yondashish asosida taʼlim maqsadlariga erishishni shakllantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy taʼlimda qo‘llaniladigan texnik vositalar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Oʻquv materialini koʻrgazmali namoyish etishga yordam beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tizimli yetkazib berishga yordam beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Talabalarga oʻquv materialini tushunishlariga yordam beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Yaxshi eslab qolishlariga imkon beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda pedagogik faoliyatning samarali boʻlishi uchun oʻqituvchiga zarur boʻlgan qobiliyat turini aniqlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Bilim, tushuntira olish, kuzatuvchanlik, nutq, tashkilotchilik, obroʻ orttira olish, toʻgʻri muomala qila olish, kelajakni koʻra bilish, diqqatni taqsimlay olish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Diqqatni taqsimlay olish, yangilikka intilish, oʻziga va oʻzgalarga talabchanlik, tashkilotchilik, obroʻ orttira olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aniq maqsadni koʻzlash, qatʼiylik, mehnatsevarlik, kamtarlik, kuzatuvchanlik, kelajakni koʻra bilish, diqqatni taqsimlay olish, tashkilotchilik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Qatʼiylik, mehnatsevarlik, kamtarlik, mehnatsevarlik, kelajakni koʻra bilish, diqqatni taqsimlay olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda oʻqituvchi faoliyatida muloqot odobiga qoʻyiladigan talablar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Doʻstlik, xizmatdagi moslik, hamjihatlik, maslakdoshlik, iltifotlilik, samimiylik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Chiqisha olmaslik, kasbga boʻlgan salbiy munosabat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bahs, munozara, oʻqituvchi hikoyasi, suhbat oʻtkazish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bilish, anglash, taʼqiqlash, andoza olish, xatolarni koʻrsatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda loyihakashning tarkibiy qismlariga nimalar kiradi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oʻz-oʻzini tarbiyalash, oʻz ustida ishlash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Pedagogik faoliyatni sevish, pedagogik tuygʻu\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Imo-ishora, fikr, xayrixohlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nutq malakalari, mimika, hissiy psixik holat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda pedagogik texnikaning tarkibiy qismlariga nimalar kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oʻz nutqini boshqara olish, shaxs va jamoaga taʼsir koʻrsatishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Hamfikrlilik, kelishuvchanlik, tashabbusni maʼqullash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Turli rollarda boʻlish faoliyati, xayol surish, fikr almashish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Doimo oʻzgarmaydigan ijobiy sust holdagi munosabat, barqaror salbiy munosabat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Loyihaviy ta‘limda qaysi pedagogik qobiliyatlar kiradi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Insonning ichki holatini toʻgʻri baholash, unga hamdardlik bildirish,\n"
+            },
+            {
+                "type": "text",
+                "content": "hamnafas boʻlish qobiliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Taqlid qilish va namuna boʻlish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Hurmat qozonish va obroʻ topish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Pedagogik mahoratini takomillashtirish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Yunon faylasuflari loyihaviy ta‘limda refleksiyani qanday ta’riflashadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " insonning o‘z –- o‘zini bilishga, nimalarga qodir ekanligini e’tirof etishga qaratilgan faoliyati ekanligini ta’kidlashadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " har tomonlama barkamol rivojlangan insonning o‘z xatti - harakatlari va ularning qonuniyatlarini anglashga qaratilgan nazariy faoliyat shakli ekanligini ta’kidlashadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " inson ma’naviy dunyosining o‘ziga xos yashirin xislatlarini ochib beradigan o‘z- o‘zini bilishga va anglashga qaratilgan faoliyati ekanligini ta’kidlashadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " refleksiyaga insonning bilish qobiliyatlarini rivojlantirish asosi sifatida qaraganlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Yevropa faylasuflari loyihaviy ta‘limda refleksiyani qanday ta’riflashadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " insonning bilish qobiliyatlarini rivojlantirish asosi sifatida qaraganlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " har tomonlama barkamol rivojlangan insonning o‘z xatti - harakatlari va ularning qonuniyatlarini anglashga qaratilgan nazariy faoliyat shakli ekanligini ta’kidlashadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " inson ma’naviy dunyosining o‘ziga xos yashirin xislatlarini ochib beradigan o‘z- o‘zini bilishga va anglashga qaratilgan faoliyati ekanligini ta’kidlashadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " insonning o‘z –- o‘zini bilishga, nimalarga qodir ekanligini e’tirof etishga qaratilgan faoliyati ekanligini ta’kidlashadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘quv loyihasida pedagogning faoliyat darajasi deganda nimani tushunasiz\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ta’lim-tarbiya berishga maхsus tayyorlangan odamlarning meхnat faoliyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Pedagogik jarayon – inson shaхsini shakllantirishga qaratilgan jarayon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O‘quvchilarga ta’lim-tarbiya berish uchun maхsus tayyorlangan shaхs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Bolalar va usmirlar orasida ta’lim-tarbiya ishiga mas’ul kishilarning faoliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘quv loyihaning g tarkibiy qismlarini belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O‘quv-tarbiya jarayonining maqsadi, vazifalari, motivlari, mazmuni, vositalari, topshiriqlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Alohida o‘qitish jarayoni va tarbiyalash jarayonlari, vositalari, metodlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tarbiya va o‘z-o‘zini tarbiyalash jarayonlari, vositalari, topshiriqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tarbiya, o‘z-o‘zini tarbiyalash va qayta tarbiyalash jarayonlari, vositalari, topshiriqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

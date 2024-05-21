@@ -1,0 +1,5752 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Emitent-bu:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ozlar chiqaruvchi va ular yuzasidan qimmatli qog’ozlarning egalari oldida o’z nomidan majburiyatli bo’lgan yuridik shaxs yoki davlat organidir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muomilaga bank biletlari, xazina sertifikatlari, qog’oz pullar va qimmatli qog’ozlarni chiqarish demakdir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ozlar chiqarish to’g’risidagi axborotnoma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ozlar to’g’risidagi ma’lumotnomadir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Davlat obligatsiyalarining emitenti bo’lib qaysi tashkilot hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Markaziy bank\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Vazirlar mahkamasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Adliya Vazirligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Banklar assotsiatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Davlat obligatsiyalarning birlamchi joylashtirilishida fiskal agent faoliyati qaysi vakolatli organ tomonidan amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " markaziy bank tomonidan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " banklar assotsiatsiyasi tomonidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mahalliy xokimiyat organlari tomonidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " iqtisodiyot vazirligi tomonidan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " G’ azna majburiyatlari deganda nimani tushunasiz?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " davlatning qarzdorligini tasdiqlovchi maxsus qog’ozni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " jismoniy shaxsnig qarzdorligini tasdiqlovchi maxsus qog’ozni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " maxsus nodavlat fondlarining qarzdorligini tasdiqlovchi maxsus qog’ozni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yuridik shaxsning qarzdorligini tasdiqlovchi maxsus qog’ozni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "G’ azna majburiyatlari qanday maqsadlarda chiqariladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " byudjet defitsitini to’ldirish maqsadida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " korxonalarni to’lovlilik qobiliyatini yaxshilash maqsadida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " maxsus nodavlat fondlariga qarz berish maqsadida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xalqaro tashkilotlarga yordam berish maqsadida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qisqa muddatli g’ azna majburiyatlari bo’yicha muddati so’ndirilganda to’liq hisob-kitob qanday amalga oshiriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " foizlarni qo’shgan holda nominal bahoda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " diskont bahoda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nominal qiymatdan sotib olish bahosini ayirgan holda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yutuqlarni qo’shgan holda nominal bahoda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bank sertifikati - bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " emitent bank tomonidan mijozning nomiga uning pul mablag’lari qo’yilgani to’g’risida berilgan yozma guvohnoma\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bankning kreditorlik va debitorlik qarzdorligini tasdiqlovchi guvohnoma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " emitent bank tomonidan ustav fondining teng miqdorida emissiya qiligan qimmatli qog’ozi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bank tomonidan yuridik shaxslarga kredit berganlikni tasdiqlovchi maxsus qog’oz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bank sertifikatlari qanday turlarda chiqarilishi mumkin\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " depozit va jamg’arma sertifikatlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qisqa va uzoq muddatli sertifikatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " talabnoma va topshiriqnoma sertifikatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kreditli va debitli sertifikatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bank sertifikati uning egalariga\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qo’yilgan pul summasi bo’yicha foiz daromadlarini olish huquqini beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " berilgan kreditlar bo’yicha daromad olish huquqini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qo’yilgan pul summasi bo’yicha foiz daromadlarini olish huquqini bermaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ovoz berish huquqini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Veksel – bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " muayyan summadagi qarzni belgilangan muddatda to’lash majburiyati qat’iy yuklangan, qonun bilan tasdiqlangan holatda to’ldirilib rasmiylashtirilgan qimmatli qog’ozlardir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’z qiymatiga nisbatan qat’iy belgilangan foiz shaklida daromad keltiruvchi qimmatli qog’ozlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " dividend yoki foizlar ko’rinishida daromad keltiriuvchi pulli xujjat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " opsion qimmatli qog’ozlarning maxsus turlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xalqaro fond birjlarida ishlatiladigan indeks tizimini toping\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " dou jons\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pent xaus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " foberje\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " artur andersing\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Birja indekslari\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’rtacha ko’rsatgichlarga nisbatan qimmatli qog’ozlar kurslari o’zgarishini aniq hisoblash ko’rsatgichi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yuqori narxlar ko’rsatgichlarga nisbatan qimmatli qog’ozlar kurslari o’zgarishini aniq hisoblash ko’rsatgichi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " past narxlar ko’rsatgichlarga nisbatan qimmatli qog’ozlar kurslari o’zgarishini aniq hisoblash ko’rsatgichi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " birja savdosi jarayonida ayiqlar o’yini o’zgarishini aniq hisoblash ko’rsatkichi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Trend – bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " fond bozoridagi qimmatli qog’ozlarning oldi-sotdisida belgilanadigan baholarning muayyan yo’nalishlar bo’yicha o’zgarishidir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarning birlamchi bozoridagi emission bahosi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlar bozor bahosining nominalga nisbatan o’sishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aksiyalar kursini nominalga nisbatan pasayishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bozorda maksimal tebranuvchi narxlar pasaya boshlashidan vujudga keladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pasayuvchi trend\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’suvchi trend\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’zgarmas trend\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " gorizantal trend\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Texnik tahlilning qanday usullari mavjud\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yapon shamlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " alfa va beta tahlil usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " xitoy shimlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " geometrik tahlil usuli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyida qayd qilingan qimmatli qog’ozlarning qaysi birini aksionerlik jamiyati emissiya qilishga haqli emas\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hosilaviy qimmatli qog’ozlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " veksellar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aksiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Investorlar - bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarni o’z nomidan hamda o’z hisobidan sotib oluvchi korxona, tashkilot, bank va boshqa moliya majmuasi yoki alohida fuqarodir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlar oldi-sotdisini o’z mijozining topshirig’iga binoan va mijozning hisobiga bajaruvchi professional shahs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " fond birjasining savdo zalida brokerlik firmasining vakili sifatida faoliyat ko’rsatuvchi shaxs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlar bozorida maslahat berish faoliyati bilan shug’ullanuvchi shaxs\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Depozitariy – bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " har bir deponentga tegishli qimmatli qog’ozlarning soni va nominal qiymatini hisobga oladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " emissiyaviy qimmatli qog’ozlar chiqarilganligini tasdiqlovchi hujjatlarni saqlaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " yuridik va jismoniy shaxslarga moliyaviy yordam ko’rsatadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " investitsiya fondlari tomonidan chiqarilgan qimmatli qog’ozlarga bo’lgan huquqlar hisobini yuritadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Investitsiya fondining boshqaruvchi kompaniyasi fond bozorida quyidagi professional faoliyat turini amalga oshirish huquqiga ega\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " investitsiya fond aktivlarini ishonchli boshqarish faoliyatini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " depozitariy faoliyatini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " transfer-agent faoliyatini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dillerlik faoliyatini\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Xususiylashtirish investitsiya fondi faoliyati\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aksiyalari emissiyasi hisobidan mablag’larni xususiylashtirilayotgan korxonalarning qimmatli qog’ozlariga jalb qilish bilan bog’liq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " saqlash uchun qabul qilib olingan qimmatli qog’ozlarning but saqlanishini ta’minlash bilan bog’liq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " investorlarning pul mablag’larini jalb qilish va ularni turli xil moliyaviy aktivlariga investitsiyalash bilan bog’liq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " maxsus kompyuter savdo tizimlaridan foydalangan holda, qimmatli qog’ozlar savdosini tashkil etish bilan bog’liq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ozlar bozori professional ishtirokchisi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " fond bozorida qimmatli qog’ozlar bilan maxsus xizmat turlarini amalga oshiruvchi mutaxassislar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarga bo’lgan huquqlarni hisobga olish va emissiyaviy qimmatli qog’ozlar harakati yagona tizimini ta’minlovchi davlat tashkiloti.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qog’ozlarni saqlash va ularga bo’lgan huquqlarni hisobga olish bo’yicha bajariladigan operatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aksiyadorlar umumiy yig’ilishini tashkil etish va o’tkazish yuzasidan xizmatlar ko’rsatish faoliyati.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Brokerlik faoliyati\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " investorning vositachisi yoki ishonchli vakili sifatida qimmatli qog’ozlarga doir bitimlarni tuzish uchun berilgan ishonchnoma asosida ish olib boruvchi yuridik shaxslar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aksiyadorlar umumiy yig’ilishini tashkil etish va o’tkazish yuzasidan xizmatlar ko’rsatish faoliyati.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarni, shu jumladan investitsiya aktivlarini boshqarish jarayonida tushuniladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’z aksiyalari emissiyasi hisobidan mablag’larni xususiylashtirilayotgan korxonalarning qimmatli qog’ozlariga jalb qilish bilan bog’liq faoliyat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Investitsiya maslahatchisi faoliyati\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlar bozori va uning ishtirokchilari holatini tahlil etish hamda istiqbolini belgilash bo’yicha professional xizmatlarni ko’rsatish faoliyati hisoblanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarni, shu jumladan investitsiya aktivlarini boshqarish jarayonida tushuniladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarga bo’lgan huquqlarni hisobga olish va emissiyaviy qimmatli qog’ozlar harakati yagona tizimini ta’minlovchi davlat tashkiloti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qog’ozlarni saqlash va ularga bo’lgan huquqlarni hisobga olish bo’yicha bajariladigan operatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ozlar bozorida professional faoliyat\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarni chiqarish, joylashtirish va ularning muomalasi bilan bog’liq xizmatlar ko’rsatish bo’yicha litsenziyalanadigan faoliyat turi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " investitsiya fondlari tomonidan chiqarilgan va ularga tegishli qimmatli qog’ozlarga bo’lgan huquqlarni hisobga olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarning nomi, soni va emitenti to’g’risidagi ma’lumotlar, shuningdek boshqa axborotlar majmui\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarga bo’lgan huquqlarni hisobga olish va emissiyaviy qimmatli qog’ozlar harakati yagona tizimini ta’minlovchi davlat tashkiloti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Dillerlik faoliyat\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " muayyan qimmatli qog’ozlarni sotib olish yoki sotish narxlarini oshkora e’lon qilish orqali o’z nomidan va o’z hisobidan qimmatli qog’ozlarga doir oldi-sotdi bitimlarini tuzish faoliyatidir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " depozitariylar deponentlarining yagona bazasini yuritish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " investorlarning pul mablag’larini jalb qilish va ularni investitsiya aktivlariga qo’yish maqsadida aksiyalar chiqaradigan yuridik shaxslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarga doir bitimlar bo’yicha axborotni to’plash, solishtirish, tuzatish va ularga doir buhgalteriya hujjatlarini tayyorlash faoliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Investitsiya fondi faoliyati\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " investitsiya fondlari tomonidan chiqarilgan va ularga tegishli qimmatli qog’ozlarga bo’lgan huquqlarni hisobga olish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ozlarni saqlash, qimmatli qog’ozlar bo’yicha xuquqlarni hisobga olish va tasdiqlash bo’yicha depozitariy xizmatlaridan foydalanadigan shaxslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlar bozori mutaxassislarini qayta tayyorlashni amalga oshiruvchi yuridik shaxslar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarga doir bitimlar bo’yicha axborotni to’plash, solishtirish, tuzatish va ularga doir buhgalteriya hujjatlarini tayyorlash faoliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": ".Fond birjasi – bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlar savdosini tashkilotchisi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " savdolarni ixtiyoriy vaqtda o’tkazadigan savdo maydoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " faqat aksiyalar bilan savdoni amalga oshiradigan joy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " savdolarni yopiq usulda o’tkazadigan savdo maydoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Birja reglamenti deganda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " savdolarni belgilangan ma’lum vaqt oralig’ida o’tkazilishi tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarning bozor kursini belgilash tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " savdo qatnashchilari uchun yetarli va qulay sharoitlar yaratish tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " birja bitimining tavsifi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Fond birja deganda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlar ulgurji savdosi tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tuzilgan bitimlar bajarilishining ixtiyoriyligi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " faqat hosilaviy qimmatli qog’ozlar savdosi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aksiyaning emission qiymati aniqlanadigan bozor tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Moliya bozori o’z ichiga qanday segmentlarni (hususiy bozorlarni) oladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pul-kredit, bozori qimmatli qog’ozlar bozori, valyuta va unga tenglashtirilgan tovarlar bozori\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlar bozori, ishlab chiqarish mahsulotlari bozori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " valyuta va unga tenglashtirilgan tovarlar bozori, kiyim kechak mahsulotlari bozori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pul-kredit bozori, innovatsiyalar yarmarkasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliya bozori iqtisodiyotda quyidagilardan qaysi biri mavjud bo’lgandagina samarali faoliyat ko’rsatishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " effektiv (samarali) mulkchilik tizimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bozorning daromadlilik darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bozorni soliqqa tortish shart-sharoitlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kapitalni yo’qotish yoki nazarda tutilgan foydani ololmaslik riski\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Savdo maqsadlari bo’yicha bozorlar to’g’ri ko’rsatilgan qatorni ko’rsating?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Buqalar, ayiqlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tartiblashgan va tartiblashmagan bozorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Milliy va regional bozorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Birlamchi va ikkilamchi bozorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliyaviy instrumentlar yordamidagi resurslar harakati qanday omillarga bog’liq?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " moliyaviy instrumentlarning daromadlilik va risk darajasi, moliyaviy instrumentlarni soliqqa tortish shart-sharoitlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " har bir turiga mos maqsad va funtsiyasi, bozor va undagi muomala mexanizmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " har bir turiga mos rekviziti, shakli, muddati, soni va narxi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " monetizatsiyalashgan real bazis bilan ta’minlanganligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Opsionlar amalga oshirish muddati bo’yicha qanday turlarga bo’linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Amerika opsioni va Yevropa opsioni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Germaniya opsioni va Amerika opsioni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yevropa opsioni va Germaniya opsioni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Amerika opsioni va Buyuk Britaniya opsioni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qarz majburiyatli qimmatli qog’ozlar ko’rsatilgan qatorni ko’rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Obligatsiya, depozit sertifikatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aksiya, opsion\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Svop, veksel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Fyuchers, forvard\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Qimmatli qog’ozlar qanday xususiyatlarga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Likvidlilik, foydalilik, ishonchlilik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qaytarmaslik, samarasizlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " foydasiz ishonchlilik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " risk darajasi umuman mavjud emas, likvidlilik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Tokio fond birjasi indeksi ko’rsatilgan qatorni ko’rsating?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nikkei-225\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " AMEX\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Dou Djons\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Standard and Poor’s\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Qimmatli qog’ozlarni saqlash,ularga bo’lgan huquqlarni hisobga olish va tasdiqlash bo’yicha xizmatlar ko’rsatuvchi yuridik shaxsga nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Depozitariylar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Dillerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Brokerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qonunchilikda belgilangan tartibda moliyaviy instrumentlarni investitsiyalar (moliyaviy resurslar) jalb qilish maqsadida moliya bozoriga chiqaruvchi tashkilotlar nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Emitentlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Depozitariylar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Transfert agent\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Investor\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qonunchilikda belgilangan tartibda moliyaviy resurslarni investitsiyalar tarzida emitentlarning moliyaviy instrumentlariga yo’naltirish maqsadida moliya bozoriga chiqaruvchi shaxs va organlarga nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Emitentlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Depozitariylar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Transfert agent\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Investitsiyalar portfeli deb nimaga aytiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ma’lum bir maqsadli investitsion siyosat talabiga javob berish asosida shakllantirilgan moliyaviy instrumentlar to’plami\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " moliya bozori orqali real sektor investitsion loyihalarini moliyalashtirishning arzon va samarali manbai\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " moliya bozori orqali iqtisodiyotning tarmoqlari bo’ylab investitsion resurslarni samarali taqsimlanishi va qayta taqsimlanishi jarayoni regulyatori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moliya bozori orqali pul resurslarini jamlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Fond birjasidan tashqarida qimmatli qog’ozlar bilan savdo qilish sohasiga nima deyiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ozlarning birjadan tashqari bozori\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ozlarning birja bozori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Qimmatli qo’ozlarning uyushgan bozori\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Qimmatli qog’ozlarning uyushmagan bozori\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Emitentning xususiyatiga ko’ra obligatsiyalar qanday guruhlarga bo’linadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Davlat, munitsipal, korxonalar obligatsiyalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Odatdagi va foizli obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yutuqli va foizsiz obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Foizli va foizsiz obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Investitsion fondlar qanday shaklda tashkil qilinadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aksiyadorlik jamiyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " MChJ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " YaTT\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " oilaviy korhona\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Investitsiya faoliyatini amalga oshirish maqsadida ikki va undan ortiq shaxslarning investorlarning oʻzi ishonchli boshqaruvga bergan pul mablagʻlari yigʻindisi - …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pay fondi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " jamgʻarma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sugʻurta puli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " investitsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliya bozorini tartibga solishda tashqi mexanizmlar sifatida nimalar qoʻllaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " megaregulyator va makroregulyator\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ichki meʼyoriy hujjatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ustav, faoliyatni amalga oshirish qoidalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " faoliyatga doir standantlar, etika qoidalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliya bozorining regulyativ infratuzilmasi bu -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " moliya bozorining normal ishlashini taʼminlovchi tizimlardan biri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pul mablagʻlarini qayta taqsimlash mexanizmi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " moliya bozoridagi tartibni saqlab turish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moliya bozori ishtirokchilari zimmasidagi majburiyatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliya bozorining funksiyalari notoʻgʻri keltirilgan javobni aniqlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kapitalni jamlashda qatnashmasligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kapitalni vaqt, tarmoqlararo va mamlakatlararo qayta taqsimlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " risklarni boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " axborotlar assimmetriyasi bilan bogʻliq muammolarning oldini olish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O‘zbekiston Respublikasida qaysi tashkilot davlat qimmatli qog’ozlarini emissiya qilish huquqiga ega?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Iqtisodiyot va moliya vazirligi hamda Markaziy bank\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Moliya vazirligi va hokimliklar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Markaziy bank va tijorat banklari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vazirlar Mahkamasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O’ zbekiston Respublikasining davlat qimmatli qog’ ozlari tarkibiga … lar kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kuponli va diskontli g’ aznachilik obligatsiyalar va Markaziy banki obligatsiyalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kuponli va diskontli g’ aznachilik majburiyatlari, tijorat banklari aksiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Markaziy banki obligatsiyalari va tijorat banklari obligatsiyalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " rezident yuridik shaxs obligatsiyalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". O’ zberkiston davlat qimmatli qog‘ozlarining nominal qiymati qanchani tashkil etadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir million so’ m\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yuz ming so’ m\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 100 AQSH dollari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " besh ming so’ m\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O’ zbekiston davlat qimmatli qog’ ozlari savdosi qaysi birjada amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’ zbekiston Respublikasi valyuta birjasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " \"Toshkent\" Respublika fond birjasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’ zbekiston Respublikasi tovar-xom ashyo birjasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Birjadan tashqari bozorda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Repo bitimiga to’ gri ta’rif keltirilgan qatorni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bitim shartlari bilan belgilangan muddatda va bahoda aynan shu chiqarilishdagi va miqdordagi DQQni qayta sotib olish, sharti bilan sotish (sotib olish) bo‘yicha ikki tomonlama bitim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " davlat qimmatli qog’ ozlarini oldindan sotib olish bo’ yicha shartnoma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " davlat qimmatli qog’ ozlarini garovga qo’ yish bo’ yicha kelishuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bitim shartlari bilan belgilangan muddatda davlat qimmatli qog’ ozlarini qayta sotish bo’ yicha bitim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O’ zbekiston suveren yevroobligatsiyalarining emitenti kim va qaysi fond birjasi orqali savdolari amalga oshirildi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Iqtisodiyot va Moliya vazirli, London fond birjasida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Markaziy bank, Nyu-York fond birjasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Vazirlar Mahkamasi, London fond birjasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Moliya vazirligi, \"Toshkent\" Respublika fond birjasida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O’ zbekistonda ilk suveren yevroobligatsiyalar qachon emissiya qilindi va qancha miqdorda?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2019-yil, 1 mln dollar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2020-yil, 500 ming dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 2022-yil, 1 mln dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2015-yil, 500 ming dollar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bozor omillari oʻzgarishi oqibatida aktiv qiymatini pasayishi bilan bogʻliq boʻlgan risklar .... hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bozor risklari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " foiz risklari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kredit rsiki;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " valyuta riski.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Jahon amaliyotida keng foydalaniladigan risk qiymatini aniqlovchi ko’ rsatkichi bu -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " VaR (Value at Risk);\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " stress-test usuli;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tizimli riskni erta aniqlash indikatorlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " spetsifik (oʻziga xos) risklar.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Fond birja savdolari qanday shakllarda tashkil etilishi mumkin?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kontakt (anʼanaviy) va kontaksiz (elektron)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ishonchnomasiz asosida ihtiyoriy manzilda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " faqat to’rt oyda fond birjasida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muddatli tartibda va birjadan tashqari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Fond birjasida emissiyaviy qimmatli qogʻozlarga doir bitimlar tuzilganda, sotuvchi Oʻzbekiston Respublikasi Davlat byudjetiga bitim summasining necha foizda yigʻim toʻlaydi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 0.01%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 0.03%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 0.02%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 0.05%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qimmatli qogʻozlarga birja bitimlari tuzilganda qaysi professional ishtirokchi birjaga, Qimmatli qogʻozlar markaziy depozitariysiga, shuningdek Oʻzbekiston Respublikasi Tashqi iqtisodiy faoliyat milliy bankiga yigʻimlar toʻlashdan ozod qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " market-meyker\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " investitsiya maslahatchisi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tranfer-agent\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " broker\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Markaziy Bank qaysi turdagi qimmatli qog’ ozni emissiyasini amalga oshiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " markaziy bank obligatsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " markaziy bank aksiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " markaziy bank vekseli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " markaziy bank opsioni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Markaziy bank nima maqsadda obligatsiya emissiya qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pul-kredit siyosatini amalga oshirish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Markaziy bank defitsitini qoplash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Davlat qarzini to’lash uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Faoliyatini kengaytirish maqsadida mablag’ jalb qilish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Diler kim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " fond birja bitimlarini oʻz nomidan va oʻz hisobidan tuzuvchi birja aʼzosi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mijozning topshirigʻiga koʻra, uning hisobidan birja bitimlarini tuzuvchi birja aʼzosi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " investorlarning pul mablagʻlarini va qoʻyil¬ma¬larini investitsiya aktivlariga jalb qilish maqsadida aksiyalar chiqara¬digan yuridik shaxs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Birja savdosi qoidalarini belgilaydigan shaxs\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Moliya bozorining oʻziga xos xususiyati toʻgʻri keltirilgan javobni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bu bozor pul mablagʻlari oqimini jamgʻaruvchidan qarz oluvchiga tomon yoʻnaltiruvchi bozor institutlari jamlanmasidir;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bozorda savdo qilinadigan qimmatli qogʻozlar asosan qisqa muddatli hamda likvidlilik darajasi yuqori boʻlgan instrumentlar hisoblanadi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bu bozorda qimmatli qogʻozlarni qoʻshimcha joylashtirish faqat yopiq xarakterga egadir;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bozorda operatsiyalar asosan monitar siyosat, davlatlar va xalqaro moliya tashkilotlari darajasida amalga oshiriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Moliya bozorining funksiyalari notoʻgʻri keltirilgan javobni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kapitalni jamlashda qatnashmasligi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kapitalni vaqt, tarmoqlararo va mamlakatlararo qayta taqsimlash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " risklarni boshqarish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " axborotlar assimmetriyasi bilan bogʻliq muammolarning oldini olish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Moliya bozorlarida investorlar oʻz kapitallarini qay tartibda joylashtiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " vositachilar orqali;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " investorlar orqali;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " korxonalar orqali;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " banklar orqali.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Quyidagi bozorlarning qay birida qisqa muddatli hamda likvidlilik darajasi yuqori boʻlgan qimmatli qogʻozlar bilan savdo qilinadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pul bozorida;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kapital bozorida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ulgurji bozorda;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " intelektual tovarlar bozorida.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pul bozoridagi qimmatli qogʻozlarning asosiy xususiyatlari notoʻgʻri keltirilgan javobni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ularning amal qilish muddati asosan bir yildan uzoq boʻladi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ular asosan yirik, yaʼni koʻp miqdorda sotiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ulardagi defolt riski juda ham past hisoblanadi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ularning muddati emissiya qilingan sanadan boshlab bir yilgacha boʻladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qisqa muddatli kredit turlari bu-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Overdraft va overnayt kreditlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ipoteka kreditlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " iste’ mol krediti\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " avtokreditlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Obligatsiyalar boʻyicha daromad qanday koʻrinishda ifodalanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " foiz yoki diskont koʻrinishida;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " dividend koʻrinishida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ulush koʻrinishida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pay koʻrinishida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Daromad toʻlash shakllari boʻyicha obligatsiyalarning tasniflanishi toʻgʻri berilgan javobni koʻrsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kuponli, diskontli va qoplash vaqtida daromad toʻlanadigan obligatsiyalar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nollik kuponli va qoplash vaqtida foiz toʻlanadigan obligatsiyalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kuponsiz va nollik kuponli obligatsiyalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qoplash vaqtida daromad toʻlanadigan va nollik kuponli obligatsiyalar.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Obligatsiya xususiyatlari notog’ ri ko’ rsatilgan qatorni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Obligatsiya qarz instrumenti boʻlganligi sababli kompaniya emitent boshqaruvida qatnashish huquqini beradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Obligatsiya sotib olgan investor kompaniya-emitentning kreditoriga aylanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Obligatsiyaning muomalada boʻlish muddati qatʼiy belgilangan va muddati kelganda soʻndiriladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Emitent-kompaniya tugatilishi jarayonida mulkni taqsimlashda aksiyadorlar kompaniyaning barcha majburiyatlari shu jumladan, obligatsiyalar boʻyicha qarz majburiyatlarini soʻndirgandan keyin qolgan mulkdan ulush olishlari mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Xorijiy banklar yoki Amerika banklarining xorijiy filiallarida dollarda shakllantirilgan depozitlar qanday nomlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yevrodollar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " yevrobond;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " yevronota;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yevrovalyuta.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Investitsiya kompaniyalarining pul bozoridagi funksiyasi toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Investitsion portfelni shakllantirib, uning risklilik darajasini pasaytirish maqsadida pul bozori instrumentlarini sotib oladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Oʻzining moliyaviy faoliyatini yaxshilash maqsadida qisqa muddatli qimmatli qogʻozlarni emissiya qiladi yoki sotib oladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Induvidual investorlarga kreditlar taqdim etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pul bozori moliyaviy instrumentlarini emissiya qiluvchi asosiy emitent sifatida faoliyat yuritadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": ". Obligatsiya – bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’z qiymatiga nisbatan qat’iy belgilangan foiz shaklida daromad kelitruvchi qimmatli qog’ozdir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " emitentning qisqa muddatli qarz munosabatlaridir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’z egasiga dividend olish huquqini beruvchi qimmatli qog’ozlardir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nomi yozilgan qimmatli qog’ozlarga egalik qilish huquqini boshqa birovga berishdir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Obligatsiya nima maqsadda chiqariladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aksioner jamiyati faoliyatini moliyalashtirish uchun qo’shimcha mablag’ yaratish maqsadida chiqariladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " emitentlarning ustav fondini shakllantirish va to’ldirish maqsadida chiqariladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " emitentlarning xo’jalik faoliyati bilan bog’liq zararlarni qoplash uchun qo’shimcha mablag’ yaratish maqsadida chiqariladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " byudjet profitsitini kamaytirish uchun qo’shimcha mablag’ yaratish maqsadida chiqariladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Foiz daromadlari to’lanishiga qarab obligatsiyalar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kuponli obligatsiyalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " biletli obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " talon obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " guvoxnoma obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Munitsipal obligatsiyalar...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mahalliy hokimiyatlar tomonidan emissiya qilinadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kompaniya va firmalar tomonidan emissiya qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " davlat tomonidan emissiya qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moliya vazirligi tomonidan emissiya qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Obligatsiya – bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " emitentning qarzdorligi va bu qarz uchun foiz to’lash zarurligini tasdiqlovchi qimmatli qog’ozdir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " obligatsiya egasi qarzdorligi va bu qarz uchun to’lash zarurligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " emitentning qarz berishi va kreditorga aylanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " emitentning qarz olishi va debitorga aylanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Korporativ obligatsiyalar deganda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kompaniya va firmalar emissiya qilinadigan obligatsiyalar tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mahalliy hokimiyatlar emissiya qilinadigan obligatsiyalar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " davlat tomonidan emissiya qilinadigan obligatsiyalar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " vazirliklar tomonidan emissiya qilinadigan obligatsiyalar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Aksiya – bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’z egasiga dividend olish huquqini beruvchi qimmatli qog’ozdir;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Emeitentning qarzdorligi va bu qarz uchun foiz to’lash zarurligi haqida guvoxlik beruvchi qimmatli qog’oz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " o’z egasiga yutuq keltiruvchi qimmatli qog’ozdir;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’z egasiga aksionerlar umumiy yig’ilishida qatnashish huquqini bermaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Aksiyaning nominal qiymati deganda:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aksiyada yozilgan pul summasi tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " aksiya kursi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " uning bozorda sotiladigan narxi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " dizajio tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " «Kumulyativ» imtiyozli aksiyalar deganda nimani tushunasiz?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ular bo’yicha dividendlar ma’lum davr mobaynida to’lanmasdan yig’ilib boriladi va oxirida to’lanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bunda aksiyalar konvertatsiya qilinib oddiy aksiyalarga o’zgartirilishi mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " uni aksiyador naminal qiymati bo’yicha jamiyatga qayta taqdim etishi mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bu aksiya turi ma’lum davrda korxonani boshqarish huquqini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kotirovka deganda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " fond birjasida qimmatli qog’ozlar kursini belgilash va ularni qayd etish tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarni sotish va sotib olish narxi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarni naminal bahosidan past narxda sotib olinishi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarni fond birjasida ro’yxatga olinishi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Oddiy aksiya shunday aksiyaki, unga tegadigan dividend\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " foydaga qarab har xil bo’ladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oldindan belgilangan qat’iy foizlarda beriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " majburan to’lanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ma’lum davr mobaynida to’lanmasdan yig’ilib boriladi va oxirida to’lanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Dividend-bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aksiyadan olinadigan daromad\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bir shaxs tomonidan ikkinchi bir shaxsga yozib berilgan qarz majburiyatini ifodalovchi qimmatli qog’ozlarning bir turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Emeitentning qarzdorligi va bu qarz uchun foiz to’lash zarurligi haqida guvoxlik beruvchi qimmatli qog’oz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Obligasyiadan oladigan daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Emissiya prospekti nima\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlar emitenti haqidagi axborotlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarni chiqarish uchun ruxsatnoma\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qog’ozlarni bekor qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " birjada qatnashish huquqi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Imtiyozli aksiyalarning koʻrinishlari notoʻgʻri keltirilgan javobni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ovoz berish huquqi mavjud aksiyalar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " konvertatsiyalanuvchi aksiyalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nokumulyativ aksiyalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kumulyativ aksiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " EPS qanday ko’ rsatkich?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bitta aksiyaga to’ g’ ri keladigan daromad\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bitta aksiyaga to’ g’ ri keladigan dividend\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aksiya bahosining foydaga nisbati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " baho-tushum koeffisenti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " DPS qanday ko’ rsatkich?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bitta aksiyaga to’ g’ ri keladigan dividend\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bitta aksiyaga to’ g’ ri keladigan daromad\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aksiya bahosining foydaga nisbati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " baho-tushum koeffisenti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Opsion deganda\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " muayan aktivni kelishilgan baho va muddatda sotib olish yoki sotish huquqini beruvchi shartnoma tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " egasiga belgilangan vaqt uchun yoki muddatsiz shart bilan shartnomada ko’rsatilgan narxda aktivni sotib olish huquqini beruvchi guvohnoma tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kelgusidagi tovarlarning bugungi narxi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aktivni kelishilgan kelgusidagi muddatda, shartnoma tuzishda qabul qilingan baho bo’yicha sotish yoki sotib olish majburiyati tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bazis aktiv bu-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " muddatli shartnomaning asosini tashkil etuvchi aktiv\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " barcha qimmatli qog’ ozlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " spot bozorda savdosi amalga oshirilayotgan aktiv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " faqatgina qimmatbaho metallar bazis aktiv bo’ la oladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nima uchun hosilaviy qimmatli qog’ ozlar moliyaviy risklarni kamaytirishda samarali usul hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " hosilaviy qimmatli qog’ ozlar risklarni xedjirlash imkonini beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " hosilaviy qimmatli qog’ ozlar bazis aktivni sotib olish imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hosilaviy qimatli qog’ ozlar bazis aktivni sotish majburiyatini yuklaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bunday shartnomalar yangi mijoz topish imkonini beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Forvard shartnomasining fyuchersdan farqli jihatini belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " forvard shartnomalari birjadan tashqari amalga oshiriladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " forvard shartnomalari birjada amalga oshiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " forvard shartnomalari birjada va birjadan tashqari amalga oshirilishi mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bu ikki shartnoma faqat bazis aktivlari bo’ yicha farq qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bazis aktivni sotib olish yoki sotish huquqini taqdim etuvchi muddatli shartnoma bu-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " opsion\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " fyuchers\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " forvard\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " svop\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Forvard narx bu-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " forvard shartnomasi tuzish vaqtida unda belgilab qo’ yilgan narx\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " forvard shartnomasi tuzish vaqtida spot bozrdagi narx\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " forvard shartnomasi bajariladigan muddatdagi spot bozordagi narx\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bazis aktivning birja bahosi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qaysi hosilaviy qimmatli qog’ ozning amalga oshirilishi birja tomonidan kafolatlanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " fyuchers\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " forvard\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " opsion va forvard\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " svop va forvard\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Strayk baho\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Opsion kol va put bazisidagi aktivlarni xarid qilish va sotish bo’yicha belgilangan baho\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bazisi bir xil instrumentlardan shakllangan bir turdagi hamma optsion shartnomalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bazisdagi aktivlarni sotish huquqini qo’lga kiritish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Belgilangan muddat tugayotgan kunda bajarilishi mumkin bo’lgan optsion\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Opsion:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " opsion bajarilganda, bazisdagi aktivni sotuvchi xaridorga o’z vaqtida yetkazib berishga majbur qimmatli qog’ozdir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " muddati qat’iy belgilangan va muddat tugashi bilan bajarilishi majburiy qimmatli qog’oz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " opsion shartnomasi xaridor tomonidan bajarilishi majburiy bo’lgan moliyaviy instrument\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mulkiy munosabatni ifodalovchi qimmatli qog’oz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Amerikacha opsion\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Shartnoma muddati tugamasdan oldin hohlagan kunda bajarilishi mumkin bo’lgan opsion\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bir xil belgilangan muomala muddati va bajarish bahosiga ega bo’lgan hamma opsion sinfi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Xaridori tomonidan opsionni sotib olish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Opsion bazisidagi moliyaviy instrumentning joriy bozor bahosi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Yevropacha opsion\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Belgilangan muddat tugayotgan kunda bajarilishi mumkin bo’lgan opsion\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Opsion asosidagi aktivning joriy bozor bahosi bilan optsionni bajarish bahosi o’rtasidagi farq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bazisdagi aktivlarning joriy bozor kursi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Opsion yozuvchisi tomonidan opsionni sotish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ipoteka qimmatli qog’ozlari turlari to’g’ri ko’rsatilgan qatorni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Garov qog’ozi, uy sertifikati, ipoteka obligatsiyasi, ishtirok etish ipoteka sertifikati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aksiya, obligatsiya, veksel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Forvard, opsion, fyuchers, svop\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Valyuta bozori, g’aznachilik majburiyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ipoteka bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Real aktiv bilan ta’minlangan uzoq muddatli kreditdir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ipoteka amaliyotini moliyalashtirish maqsadida muomilaga chiqariladigan va uzoq muddatli ipoteka bilan ta’minlangan qimmatli qog’oz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Emissiyalanmaydigan qimmatli qog’ozlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Emissiyaviy ipoteka qimmatli qog’ozi, bo’ lib bu barcha obligatsiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Valyutalar hamda maʼlum bir valyutada shakllantirilgan bank depozitlari savdosi qanday bozorda amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " xorijiy valyuta bozorida;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " dillerlar bozorida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qogʻozlar bozorida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kapital bozorida.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Foreksdagi asosiy operatsiyalarda qaysi valyuta ishtirok etadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " AQSH dollari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yevro;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yapon iyeni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Buyuk Britaniya funt sterlingi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mamlakatdan tashqarida qattiq valyutada sotiladigan obligatsiya turini aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yevroobligatsiya;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " konvert obligatsiyalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " munitsipal obligatsiyalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " korporativ obligatsiyalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Yevroaksiyalar – bu ...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kompaniyalar, umumiy holda transmilliy kompaniyalar, banklar, investitsion fondlarning ham milliy bozorda, ham boshqa mamlakatlar bozorlarida savdoga qoʻyiladigan aksiyalaridir;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " transmilliy kompaniyalar, banklar, investitsion fondlarning boshqa mamlakatlar bozorlarida savdoga qoʻyadigan aksiyalaridir;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " maʼlum bir miqdordagi amerika depozitar aksiyalariga egalikni tasdiqlovchi qimmatli qogʻoz;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " amerika banklari boʻlinmalari va boshqa davlat banklari tomonidan xorijiy valyutada (asosan AQSH dollarida) chiqarilgan qimmatli qogʻozlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Oltin, kumush, platina, palladiya va boshqa metallarlar bilan bogʻliq bozor munosabatlari Moliya bozorining qaysi turida qaysi sohasida amalga oshiriladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " qimmatbaho metallar bozorida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " sugʻurta bozorida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qimmatli qogʻozlar bozorida;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " valyuta bozori.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Fundamental tahlilga taʼsir eʼtuvchi omillarni koʻrsating.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " iqtisodiy omillar, siyosiy omillar, turli mish-mishlar va kutilishlar, fors-major holatlari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy omillar, moliyaviy omillar, turli mish-mishlar va kutilishlar, fors-major holati;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " iqtisodiy, siyosiy, ijtimoiy omillar va fors-major holatlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aholining milliy daromadi, bilim-ko’ nikmalari va ijtimoiy turmush darajasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Fond bozori holatini oʻrganishga qaratilgan tahlil boʻlib, oʻtgan savdo narxlarini oʻrganish maqsadida, ularning kelajakdagi ehtimoliy rivojlanish yoʻnalishlarini aniqlashdan iborat tahlil – bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " texnik tahlil;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qimmatli qogʻozlar tahlili (security analysis);\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " fundamental tahlil;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " statistik tahlili (statistical analysis);\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Oʻzbekiston Respublikasining qaysi qonunida tijorat banklari qimmatli qogʻozlar chiqarish, xarid qilish, sotish, hisobini yuritish va ularni saqlash, mijoz bilan tuzilgan shartnomaga binoan qimmatli qogʻozlarni boshqarish, qimmatli qogʻozlar bilan boshqa operatsiyalarni bajarish kabilarni amalga oshiradi deb keltirilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ‘‘Banklar va bank faoliyati toʻgʻrisida’’;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ‘‘Qimmatli qogʻozlar bozori toʻgʻrisida’’;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ‘‘Birjalar va birja faoliyati toʻgʻrisida’’;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ‘‘Oʻzbekiston Respublikasining Markaziy banki toʻgʻrisida’’.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Investitsiya faoliyatini amalga oshirish maqsadida ikki va undan ortiq shaxslarning - investorlarning oʻzi ishonchli boshqaruvga bergan pul mablagʻlari yigʻindisi - …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Pay fondi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " jamgʻarma;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sugʻurta puli;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " investitsiya.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " O‘zbekiston Respublikasining Tiklanish va taraqqiyot Jamg‘armasi qaysi tashkilot huzurida tashkil etilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Iqtisodiyot va moliya vazirligi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Vazirlar Mahkamasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Markaziy bank;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Iqtisodiyot vazirligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Aksiyalarning bozor narxi bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " oldi-sotdi davridagi talab va taklifga ko’ ra belgilanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nominal bahoga teng bo’ ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nominal bahodan past bo’ ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " aksiyaning dastlabki chiqarilgan bahosi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Fond birjasida listing bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " birja kotirovka varag’ iga kirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " birja kotirovka varag’ iga chiqish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " birjada talab va taklifni o’ rganish tadbiri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " birka kotirovkasini e’ lon qilish tadbiri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Dunyodagi eng yirik fond birjasi bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nyu-York fond birjasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nasdaq fond birjasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " London fond birjasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Shanxay fond birjasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " O‘zbekiston Respublikasining Tiklanish va taraqqiyot Jamg‘armasining yuqori organi hisoblangan boshqarish bo‘yicha Kengash tarkibi kim tomonidan tasdiqlanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Iqtisodiyot va moliya vazirligi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Vazirlar Mahkamasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Prezident;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Oliy majlis.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Hech qanday markaziy hokimiyat tomonidan berilmaydigan va uni davlat aralashuvi yoki manipulyatsiyasidan holi hisoblanadigan toʻlov tizimlari -…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kriptovalyutalar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xorijiy valyutalar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " elektron pullar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " naqd pullar.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kriptovalyuta asosini tashkil etuvchi texnologiyalar nima deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Blokcheyn texnologiyalar;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Birja kompyuterlari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Valyuta texnologiyalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Terminallar.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Eng birinchi blokcheyn texnologiyalar asosida yaratilgan kriptovalyuta… hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bitkoin;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bitcoin Cash;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Litecoin;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " TRON.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliya bozorini tartibga solishda davlatning rivojlantirish konsepsiyasi, uni amalga oshirish dasturlari ishlab chiqilishi bilan bogʻliq funksiyasi …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " strategiyani belgilash funksiyasi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " maʼmuriy funksiya;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ragʻbatlantirish funksiyasi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nazorat funksiyasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moliya bozorini tartibga solishda davlatning arbitraj funksiyasida – …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " moliya bozori ishtirokchilari oʻrtasida nizoli vaziyatlar hal qilinadi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " moliya bozori faoliyati boʻyicha meʼyoriy-huquqiy hujjatlar ishlab chiqiladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " moliya bozori ishtirokchilari faoliyati bevosita maʼmuriy tartibga solinadi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moliya bozori ishtirokchilari tomonidan yoʻl qoʻyilishi mumkin boʻlgan huquqbuzarliklarning oldini olinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliya bozorini tartibga solishda tashqi mexanizmlar sifatida nimalar qoʻllaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " megaregulyator va makroregulyator;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ichki meʼyoriy hujjatlar;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ustav, faoliyatni amalga oshirish qoidalari;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " faoliyatga doir standantlar, etika qoidalari.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Moliya bozorini tartibga solishda makroregulyator orqali tartibga solish amaliyotida - …\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bevosita davlat tomonidan tartibga solishni nazarda tutadi va odatda qimmatli qogʻozlar bozorini tartibga solish boʻyicha vakolatli davlat organi belgilanadigan;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oʻzaro muvofiqlashtirilgan holda tartibga solish amaliyoti qoʻllaniladi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " moliya bozori ishtirokchilari faoliyati tashkil etilishini nazarda tutadi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ichki tartibga solish ichki meʼyoriy hujjatlar asosida.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pay fondi yuridik shaxs sifatida faoliyat yurita oladimi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " pay fondi yuridik shaxs bo’ la olmaydi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " pay fondi faqat yuridik shaxs sifatida faoliyat yurita oladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " pay fondi ta’ sischilari hohishiga ko’ ra yuridik shaxs bo’ lishi mumkin.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " pay fondi faqatgina AJ sifatida faoliyat yuritishi mumkin.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

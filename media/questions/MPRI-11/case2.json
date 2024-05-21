@@ -1,0 +1,5522 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistik jadvallar nima uchun tuziladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " narsa-predmet, voqea-hodisalar o‘zgarishini tahlil qilish, xulosa chiqarish uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ma’lumotlarni tahrir qilish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " hodisalar mohiyatini tekshirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " malumotlarni tartib asosida taqdim qilish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistika atamasi qaysi so‘zdan kelib chiqqan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "lotincha status – davlat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "lotincha status – holat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "lotincha stat – hokimiyat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "lotincha statue – hisob-kitob\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistika atamasi kim tomonidan fanga kiritilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Gotfrid Axenval\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Karl Pirson\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Jon Abraham\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kurt Levin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistika atamasiga mos kelmaydigan javobni toping\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Umumfalsafiy fanlar sohasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ijtimoiy fanlar sohasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "har qanday hodisa yoki jarayon to’ g’ risidagi ma’ lumotlar to’ plami\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "jarayon yoki hodisaning ba’ zi umumlashtiruvchi xususiyatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki statistik hisob ishlari qayerlar amalga oshirilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Qadimgi Xitoy va Rim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Markaziy Osiyo\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Misr va Rossiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Germaniya va Amerika\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Dastlabki statistik ishlar qanday sohalarda qo‘llanilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "aholi soni va qishloq xo‘jaligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bank va moliya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kommunal soha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ta’lim tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistika fanini yuzaga kelishida nechta maktab mavjud\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Angliya siyosiy arifmetiklarining o‘ziga xos jihatlari nimalardan iborat\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ijtimoiy hodisalarni raqamli xususiyatlardan foydalangan holda o’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ijtimoiy hodisalarni faraziy o‘rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ijtimoiy hodisalarni testlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ijtimoiy hodisalarni og‘zaki, raqamsiz shaklda o‘rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi statistik maktab vakillari hodisalarni raqamlarsiz, og‘zaki shaklda o‘rganishni takli qiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "nemis tavsiflovchilar maktabi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ingliz siyosiy arifmetiklar maktabi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "rus matematiklar maktabi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "fransuz muhandislik maktabi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "XIX asrda statistikani mustaqil fanga aylanishida kimning xizmatlari katta rol o‘ynagan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Charlz But\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Karl Pirson\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Jon Abraham\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kurt Levin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bir nechta statistik ma’ lumotlarga xos bo’ lgan umumiy xususiyat nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "statistic xususiyat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "analitik xususiyat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "matematik xususiyat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "formal xususiyat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Matematik statistikaning predmeti bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kuzatish natijalariga ko’ ra tasodifiy o’ zgaruvchilarni o’ rganish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kuzatish natijalarini o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tahlil natijalariga ko’ ra o’ zgaruvchilarni o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "har qanday tasodifiy o’ zgaruvchilarni o’ rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Odatda pedagogik tadqiqotlarni o‘tkazish nechta bosqichni qamrab oladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nima uchun tasodifiy o‘zgaruvchilarni o‘rganishda umumiy to‘plamdan faqat bir qismi tanlab olinadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "murakkabligi uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "taqsimlanish to‘g‘ri bo‘lishi uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ishonchli bo‘lishi uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "bunday talab mavjud emas\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Muayyan tasodifiy o’ zgaruvchining qiymatlarini olish uchun kuzatuvlar olib boriladigan ma’ lum turdagi barcha ob’ ektlar to’ plami nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "umumiy populatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "populatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "neytral populyatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "absolyut populyatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Umumiy populyatsiyadan tasodifiy tanlangan ob’ ektlar to’ plami bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tanlanma\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "reprezentativlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mutloq populyatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tadqiqot elementi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Populyatsiyadagi ob’ ektlar soni qanday belgi bilan belgilanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "N\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "K\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "L\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "F\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tanlangan populyatsiyani o’ rganish asosida butun populyatsiya to’ g’ risida xulosa chiqarishdan iborat bo’ lgan statistik tadqiqot usuli bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tanlanma\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tadqiqot uslubi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "birlamchi populyatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tadqiqot elementi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘tkazilgan tajriba respondentlar o’ rtasida bir xil xususiyatni o’ lchash natijalariga ta’ sir qilmasa bu qanday tanlanma deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "mustaqil\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mustaqil bo‘lmagan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tavsiflovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ikkilamchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘tkazilgan tajriba respondentlar o’ rtasida bir xil xususiyatni o’ lchash natijalariga ta’ sir qilsa bu qanday tanlanma deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "mustaqil bo‘lmagan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "mustaqil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tavsiflovchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ikkilamchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tanlanma qaysi to‘plamdan olingan bo‘lsa, bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bosh to‘plam\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ikkilamchi to‘plam\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "xususiy to‘plam\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "zanjirli to‘plam\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Agar tanlanma to‘plam bosh to‘plamni deyarli barcha xususiyatlarini o‘zida saqlasa nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tanlanma reprezentativligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tanlanma mantiqiyligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tanlanma validligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tanlanma umumiyligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reprezentativ tanlanma hosil qilishning asosiy sharti nimada\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tasodifiylik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "izchillik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "muhimlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tabiiylik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Zamonaviy pedagogikada ko‘rsatkichlarning nechta turi o‘rganiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘lchash mumkin bo‘lgan pedagogik ko‘rsatkichlarga misol keltiring\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bilim, o‘zlashtirish darajasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "burch\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "vijdon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sadoqat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘lchansa bo‘lmaydigan pedagogik ko‘rsatkichlarga misol keltiring\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "burch\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "bilim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘zlashtirish darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "rivojlanish darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pedagogik ko‘rsatkichlar ……. hisoblanadi. Nuqtalar o‘rniga to‘g‘ri javobni belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sifat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "miqdor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "son\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "abstract\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sifat ko‘rsatkichlar nimada ko‘rinadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "miqdorda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tajribada\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ishda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mantiqda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Faqat miqdoriy yondashuv…….yondashuv hisoblanadi. Nuqtalar o‘rniga to‘g‘ri javobni belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ilmiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "nazariy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "zaruriy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tahliliy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Matematik statistika nimalarga tayanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ehtimollar nazariyasi va o‘lchovlarga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "aniqlikka\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mashqlarga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "matematik atamalarga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistik tavsiflash bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sonli ko‘rsatkichlarni tahlil qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "harfli ko‘rsatkichlarni tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "og‘zaki ko‘rsatkichlarni tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sinab ko‘rish va tekshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tavsiflanuvchi ma’lumotlar dastlab qanday olinadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kuzatish orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "test orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "anketa orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "so‘rov orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Induktiv statistikaning asosiy vazifasi bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "olingan ma’lumotlarni hammaga tarqatish mumkinmi yoki yo‘qligini tekshiradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ma’lumotlarni tahrir qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ma’lumotlarga o‘zgartirish va qo‘shimcha kiritadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ma’lumotlarni uzatadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Induktiv statistik metodlar to‘g‘ri keltirilgan javobni aniqlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "student t, xi kvadrat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Kolmogorov\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "standart og‘ish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "intervallic\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Predmetlarni sinflar bo‘yicha guruhlashni qamrab oluvchi shkala nomini ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "nominativ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "interval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "umumiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ma’lumotlarni A..B..C.. tartibida kelishi qaysi shkalaga misol bo‘la oladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "interval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "nisbat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "umumiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Jins xususiyatlari asosida tasniflash qaysi qaysi shkalada amalga oshiriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "nominativ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "interval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "umumiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nominativ shkalaning asosiy jihatlarni ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sinflar va toifalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ketma-ketlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "fizik o‘lchovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "oraliq natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ob’ektlarni guruhlashtirish, sharoitga qarab ularni umumlashtirish qaysi shkala asosida amalga oshiriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "nominativ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "interval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tartib\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "nisbat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Jins xususiyatlari asosida tasniflash qaysi qaysi shkalada amalga oshiriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "nominativ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "interval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "umumiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yosh xususiyatlarni ketma-ketlik asosida tasniflash qaysi shkalada amalga oshiriladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "interval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "nominativ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "umumiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi shkala turi tartiblashni talab qiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "interval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "nomlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "umumiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tadqiqotda o‘quvchilarni o‘zlashtirish darajasini tekshirish uchun odatda qaysi shkaladan foydalaniladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "interval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "nomlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "umumiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rang shkalasiga xos xususiyatni ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tartiblash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "oraliq diapazon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "fizik o‘lchovlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "oraliq natijalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "To‘xtovsiz boshida aks etmagan sonli shkala bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "interval\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "munosabat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ixtiyoriy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Harorat va vaqt qaysi shkala yordamida o‘lchanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "interval\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tartiblash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ixtiyoriy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Shkalalar orasida eng murakkab shkala sifatida e’tirof etiladigan shkalalani ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "munosabat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "tartiblash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ixtiyoriy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tadqiqotda o‘zgartirish, nazorat qilish, o‘lchash mumkin bo‘lgan holatlar nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o‘zgaruvchanlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sifat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "miqdor\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "o‘lchov\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistik sonlar qatori asosiy elementlar hisoblanib uni nima deb atash mumkin\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "variatsion qator\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "intervallic qator\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "dinamik qator\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "chiziqli qator\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Variatsion qator sinaluvchilar soni qaysi belgi bilan ifodalanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "n\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "m\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "k\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "f\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistik qatordagi eng katta va eng kichik ko‘rsatkich nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "limit\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "moda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "rang\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mediana\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Limit qanday belgi bilan ifodalanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "min/max\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "y/x\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "me/M\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "z/fi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ranjirovka bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "statistik qatordagi sonlarni tartiblash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "statistik qatordagi sonlarni yaxlitlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "statistik qatordagi sonlarni umumlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "statistik qatordagi sonlar yig‘indisi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sonlarni ranjirovka qilish qaysi statistic usullarda keng foydalaniladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni mezoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dispersion tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "standart xato\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "pirson chiziqli korrelatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ushbu qatordagi ‘‘160, 162, 163, 165, 165, 166, 169, 172’’ 165 ni rangini ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "4,5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ushbu qatordagi ‘‘160, 162, 163, 165, 165, 166, 169, 172’’ limitni ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "min 160 / max 172\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "min 162 / max 172\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "min 154 / max 176\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "limit keltirilmagan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mediana nima\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "taqsimlanishning joylashgan o‘rnini belgilovchi ko‘rsatgich\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sinf oralig‘ini belgilovchi ko‘rsatgich\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "taqsimlanish kengligini belgilovchi ko‘rsatgich\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "taqsimlanishning nosimmetrikligini belgilovchi ko‘rsatgich\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistik qatorda ko‘rsatkichlar toq bo‘lsa mediana qanday aniqlanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o‘rtadagi son orqali\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "birinchi va oxirgi sonni qo‘shish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "toq ko‘rsatkichlarda mediana bo‘lmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "sinaluvchilar sonini kvadratga ko‘tarish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ushbu qatordagi ‘‘160, 162, 163, 165, 165, 166, 169, 172’’ medianani ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "165\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "163\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "166\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "164,5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mediana qanday belgi bilan ifodalanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Me\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Md\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Max\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Min\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistik qatorda ko‘rsatkichlar juft bo‘lsa mediana qanday aniqlanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "n+1/2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "n+2/n\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "n+n/2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "n+1/3\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ushbu qatordagi ‘‘161, 162, 163, 165, 165, 166, 169, 173, 175’’ medianani ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "165\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "163\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "166\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "164,5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistik qatorda eng ko‘p qaytarilgan sonlar nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "moda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "limit\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mediana\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "dispersiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moda qanday belgi bilan ifodalanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Md\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Me\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Max\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Min\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘160 162 163 165 165 167 168 172 172 173 174 174~182’’ ushbu qatordagi modani ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Md-165,172,174\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Md-165,172\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Md-160\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Md182\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "x\\textsuperscript{2} qanday mezon hisoblanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "noparametrik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "parametrik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sodda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "o‘zaro aloqadorlikni tekshiruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "H0 gipoteza to‘gri bo‘lganda kuzatiladigan nazariy taqsimot bilan amalda qayd etilgan taqsimot orasidagi farqning ahamiyati darajasini baholash uchun xizmat qiladigan mezon bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "x\\textsuperscript{2}\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "fisher\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "student t\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "pirson chiziqli korrelatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ikki va undan ortiq nisbiy ko‘rsatkichlarning o‘rtasidagi farq qanchalik ahamiyatli ekanini aniqlashga xizmat qiladigan mezon bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "x\\textsuperscript{2}\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dispersion tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "standart xato\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "pirson chiziqli korrelatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "x\\textsuperscript{2} qanday mezonini fanga kiritgan olim\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "K.Pirson\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "K.Djeyms\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "B.Axenval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "L.Bust\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "x\\textsuperscript{2} mezoniga xos bo‘lmagan jihatni belgilang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sinaluvchilar interval shkalasa bo‘yicha tekshiriladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ko‘rsatkichalar nominal (sifat) yoki tartib shkalasida tekshiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "o‘rganilayotgan guruhlar mustaqil bo‘lishi kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mezon nafaqat 2x2 ko‘rinishida ba’ki undan ko‘proq omillarni tekshirishda qo‘llaniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "x\\textsuperscript{2} mezoniga ko‘ra, kuzatilgan natija, ya’ni amalda mavjud natija nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "observed\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "expected\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "metodik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "detailed\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi mezon tаnlаngаn qiymаtlаr ikki qаtоridа qаysidir аlоmаt yoki bеlgining uchrаsh chаstоtаsini tаqqоslаsh uchun mo‘ljаllаngаn\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "fisher\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "xi kvadrat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "t test\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "x\\textsuperscript{2} mezoniga ko‘ra, kutilgan natija (nazariy tahlil qilingan natija) nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "expected\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "observed\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "metodik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "detailed\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "x\\textsuperscript{2} mezoni bo‘yicha ozodlik hadi formulasini ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "f=(r-1)*(c-1)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "f=(r-2)*(c-2)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "f=(r+1)*(c+1)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "x=(r-1)+(c-1)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko‘p funksiyali mezon keltirilgan javobni toping\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "fisher\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "xi kvadrat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "t test\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fisher mezoniga ko‘ra tanlanmaning eng quyi chegarasi nechtadan boshlanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "10\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "15\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "2\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fisher mezoniga ko‘ra tanlanmaning eng yuqori chegarasi qancha bo‘lishi kerak\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "cheksiz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1000\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "10000\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "100\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fisher mezoni bo‘yicha bir tanlanmada 2 ta kuzatuv bo‘lsa, ikkinchisida nechta kuzatuv bo‘lishi talab qilinadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "30 tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "20 tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "10 tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5 tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fisher mezoni bo‘yicha bir tanlanmada 3 ta kuzatuv bo‘lsa, ikkinchisida nechta kuzatuv bo‘lishi talab qilinadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "7 tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "8 tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "10 tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "11tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fisher mezoni bo‘yicha bir tanlanmada 4 ta kuzatuv bo‘lsa, ikkinchisida nechta kuzatuv bo‘lishi talab qilinadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "5 tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "6 tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "16 tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "50tadan kam bo‘lmasligi lozim\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Turli tаnlаnmаlаrni yoki bir bеlgining turli shаrоitlаrdа nаmоyon bo‘lishini qaysi mezon asosida solishtirish mumkin\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "fisher\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "xi kvadrat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "t test\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Fisher mezoni qaysi belgi bilan ko‘rsatiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "𝜑\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "µ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "r\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "fi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi mezon bеlgining ikki tаnlаnmаdа qаyd etilishidа fоiz ulushi fаrq qilishining аhаmiyatini bеlgilаydi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "fisher\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "xi kvadrat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "t test\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Fisher mezoniga xos bo‘lmagan jihatlarni ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3 yoki 4 ta guruhni qiyoslashda foydalaniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sоlishtirilаyotgаn ulushlаrning birоntаsi nоlgа tеng bo‘lmаsligi kеrаk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mеzоndа o‘rgаnilаyotgаn tаnlаnmаning yuqоridа chеgаrаsi ko‘rsаtilmаgаn\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tаnlаnmаdа kuzаtuvlаr sоni istаlgаnchа bo‘lishi mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni qanday mezon hisoblanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "noparametrik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "parametrik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sodda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "o‘zaro aloqadorlikni tekshiruvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ikki tanlanma to‘plamning miqdoriy o‘lchangan biror alomat bo‘yicha qiyoslash uchun qaysi mezondan foydalaniladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "xi kvadrat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "t test\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "regressiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni mezoni kim tomonida ishlab chiqilgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "F.Uilkekson\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "K.Djeyms\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "B.Axenval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "L.Bust\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni mezoniga xos jihatni ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "har ikki to‘plamda sinaluvchilar soni 3 tadan kam bo‘lmasligi kerak\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sоlishtirilаyotgаn ulushlаrning birоntаsi nоlgа tеng bo‘lmаsligi kеrаk\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mеzоndа o‘rgаnilаyotgаn tаnlаnmаning yuqоridа chеgаrаsi ko‘rsаtilmаgаn\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tаnlаnmаdа kuzаtuvlаr sоni istаlgаnchа bo‘lishi mumkin\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni mezoniga xos bo‘lmagan jihatni ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tаnlаnmаdа kuzаtuvlаr sоni istаlgаnchа bo‘lishi mumkin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "har ikki to‘plamda sinaluvchilar soni 3 tadan kam bo‘lmasligi kerak;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "har ikki to‘plamda sinaluvchilar soni ikki xil bo‘lishi mumkin. (Farq 10 tadan kam bo‘lishi kerak)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "har ikki tanlanma to‘plamda sinaluvchilarni umumiy soni 60 tadan kam bo‘lishi tavsiya etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni mezoni hisoblash tartibi to‘g‘ri keltirilgan javobni aniqlang\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "sinaluvchilarga birgalikda rang beriladi, ranglar hisoblanadi, formula asosida natijalar qayta ishlanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sinaluvchilarning ranglari alohida hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sinaluvchilarning ranglari alohida hisoblanadi va formula asosida natijalar qayta ishlanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "natijalarning o‘rtacha qiymati hisoblanadi va shu asosda ranjirovka qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni mezoni qaysi belgi bilan ifodalanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "U\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "F\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "N\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "C\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni mezoniga ko‘ra, T\\textsubscript{x} belgisi nimani ifodalaydi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ikki guruhdagi rang ko‘rsatkichlarining kattasini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "birinchi guruhdagi rang ko‘rsatkichlarning kichigini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ikkinchi guruhdagi rang ko‘rsatkichlarning kichigini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ikki guruhdagi rang ko‘rsatkichlarining kichigini\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni mezoniga ko‘ra, katta ranglar yig‘indisiga ega guruh sinaluvchilar soni qanday belgi bilan ifodalanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "N\\textsubscript{x}\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "F\\textsubscript{x}\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "T\\textsubscript{x}\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "U\\textsubscript{x}\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishonch darajasi qanday oraliqda bo‘lishi kerak\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0 dan 1 gacha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "–1 dan 1 gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0 dan 3 gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "–1 dan 0 gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Parametrik ma’lumotlar bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "miqdoriy o‘lchovlar bo‘lib, uzluksiz taqsimlanishni namoyon etadilar hamda odatda normal taqsimlanish qonuniga mos keladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o‘lchov orqali emas, balki voqelikni tasniflash, guruhlarga ajratish orqali olingan =sonlar qatori bo‘lib, muayyan ob’ektning u yoki bu sifatga ega ekanligini ifoda etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tanlanmadagi sonlar qatorini qiyosiy o‘rganiga qaratilgan tadqiqotlarda statistik tahlil usulini to‘g‘ri tanlash uni ongli ravishda qo‘llash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "statistik tahlil usulini to‘g‘ri tanlashning asosiy me’zonlaridan biridir\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Noparametrik ma’lumotlar bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o‘lchov orqali emas, balki voqelikni tasniflash, guruhlarga ajratish orqali olingan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "miqdoriy o‘lchovlar bo‘lib, uzluksiz taqsimlanishni namoyon etadilar hamda odatda normal taqsimlanish qonuniga mos keladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "sonlar qatori bo‘lib, muayyan ob’ektning u yoki bu sifatga ega ekanligini ifoda etadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "tanlanmadagi sonlar qatorini qiyosiy o‘rganiga qaratilgan tadqiqotlarda statistik tahlil usulini to‘g‘ri tanlash uni ongli ravishda qo‘llash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Noparametrik ko‘rsatkichlar uchun erkin tanlanmalarni xisoblashda qaysi mezon ishlatiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni mezoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Styudent t mezoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Vilkokson mezoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kolmogorov-Smirnov mezoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ikki nоrmаl tаqsimlаngаn tаnlаnmаning Х vа Y o‘rtаchа qiymаtlаrini аniqlаshgа qаrаtilgаn mezon nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Styudent t mezoni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Mann-Uitni mezoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Vilkokson mezoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kolmogorov-Smirnov mezoni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Styudent t mezoni bo‘yicha ozodlik hadi qanday topiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "df=(n1-1)+(n2-1)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "df=(r-2)*(c-2)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "df=(n1-1)*(n2-1)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "df=(r-1)+(c-1)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistik ko‘rsatkichlar orasida o‘zaro aloqadorlikni tekshirishda qaysi mezondan foydalaniladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "korrelatsiya foefsentidan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "variatsiyadan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "regressiyadan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "dispersiyadan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ikki faktorli intellekt nazariyasining asoschisi hamda faktorli tahlil matematik-statistik metodi muallifi bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ch.E.Spirman\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "K.Djeyms\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "B.Axenval\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "L.Bust\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tadqiqotlarda o‘zgaruvchilar o‘rtasidagi aloqadorlikni rang darajasida tekshirish uchun xizmat qiluvchi noparametrik mezon nima deb ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Spirman rang korrelatsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Uilkikson variatsiya kengligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "regression tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "dispersion tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ma’lum bir ko‘rsatkichning ortishi boshqasining pasayishiga sabab bo‘lishini ifodalovchi korrelatsiya\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "manfiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "musbat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "chiziqli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "intervalli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ma’lum bir ko‘rsatkichning ortishi boshqasining ham ortishiga sabab bo‘lishini ifodalovchi korrelatsiya\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "musbat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "manfiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "chiziqli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "intervalli\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Spirman korrelatsiyasi bo‘yicha d\\textsuperscript{2} nimani ifodalaydi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ikki qator rang ko‘rsatkichlari orasidagi farqni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "umumiy rangni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ranglar summasini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ikki qator rang ko‘rsatkichlarini summasini\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "O‘zgaruvchilar orasidagi aloqadorlikni tekshirishning ko‘p o‘lchovli usuli bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "faktorli tahlil\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dispersion tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "regression tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "elementar tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korrelatsiya terminini fanga kim kiritgan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "F.Galton\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "K.Pirson\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "J.Spirman\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ch.Buts\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kоrrеlyatsiya qaysi so‘zdan kelib chiqqan\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ing. «co» – o‘zаrо, «relation» - bоg‘liqlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ing. «co» – yakka, «relation» - bоg‘liqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "lot. «co» – o‘zаrо, «relation» - farqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ing. «co» – aniqlik, «relation» - yaqinlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pirson korrelatsiya koefsenti yana qanday nom bilan ataladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "chiziqli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ko‘p funksiyali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "abstract\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "nuqtali\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pirson korrelatsiya qanday belgi bilan ifodalanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "r\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "f\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "g\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "h\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pirson korrelatsiya koefsenti qiymati nechadan oshmasligi talab etiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "-1\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,05\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,005\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Agar kоrrеlyatsiya kоeffitsеnti qiymаti +1 ga yaqinlashsa, u holda natija qanday talqin qilinadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "o‘zaro aloqadorlik kuchli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "teskari aloqadorlik kuchli\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "ahamiyatlilik past\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ahamiyatlilik o‘rtacha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qiyoslаnаdigаn o‘zgаruvchilаr intеrvаllаr shkаlаsidа yoki nisbаtlаr shkаlаsidа bаhоlаngаn bo‘lishi qaysi korrelatsiya koefsentining asosiy talabi sanaladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Pirson korrelatsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Spirman korrelatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "regression tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "dispersion tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qiyoslаnаdigаn Х vа Y o‘zgаruvchilаrdа vаriаtsiyalаngаn bеlgilаr sоni tеng bo‘lishi qaysi korrelatsiya koefsentining asosiy talabi sanaladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Pirson korrelatsiyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Spirman korrelatsiyasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "regression tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "dispersion tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pirsоn kоrrеlyatsiya kоeffitsеntidа bаhоlаnishi mo‘ljаllаngаn tаnlаnmа ishtirоkchilаr soni qanday ko‘rinishda bo‘lishi lozim\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "n=5 dаn n=1000 gacha\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "n=1 dаn n=1000 gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "n=20 dаn n=2000 gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "n=1 dаn n=100 gacha\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ko‘p sonli o‘zgaruvchilarni oz sonli o‘zgaruvchilarga aylantirishga xizmat qiluvchi mezon\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "faktorli tahlil\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "dispersion tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "regression tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "elementar tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reduksiya atamasi qanday ma’noni anglatadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "qisqartirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "uzaytirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "bo‘rttirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hisoblash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Faktorli tahlil metodining asosiy vazifalarini ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "reduksiya, ifodalash\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "induksiya, deduksiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tizimlashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "rivojlantirish, takomillashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Faktorli tahlil metodining boshqa metodlardan asosiy farqi nimada\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "birlamchi natijalar emas balki qayta ishlangan ma’lumotlar asosida hisob kitob ishlari amalga oshiriladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "birlamchi natijalar asosida hisob kitob ishlari amalga oshiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "statistik tafovvutni aniqlashga xizmat qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "statistik tafovvutni mustaqil tanlanmalar asosida chiqaradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statistik tadqiqotlarda keng qo‘llaniladigan kompyuter dasturiy taminotlarini ko‘rsating\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Excell, SPSS\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Accees, mat-stat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "MS Word, Excell\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "statcalc\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,533 @@
+[
+    {
+        "id": 111,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learning (RL) nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learning qanday muammolar bilan shug’ ullanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learning qanday maqsadlar uchun qo’ llaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda qanday tizimlar (systems) yaratiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday holatlarda Reinforcement Learning qulay?\n"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "question": [
+            {
+                "type": "text",
+                "content": "Agent, Environment va Action qanday Reinforcement Learning tizimining asosiy qismlari?\n"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learning uchun asosiy algoritmlar qaysilar?\n"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reward, Policy va Value Functions Reinforcement Learning-da qanday ahamiyatga ega?\n"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningning Machine Learning turidan farqi nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learning (RL) va Supervised Learning (SL) orasidagi asosiy farq nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday holatlarda Reinforcement Learning modelini qo’llash mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bellman tenglamasi Reinforcement Learningda qanday qilib ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday holatlarda Reinforcement Learni algoritmlari robotexnika sohalarida foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda exploration va exploitation bu qanday muammolar?\n"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda Value iteration va Policy iteration algoritmlari qanday ishlaydi?\n"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday holatlarda Q-learning algoritmi foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learning uchun Tensorflow va PyTorch kabi dasturlash tillari qanday ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "question": [
+            {
+                "type": "text",
+                "content": "Actor-Critic algoritmi qanday ishlaydi va qanday holatlarda foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda qanday muammolar yuzaga kelishi mumkin (convergence issues)?\n"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-learning algoritmi nima uchun mashhur?\n"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"discount factor\" (chegaralangan daraja) nima uchun foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"Markov Decision Process\" (MDP) nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"Policy Gradient\" algoritmi qanday ishlaydi?\n"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"Deep Q-Networks\" (DQN) nima uchun mashhur?\n"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"Asynchronous Advantage Actor-Critic\" (A3C) algoritmi qanday ishlaydi?\n"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda qanday \"function approximation\" usullari foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningning \"exploration-exploitation dilemma\"ga qanday hal qilish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"environment\", \"agent\" va \"state\" qanday qilib belgilanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"policy\" va \"value function\" qanday o’ zaro farq qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"reward function\"ning ahamiyati qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Model-free\" va \"Model-based\" Reinforcement Learning orasidagi asosiy farq nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"on-policy\" va \"off-policy\" algoritmlar qanday farq qiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"action space\" va \"observation space\" nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"exploration strategies\" qanday turlarda bo’ lishi mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"discount factor\"ni qanday tanlash tavsiya etiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda \"episode\" va \"trajectory\" qanday belgilangan?\n"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "question": [
+            {
+                "type": "text",
+                "content": "Reinforcement Learningda qanday holatlarda \"function approximation\" usullari foydalanilishi kerak emas?\n"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-Learning nima uchun ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-Learningda \"Q-table\" nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-Learningda har qanday holatda \"Q-value\" qanday hisoblanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-Learningda \"greedy policy\" va \"epsilon-greedy policy\" qanday foydalaniladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-Learningda \"learning rate\" (o’ rganish tezligi) qanday tanlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-Learningda \"exploration\" va \"exploitation\" qanday amalga oshiriladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-Learningda \"discount factor\"ning qanday ta’ siri bor?\n"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-Learningda \"off-policy\" va \"on-policy\" qanday farqlar mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-Learningning muhim parametrlari qanday?\n"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "question": [
+            {
+                "type": "text",
+                "content": "Q-Learningni qanday holatlar uchun muvaffaqiyatli hisobga olish mumkin?\n"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSA algoritmi nima uchun ishlatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSA qanday holatda qulay?\n"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSAning asosiy qadam-bosqichi nimalardan iborat?\n"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSAda \"state-action\" qanday hisoblanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSAda \"Q-value\" qanday yangilashga o’ xshash hisoblanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSAda \"policy\" qanday o’ rnatiladi?\n"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSAning qanday \"epsilon-greedy policy\" usuli mavjud?\n"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSAda \"learning rate\" (o’ rganish tezligi) qanday tanlanadi?\n"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSAda \"discount factor\"ning qanday roli bor?\n"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSA algoritmi qanday holatlar uchun eng qulay?\n"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSA algoritmi va Q-learning algoritmi o’ rtasidagi asosiy farq nima?\n"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "question": [
+            {
+                "type": "text",
+                "content": "SARSA va Q-learning algoritmlari qanday holatlar uchun eng mos?\n"
+            }
+        ]
+    }
+]

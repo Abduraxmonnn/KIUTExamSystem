@@ -1,0 +1,5860 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "___________ lison, nutq va me’yorlardan iborat.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nutq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Gap\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Til\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ibora\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutqning qanday shakllari bor.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " og’zaki nutq va yozma nutq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " to’liq nutq va to’liqsiz nutq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aniq nutq va mavhum nutq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ilmiy nutq va og’zaki nutq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutq uslublari nechta.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 5 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 3ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 6 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ushbu gaplar qaysi nutq uslubiga mansub.\n"
+            },
+            {
+                "type": "text",
+                "content": "U davradan chiqdi. Oqsoqollardan Amir polvonni tirsagidan tortdi.\n"
+            },
+            {
+                "type": "text",
+                "content": "-Polvonlaring har yerda o’tlab yuribdi , bu numa o’tirish?- dedi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " so’zlashuv uslubi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ilmiy uslub\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ommabop (publististik) uslub\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " badiiy uslub\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ushbu gaplar qaysi nutq uslubiga mansub.\n"
+            },
+            {
+                "type": "text",
+                "content": "Obbo, hamma ishni do’ndiribsiz-da. Mazza qildik. Ketaqoool!\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " so’zlashuv uslubi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ilmiy uslub\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ommabop (publististik) uslub\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " badiiy uslub\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ushbu gaplar qaysi nutq uslubiga mansub.\n"
+            },
+            {
+                "type": "text",
+                "content": "Yomg’ir – suyuq tomchi holidagi atmosfera yog’ini. Tomchining diametri 0,5-0,6 mm bo’ladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " so’zlashuv uslubi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ilmiy uslub\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ommabop (publististik) uslub\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " badiiy uslub\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagi gapni to’ldiring.\n"
+            },
+            {
+                "type": "text",
+                "content": "Nutq rasmiy va norasmiy ________ larga bo’linadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " shakl\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " tur\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " vazifa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xususiyat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutq madaniyati tushunchasiga sinonim bo’la oladigan so’zlarni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " nutq jihati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nutq qoidalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nutq mahorati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nutq odobi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ritorika fan sifatida necha qismdan iborat bo’lgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 6\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "\"Stil\" so’ zining ma’ nosini belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Uslub\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Joziba\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yozish uchun ishlatiladigan uchi o’ tkirlashtirilgan tayoqchani bildiradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nutq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " O’zbek tilida 80 000 ta so’z bo’lib, shularda pedagog nechtasini ishlatish kerak.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 50 00 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 10 000 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 20 000 ta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 70 000 ta\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutqning asosiy xususiyatlari qaysi javobda noto’ g’ ri berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nutqning aniqligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nutqning yozmaligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nutqning tozaligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nutqning to’ g’ riligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Afinada notiqlik san’atining shakllanish va rivojiga nima turtki bo’lgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " amaldorlar hujjatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " soliq tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sud-targ’ibot tizimi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qirol majlislari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Miloddan avvalgi davrda Rimda logograflar deb kimlarni atashgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " farmonlarni yozuvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qonunni yaxshi biladigan notiq – advokatlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " imomlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " shoirlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ritorika nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Diniy ma’ruza so’zlash jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " chiroyli nutq so’zlovchi kishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " G’arbda chroyli nutq so’zlovchi kishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " G’arbda nutq madaniyatini o’rganadigan fan\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ritorikaning asl vatani qayer?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sitsiliya oroli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Sharq mamlakatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yunoniston\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Misr\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutq madaniyati va notiqlik san’ati yunonlarda nima deb atalgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ritorika\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " lingvistik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nolingvistik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’g’ri javob yoq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "’’Geodeziya’’ asari muallifi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ibn Sino\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Beruniy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Aristotel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Testeron\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "’’Qobusnoma ‘‘ asari muallifi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Demosfen\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aristotel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kaykovus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Navoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qadimda notiqlik san’ati qaysi buyuk insonlar darajasida ulug’langan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ustozlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "sarkardalar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "imperatorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "san’atkorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Arabcha tafakkur shakli va qonunlari haqidagi fan, logika….\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nutq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Madaniyat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ritorika\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mantiq\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ichki nutq nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Eshittirilmagan va yozilmagan o’ylangan nutqdir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tovush yordamida eshttirilib yoki grafik belgi bilan yozilib, boshqalarga qaratilgan nutqga.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nutq fikrlovchi kishining o’ziga qaratilgan nutq.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ikki va undan ortiq kishining suhbati.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashqi nutq nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Eshittirilmagan va yozilmagan o’ylangan nutqdir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tovush yordamida eshttirilib yoki grafik belgi bilan yozilib, boshqalarga qaratilgan nutqga.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nutq fikirlovchi kishining o’ziga qaratilgan nutq.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ikki va undan ortiq kishining suhbati.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Toza nutq…..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Adabiy tilning leksik normalariga yot unsurlardan xoli nutq\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Badiiy uslubda tuzilgan nutq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ilmiy uslubda tuzilgan nutq\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Shevaga xos nutq\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sitseron ilk bor sud jarayonida nutq so’zlaganda necha yosh bo’lgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 45\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 25\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 19\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 43\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Voizlik san’ati tarmoqlaridan bo’lgan muzakkirlik qaysi sohada qo’llanilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " boshqaruv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " siyosiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " diniy-axloqiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yuqori tabaqalar uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kaykovusning Qadimgi sharq amaliy tafakkurining go’zal na’munasi bo’lgan ‘‘Qobusnoma’’ asarining tarkibiy qismini belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 44 bobdan iborat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 49 bobdan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 58 bobdan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 7 bobdan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kaykovusning ‘‘Qobusnoma’’ asarining nechinchi bobida so’z va so’z sehri xususida yozilgan?.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 44 bobida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 7 bobida\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 2 bobida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 28 bobida\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Tilning asosiy vazifalarini belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " insonlarni muloqotini nazorat qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " axborot uzatadi va qabul qiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bevosita va bilvosita muloqot qilish vositasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tafakkurni shakllantiradi,bilimlarni xotirada saqlaydi,axborot uzatish va qabul qilishga imkoniyat yaratadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutq uslublari to’liq berilgan qatorni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " so’zlashuv, rasmiy-idoraviy, ommabop (publististik), badiiy uslublar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " so’zlashuv, ilmiy, rasmiy-idoraviy, badiiy uslublar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " so’zlashuv, ilmiy, rasmiy-idoraviy, ommabop (publististik), badiiy uslublar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ilmiy, rasmiy-idoraviy, ommabop (publististik), badiiy uslublar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " So’ zlashuv uslubining asosiy belgilari qaysi javobda berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Oddiylik, tantanavorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " betakalluflik, ilmiylik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " oddiylik, betakalluflik, hayajonlilik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " badiiylik, jozibadorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Rasmiy uslubda qanday matnlar tuziladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " E’ lonlar, she’ rlar, romanlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Qarorlar, idorahujjatlari,.dostonlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Hujjatlar, ish yuritish qog’ ozlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " E’ lonlar, qarorlar, qonunlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Fikrni og’ zaki bayon etish turlari qaysilar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Suhbat, bay on\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Munozara, saylanma bayon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Munozara, konspekt\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Suhbat, munozara, muhokama\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Notiqlik san’ati ilmiy -amaliy yo’nalish sifatida miloddan avval qaysi davlatlarda paydo bo’lgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Yunoniston va Rim\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Misr va Rim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Arabiston va Turkmaniston\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yunoniston va Misr\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "So’z qudrati va jonli nutq san’ati bilan mashhur bo’lgan voiz mufti Ziyoviddinxon Eshon Boboxon o’g’li nechanchi asrda faoliyat olib brogan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "XIX-asr boshida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " XX-asrda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " XVIII-asr oxirida\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " XIX-asrda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aristotelning Ritorika asari necha kitibdan tashkil topgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "uchta\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ikkita\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "beshta\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "o’nta\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘ Nutq - qudrаtli kuch: u ishоntirаdi, undаydi, mаjbur etаdi’’. Ushbu misralar qaysi donishmandga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kaykovus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " R.Emirsоn\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Abu Nasr Farobiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sitseron\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutq madaniyati predmetiga nimalar kiradi.\n"
+            },
+            {
+                "type": "text",
+                "content": "1) nutqning til qurilishi; 2) adabiy til me’yorlari; 3) nutqning kommunikativ fazilatlari;\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1,2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2,3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1,2,3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1,3\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘ Chunki uning tovushi juda past bo‘lib, bir oz duduqlanar, ‘‘R ’’ harfini talaffuz etolmas, g‘o‘ldirab, mujmal gapirar edi. Bulardan tashqari, uning elkasini qimirlatib turadigan odati ham bo‘lib, ko‘pchilik orasida o’ zini to ‘gri tuta bilmas edi ’’. Ushbu ta’rifga kimga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sokrat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aristotel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Demosfen\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kvintilian\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Ovozni yo‘qotmaslik, nafas olish organini ishdan chiqarmaslik uchun, avvalo, o‘qishni past ovoz bilan boshlab, keyinchalik asta- sekin kuchaytirish, lekin kuchli ovoz bilan o‘qish ham uzoq davom etmasligi kerak’’. Ushbu misralar qaysi allomaga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ibn Sino\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Beruniy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Farobiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " A.Navoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Har kimsaki nutqi farovon bo’lmas, Til ranjiga qilmoqligi imkon bo’lmas’’. Ushbu misralar kimga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Farobiyga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Navoiyga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yusuf Xos Hojibga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Boburga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘So’zlaringda bo’lsa fikru o’y yoniq, Bo’lsin har so’zingda bir nuqta aniq’’. Ushbu misralar kimga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xusrav Dehlaviy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Navoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yusuf Xos Hojib\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Bobur\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "’’ Bilgilkim,hamma hunardan so’z hunari yaxshi’’. Ushbu misralar qaysi donishmandga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Xusrav Dehlaviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Navoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kaykovus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Navoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "’’Ritorikaning barcha san’atlar- ilmlardan afzalligi ruhning jismdan afzalligi kabidir’’ Ushbu misralar qaysi donishmandga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sokrat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aristotel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Demosfen\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kvintelian\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "’’Tarixda yo yaxshi harbiy sarkarda,yo yaxshi notiq bo’lish kerak’’,-degan fikrlar kimga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sitseron\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aristotel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Demosfen\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kvintilian\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyidagi berilgan asarlarni mualliflari bilan to’g’ri belgilangan qatorni toping.\n"
+            },
+            {
+                "type": "text",
+                "content": "1.Sitseron. 2.Aristotel. 3.Kvintilian. 4.Beruniy.\n"
+            },
+            {
+                "type": "text",
+                "content": "a.’’Notiqlik bilimi’’.b.’’Geodeziya’’.c.’’Ritorika’’. d.’’Notiqlik haqida’’,’’Notiq’’.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1-c,2-b,3-a,4-d\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1-a,2-d,3-c,4-a\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1-d,2-c,3-a,4-b\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1-a,2-c,3-d,4-b\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "’’Qanday qilib ta’lim berish va ta’lim olish,fikrni qanday ifodalash,bayon etish ,qanday so’rash va javob berish (masalasi)ga kelganimizda, bu haqda bilimlarning eng birinchisi jismlarga va hodisalarga ism beruvchi til haqidagi ilmlar deb tasdiqlayman’’. Ushbu to’g’ri fikrlash, mazmundor, chiroyli nutq so’zlash haqidagi fikrlar kimga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Abu Rayhon Beruniy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Abu Nasr Farobiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Abu Ali ibn Sino\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Mahmud Koshg’ariy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "’’Nutq madaniyati va notiqlik san’ati’’ fanining tekshirish predmeti nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nutqning lisoniy qurilishi, adabiy til me’yorlari va nutqning kommunikativ vazifalari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Adabiy til me’yorlari bo’yicha ish yuritish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "To’g’ri va ta’sirli nutq tuzish yo’llarini o’rgatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Nutqdagi kamchiliklar ustida bahs yuritish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi buyuk alloma o’z farzandiga qilgan nasihatlari orqali o’quvchini yoqimli, muloyim, o’rinli so’zlashga, behuda gapirmaslikka undaydi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Beruniy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Farobiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Kaykovus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "A.Navoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutq madaniyati va notiqlik san’ati’’ fanining maqsadi nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Talabalarga nutq madaniyati va notiqlik san’ati bo’yicha bilim,ko’nikma va malakalarni berishdan iborat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Talabalarga chiroyli so’zlash qonun-qoidalarini o’rgatishdan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Talabalarga so’zlayotganda xato va kamchiliklarini tuzatishdan iborat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " a,b,c.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Til muncha sharafi bilan nutqning olatidir va ham nutqdirki,gar nopisand zohir bo’lsa,tilning ofatidur…’’ misralari kimga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "A.Navoiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " A.Yugnakiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Yusuf Xos Hojib\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kaykovus\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Eng аvvаlо, uning аdаbiy til mе’yorigа muvоfiq kеlish - bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nutqning tоzаligi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nutqning tо‘g‘riligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nutqning аniqligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nutqning mаntiqiyligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yunon notqiqlari berilgan javobni toping?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aristotel, Suqrot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Arostu\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Aflotun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Sistoren\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rim notiqlik maktabi asoschisi kim.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sistoren\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kvintilyan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aristotel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Demosfen\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qadimda Yunonistonda nutq matnlarini tuzib yoki yozib beruvchi kishilar qanday nom bilan atalganlar.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sinegorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Dramaturglar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Notiqlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Logograflar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aristotel 17 yoshida Afinaga keladi va bu yerda o ‘z zamonasining mashhur olimlaridan kimga shogird tushadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Platon\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Demosfen\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Suqrot\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Aflotun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "342-yili Makedoniya podshosi Filipp nima uchun Aristotelni Mitilendan\n"
+            },
+            {
+                "type": "text",
+                "content": "chaqirib oladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " davlatni boshqarish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o‘zining Aleksandr ismli 13 yoshli o‘g’lining tarbiyasi uchun\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " podsho kasal bo’lganligi uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " davlatda ilmli insonlarni ko’paytirish uchun\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutq madaniyatiga to’g’ri ta’rif berilgan qatorni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nutq madaniyati avvalo,barcha talaffuz me’yorlariga ahamiyat bergan holda so’zlashishdir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nutq madaniyati - to‘g‘ri,adabiy til me‘yorlariga amal qilgan holda so‘zlashdir.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nutq madaniyati suhbatdoshga yoqimli so’zlarni so’zlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nutq madaniyati – nutqning asosiy hususiyati bo’lib,ravon va aniq so’zlash lozim.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sen shunday so’zlaginki, ..... . Mark Fabiy Kvintilianning fikrini davom ettiring.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ...hamma sendan qo’rqsin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ...seni har bir kishi tushuna olsin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ...senga hammaning havasi kelsin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ..mansabingni oshirsinlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Notiq haqida’’, ‘‘Notiq’’, ‘‘Brut’’ asarlarining muallifi qaysi javobda to’g’ri ko’rsatilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Mark Fabiy Kvintilian\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Aristotel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Sitseron\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Forobiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ham so‘z ila elga o‘limdin najot, Ham so‘z ila topub o‘luk tan hayot.- misrasi kimga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " A.Navoiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mahmud Qoshg’ariy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " A.Farobiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " A.Yassaviy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aristotel ‘‘Ritorika’’ asarini nechanchi yil yozgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " miloddan avvalgi 300-yillarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " miloddan avvalgi 290-yillarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " miloddan avvalgi 400-yillarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " miloddan avvalgi 330-yillarda\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "’’Muhakamat ul-lug’atayn’’ asari muallifi kim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ulug’ shoir Yusuf Xos Hojib\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Adib Ahmad Yugnakiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Alisher Navoiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Abu Ali ibn Sino\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "’’Bilib so’zla , so’z bilig sanalur… ‘‘ fikr kimga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yusuf Xos Hojib\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ahmad Yugnakiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Alisher Navoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Abu Ali ibn Sino\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Nasihat yumshoq ohangda bo’lishi kerak,nasihat suhbat tarzida bo’lmog’i lozim’’ degan fikr qaysi allomaga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yusuf Xos Hojib\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ahmad Yugnakiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Alisher Navoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Abu Ali ibn Sino\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Kishi boshiga tushgan har qanday ish uning tili tufayli’’ degan fikr qaysi allomaga tegishli.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yusuf Xos Hojib\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ahmad Yugnakiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Alisher Navoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Abu Ali ibn Sino\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sharqda tilning paydo bo’lishi haqida qanday nazariyalar mavjud edi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Sharq va G’arb nazariyalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ilk va O’rta asrlar nazariyalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Izhor ,ilhom va ijtimoiy kelishuv nazariyasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishontira olish,maftun etish,ijobiy taassurot nazariyalari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Madaniy nutq me’yorlari to’g’ri ko’rsatilgan qatorni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " adabiy va noadabiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " noadabiy, fonetik, talaffuz, imloviy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " adabiy, noadabiy, fonetik, talaffuz, imloviy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " adabiy, noadabiy, fonetik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’zbekiston Respublikasi Fanlar akademiyasi Til va adabiyot instituti tomonidan tilga oid qaysi kitob nashr qilindi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’zbek tilining orfoepik lug’ati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ona tili – davlat tili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’zbek tilining asosiy imlo qoidalari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’zbek adabiy talaffuz lug’ati\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "So’zning hozirgi talaffuz me’yoriga mos kelmaydigan , qadimdan o’zlashib qolgan shaklda yozilishi qanday yozuv deb ataladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " morfologik yozuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " fonetik yozuv\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tarixiy-an’anaviy yozuv\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " shakliy yozuv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutqning mantiqiyligining asosiy sifatlari qaysi qatorda berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " to’g’riligi va aniqligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ravonligi va qisqaligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aniqligi va kamligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mazmunliligi va ifodaliligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutq tozaligi deganda nimani tushunish mumkin.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " barcha so’z turkumlari o’rnida qo’llanishi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qo’llaniladigan til birliklarining adabiy til me’yorlariga mos kelishi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " barcha til birliklari to’g’ri ishlarilganligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " til birliklarining mos kelishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutq ta’sirchaniligining asosiy vazifasi nimada.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tinglovchining onggi va hissiyotiga ta’sir qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’quvchining tarbiyasiga ta’sir qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tinglovchining ongini boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " o’quvchiga buyruq berish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tilning tasviriy vositalari nechta?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2 ga : kinoya va o’xshatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 3 ga : epitet, allegoriya va figuralar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 4 ga : metafora,epitet,gradatsiya va vazifadoshlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2 ga : troplar va figuralar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " H.Olimjonning : Men bir qora tunda tug’ildim,\n"
+            },
+            {
+                "type": "text",
+                "content": "Tug’ildimu shu on bo’g’ildim.\n"
+            },
+            {
+                "type": "text",
+                "content": "Ushbu misralarda qanday tasviriy vosita qo’llanilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’xshatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " epitet\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sinekdoxa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kinoya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Buxoroda gul kabi bir qiz yashaydi.Uning ismi-Shahlo…\n"
+            },
+            {
+                "type": "text",
+                "content": "Ushbu misralarda qanday tasviriy vosita qo’llanilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’xshatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " epitet\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sinekdoxa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kinoya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Bizni ‘‘homiy’’ lardan himoya qilg’il,\n"
+            },
+            {
+                "type": "text",
+                "content": "Degan Sharq xalqida piching –duo bor.\n"
+            },
+            {
+                "type": "text",
+                "content": "Xo’sh,janobi oliyqaysi sho’rlik xalq\n"
+            },
+            {
+                "type": "text",
+                "content": "Sizning ‘‘himoyangizga’’qolmish intizor (G’.G’ulom).\n"
+            },
+            {
+                "type": "text",
+                "content": "Ushbu misralarda qanday tasviriy vosita qo’llanilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " o’xshatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " epitet\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sinekdoxa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kinoya\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qorong’ u kechada ko’ kka ko’ z tikib,\n"
+            },
+            {
+                "type": "text",
+                "content": "Eng yorug’ yuduzdan seni so’ raymen.\n"
+            },
+            {
+                "type": "text",
+                "content": "Ul yulduz uyalib boshini bukib,\n"
+            },
+            {
+                "type": "text",
+                "content": "Aytadir men uni tushda ko’ ramen.\n"
+            },
+            {
+                "type": "text",
+                "content": "Tushumda ko’ rganda shunchalar go’ zal,\n"
+            },
+            {
+                "type": "text",
+                "content": "Oydanda go’ zaldir kundanda go’ zal!(A. Cho’lpon)\n"
+            },
+            {
+                "type": "text",
+                "content": "Ushbu misralarda qanday tasviriy vosita qo’llanilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " jonlantirish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " epitet\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sinekdoxa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kinoya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "O’zbekistonda Kirillcha-o’zbekcha yozuvga asoslangan imlo qoidasi nechanchi yili tasdiqlangan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1978-yil 16-dekabr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1956 –yil 4-aprel\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1995-yil 24-avgust\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1991-yil 31-avgust\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " O’zbekistonda Lotincha-o’zbekcha yozuvga asoslangan imlo qoidasi nechanchi yili tasdiqlangan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1978-yil 16-dekabr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1956 –yil 4-aprel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 1995-yil 24-avgust\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 1991-yil 31-avgust\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutqning ta’sirchanligi va ifodaligiga erishishda nimalardan foydalaniladi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Grammatik jihatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nutqning kommunikativ sifatlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " trop va uslubiy figuralar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " nutq uslublari\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Qo‘shiq’’ atamasi Turkiy adabiyotda ilk marta qaysi ijodkor asarida qayd etilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Abu Ali ibn Sino\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Abu Nasr Forobiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mahmud Qoshg‘ariy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yusuf Xos Hojib\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Alp Er To‘nga’’ rivoyati qaysi asarda berilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ‘‘Hibatul - haqoyiq’’da\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ‘‘Boburnoma’’da\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ‘‘Devonu lug‘otit - turk’’da\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ‘‘Qutadg‘u biliq’’da\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Pragmatik kompetensiya …………..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " til imkoniyatlaridan nutq sharoiti,vaziyatiga mos ravishda foydalanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " barcha til qoidalarini to’g’ri qo’llash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " faqat og’zaki nutqda so’zlay olish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " faqat rasmiy uslubda so’zlay olish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Ichindagi ichindadir’’ asarining muallifi kim?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jomiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Rudakiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Rumiy\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mashrab\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi o’zbek adibi butun faoliyati davomida ixcham so’zlash va ixcham yozishni targ’ib qilgan.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " G’afur G’ulom\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Hamid Olimjon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Oybek\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Abdulla Qahhor\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " «Bir dokladchining bir soatli nutqida «o’rtoqlar» so’zi 101 marta, «ya’ni» so’zi 73 marta, «demak» so’zi 60 marta takrorlanganligining guvohi bo’lamiz» gapidagi «o’rtoqlar», «ya’ni», «demak» so’zlari qanday so’zlar hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Varvarizmlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Jargonlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Parazit so’zlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vulgarizmlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "«Varvarizm» nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Jarg’on so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Nutqni buzadigan qo’pol so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishlatilmaydigan so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Noo’rin qo’llangan chet so’zlar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kеltirilgan ta’ riflardan qaysi biri polеmikaga tеgishli\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Har xil hodisani qiyoslash, aniqlash va to‘g‘ri xulosa chiqarishga qaratilgan oshkora bahs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tomonlar fikrining zidligi, u yoki bu masala bo‘yicha fikrni isbotlash usitida kurashish bahsi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ilmiy va ijtimoiy jarayondagi dolzarb bo‘lgan masalalar yuzasidan oshkora bahs\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Muhokama, ba’zi bir masalalar bo‘yicha fikr almashinish bahsi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ushbu jumladan mantiqiylik buzilgan о‘rinni aniqlang. Kо‘pgina turli masalalarni bevosita dars vaqtida hal qilishga tо‘g‘ri kelishi boshlang‘ich ta’limning о‘ziga xos xususiyatlaridan biri hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kо‘pgina sо‘zi ortiqcha;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bevosita sо‘zi notо‘g‘ri qо‘llangan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tо‘g‘ri kelishi notо‘g‘ri qо‘llangan;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " jumlada mantiqiylik buzilmagan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Metafora usuli bilan ma’no ko’chishiga qaysi misol to’g’ri keladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bahor o’ziga xos viqor bilan yurt uzra odim tashlaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bir kosani ichib bo’ldim, boshqa icholmayman\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nikolay zamonida ostonam tuyoq ko’rmagan edi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Arraning tishi o‘tmas bo‘lib qolibdi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Uslubiy jihatdan eng muvofiq so‘zlar orqali shakllangan gapni bеlgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ona yurtim, yеr uzra tolеing kulsin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ona yurtim, yеr uzra baxting kulsin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ona yurtim, zamin uzra tolеing kulsin\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ona yurtim, zamin uzra baxting kulsin\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Lеksik sinonimlar bеrilmagan qatorni aniqlang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir tiyin, uch pul\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Yuz, bеt, chеhra: ko‘klam, bahor;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kuldi, iljaydi, tirjaydi, ishshaydi, jilmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tilshunoslik, lingvistika, kosmos, fazo\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Insoniy nutq faoliyati qanday ko’rinishda namoyon bo’ladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " O’qish, yozish, chizish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " So’zlashish, tuzatish, yozish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Mutolaa qilish, so’zlash, eshitish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Eshitish, gapirish, baqirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Maqollar nutqning qaysi kommunikativ sifatiga xizmat qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aniqliliga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mantiqiyligiga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ifodaliligiga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tozaliliga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Vulgarizmlar -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " noo’rin qo’llangan chet so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qo’pol, haqorat so’zlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nutqda vazifa bajarmaydigan so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " to’g’ri javob berilmagan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Jargonlar -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " noo’rin qo’llangan chet so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nutqda vazifa bajarmaydigan so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qo’pol, haqorat so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " qiziqishi, mashg’uloti bir xil bo’lgan kishilar nutqi\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kanstelyarizmlar -\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " noo’rin qo’llangan chet so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nutqda vazifa bajarmaydigan so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " qo’pol, haqorat so’zlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " turg’un birliklar, rasmiy uslubga xos bo’lgan nutqiy shtamplar\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ushbu misralar kimga tegishli, uning to’g’ri berilgan ma’nosini belgilang.\n"
+            },
+            {
+                "type": "text",
+                "content": "‘‘Bilib so’zlasa so’z bilig sanalur ’’.\n"
+            },
+            {
+                "type": "text",
+                "content": "Ugush so’zlama so’z biror so’zla oz,\n"
+            },
+            {
+                "type": "text",
+                "content": "Tuman so’z tugunni bu bir so’zla yoz.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yusuf Xos Xojib - So’zni ko’p so’zlama , kamroq so’zla. Tuman(ming)so’z\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Yusuf Xos Xojib - Qisqa va aniq so’ zla.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Yusuf Xos Xojib - Doim xatosiz so’zla na tinglovchingni hurmat qil.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Yusuf Xos Xojib - Avval vaziyatni o’rganib , so’ng o’z fikringni bildir.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Rimda notiqlikning necha ko’ rinish bor edi va ular qaysilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2 ko’rinishda: Sud notiqligi va maqtov notiqligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 4 ko’rinishda: sud notiqligi,maqtov notiqligi,xarbiy notiqligi va maqtov notiqlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3 ko’rinishda: sud notiqligi, siyosiy notiqlik va maqtov notiqligi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 3 ko’rinishda: sud notiqligi,maqtov notiqligi va xarbiy notiqligi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutqning kommunikativ sifatlari to’g’ri berilgan qatorni belgilang.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Nutqning tоzаligi(sоfligi), nutqning mаntiqiyligi, nutqning tа’sirchаnligi, nutqning mаqsаdgа muvоfiqligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nutqning tо‘g‘riligi, nutqning аniqligi, nutqning tоzаligi(sоfligi), nutqning mаntiqiyligi, nutqning tа’sirchаnligi, nutqning mаqsаdgа muvоfiqligi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Nutqning tо‘g‘riligi, nutqning аniqligi, nutqning tоzаligi(sоfligi), nutqning mаntiqiyligi, nutqning mаqsаdgа muvоfiqligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Nutqning mаntiqiyligi, nutqning tа’sirchаnligi, nutqning mаqsаdgа muvоfiqligi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " V.G.Kоstоmаrоvning to’g’rilik so’ziga bergan ta’rifini toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " To’g’rilik-nutq mаdаniyatining zаrur, ajralmas qismi bo’lib, tinglovchiga yoqadigan so’zlardan foydalanish lozim/\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " To’g’rilik-nutq mаdаniyatining zаrur vа yagona shаrti sifаtidа аdаbiy tilning mа’lum pаytdа qаbul qilingаn qonunlariga muvofiq tarzda ishlatiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " To’g’rilik-nutq mаdаniyatining yozubning barcha qoidalari va uning tаlаffuz, imlоviy vа grаmmаtik mе’yorlаrini egаllаshni tushunish lоzim\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " To’g’rilik-nutq mаdаniyatining zаrur vа birinchi shаrti sifаtidа аdаbiy tilning mа’lum pаytdа qаbul qilingаn mе’yorigа qаt’iy vа аniq muvоfiq kеlishini, uning tаlаffuz, imlоviy vа grаmmаtik mе’yorlаrini egаllаshni tushunish lоzim.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutqning sofligiga nimalar ta’sir qiladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mаhаlliy diаlеkt vа shеvаlаrgа хоs so‘z, ibоrа, shuningdеk, grаmmаtik shаkllаr, so‘z vа so‘z birikmаlаrining tаlаffuzi, urg‘usi,o‘rinsiz qo‘llаngаn chеt so‘z vа so‘z birikmаlаri,jаrgоnlаr,vulgаrizmlаr,nutqdа оrtiqchа tаkrоrlаnаdigаn «pаrаzit» so‘zlаr,kаnsеlyarizmlаr.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mаhаlliy diаlеkt vа grаmmаtik shаkllаr, so‘z vа so‘z birikmаlаrining tаlаffuzi, urg‘usi,o‘rinsiz qo‘llаngаn chеt so‘z vа so‘z birikmаlаri,jаrgоnlаr,vulgаrizmlаr.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " so‘z vа so‘z birikmаlаrining tаlаffuzi, urg‘usi,o‘rinsiz qo‘llаngаn chеt so‘z vа so‘z birikmаlаri,jаrgоnlаr,vulgаrizmlаr,nutqdа оrtiqchа tаkrоrlаnаdigаn «pаrаzit» so‘zlаr,kаnsеlyarizmlаr.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mаhаlliy diаlеkt vа shеvаlаrgа хоs so‘z, ibоrа, shuningdеk, grаmmаtik shаkllаr, jаrgоnlаr,vulgаrizmlаr,nutqdа оrtiqchа tаkrоrlаnаdigаn «pаrаzit» so‘zlаr,kаnsеlyarizmlаr.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Mantiqan to’g’ri tuzilgan gapni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " «Fеrmа jоnkuyarlаri dаvlаtgа sut sоtish plаnlаrini оlti оylik muddаtdаn оldin bаjаrаdilаr»\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " «Fеrmа jоnkuyarlаri dаvlаtgа sut sоtish plаnlаrini muddаtdаn оldin bаjаrаdilаr»\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " «Fеrmа jоnkuyarlаri оlti dаvlаtgа sut sоtish plаnlаrini muddаtdаn оldin bаjаrаdilаr»\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " «Fеrmа jоnkuyarlаri dаvlаtgа sut sоtish оlti оylik plаnlаrini muddаtdаn оldin bаjаrаdilаr»\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutqning maqsadga muvofiqligi nima.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " nutqning tinglоvchi tоmоnidаn qаbul qilinishidаgi ruhiy vаziyat hаm e’tibоrgа оlingan holda so’zlanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nutqning mаqsаdgа muvоfiqligi - nutq mаdаniyati аdаbiy til mе’yorlаrini puхtа egаllаsh vа ulаrdаn nutqdа to‘liq fоydаlаnish dеmаkdir.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nutqning mаntiqiyligi dеgаndа, yaхlit bir sistеmа аsоsidа tuzilgаn, fikrlаr rivоji izchil bo‘lgаn, hаr bir so‘z, ibоrа аniq mаqsаdgа mоs hоldа ishlаtilаdigаn nutqni tushunаmiz.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tushunchа mаntiqiyligi mаntiqiy fikr tuzilishidаn hаmdа bu tuzilishning nutqdаgi til bеlgilаrining mа’nоviy аlоqаlаridаn ibоrаt.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Buyuk qomusiy olim Beruniy nechta asar yozgan va ulardan qaysilari bizga yetib kelgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 150 dan ortiq asar qoldirgan va bizgacha yetib kelgan asarlari ‘‘Xronologiya’’, ‘‘Hindiston’’, ‘‘Geodeziya’’, ‘‘Mineralogiya’’.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 370 dan ortiq asar qoldirgan va bizgacha yetib kelgan asarlari ‘‘Xronologiya, ‘‘Mafotih-ul-ulum (Ilmlar kaliti).\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 500 dan ortiq asar qoldirgan va bizgacha yetib kelgan asarlari ‘‘Xronologiya’’, ‘‘Hindiston’’, ‘‘Geodeziya’’, ‘‘Mineralogiya’’.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 250 dan ortiq asar qoldirgan va bizgacha yetib kelgan asarlari‘‘Qobusnoma’’ va ‘‘Geodeziya’’.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Berilgan so’zlarni izohi bilan to’g’ri ko’rsatilgan qatorni belgilang.\n"
+            },
+            {
+                "type": "text",
+                "content": "1.Notiq. 2.Voiz. 3.Va’z. 4.Va’zxonlik. 5.Ritor. 6.Ritorika.\n"
+            },
+            {
+                "type": "text",
+                "content": "a.diniy ma’ruza so’zlash jarayoni\n"
+            },
+            {
+                "type": "text",
+                "content": "b.Sharqda diniy ma’ruza so’zlaydigan kishi\n"
+            },
+            {
+                "type": "text",
+                "content": "c.G’arbda nutq madaniyatini o’rganuvchi fan\n"
+            },
+            {
+                "type": "text",
+                "content": "d.chiroyli nutq so’zlovchi kishi\n"
+            },
+            {
+                "type": "text",
+                "content": "e.voizlar so’zlaydigan nutq\n"
+            },
+            {
+                "type": "text",
+                "content": "f.G’arbda chiroyli ma’ruza so’zlovchilar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1-b,2-c,3-a,4-f,5-d,6-e\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1-c,2-d,3-b,4-a,5-f,6-e\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1-a,2-f,3-e,4-d,5-c,6-b\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1-d,2-b,3-e,4-a,5-f,6-c\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Abu Abdulloh al-Xorazmiy o‘zining ‘‘Mafotih-ul-ulum (Ilmlar kaliti) asarida asosan nimalar haqida so’z yuritadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ‘‘Ovozni yo‘qotmaslik, nafas olish organini ishdan chiqarmaslik uchun, avvalo, o‘qishni past ovoz bilan boshlab, keyinchalik asta- sekin kuchaytirish, lekin kuchli ovoz bilan o‘qish ham uzoq davom etmasligi kerak’’ligi to’g’risida yozadi..\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ushbu asarda o‘sha davr notiqligining ba’zi bir masalalari, adabiyotshunoslik fani istilohlari, ularning ta’rifi haqida, shuningdek, devonxona ish qog‘ozlari va ularning shakllari, ishlatiladigan terminlar (atamalar) haqida ma’lumot bergan.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " u o’z asarida so‘zlarni to‘g‘ri tanlash va qo‘llash haqida: ‘‘Bilib so‘zlasa, so‘z bilig sanalur’’ degan edi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " uning mazkur asari turkiy xalqlar orasida keng tarqalgan bo’lib payg‘ambarlar haqidagi qissalardan iboratdir.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ahmad Yugnakiydan saqlanib qolgan yagona adabiy so‘z san’ati va adabiy merosi qaysi asar hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ‘‘Xronologiya’’ va‘‘Hindiston\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " uning ‘‘Qissasi Rabg‘uziy’’ asari turkiy xalqlar orasida keng tarqalgan. U payg‘ambarlar haqidagi qissalardan iboratdir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ‘‘Qutadg‘u bilig’’ (‘‘Baxt keltiruvchi bilim’’) asari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ‘‘Hibatul-haqoyiq’’ (‘‘Haqiqatlar armug‘oni’’) badiiy so‘z san’ati hamda adabiy tilning juda qimmatli va nodir yodgorligidir.\n"
+            },
+            {
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutqning kommunikativ sifatlari to’g’ri ko’rsatilgan javobni toping.\n"
+            },
+            {
+                "type": "text",
+                "content": "1. Nutqning tо‘g‘riligi. 2. Nutqning аniqligi. 3. Nutq maqsadining ochiqligi.\n"
+            },
+            {
+                "type": "text",
+                "content": "4. Nutqning tоzаligi. 5. Nutqning mаntiqiyligi. 6. Nutqning tа’sirchаnligi.\n"
+            },
+            {
+                "type": "text",
+                "content": "7. Nutqning mаqsаdgа muvоfiqligi. 8. Nutqning sifatliligi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1,2,4,5,6\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1,2,3,4,6,7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 3, 4, 6, 7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2, 4, 6, 8\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutq to‘g‘ri bo‘lishi uchun, аsоsаn, qanday mе’yorgа qаt’iy аmаl qilish tаlаb qilinаdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ikkita, urg’u va gramatika\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " uchta, urg’u, gramatika va voqeylikga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ikkita, voqeylik va gramatikaga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " uchta, fikr aniqligi, urg’u va gramatikaga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Kаykоvusga tegishli fikrni toping?\n"
+            },
+            {
+                "type": "text",
+                "content": "1. «Ey fаrzаnd, so‘zning yuzin vа оrqаsin bilg‘il vа ulаrgа riоya qilg‘il, hаr nа so‘z dеsаng yuzi bilа dеgil, tо suхаngo‘y bo‘lg‘аysаn. Аgаr so‘z аytib, so‘zning nеchuk ekаnin bilmаsаng qushgа o‘хshаrsаnki, ungа to‘ti dеrlаr, ul dоim so‘zlаr, аmmо so‘zning mа’nоsin bilmаs».\n"
+            },
+            {
+                "type": "text",
+                "content": "2. «Shundаy kishini nоtiq (suхаngo‘y) dеymizki, uning hаr so‘zi хаlqqа tushunаrli bo‘lsin vа хаlqning hаr so‘zi ungа hаm mа’lum bo‘lsin».\n"
+            },
+            {
+                "type": "text",
+                "content": "3. «Nutq mаdаniyatining zаrur vа birinchi shаrti sifаtidа аdаbiy tilning mа’lum pаytdа qаbul qilingаn mе’yorigа qаt’iy vа аniq muvоfiq kеlishini, uning tаlаffuz, imlоviy vа grаmmаtik mе’yorlаrini egаllаshni tushunish lоzim bo‘lаdi».\n"
+            },
+            {
+                "type": "text",
+                "content": "4. «So‘z kuchidаn yiqilur minbаr hаm, dоr hаm,\n"
+            },
+            {
+                "type": "text",
+                "content": "So‘z birlа chiqаr indаn ilоn – murdоr hаmii»\n"
+            },
+            {
+                "type": "text",
+                "content": "5. «Kitоbхоngа bir fikrni yoki bir nаrsаni tаsаvvur qildirish uchun kishini bоshini qоtirmаydigаn, оchiq, rаvоn vа sоddа til kеrаk»\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 1,2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 2,3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1,5\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 4,5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Nutqimizning sоfligiga tа’sir qilаdigan omillar to’g’ri ko’rsatilgan javobni toping.\n"
+            },
+            {
+                "type": "text",
+                "content": "1. Grammatik xatolar 2.O‘rinsiz qo‘llаngаn chеt so‘z vа so‘z birikmаlаri.\n"
+            },
+            {
+                "type": "text",
+                "content": "3.Jаrgоnlаr. 4.Vulgаrizmlаr. 5.Nutqdа оrtiqchа tаkrоrlаnаdigаn so‘zlаr.\n"
+            },
+            {
+                "type": "text",
+                "content": "6.Kаnsеlyarizmlаr. 7.Urg’uning noto’g’ri qo’llanilishi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2,3,4,5,6\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1, 3,4,7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4,5,6,7\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2,6,7\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutqdа o‘rinsiz ishlаtilgаn bоshqа tillаrgа оid so‘zlаr nima dеb аtаlаdi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "vаrvаrizm\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "vulgаrizm\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "jаrgоnlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kаnsеlyarizmlаr\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nutqning til qurilishi, adabiy til me’yorlari nutqning kommunikativ fazilatlari nutq madaniyatining .............. hisoblanadi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " predmeti\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "vazifasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "maqsadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "obyekti\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " «G‘оyagа qаrshi fаqаt g‘оya, fikrgа qаrshi fаqаt fikr, jаhоlаtgа qаrshi fаqat mа’rifаt bilаn bаhsgа kirishish, оlishish mumkin» fikr muallifi kim...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " I.Karimov\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Abdurauf Fitrat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Abdulla Qodriy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Cho’lpon\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Qadimgi Yunon(a) va Rim notiqlari (b) to’g’ri berilgan javobni toping.\n"
+            },
+            {
+                "type": "text",
+                "content": "1. Sitseron\n"
+            },
+            {
+                "type": "text",
+                "content": "2. Demosfen\n"
+            },
+            {
+                "type": "text",
+                "content": "3. Aristotel\n"
+            },
+            {
+                "type": "text",
+                "content": "4. Arastu\n"
+            },
+            {
+                "type": "text",
+                "content": "5. Mark Fabiy Kvintilian\n"
+            },
+            {
+                "type": "text",
+                "content": "6. Aflotun\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " a.2,3,4,6 b. 1,5,\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "a. 1,2,3,4 b. 5,6,\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "a. 2, 4 b. 1,3,5,6\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "a. 6,5 b. 1,2,3,4\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Maktabga tayyorgarlik ko’ rish uchun 5 yoshdan 7 yoshgacha bo’ lgan yoshni tayinlagan Rim notig’i kim.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kvintilian\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Aristotel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Aflotun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Sitseron\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi notiqlar tomonidan yaratilgan nurtq matnlari nasriy va poetik ijod namunasi sanalgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Aristotel, Demosfen va Sitseron\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Arastu, Aristotel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mark Fabiy Kvintilian va Aflotun\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kivintilan, Sitseron\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Rim notiqligining o‘ziga xosligi nimalarda ko‘ringan?1)fikrning muxtasarligi, 2) ixchamligi,3)ilg‘or yunon madaniyati,4)so‘zning qudrati\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1,2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1,2,3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3,4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "2,3\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "...fikricha, \"har qanday notiqning asosiy maqsadi – tinglovchining zavqini uyg‘otib, o‘ziga moyil qilishdan iborat\". Nuqtalar o‘rniga kerakli so‘zni qo‘ying.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Setseron\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Demokl\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "G‘azzoliy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Katon\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Rim imperiyasida, kabi yirik notiqlar yetishib chiqdi. 1) Katon, aka-uka Grakxlar 2) Mark Antoniy 3) Sitseron 4)Demosfen\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1,2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1,2,3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " ‘‘Bir tomondan yozuvchiga o’z yozma nutqini to’g’ri va ta’sirchan bayon etish imkoniyatini bersa, ikkinchi tomondan, o’quvchiga muayyan matndagi fikrni yozuvchi bayon etganidek tushuna olish imkonini beradi’’ Tushirib qoldirilgan so’zni toping.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Punktuatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Talaffuz\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Intonatsiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Orfografiya\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

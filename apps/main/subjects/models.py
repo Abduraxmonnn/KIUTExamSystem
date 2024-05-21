@@ -20,3 +20,4 @@ class Subject(models.Model):
 	class Meta:
 		verbose_name = 'Subject'
 		verbose_name_plural = 'Subjects'
+		ordering = ('full_name', )

@@ -1,0 +1,5660 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қайта қуриш бу ...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " уй-жой фондини (биносини) қисман ёки тўлиқ бузиш ва бўшаган ҳудудда капитал уй-жой қуриш орқали таъмирлаш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "бинонинг асосий техник-иқтисодий кўрсаткичлари ёки унинг мақсади ўзгариши билан боғлиқ бўлган ва яшаш шароитларини, хизмат кўрсатиш сифатини яхшилаш ва хизматлар рўйхатини кенгайтириш мақсадида амалга ошириладиган қурилиш ишлари ва ташкилий-техник тадбирлар мажмуаси.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "бино ва иншоотлар элементларининг ишончлилигини ошириш ва тегишли такомиллаштириш билан мустаҳкамлаш ёки тиклаш учун таъмирлаш ва тиклаш ишлари мажмуаси.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " бинонинг фақат техник-иқтисодий кўрсаткичлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Уй-жой фондини тиклаш вазифасига нималар киради:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ободонлаштириш даражасига етказиш билан уй-жой фондини қайта қуриш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Биноларни бузиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Конструкцияларни алмаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Томни алмаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Жисмоний эскириш деганда нима тушунилади:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Конструкцияларнинг техник хусусиятларини йўқотиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Бинонинг функционал мақсадига мос келмаслиги\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Квартира тартибининг замонавий талабларга мувофиқлиги\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ободонлаштириш етарли емас\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Манавий бузилиш нимани англатади:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Биноларнинг функционал ва технологик мақсадларга мос келмаслиги\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Тузилмаларнинг юк кўтариш қобилиятини камайтириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Асосларни намлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Тузилмаларни йўқ қилиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Турар-жой биносини модернизация қилиш нима?:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Квартираларни замонавий талабларга мувофиқ қайта қуриш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Биноларни капитал таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Жорий таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Профилактик хизмат\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Квартира биносини реконструкция қилиш учун нима қўлланилади:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Қўшимча қават\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Бинонинг бузилиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Структуранинг алоҳида қисмларини алмаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Таъмирлаш ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Мажбурий таъсирлар ва юкларга нима тегишли:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Доимий юклар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ҳаво ҳароратининг ўзгариши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Қуёш радиацияси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Кимёвий таъсирлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Турар-жой биноларини реконструксия қилишда қуйидаги ишлардан қайси бири бажарилмайди:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Янги пойдеворларни қуриш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ускуналарни демонтаж қилиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Тузилмаларни демонтаж қилиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Конструкцияларни мустаҳкамлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Реконструксия пайтида турар-жой биносининг қайси конструктив элементи ўзгармайди:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ташқи девор\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ички парда деворлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Муҳандислик тармоқлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "поллар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қайта қуриш ва янги қурилиш ўртасидаги фарқ:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ҳисобланган монтаж ишларини корхонанинг асосий фаолияти билан бирлаштириш зарурати\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Янги биноларни қуриш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " асосий устахоналарнинг куриш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Очиқ усулда қазиб олиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Саноат биноларини реконструксия қилиш натижасида қандай вазифалар ҳал қилинмоқда:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Корхоналарнинг техник даражасини ошириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Тузилмаларнинг жисмоний эскиришини бартараф этиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Омборларни бошқариш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Хавфсизлик чоралари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Мавжуд корхоналарда ишларни муҳандислик тайёрлаш асосан нимани таъминлаши керак:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Ишлаб чикаришни минимал тўхтатиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Хавфсизлик чоралари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ускунани алмаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Пардоз ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қуйидаги ишлардан қайси бири ташкилий босқичда ҳал қилинмоқда:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Қайта қуриш ташкилоти лойиҳасини ишлаб чиқиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Механизмларни тайёрлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ҳудуднинг тартиби\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ер ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қуйидаги ишлардан қайси бири тайёргарлик босқичида амалга оширилади:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Қурилиш майдончани тайерлаш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " лойиҳа-смета ҳужжатларини ишлаб чиқиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Молиялаштиришнинг очилиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Қурилиш объектини текшириш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ким томонидан алоҳида объектларни реконструксия қилиш лойиҳасини ишлаб чиқади:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Бош пудратчи ташкилот\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Заказчик\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Субпудрат ташкилоти\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Лойиҳа ташкилоти\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қайта қуриш шароитида горизонтал ўрнатиш пайтида нима тақдим этилади:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Бетон томонидан конструкция кучини олиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Конструкцияларни ўрнатиш кетма -кетлиги\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Тузилмалар массасини ҳисобга олиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ўрнатиш йўналиши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Комплекс таъмирлаш билан қандай иш тури боғлиқ:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Жисмоний ва маънавий бузилишларни бартараф етиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Жорий таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Профилактик текширув\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Фавқулодда таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қайта қуришни янги қурилишдан ажратиб турадиган иш тури:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Конструкцияларни мустаҳкамлаш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ер ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "монтаж ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "пардоз ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Саноат биноларини реконструксия қилиш зарурати:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Маҳсулот турларини ўзгартириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Мунтазам таъмирлаш зарурати\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ускуналарни қисман таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Муҳандислик тармоқларини қайта ётқизиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қуйидаги ишлардан қайси бири умумий қурилиш билан боғлиқ:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Бетон ишлари\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Сантехника ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Электромонтаж ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Технологик ускуналарни ўрнатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Бу одатда реконструкция жараенида техник ва иқтисодий салоҳият даражасини белгилайди:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " иш технологияси ва механизацияси\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Конструкция номенклатураси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Яшаш шароитлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Якуний ишлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Бинонинг дастлабки сўровига нима киритилган\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Конструкциялар ва иншоотларни текшириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Тузилмаларнинг ўлчов чизмалари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Камчиликлар ва зарарларни тизимлаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Тузилмаларнинг физик-механик хусусиятларини ўрнатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Батафсил экспертизага нималар киритилган:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Зарар ва тугунларни аниқлаштириш ва тизимлаштириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Техник ҳужжатлар билан танишиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Фавқулодда вазият билан майдончаларни аниқлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Конструкцияни текшириш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Конструкцияларни демонтаж қилишда нималарга эътибор бериш керак:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " меҳнат шароитларини ҳимоя қилиш чоралари учун\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Демонтаж қилинган конструкциялар турлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Демонтаж қилинган конструкцияларнинг материали\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Тузилмаларни сақлаш учун\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қушимча қават қуришда (надстройка) нимани эътиборга олиш керак:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Асосий қурилиш иншоотларининг юк кўтариш қобилиятини ҳисоблаш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "қушимча қават учун конструктив ечимлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Архитектура ва режалаштириш ечимлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Иш ишлаб чиқаришни механизациялаш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қайта қуриш лойиҳасини ким ташкил қилади:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Лойиҳа ташкилоти\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Пудратчи ташкилот\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Субпудрат ташкилоти\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Тузувчи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Янги қурилишдан реконструксия ишлари турларининг хусусиятларидан бири:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Конструкцияларни демонтаж қилиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Конструкцияларни ўрнатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ер ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Махсус ўрнатиш ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": " Ишлаб чиқариш шароитида қайси иш тури енг кўп меҳнат талаб қилади:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ўрнатиш ва демонтаж ишлари\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ишга тушириш ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Тугатиш ишлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ковакларига ўрнатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Турар-жой биноларини \"қисман\" қайта қуришнинг асосий тушунчаси:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Мавжуд тартибни соддалаштириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Деворларни қайта тартибга солиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Томни ўзгартириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Девор Тугайди\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Турар-жой биноларини тўлиқ реконструкция қилиш пайтида нима ўзгаришсиз қолади:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ташқи деворлар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Трансверс ички деворлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Санитария иншоотларининг бўйлама ички деворлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Санитария иншоотларининг деворлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қайси ҳолатга кўра эски жамоат биноларини реконструксия қилиш ишлари олиб борилмоқда:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " маънавий ва жисмоний ескириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " маънавий бузилиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Жисмоний ескириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Профилактик хизмат\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Қайси кўп қаватли саноат бинолари эскиришига қараб иқтисодий жиҳатдан мақсадга мувофиқдир:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Тенг манавий ва жисмоний бузилиш даврлари билан\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Озгина манавий ескириш билан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Кам жисмоний ескириш билан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Манавий ва жисмоний ескиришдаги катта фарқ билан\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кўп қаватли саноат биноларини реконструкция қилишнинг асосий талаби:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Норматив санитария-гигиена шароитларини яратиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Деворларни демонтаж қилиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Бино кенгайтмалари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Баъзи конструкцияларни алмаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қуйидаги иншоотлардан қайси бирини жамоат бинолари деб таснифлаш мумкин:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Институти\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Катта панелли уй\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Тўғон\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Канализация тозалаш ўсимликлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Биноларни ёки унинг алоҳида қисмларини тўлиқ демонтаж қилиш ва йўқ қилиш амалга оширилганда:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Реконструксия пайтида\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Биноларни қайта қуриш учун\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Қурилиш пойдеворларини қисман таъмирлаш учун\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ички деворларни алмаштиришда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Конструкцияларни демонтаж қилиш ва йўқ қилиш усулини танлашда нима ҳисобга олинади:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Фойдали ва қайта ишлатиладиган қурилиш иншоотларининг рентабеллиги\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Юк кўтарувчи деворлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Уланиш жойлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Конструкциялар массаси\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Конструкцияларни қўлда демонтаж қилишда нималарга эътибор бериш керак:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ўрнатиш ва маҳкамлаш схемаси\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "қурилиш материаллари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Чиқиндиларни ташиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Кўтариш кран\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Конструкцияларни йўқ қилиш бошланишидан олдин қандай ишларни бажариш керак:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Муҳандислик тармоқларини ўчириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ўрмонларни демонтаж қилиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ҳалокат жойларини белгиланг\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Tрaнспорт воситаларининг турини аниқланг\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Катта коммунал квартираларни оилавий жойлаштириш мақсадида замонавий талабаларга жавоб берадиган қилиб қайта режалаштириш нима дейилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "модернизация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " реставрация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " реконструкция\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " капитал таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўлчамлари ёки холатининг ўзгариши, шунингдек бинонинг бутунлай ёки алоъида функсионал вазифаси ўзгариши муносабати билан қайта ўзгаришига нима дейилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " реконструкция\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " модернизация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " реставрация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " қайта таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Турар–жой биносининг ҳовли ҳудудини ва мухандислик ускуналаруни замонавий талабга жавоб бера оладиган даражага етказишга нима дейилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ободонлаштириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " модернизация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " қайта таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " реставрация\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Вақт ўтиши билан ўз кўринишини йўқотган, бузилган, зарар етган тарихий ва маданий ёдгорликларни тарихий аниқ кўринишини, меъёрий – бадиий бойликларни махсус илмий текшириш ишларини олиб бориб аввалги қиёфасига қайтариш ишларига нима дейилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " реставрация\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " реконструкция\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " модернизация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " қайта таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Шаҳарнинг эски қисми ҳудудуни режавий белгиларига кўра неча турга ажратиш мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Турар-жой жамғармасини қайта тузиш лойиҳасини ишлаб чиқишда қандай омиллар назарга олинади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Бинонинг техник холати, санитур-гигиеник талаблар, аҳолини хўжалик хизмати бўйича идоралар билан таъминлаш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " техник эксплуатация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " технологик эксплуатация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " физикавий емирилиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бино ёки алоҳида қисмларнинг эксплуатация жараёнижда секин аста аввалги сифатларини йўқотишига нима дейилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " жисмоний емирилиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " техник эксплуатация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " маънавий емирилиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " технологик эксплуатация\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Меъморий режалаштириш ёки ҳажмий ечимларнинг бинонинг ички шароитларининг, мухандислик ускуналарини замонавий талаб ва меъёрларга жавоб бера олмасликгига нима дейилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " маънавий емирилиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " техник эксплуатация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " технологик эксплуатация\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " физикавий емирилиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинонинг жисмоний емирилиши нима асосида аниқланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " айрим конструктив элементларни жисмоний емирилиши асосида\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " деворларнинг жисмоний емирилиши асосида\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " пойдеворнинг жисмоний емирилиши асосида\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " томёпманинг жисмоний емирилиши асосида\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Жисмоний емирилиш қанча бўлганда бино яшашга нолойиқ деб топилади ва бузилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "80 %\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "60 %\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "30 %\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "45 %\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўз ошхонасига эга бўлмаган турар-жой биносини маънавий енмирилиши қандай кўрсатгичга эга?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "15%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "5%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "10%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "20%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Эски бинолар жойлашган кварталлардаги турар-жой фондининг лойиҳаларини қайта режалаштиришда қандай факторлар ҳисобга олинади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " биноларнинг техник ҳолати\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " магистраллар реконструксияси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " шаҳар реконструкцияси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " бинонинг маънавий емирилиши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Деворларнинг яроқли ҳолатида (жисмоний емирилиш 30%) қандай ишлар амалга оширилиши керак?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " капитал таъмирлаш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " комплекс капитал тамирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " замонавийлаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Реконструкция\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Эски қурилган кварталларни реконструкция қилишда санитария гигиена талабининг аҳамиятли ва энг қийин бажариладиган шарти қайси?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " инсоляция меъёрини сақлаш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " шаҳарсозлик талаблари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " биноларни техник ҳолати\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " зарарли газлар таъсири\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинолар ҳолатини жисмоний эскириш бўйича баҳолашда бино ҳолатининг баҳоси ‘‘яхши’’ бўлганда жисмоний эскириш фоизи нечага тенг бўлади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0-10%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "11-20%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "21-30%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "31-40%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинолар ҳолатини жисмоний эскириш бўйича баҳолашда бино ҳолатининг баҳоси ‘‘тўлиқ қониқарли’’ бўлганда жисмоний эскириш фоизи нечага тенг бўлади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "11-20%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "21-30%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "31-40%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0-10%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинолар ҳолатини жисмоний эскириш бўйича баҳолашда бино ҳолатининг баҳоси ‘‘қониқарли’’ бўлганда жисмоний эскириш фоизи нечага тенг бўлади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "21-30%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "31-40%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0-10%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "11-20%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинолар ҳолатини жисмоний эскириш бўйича баҳолашда бино ҳолатининг баҳоси ‘‘ўрта қониқарли’’ бўлганда жисмоний эскириш фоизи нечага тенг бўлади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "31-40%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0-10%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "11-20%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "21-30%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинолар ҳолатини жисмоний эскириш бўйича баҳолашда бино ҳолатининг баҳоси ‘‘қониқарсиз’’ бўлганда жисмоний эскириш фоизи нечага тенг бўлади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "41-60%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0-10%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "11-20%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "21-30%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинолар ҳолатини жисмоний эскириш бўйича баҳолашда бино ҳолатининг баҳоси ‘‘путурдан кетган (ветхое)’’ бўлганда жисмоний эскириш фоизи нечага тенг бўлади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "61-75%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0-10%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "11-20%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "21-30%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинолар ҳолатини жисмоний эскириш бўйича баҳолашда бино ҳолатининг баҳоси ‘‘яроқсиз (авария ҳолатида)’’ бўлганда жисмоний эскириш фоизи нечага тенг бўлади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "75%дан кўп\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0-10%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "11-20%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "21-30%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Хонанинг худди ўзига ўхшаш хонага нисбатан ёритилганлигини 40% ошириш учун нима қилиш кифоя қилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " хонани оч рангга бўяш керак\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " янги дераза очиш керак\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " хонани бузиб янгидан қуриш керак\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " хеч нима қилмаслик керак\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қурилиш даври бўйича архитектура – режалаш структураси уч гуруҳини айтиб беринг?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1045 йил гача, 1946-1960 йил, 1960 йилдан кейин;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1917 йил гача, 1917-1940 йил, 1970 йилдан кейин;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1917 йил гача, 1917-1930 йил, 1931 йилдан кейин;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1930 йил гача, 1931-1960 йил, 1961 йилдан кейин;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Турар жой биноларининг нечта гурух капиталлиги бор?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "6\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "9\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "10\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Жамоат биноларини нечта гурух капиталлиги бор?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "9\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "6\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "10\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Турар жой бинолари қурилиш капиталлиги бўйича қандай гуруҳларга бўлинади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "6 та гурух (150, 125, 100, 50, 30, 15)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "9 гурух (175, 125, 100, 80, 50, 25, 15, 10)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "3 гурух (50, 75, 100)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "6 гурух (20, 50, 75, 100, 150, 200)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Жамоат бинолари капиталлиги бўйича қандай гурухларга бўлинади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "9 гурухга (175,150, 125, 100, 80, 50, 25, 15, 10)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3 гурухга (50, 75, 100)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "6 гурухга (150, 125, 100, 50, 30, 15)\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5 гурухга (10, 20, 50, 75, 200)\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Объектларни реконструкция қилинаётганда иқтисодий самарадорлик мезони деб нима хисобланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " келтирилган харажатлар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " капитал\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " қурилиш монтаж ишларни таннархи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " махсулотни таннархи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Турар жой жамғармасини реконструкция қилишдан мақсад?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " қайта қуришдан иборат бўлиб режалашини қулай қилиб ободонлаштириш даражасини кўтаришдан иборат\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " шахарсозлик талабларини инобатга олишдан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ижтимоий масалаларни қайта кўриб чиқишдан иборат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " иқтисодий ва техник самарасига ва уни амалга ошишда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Биноларнинг меъёрий хизмат муддати қандай аниқланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ҚМҚ асосида\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ўртача кўрсаткич асосида\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " календар вақт бўйича\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " хар хил факторлар таъсирида\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Саноат корхоналарини реконструкция қилиш вақтида янги қурилишга хос бўлмаган қандай ишларни бажариш эътиёжи пайдо бўлади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " конструкцияларни кучайтириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " қурилма элементларини йиғиш монтажи\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " колонналарни ўрнатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ускуналарни ўрнатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Саноат бинолари ва иншоотларининг жисмоний умрбоқийлиги қанақа чегараларда белгиланган?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "50-100 йил\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "50-75 йил\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "100-150 йил\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "150-200 йил\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Саноат корхоналарини реконструкция қилишда қайси вақтда айрим участкаларини тўхтатиш мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " қурилиш монтаж ишларни керакли материал техник ресурс ва механизмлар билан тўла таъминланганда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ишлаб чиқаришни кенгайтирганда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " янги ускуналар ўрнатилганда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " технологик жараённи модернизацияланганда\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Реконструкциялашда янги қурилишга хос бўлмаган мажмуий ишларни бажариш эхтиёжи қачон пайди бўлади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " конструкцияларни демонтажи ва кучайтириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " конструкцияларни кучайтириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " тўсма конструкцияларни ўрнатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " янги конструкцияларни ўрнатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Демонтаж ишларнинг хусусияти нимадан иборат?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " бинонинг сақлаб қолинадиган қисмлари ва кучайтириладиган конструкцияларининг устуворлигини таъминлашдан\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " тўсма конструкцияларни ўрнатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " конструкцияларни ажратиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ёритиш тизимларини ўрнатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Асосий жамғармаларни комплекс қайта ишлаш режаси нималардан иборат?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " мавжуд бино ва иншоотларни сақлаш, реконструкция, янгиланиш, кенгайиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " мавжуд бино ва иншоотларни бузиш, янгиларини қуриш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " мавжуд бино ва иншоотларни бузиш, жорий таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " мавжуд бино ва иншоотларни бузиш, янгиларини қуриш, кенгайтириш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Мавжуд конструкцияларни демонтаж қилмасдан цехларни геометрик параметрларини алмаштириш нима деб аталади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " махсус ишлар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " махсус машиналар комплекси\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " мажбурий ишлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " талаб этилган ишлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Саноат бинолари эксплуатация қилиш мобайнида технология ўзгариши неча марта юз беради?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "3-5 марта\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "2-3 марта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4 марта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "2 марта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Тўсиқ конструкцияларни товуш изоляция тавсифларини қандай аниқлаш лозим?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ГОСТ ёки РСН асосида\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " асбоблар билан текшириш асосида\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " визуал текшириш асосида\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " бинони паспорти асосида\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Йирик панелли биноларда энг самарали қўшимча иссиқ сақловчанликни ошириш йўли?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " юмшоқ ва ярим қаттиқ плиталар ёрдамида иситиш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " қоришма керамзитобетон\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ёрдамида ёрдамида\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " оғир бетон ёрдамида\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Йирик панелли биноларда иссиқ сақловчанлигини ошириш учун қалинлиги қандай плиталар қўлланилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "70-100 мм\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "20-30 мм\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "30-50 мм\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "100-120 мм\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қўшимча иссиқ сақловчанлик учун керамзитобетоннинг зичлиги қанча бўлиши керак?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1200 кг/м\\textsuperscript{3} дан ошмаслиги керак\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "600 кг/м\\textsuperscript{3} дан камроқ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "700 кг/м\\textsuperscript{3}\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1300 кг/м\\textsuperscript{3}\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қўшимча иссиқизоляция сувоқ қатлами қалинлиги қанча бўлиши керак?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "30 мм\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "50 мм\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "10 мм\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "40 мм\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Тўсиқ конструкцияларнинг иссиқлик техникаси бўйича тавсифлари нимага жавоб бериши керак?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ҚМҚ ва амалдаги стандартларга\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "инструментал текширишга\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "визуал текширишга\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "талаб даражасига\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Товуш изоляциясини оширишнинг энг самарали усули?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "қайишқоқ ва юпқа плиталар ўрнатиш, гипсли, ёғоч толали\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "юпқа плиталар темир-бетондан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "юпқа плиталар пластикдан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "юпқа плиталар металлдан\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Анъанавий қуриладиган уйларда алмаштирилмайдиган конструкцияларнинг улуши неча фоизни ташкил этади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "42%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "30%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "25%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "15%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Уй-жой жамьармасини қайта режалашда текшириш ишларининг қандай турлари амалга оширилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "умумий-дастлабки, синчиклаб\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "умумий, деталли\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "умумий дастлабки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "деталли, дастлабки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Кашкаров болғачаси Физдел болғачасидан нима билан фарқ қилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "эталон ўзакли билан\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "аниқлш даражаси билан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "оғирлиги билан\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "дастаси билан\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қанақа биноларнинг конструкция мустаҳкамлигини аниқлаш учун бузилмас усул билан фойдаланилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "эксплуатация қилинаётган\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "жамоат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "турар-жой\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "эксплуатация қилинмаётган\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бино деформациясининг энг кенг тарқалган қандай турларини биласиз?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "дарзлар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "бир текис чўкиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "кренлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "тузлар чиқиши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бино ва конструкцияларни текшириш неча усулда бажарилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бино ва конструкцияларни текшириш усуллари қайсилар?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " дастлабки ёки умумий текширув ва синчиклаб текшириш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " пойдеворларни текшириш, дастлабки текширув\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " синчиклаб текшириш ва кузатиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " кузатиш ва текшириш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Дастлабки текширув қандай бинолар учун ўтказилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " капитал ремонт ёки реконструкция қилиниши кўзда тутилган бинолар учун\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " бузилиши кўзда тутилган бинолар учун\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " янги қурилаётган бинолар учун\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " лойихаси кўзда тутилган бинолар учун\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қурилиш конструкцияларини синчиклаб текшириш натижасидаолиниши тавсия этиладиган маълумотларга нималар киради?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ойдинлаштирилган техник лойиҳа жуххатлари маълумотлари, ўлчов чмзмалари\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " пойдеворлар ҳақидаги маълумотлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " мухандислик чизмалари ҳақидаги маълумотлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Иш олиб боиш шароити ҳақидаги маълумотлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Дастлабки текширишда бинонинг қандай тавсифлари аниқланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " умумий, меъморий- режавий, конструкция бўйича, ободонлаштириш ва қурилмаларнинг мавжудлигииш олиб бориш шароити\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " конструкцияга таъсир этувчи статик юклар таъсири\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " фасадларнинг техник холати\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Архитектура режалаштириш ва ҳажмий ечимлари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Шурф чуқурлиги пойдеворнинг остидан қанча пастда бўлши керак?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "0,5м пастроқда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "0,1м пастроқда\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "0,5 м гача\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "0,1 м гача\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бино ташқи кўринишидаги шикастланишнинг асосий сабаби?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ғишт термасида хар хил ашёларнинг қўлланилиши, терма қоришмасини ва қопламани кўчиши\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " терма қоришмасини музлаши, қоплама қатлами кўчиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " қоплама қатлами кўчиши, безаклашда хар хил ашёларни ишлатилиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ғишт термасида хар хил ашёларнинг қўлланилиши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинонинг фасади шикастланганда қандай ишлар бажарилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " хар бир бино учун индивидуал режа бўйича\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " қўшимча арматура қўйилади\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " торкретбетон билан тиклаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ифлос ва чангдан тозалаш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Биноларни фасадини яхшилаш ва дефектларни четлаштириш ишлари қайсилар?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " хар бир конкрет вазиятда алохида аниқланади\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " фасадларни қисман таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " реконструкция\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " фасадларни таъмирлаш\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қаватлараро ораёпмалар учун салқиликнинг чегаравий миқдори қандай?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1/250\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1/200\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1/150\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1/100\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Чордоқ ёпмалар учун салқиликнинг чегаравий миқдори қандай?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1/200\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1/180\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1/150\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1/100\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Қаватлараро ораёпмалар бош тўсинлари учун салқиликнинг чегаравий миқдори қандай?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "1/400\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "1/200\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "1/250\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "1/300\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Текшириш усулларига қайсилар киради?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " кўриш, механик-оддий асбоблар ёрдамида, бузилмас усулларда асбоблар билан, лабораториявий, аслий синов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " сикчиклаб текшириш, асос ва пойдеворни текшириш, фасадларни текшириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " визуал кўриш, бинонинг четки томонида карст пайдо бўлиши, техникавий изланиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Техникавий изланиш, бинонинг ўрта қисмида карст пайдо бўлиши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Биноларни текширишнинг механик –оддий асбоблар ёрдамида текшириш усулида қандай конструктив элементларни текшириш мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " тош, бетон, қисман ёғоч\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " бетон, ғишт, металл\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " бузиш мумкин бўлган элементлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " фақат металл\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Биноларни текширишнинг бузилмас усулларда асбоблар билан текширишда қандай конструктив элементларни текшириш мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " бетон, ғишт, металл, ёғоч\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " бузиш мумкин бўлган элементлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " фақат металл\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " тош, бетон, қисман ёғоч\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Биноларни текширишнинг лабораториявий текширув усулида қандай конструктив элементларни текшириш мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Намуна олиш мумкин бўлган жойларда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " бузиш мумкин бўлган элементлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " фақат металл\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " тош, бетон, қисман ёғоч\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Биноларни текширишнинг аслий синов усулида қандай конструктив элементларни текшириш мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " бузиш мумкин бўлган элементлар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " фақат металл\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " тош, бетон, қисман ёғоч\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " фақат ёғоч\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Импулсли усулларида энг кенг қўлланиладиган асбоб?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ултратовушли дефектоскоп УКБ-1\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " МИР-2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " МПБ-6\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " МИ-8\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бетон мустаҳкамлигини бузилмас усулда аниқловчи асбоб қандай номланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ОНИКС-2,5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " МИР-2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " МПБ-6\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " МИ-8\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бетоннинг ҳимоя қатламини ва конструкциядаги арматура диаметрини ва жойлашишини аниқловчи асбоб қандай номланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ПОИСК-2,5\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " МИР-2\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " МПБ-6\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " МИ-8\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Хоналардаги ҳавонинг нисбий намлиги қандай асбоб ёрдамида ўлчанади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " психрометр\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " амперметр\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " вольтметр\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " прогибомер\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ораёпманинг солқилигини қандай асбоб ёрдамида аниқланади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " прогибомер\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " психрометр\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " амперметр\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " вольтметр\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинодаги алмаштирилган қурилмалар ҳажмига боғлиқ бўлган модернизациянинг қанақа турларини биласиз?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " М 25, М 50, М 75, М 100;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " М 10, М 20, М 25, М 30;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " М 50, М 100, М 150,М 200;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " М 50, М 75, М 100, М 125,\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Турар-жой биноларини модернизация қилишда қайта режалаш қанақа дажасини биласиз?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " квартира ичида, бино сексиясида, бино ўлчамларини ўзгартириш.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " блок сексиясида, бино ўлчамлари, ҳудуд.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " квартира ичида бино ўлчамларини ўзгартириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " блок сексия, ҳудудида\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинодаги муҳандислик жиҳозларини модернизация ишлари олиб борилганда нималарни инобатга олиш керак?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " техник ҳолати, жисмоний ва маънавий емирилиши, эксплуатация даври\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " эксплуатация даври, материал емирилиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " техник ҳолати, материал\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " жисмоний ва маънавий емирилиши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Жисмоний эскириш қанча бўлганда бинода капитал таъмирлаш ишлари билан биргаликда квартираларни қайта режалаштириб ички конструкциялар ўзгаради?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "40-50%\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "10-20%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "50-60%\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "80-100%\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Жисмоний эскириш деганда нимаи тушунилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " жисмоний эскириш деганда, эксплуатация қилиш жараёнида емирилиш оқибатида инженерлик қурилмаларининг дастлабки хоссаларини аста-секин йўқотилиши тушунилади.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Жисмоний эскириш деганда, янги лойиҳаларни ишлаб чиқиш тушунилади.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Жисмоний эскириш деганда, бинога устқурмалар қуриш тушунилади.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Жисмоний эскириш деганда эксплуатация қилиш жараёнида инженерлик қурилмаларининг дастлабки хоссаларини йўқотмаслиги тушунилади.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинонинг иссиқдан ҳимояланиши қандай ишлар амалга оширилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " деворларни қўшимча иссиқлик изоляция қилиш, ёпма ва ораёпмада қўшимча иссиқ сақловчи қатлам қилиш, бурчаклар иссиқ сақловчанлигини ошириш, дераза ва балкон эшикларига зичловчи қистирмалар ўрнатиш, чокларни герметизациялаш\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " хоналарни таркиби ва уларни майдони, хоналар аро алока вазифаси, ушбу ва технологик муассавий лойихалаштириш нормаларига муофик лойихалаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " санитар узелларни одамларни доимо турадиган жойидан 75м дан куп булмаган масофада жойлаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ходимлар сони 220 дан кам булмаган биноларда ёнгинга карши постларни вестибюлда жойлаштиришга\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ўзбекистон қуруқ иссиқ иқлим район шароитида турар жой биноларининг қуёшдан ҳимояланишига бўлган асосий функционал талабларга нималар киради?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " хонани бир турдаги дискоимфортдан ҳимоялаш, инсоляцияни меъёрий давомийлиги, табиий шамоллатиш имкони, ташқи муҳит билан кўриш алоқаси, табиий ёритилгандаги меъёрий шароит\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " хоналарни таркиби ва уларни майдони, хоналар аро алока вазифаси, ушбу ва технологик муассавий лойихалаштириш нормаларига муофик лойихалаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " санитар узелларни одамларни доимо турадиган жойидан 75м дан куп булмаган масофада жойлаштириш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ходимлар сони 220 дан кам булмаган биноларда ёнгинга карши постларни вестибюлда жойлаштиришга\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Маъмурий биноларнинг хоналари қандай асосий гуруҳларга булинади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ишчи, информация, илмий –техника ва ёрдамчи хоналар\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " мухандислик тармоқлари хоналари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " саноат корхоналари хоналари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ишлаб чиқариш хоналари\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Маъмурий биноларнинг хоналари нечта асосий гуруҳларга булинади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "2\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "3\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "4\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "5\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинони текширишда аниқланган деформацияларини қандай турларга бўлиш мумкин?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " умумий, махаллий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " умумий, қисман\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " умумий бино чўкиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " маҳаллий чўкиши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Биноларда умумий деформацияси пайдо бўлишининг асосий сабаблари?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " асоснинг нотекис чўкиши\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " қурилманинг эгилиши\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " бино кренлари\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " асоснинг бир текис чўкиши\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Бинонинг мустахкамлигини аниқлаш учун қанақа механик асбобларни биласиз?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Физдел болғачаси, Кашкаров болғачаси, ПО-1 асбоб\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Физдел болғачаси, Кашкаров болғачаси, штангенциркул\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Наумов болғачаси, Кашкаров больачаси, манометр\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Наумов болғачаси, микроскопи МИР-2\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Махаллий деформация деб нимага айтилади?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " силжиш, солқиллик, буралиш бир конструкцияда ва бирикув узелларда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " солқиллик, бир конструкция да буралиш\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " деформациялар силжишлар\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " деформацияла дарзлар\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]

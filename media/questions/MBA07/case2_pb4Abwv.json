@@ -1,0 +1,5916 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarishning sir-asrorlarini ilmiy asosda o‘rganishda menejment fani quyidagi usullarning qaysi birini qo‘llaydi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "modellashtirish usuli, sistemali yondashuv usuli, eksperiment usuli, kuzatish usuli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "eksperiment usuli, SWOT tahlil\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kuzatish usuli, qayta aloqalar, irarxiyalik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "modellashtirish usuli, prognozlashtirish, tahlil qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashkiliy strukturalarni hosil qiladigan boshqarish organlari:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " boshqaruv bo’inlari va bosqichlari shaklida bo’ladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " boshqaruv tizimi shaklida bo‘ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " boshqaruv bo‘g‘inlari shaklida bo‘ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " boshqaruv bosqichlari shaklida bo‘ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqaruv funksiyalari deganda qanday faoliyatni tushunasiz?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bu ishlab chiqarishni tashkil etish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " menejmentning ma’lum masalalarini yechishga yo‘naltirilgan ishlar yig‘indisi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bu boshqaruv apparati xodimlarining mehnat jarayoni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bu ishlab chiqarish jarayonining muvofiqlashtirib turuvchi marketing\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Menejment axboroti deganda nimani tushunasiz?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ma’lumot, xabarlar yig‘indisi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " hujjatlar, kanallar, aloqa, ko‘rsatkichlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " iqtisodiy ko‘rsatkichlar yig‘indisi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " menejerlar, kadrlar haqida ma’lumot\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Stratеgik qaror:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yuqori boshqaruv organlari tomonidan tub va istiqbolli dasturlarni ishlab chiqish maqsadlarida qabul qilinadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qisqa muddatga qabul qilinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bir xil muammoga daxldor bo’lgan qaror.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " korxonaning joriy, tеzkor rеjalarini tuzish maqsadida qabul qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Norasmiy guruhlar deganda nima tushunasiz?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bu maqsadga erishish uchun shakllangan tarqoq odamlar guruhidir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " bu berilgan ish yoki uning qismi (operatsiya, jarayon)ni bajaruvchi insonlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bu tashkilot nazorati uchun shakllangan guruhdir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bu strategiyani belgilash uchun shakllangan guruhdir.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Menejer va tadbirkor o‘rtasida qanday farq bor?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " birinchisi yollanma boshqaruvchi, ikkinchisi esa mulk egasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ular o‘rtasida xech qanday farq yo‘q\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " birinchisi yollanma boshqaruvchi, ikkinchisi uning faoliyatini nazorat qiluvchi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " birinchisi buyruq beradi, ikkinchisi bajaradi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qanday rahbarlik uslublarini bilasiz?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " avtoritar, liberal, demokratik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " adolat, e’tibor, rasmiy va norasmiy munosabatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ma’lum qilish, tushuntirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muammoni yechish, o‘zaro hamkorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyida qabul qilingan uslublarning qaysi biri boshqarish uslubi bo’lib hisoblanadi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " iqtisodiy ,tashkiliy-ma’muriy, ijtimoiy-ruxiy metodlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tashkiliy-tartibli metodlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy-iqtisodiy metodlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy –tashkiliy metodlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xodimlar nechi guruh tamoyillаrgа asoslanib bоshqаrilаdi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 2 ta: Xоdimlаr bilаn ishlаshning umumiy tаmоyillаri vа xоdimlаr bilаn ishlаshning tаshkiliy tаmоyillаri\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 1 ta: Xоdimlаr bilаn ishlаshning umumiy tаmоyillаri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 2 ta: xоdimlаr bilаn ishlаshning salbiy tаmоyillаri, xоdimlаr bilаn ishlаshning zаmоnаviy tаmоyillаri\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 2 ta: xоdimlаr bilаn ishlаshning individual va zаmоnаviy tаmоyillаri\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxonalarda strategik qarorlar bilan qaysi toifa menejerlari shug’ ullanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " top menejerlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’ rta pog’ ona menejerlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " quyi pog’ ona menejerlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ofis menejerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashkilotning uzoq muddatga mo’ljallangan vazifa va maqsadlariga erishishda foydalanadigan tashkiliy xatti- harakatlar....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Komhaniya strategiyasi hisoblanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning taktik rejasi hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Мarketing strategiyasi hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kompaniyanaing tashqi muhit tasiriga javobi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarish strukturalarining tashkiliy turlari:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Chiziqli, chiziqli shtabli, funktsional, chiziqli funktsional, dasturli maqsadli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bosh shtab, chiziqli funktsional\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Chiziqsiz funktsional\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Funktsional\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Motivatsiya so‘zi qaysi tildan olingan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " lotin\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ingliz\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " rus\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yunon\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarish strukturasi deganda:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " boshqarish maqsadlarini amalga oshiruvchi va funktsiyalarini bajaruvchi bir-biri bilan bog‘langan turli boshqaruv organlari va bo‘g‘inlarining majmuasi tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " boshqaruv organlari tizimida quyi organlarning yuqori organlarga bo‘ysinishi va ular o‘rtasidagi o‘zaro aloqa tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bo‘linmalar yig‘indisi, ularning tarkibi va o‘zaro aloqa shakllari tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " guruhlarda ishlash tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Menejer qo’l ostidagi asosiy resurslaridan biri nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " inson resurslari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " texnologiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " nodir metallar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kapital\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mehnat resurslarini boshqarishning asosiy maqsadi nimadan iborat?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ishchilar va xodimlarning qobiliyatlarini, yanada jadal va unumli mehnat qilishga qo’zg’atish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ishchi va xodimlarni nazorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " mehnatni to’g’ri taqsimlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " mehnatni to’g’ri olib borish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarishning iqtisodiy mеtodlari:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " iqtisodiy manfaatlardan foydalanishga asoslanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " buyruqlar, farmoyishlar va qullanmalar chiqarish, ularning bajarilishini nazorat qilishga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kadrlarni to’g’ri tanlashga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " boshqarish apparatining muayyan strukturasini tuzishga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Taktik qarorlar qanday qarorlar :\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Taktik qarorlar maqsadga erishishning vosita va usullari xususidagi joriy,\n"
+            },
+            {
+                "type": "text",
+                "content": "tezkor qarorlardir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kadrlar masalasini hal qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Operativ qarorlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Korxona, firmaning strategik rejalarini tuzish va joriy qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Aniq qarorlar deb qanday qarorlarga aytiladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Aniq qarorlar to’la-to’kis axborot mavjud bo’lgan holdagina qabul qilinadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ma’lumotlar kam bo’lganda holdagina qabul qilinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Tahsabbusli xolatlarda holdagina qabul qilinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "yakka boshchilik asosidagi boshqaruv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kollegiallik(ko’pchilik) tamoyili deganda nimani tushunasiz:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kollegiallik tamoyili \"koalitsiyalar\", ya’ ni turli ittifoq yoki birlashmalar ro’yi rost ma’ lum bo’lib turgan vaziyatlarda, har xil fikrlar raqobat qiladigan hollarda amal qiladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’rtasidagi munosabatlar tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "maqsadga erishishning vosita va usullari xususidagi joriy, tezkor qarorlardir.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kasaba uyushmalari va boshqa tashkilotlar bilan izaro munosabatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xodimlarni boshqarish tushunchasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kadrlar tayyorlashni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "kadrlar qabul qilishni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "kadrlarni o’rgatishni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kadrlar bilan ishlashni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarishning iqtisodiy mеtodlari:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " iqtisodiy manfaatlardan foydalanishga asoslanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " buyruqlar, farmoyishlar va qullanmalar chiqarish, ularning bajarilishini nazorat qilishga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kadrlarni to’g’ri tanlashga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " boshqarish apparatining muayyan strukturasini tuzishga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xodimlarni boshqarish tushunchasi nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " kadrlar bilan ishlashni\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kadrlar tayyorlashni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kadrlar qabul qilishni\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kadrlarni o’rgatishni\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Motivatsiya bu - ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " xodimlarni maqasad sari undash, turtki berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " chegirma va aksiyalar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " intellektual rag’batlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " moddiy va intellektual jarimalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bugungi amaliyotda xodim va uni boshqarish muammosiga ikki xil yondashuv mavjud:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " inson resurslarini boshqarish va xodimlarni boshqarish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " resurslarini boshqarish va xodimlarni boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " inson resurslarini boshqarish va mehnatni boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " insonni boshqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Funktsional boshqaruv-bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " aloxida turdagi faoliyatlar asosidagi boshqaruv.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " jamoa shaklidagi boshqaruv.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " axborotli uslub.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yakkaboshchilikka asoslangan uslub.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Chiziqli-funktsional boshqaruv-bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " vazifalar asosidagi boshqaruv\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " chiziqli-funktsional uslublarning qishilishi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " jamoa shaklidagi boshqaruv.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yakkaboshchilikka asoslangan uslub.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxonani bir-biri bilan bog‘langan, yaxlit bir butunlik sifatida o‘rganish qanday yondashuvga xos?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tizimli\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " iqtisodiy\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " texnologik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ijtimoiy\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Boshqarish ta’limotidagi asosiy maktablarni sanab o’ting\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ilmiy menejment maktabi, mumtoz menejment maktabi, \"Insoniy munosabatlar maktabi\", miqdoriy tizimli menejment maktabi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mumtoz menejment maktabi, ilmiy menejment maktabi, chiziqli-funksional menejment maktabi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " aralash, chiziqli, funksional menejment maktablari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " innovatsion menejment maktabi, demokratik menejment maktabi, liberal, menejment maktabi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarishning tashkiliy – ma’muriy metodlari:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " buyruqlar, farmoyishlar va qo‘llanmalar chiqarish ularning bajarilishini nazorat qilishga asoslanadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " umumjamiyat manfaatlaridan foydalanishga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " jamoa manfaatlaridan foydalanishga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " har bir boshqaruv bo‘g‘inining funktsiyalarini belgilashga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": " Quyidagilarning qaysi biri menejmentning prinsiplaridan biri hisoblanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " ierarxiya prinsipi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nomenklatura prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " formalizm, rasmiyatchilik prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " konservatizm prinsipi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Delegirovaniye bu –\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " topshiriqlarni bajarilish majburiyatini o’ z zimmasiga oladigan vakolatli shaxsga berish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " mavjud topshiriqni bajarish va ularning qoniqarli javoblarining majburiyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tashkilot resurlaridan fodalanishni cheklash huquqi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xarakat qila olish qobiliyati\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Nazorat bu:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " muayyan vazifalarni bajarish va tashkilot maqsadlariga erishishni ta’ minlash uchun boshqaruv funksiyalaridan biri va boshqaruv faoliyatining turi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " inson faoliyatining turi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tashkilot xodimlarining ishini bashorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xodimlarning individual vazifalarni bajarishini kuzatish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarish nazariyasining dastlabki kurtaklari kimlar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yuli Sezar, A.Makedonski, A.Temur\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "F Kotler, A.Smit, Yuli Sezar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "F. Magellan, J.Belford, Ch.Nobel\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "A. Smit K, Kalumb, F. Kotler\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaysi kompaniya egasi A. Fayol tamoyillariga asoslangan ‘‘texnokratik’’ boshqarish usuli orqali yuqori rivojlanishga erishdi ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " G.Ford\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ferrari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "F.Lamborjini\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "K. Benz\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Chiziqli shtabli struktura:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " har bir chiziqli rahbar qoshida ixtisoslashgan xizmatlar, maslahatchilar kengashi, ya’ni shtablar tuzish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " har bir boshqaruv bo‘g‘iniga muayyan funktsiyalarni biriktirib qo‘yish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " barcha qo‘yi rahbarlar va ishlab chiqarish yacheykalarini korxona rahbariga bo‘ysindirish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tizimli boshqaruv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilish zaruriyati qachon paydo boladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mavjud holatning bo’lishi lozim bo’lgan xolat bilan mos tushmasligidan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " korxonada nizolar kelib chiqishidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " har kun qabul qilinadigan va amalga oshiriladigan odatiy maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xodimlarni korxonaning rejasini bajarishga safarbar qilishga qaratilgan faoliyat tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Stratеgik qaror:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yuqori boshqaruv organlari tomonidan tub va istiqbolli dasturlarni ishlab chiqish maqsadlarida qabul qilinadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " qisqa muddatga qabul qilinadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bir xil muammoga daxldor bo’lgan qaror.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " korxonaning joriy, tеzkor rеjalarini tuzish maqsadida qabul qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Axborot almashinuvining samaradorligiga ta’sir qiladigan muhim omil?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bir tomonlama aloqa\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " axborotning kamligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " teskari aloqaning mavjudligi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " murakkab axborot tizimi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Amal qilish davriga ko’ra qarorlar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " vaqtinchalik qarorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " an’ anaviy qarorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " stеrotil qarorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " taktik qarorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sertifikatlashtirish – bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mahsulotni qo‘yilgan talablarga javob berishini tasdiqlash;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ma’lum bir tovarni ishlab chiqarish uchun berilgan ruxsat;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sifat to‘g‘risidagi talablarni iste’molchilar va ta’minotchilar bilan kelishuvi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muammolarni o’rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Biznes jarayon – bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " tadbirkorlik faoliyatining jarayonlari;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ma’lum bir faoliyatni boshqarish jarayonlarining ketma-ketligi;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tadbirkorlik faoliyatining xususiyatlari.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " tadbirkorlik faoliyatining normalari.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Insonni maqsadga erishish uchun faoliyatga undash jarayoni bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "motivatsiya\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "o‘zaro aloqa\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "boshqaruv bosqichi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ish tajribasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sotsial ehtiyojlarga nimalar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ijodiy mehnat oila va muhabbat, bilim va axborot\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " kadrlar zaxirasini rejalashtirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " boshqaruv bosqichi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ishchilarni xursand qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyida qayd qilingan xislatlarning qaysi biri rahbarni el nazaridan qolishiga olib keladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mahalliychilik, balandparvozlik, ta’magarlik\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ko’rinishi, ta’magarlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " kayfiyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "kiyinishi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kompetentsiya-bu…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "kasbiy tayorgarlik darajasi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xodimning xuquq va majburiyatlarini yig’indisi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bilimlar yig’indisi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " umumta’lim tayorgarlik darajasi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Yapon kompaniyalariga ustunlik beruvchi element bu ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Inson omili\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Texnika omili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Mehnat omili\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kapital omil\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Evropa va Amerika kompaniyalari ishchilarni tanlashda qanday usuldan foydalanishadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Psixologik testlardan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ishchi malakasidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bir hafta davomida ishchi salohiyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishchining kelib chiqish darajasi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kadrlarni ishga olishda tanlovning qanday usullaridan qo‘llaniladi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Xodimdan so‘rovnomani to‘ldirish yoki ishi va unga qo‘yiladigan talablarni yoritish talab etiladi, xodimning bevosita boshlig‘i bilan suhbatlashish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xodimning bevosita boshlig‘i bilan suhbatlashish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Xodimni kuzatish va u bajarayotgan vazifa va harakatlarini aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xodimni o’rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Strategik boshqaruv jarayonida qaror qabul qilish ketma ketligi tarkibini ko’rsating:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muhit tahlili, maqsadlarni aniqlash va strategiyani tanlash, strategiyani amalga oshirish, baholash va amalga oshirilishini nazorat qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muhit tahlili, maqsadlarni aniqlash va strategiyani tanlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Baholash va amalga oshirilishini nazorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Strategiyani amalga oshirish Strategiyani amalga oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxonalarda strategik qarorlar bilan qaysi toifa menejerlari shug’ ullanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " top menejerlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’ rta pog’ ona menejerlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " quyi pog’ ona menejerlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ofis menejerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashkilotning uzoq muddatga mo’ljallangan vazifa va maqsadlariga erishishda foydalanadigan tashkiliy xatti- harakatlar....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Komhaniya strategiyasi hisoblanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning taktik rejasi hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Мarketing strategiyasi hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kompaniyanaing tashqi muhit tasiriga javobi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moddiy javobgarlik turlari qaysilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "firmaga keltirilgan ziyon uchun pullik javobgarlik.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "nojo’ya xatti-xarakatlar uchun javobgarlik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tanbex ko’rinishidagi javobgarlik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ishdan bo’shatish ko’rinishidagi javobgarlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Matritsali boshqaruv tuzilmasi qaysi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " vertikal va gorizantal tuzilmaning qo’hilib ketishi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " vertikal boshqaruv.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " gorizontal boshqaruv.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " yakka boshchilik asosidagi boshqaruv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqaruv qarorlar ishlab chiqishning ijtimoiy-psixologik asoslariga qanday usullar kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Boshqaruv qarorlarini ishlab chiqish va amalga oshirishda\n"
+            },
+            {
+                "type": "text",
+                "content": "ijtimoiy usullarga ijtimoiy-ommaviy jarayonlarni, guruh\n"
+            },
+            {
+                "type": "text",
+                "content": "ichidagi hodisalar va jarayonlarni va individual-shaxsiy xulq-atvorni boshqarish usullari kiradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " har kun qabul qilinadigan va amalga oshiriladigan odatiy maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " xodimlarni korxonaning rejasini bajarishga safarbar qilishga qaratilgan faoliyat tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bir xil muammoga daxldor bo’lgan qaror\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Inson resurslarini boshqarishning maqsadi nima ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " personaldan samarali foydalanish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ishga oid munosabatlarni o’ylab ko’rish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " shaxsni nooptimal rivojlanishini taminlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " texnik ishlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarishning tashkiliy – ma’muriy metodlari:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "buyruqlar, farmoyishlar va qo‘llanmalar chiqarish ularning baja-rilishini nazorat qilishga asoslanadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " umumjamiyat manfaatlaridan foydalanishga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " jamoa manfaatlaridan foydalanishga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " har bir boshqaruv bo‘g‘inining funktsiyalarini belgilashga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilish zaruriyati qachon paydo boladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mavjud holatning bo’lishi lozim bo’lgan xolat bilan mos tushmasligidan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " korxonada nizolar kelib chiqishidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " har kun qabul qilinadigan va amalga oshiriladigan odatiy maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xodimlarni korxonaning rejasini bajarishga safarbar qilishga qaratilgan faoliyat tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Amal qilish davriga ko’ra qarorlar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " vaqtinchalik qarorlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " an’ anaviy qarorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " stеrotil qarorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " taktik qarorlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Makroiqtisodiy model deb nimaga aytiladi ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "makroiqtisodiy model - iqtisodiy-matematik modellarning uzviy qismi,\n"
+            },
+            {
+                "type": "text",
+                "content": "butun iqtisodiyotni va uning eng muhim tarmoqlari, sektorlari, sohalari\n"
+            },
+            {
+                "type": "text",
+                "content": "rivojlanishini matematik shaklda aks ettiradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " muayyan makroiqtisodiy qarorlar variantlarini aniqlash.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " makroiqtisodiy muvozanat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ichki kon’yunkturilmagan talab darajasini bandligi;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilish jarayonida qanday rahbarlik uslublarini bilasiz:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " avtoritar, liberal, demokratik uslub.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " rasmiy va norasmiy munosabatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " sabr-bardoshlilik, muloyimlik;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " berilgan ma’lumotlarni taqqoslash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarish strukturasi deganda:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " boshqarish maqsadlarini amalga oshiruvchi va funktsiyalarini bajaruvchi bir-biri bilan bog‘langan turli boshqaruv organlari va bo‘g‘inlarining majmuasi tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " boshqaruv organlari tizimida quyi organlarning yuqori organlarga bo‘ysinishi va ular o‘rtasidagi o‘zaro aloqa tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " bo‘linmalar yig‘indisi, ularning tarkibi va o‘zaro aloqa shakllari tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Texnik ishlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Funktsional struktura:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "har bir boshqaruv bo‘g‘iniga muayyan funktsiyalarni biriktirib qo‘yish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " barcha qo‘yi rahbarlar va ishlab chiqarish yacheykalarini korxona rahbariga bo‘ysindirish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " har bir chiziqli rahbar qoshida ixtisoslashgan xizmatlar, maslahatchilar kengashi, ya’ni shtablar tuzish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Xujjatlar bilan ishlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyida qayd etilgan organlarning qaysi biri boshqarishning mahalliy organlariga kiradi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "tuman hokimiyatlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " oliy kengash:\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " vazirlar mahkamasi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " vazirlik va qo’mitalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sertifikatlashtirish nimani anglatadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "qonun doirasida o‘rnatilgan tartibda aloxida mahsulotlarni sertifikatlashtirish shartligini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " barcha tovarlar bo‘yicha ixtiyoriy sertifikatlashtirishni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " barcha tovarlar bo‘yicha majburiy sertifikatlashtirishni;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ta’minotchilar bilan o‘zaro aloqalar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Taktik qarorlar qanday qarorlar :\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Taktik qarorlar maqsadga erishishning vosita va usullari xususidagi joriy,\n"
+            },
+            {
+                "type": "text",
+                "content": "tezkor qarorlardir.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Operativ qarorlar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Korxona, firmaning strategic rejalarini tuzish va joriy qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kadrlar masalasini hal qilish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Umumiy qarorlar qanday qarorlar:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Umumiy qarorlar bir xil muammoga daxldor bo’lib, barcha bo’g’inlar uchun\n"
+            },
+            {
+                "type": "text",
+                "content": "birdek amal qiladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Streotip xolatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "An’anaviy xolatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tahsabbusli xolatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilishda yakka bosh, jamoa fikri bilan hisoblashmaydigan rahbarlarni:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " avtokratik rahbarlar deyishadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " liberal rahbarlar deyishadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " demokratik rahbarlar deyishadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " kompromiss rahbarlar deyiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarish strukturalarining tashkiliy turlari:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Chiziqli, chiziqli shtabli, funktsional, chiziqli funktsional, dasturli maqsadli.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bosh shtab, chiziqli funktsional\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Chiziqsiz funktsional\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Funktsional\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Statik modellar qanday tavsiflanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Statik modellar o’rnatilgan va belgilangan darajada mavjud bo’ lgan\n"
+            },
+            {
+                "type": "text",
+                "content": "iqtisodiy resurslarning umumiy zaxirasi bilan tavsiflanadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Statik modellar o’rnatilgan va belgilangan darajada mavjud bo’ lgan\n"
+            },
+            {
+                "type": "text",
+                "content": "texnikaviy resurslar bilan tavsiflanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Statik modellar o’rnatilgan darajada mavjud bo’ lgan\n"
+            },
+            {
+                "type": "text",
+                "content": "inson resurslari bilan tavsiflanadi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Statik modellar mavjud bo’ lgan moliyaviy resurslarning umumiy zaxirasi bilan tavsiflanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Strategiya qanday maqsadlarni o’z oldiga qo’yadi ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Maksimal foydaga samarali erishish kerak, bozorda eng yuqori ulushni egallash kerak\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarishini qanday rivojlantirish kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bozorda qanday o’rganish kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarishini qanday kengaytirish kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "{}‘‘Strategik boshqaruv’’ termini nechanchi yillarda muomalaga kiritilgan?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " 70-80 yillarda\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " 60-70 yillarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " 50-60 yillarda\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " 80-90 yillarda\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxonaning maqsadi nima?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Maksimal foydaga erishish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Boshqarish apparatini belgilangan vaqtda belgilangan natijalarga erishish majburiyati\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish hajmini oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarilgan tovarni xaridorgir bo’lishini ta’ minlash\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashkilotning uzoq muddatga mo’ljallangan vazifa va maqsadlariga erishishda foydalanadigan tashkiliy xatti- harakatlar....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Komhaniya strategiyasi hisoblanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning taktik rejasi hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompaniyanaing tashqi muhit tasiriga javobi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Мarketing strategiyasi hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxonalarda strategik qarorlar bilan qaysi toifa menejerlari shug’ ullanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " top menejerlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’ rta pog’ ona menejerlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " quyi pog’ ona menejerlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ofis menejerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Firmani boshqarishni asosiy vazifalari\" degan tushunchaga nimalar kiradi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish, marketing, sifat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Ta’ minot, ishlab chiqarish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarish, xodimlar, ilmiy tadlqiqotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ta’ minot, ishlab chiqarish, moliya, marketing, xodimlar, ilmiy tadqiqotlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Vrappning fikricha eng omadli strategik menejerlar qanday hislatlarga ega bo’lishi kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yaxshi siyosatchi bo’lishlari\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Firma biznesini yaxshi bilishlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Hech qanday xislatga ega bo’lishi shart emas\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tavakkalchilik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilish deganda:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " bajarilishi mumkin bo’lgan ishning aniq bir yo’lini tanlab olishdir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Mavjud holat\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Bir necha muqobil (alternativ) paydo bo’lganda vujudga keladigan jarayondir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tashkilotning rivojlanishini prognoz qila olish;\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Quyida qabul qilingan uslublarning qaysi biri boshqarish uslubi bo’lib hisoblanadi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " iqtisodiy ,tashkiliy-ma’muriy, ijtimoiy-ruxiy metodlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Tashkiliy-tartibli metodlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ijtimoiy-iqtisodiy metodlar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Iqtisodiy –tashkiliy metodlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Strategik boshqaruv jarayonida qaror qabul qilish ketma ketligi tarkibini ko’rsating:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Muhit tahlili, maqsadlarni aniqlash va strategiyani tanlash, strategiyani amalga oshirish, baholash va amalga oshirilishini nazorat qilish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muhit tahlili, maqsadlarni aniqlash va strategiyani tanlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Baholash va amalga oshirilishini nazorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Strategiyani amalga oshirish Strategiyani amalga oshirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korxonalarda strategik qarorlar bilan qaysi toifa menejerlari shug’ ullanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " top menejerlar\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " o’ rta pog’ ona menejerlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " quyi pog’ ona menejerlari\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " ofis menejerlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Firmaning istiqbolini belgilash, uning kelajagi uchun ahamiyatli qarorlarni qabul qilib,chora tadbirlarni ishlab chiqish bilan kimlar shug’ullanadi?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Yuqori pog’onadagi menejerlar shug’ullanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Quyi pog’onadagi menejerlar shug’ullanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " O’rta pog’onadagi menejerlar shug’ullanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Vazirlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Korporativ strategiya deganda nimani tushunasiz?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Kompaniya va uning faoliyat yo’nalishlari bo’yicha umumiy strategiya tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Faqat bo’limlar uchun tuzilgan strategiya\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ta’minotchilar bilan tuzilgan uzoq muddatli hamkorlik\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Mijozlarni o’rganish jarayoni tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Chiziqli shtabli struktura:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " har bir chiziqli rahbar qoshida ixtisoslashgan xizmatlar, maslahatchilar kengashi, ya’ni shtablar tuzish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " har bir boshqaruv bo‘g‘iniga muayyan funktsiyalarni biriktirib qo‘yish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " barcha qo‘yi rahbarlar va ishlab chiqarish yacheykalarini korxona rahbariga bo‘ysindirish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " O’rta pog’onadagi menejerlar shug’ullanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilish zaruriyati qachon paydo boladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mavjud holatning bo’lishi lozim bo’lgan xolat bilan mos tushmasligidan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " korxonada nizolar kelib chiqishidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " har kun qabul qilinadigan va amalga oshiriladigan odatiy maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "xodimlarni korxonaning rejasini bajarishga safarbar qilishga qaratilgan faoliyat tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Strategiya qanday savollarga javob berish kerak?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ishlab chiqarishini qanday kengaytirish kerak, maqsadga qanday erishish kerak, maksimal foydaga qanday erishish kerak, raqobatchilarni qanday yo’ qotish kerak, firmani uzoq muddatli pozitsiyasini qanday kuchaytirish kerak\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " maqsadga qanday erishish kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " maksimal foydaga qanday erishish kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " raqobatchilarni qanday yo’ qotish kerak\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashkilotning uzoq muddatga mo’ljallangan vazifa va maqsadlariga erishishda foydalanadigan tashkiliy xatti- harakatlar....\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Komhaniya strategiyasi hisoblanadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning taktik rejasi hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Мarketing strategiyasi hisoblanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kompaniyanaing tashqi muhit tasiriga javobi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqaruv qarorlar ishlab chiqishning ijtimoiy-psixologik asoslariga qandau usullar kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Boshqaruv qarorlarini ishlab chiqish va amalga oshirishda\n"
+            },
+            {
+                "type": "text",
+                "content": "ijtimoiy usullarga ijtimoiy-ommaviy jarayonlarni, guruh\n"
+            },
+            {
+                "type": "text",
+                "content": "ichidagi hodisalar va jarayonlarni va individual-shaxsiy xulq-atvorni boshqarish usullari kiradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " har kun qabul qilinadigan va amalga oshiriladigan odatiy maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " xodimlarni korxonaning rejasini bajarishga safarbar qilishga qaratilgan faoliyat tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bir xil muammoga daxldor bo’lgan qaror.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": " Norasmiy munosabatlar qanday shakllanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Norasmiy (shaxsiy) munosabatlar ehtiyojlar va qiziqishlar,\n"
+            },
+            {
+                "type": "text",
+                "content": "yoqtirish va yoqmaslikning ustuvorliklari asosida o’ rnatiladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Muhit tahlili, maqsadlarni aniqlash\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Baholash va amalga oshirilishini nazorat qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muammolarni o’rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Bosh strategik yondashuv deganda nimani tushunasiz ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bunda strategiyani boshliqning o’zi ishlab chiqadi. Bunday holda boshqaruvchi ahvolni baholashga, muqobil strategiyalarga va strategiya qismlariga kuchli ta’sir qiluvchi asosiy strategik va asosiy tadbirkor sifatida ish yuritadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Bunda strategiyani bo’lim boshliqlari ishlab chiqadi va faqat bolim ishini rivojlanishiga ahamiyat beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompaniya va boshqaruvchilar strategiyani ishlab chiqish bo’yicha variantlarni turlicha bajaradilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kompaniya egasi tomonidan boshqariladigan kichik kompaniyalarda strategiyani ishlab chiqish norasmiy amalga oshiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Konsensus tamoyili qanday tamoyil:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Konsensus tamoyili pur fikrlilik, ya’ ni fikrlar plyuralizmi kuchaygan hamda\n"
+            },
+            {
+                "type": "text",
+                "content": "axborot oqimi tobora kuchayib borgan hollarda qo’llaniladi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xodimlarni korxonaning rejasini bajarishga safarbar qilishga qaratilgan faoliyat tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " har kun qabul qilinadigan va amalga oshiriladigan odatiy maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bir xil muammoga daxldor bo’lgan qaror\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Vakolatlarni berish yondashuvi deganda nimani tushunasiz ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bunda strategiyani tuzish xodimlarga yoki komissiyaga topshiriladi. Bunday holda mas’ul boshqaruvchi strategiyani ishlab chiqishni boshqalarga, asosan, strategik rejalashtirish bo’yicha personalga yoki ishonch bildirilgan xodimlardam tuzilgan maxsus komissiyaga toshpiradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Strategik boshqaruvdagi strategiya tashkilot rivojining uzoq muddatli sifatli aniqlangan yo’nalishi sifatida tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompaniya va boshqaruvchilar strategiyani ishlab chiqish bo’yicha variantlarni turlicha bajaradilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kompaniya egasi tomonidan boshqariladigan kichik kompaniyalarda strategiyani ishlab chiqish erkin amalga oshiriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qo’shma (kollaboratsion) yondashuv deganda nimani tushunasiz ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bunday usulning eng kuchli tomoni shundaki strategiyani ishlab chiqish kimlarga topshirilgan bo’lsa, uni o’shalarni o’zlari bajarishlari kerak bo’ladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Uzoq muddatli hamkorlik loyihalari tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Strategiyani belgilashning tashkiliy jarayonida boshqaruvchilar shaxsan qatnashadilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning har bir harakati axloq-odob, ma’naviyat doirasida bo’lishi talab etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashabbusli yondashuv deganda nimani tushunasiz ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Bunday yondashuvda boshqaruvchi kelishilgan strategiyani ishlab chiqish uchun strategiya detallarini ishlab chiqishdan ham, «g’oyalar generatorlari» guruhini boshqarishdan ham manfaatdor emas. Bil’aks, boshqaruvchi oqilona strategiyani ishlab chiqish, himoya qilish va hayotga tadbiq etish uchun menejerlarni o’zlari safarbar etadi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Strategiyani belgilashning tashkiliy jarayonida boshqaruvchilar shaxsan qatnashadilar\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning yetkazib beruvchilar oldidagi burchi bozor munosabatlariga quriladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Strategiya yordamida raqobat kurashida qanchalik katta ustunlikka erishilsa, strategiya shunchalik kuchli va samarali bo’ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqaruv qarorlarini qabul qilish jarayonida u yoki bu masalalarni hal qilishda rahbarning o‘ziga xos yondoshishi menejmentda:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " boshqaruv uslubi deb yuritiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " ish uslubi deb yuritiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " boshqaruv metodi deb yuritiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " rahbarning ish uslubi deb yuritiladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqaruv uslubi – bu:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " boshqaruv funktsiyalarini samarali bajarish maqsadida biror bir organning yoki rahbarning bo‘ysinuvchilariga aniq ta’sir ko‘rsatish usuli va yo‘llari majmuasidir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " boshqaruv jarayonida kelib chiqadigan muammolarni hal qilish usullari, yo‘llari, majmuasidir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " ishlash, boshqarishdagi o‘ziga xos yo‘l, usuldir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " rahbarning o‘ziga xos yondashuvi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqaruv qarorlar ishlab chiqishning ijtimoiy-psixologik asoslariga qandau usullar kiradi.\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Boshqaruv qarorlarini ishlab chiqish va amalga oshirishda\n"
+            },
+            {
+                "type": "text",
+                "content": "ijtimoiy usullarga ijtimoiy-ommaviy jarayonlarni, guruh\n"
+            },
+            {
+                "type": "text",
+                "content": "ichidagi hodisalar va jarayonlarni va individual-shaxsiy xulq-atvorni boshqarish usullari kiradi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " har kun qabul qilinadigan va amalga oshiriladigan odatiy maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " xodimlarni korxonaning rejasini bajarishga safarbar qilishga qaratilgan faoliyat tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " bir xil muammoga daxldor bo’lgan qaror.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Rasmiy munosabatlar qanday shakllanadi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Rasmiy (funktsional) munosabatlar ma’ muriyatning lavozim\n"
+            },
+            {
+                "type": "text",
+                "content": "yo’riqnomalari, tayinlangan vazifalari va buyruqlari asosida\n"
+            },
+            {
+                "type": "text",
+                "content": "shakllanadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xodimlarni korxonaning rejasini bajarishga safarbar qilishga qaratilgan faoliyat tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " korxonaning joriy, tеzkor rеjalarini tuzish maqsadida qabul qilinadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muammolarni o’rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Funktsional struktura:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "har bir chiziqli rahbar qoshida ixtisoslashgan xizmatlar, maslahatchilar kengashi, ya’ni shtablar tuzish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " barcha qo‘yi rahbarlar va ishlab chiqarish yacheykalarini korxona rahbariga bo‘ysindirish orqali tashkil etiladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " har bir boshqaruv bo‘g‘iniga muayyan funktsiyalarni biriktirib qo‘yish orqali\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " muammolarni o’rganish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Sifatning umumiy boshqaruvi metodologiyasi (TQM) – bu?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " maxsulot sifatini ta’minlash tizimi;\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " korxona maxsulotini ekspertiza qilish;\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " korxonaning barcha boshqaruv usullari, sifatni boshqarishga qaratilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " sifat soxasida xodimlarni malakasini oshirish.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Samarali qarorlar qabul qilishda menejer faoliyati samarasi nimalarga bog’liq ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Vaziyatga qarab firma faoliyatini yo’naltirish , yaxshi strategiyani ishlab chiqish va uni hayotga tadbiq etishga\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bozor tendensiyalarini o’rganish qobiliyatiga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Tashqi muhit omillarini tahlil qilishga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tashqi muhit omillarini o’rganishga\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Boshqarishning tashkiliy – ma’muriy metodlari:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "buyruqlar, farmoyishlar va qo‘llanmalar chiqarish ularning baja-rilishini nazorat qilishga asoslanadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " umumjamiyat manfaatlaridan foydalanishga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " jamoa manfaatlaridan foydalanishga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " har bir boshqaruv bo‘g‘inining funktsiyalarini belgilashga asoslanadi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Agar boshqarishning hamma funktsiyalari korxona rahbari qo‘lida to‘planib barcha quyi rahbarlar va ishlab chiqarish yacheykalari unga bo‘ysinsa, u holda boshqarishning bunday tashkiliy strukturasi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "chiziqli(pog‘onali) struktura ko‘rinishida bo‘ladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " chiziqli shtabli struktura ko‘rinishida bo‘ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " funktsional struktura ko‘rinishida bo‘ladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " chiziqli funktsional struktura ko‘rinishida bo‘ladi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Pirs va Robinsonning strategik boshqaruvga tegishli ta’rifini toping?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Strategik boshqaruv –bu tashkilotni maqsadiga erishish uchun ishlab chiqilgan strategiyalarni shaklantirish va bajarish boyicha qarorlar va harakatlar toplamidir\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Tashkilotning maqsadlariga erishish uchun zarur vazifalarni bajarishdagi tashkiliy xatti harakatlar va chora tadbirlarni boshqaruv tarzidir\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kompaniyaning uzoq muddatli maqsadlari va faoliyatiga taalluqli jarayon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Tashkilotning tashkiliy vazifa va maqsadlariga erishishda foydalanadigan tashkiliy xatti- harakatlar\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qaror qabul qilish zaruriyati qachon paydo boladi:\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " mavjud holatning bo’lishi lozim bo’lgan xolat bilan mos tushmasligidan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " korxonada nizolar kelib chiqishidan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " har kun qabul qilinadigan va amalga oshiriladigan odatiy maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xodimlarni korxonaning rejasini bajarishga safarbar qilishga qaratilgan faoliyat tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishlab chiqarishni boshqarish deganda...\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " buyumlarni iste’ molchilar talabiga mos keluvchi sifat tasniflari bilan ishlab chiqarishni ta’ minlovchi, maqsadga qaratilgan faoliyat tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xodimlarning faoliyat ko’rsatishi uchun zarur shart-sharoit yaratish tizimi tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " rahbarlik, tashkilotchilik va ma’ muriy xarakterdagi alohida faoliyat tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " korxona doirasida amalga oshiriladigan rahbarlik tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Innovatsion qarorlar deganda…..\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " yangi mahsulotni ishlab chiqarish, yangi texnologiyani joriy qilish bo’yicha qabul qilinadigan qarorlar tushuniladi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " har kuni qabul qilinadigan va amalga oshiriladigan odatiy maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " korxonaga va ayrim xodimlarga qiyinchiliklar tug‘diradigan maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " xodimlar malakasini oshirish sohasidagi maqsadlar tushuniladi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Qarorlarni ishlab chiqish jarayonida barcha bahsli masalalar va turli-tuman fikrlar yuzasidan bir bitimga kelish yoki kelishish bu-…\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Konsensus\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Konsern\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Kon’ yunktura\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Kollektiv\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Moddiy javobgarlik turlari qaysilar?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "firmaga keltirilgan ziyon uchun pullik javobgarlik.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " nojo’ya xatti-xarakatlar uchun javobgarlik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " tanbex ko’rinishidagi javobgarlik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ishdan bo’shatish ko’rinishidagi javobgarlik\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Elton Mayo tajribasini maqsadi nimadan iborat edi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "u ishchilarning mehnat unumdorligini oshirish uchun ish hayoti muvozanatiga qattiq ishongan va odamlar o’ rtasidagi munosabatlarga ishchilarning unumdorligiga ta’ sir ko’ rsatgan\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "qaysi usuldan ishchilarni ishdan boshatish bo‘yicha\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "xodimlarni rag‘batlantish yo‘li\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hech qanday tajrib o‘tkazmagan\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Robert Ouen qaysi tamoyilni yaratgan fanga\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "8 soatlik kunlik ish, 8 soatlik dam olish va 8 soatlik uxlash tamoyilini\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "u ishchilarning mehnat unumdorligini oshirish uchun ish hayoti muvozanatiga qattiq ishongan va odamlar o’ rtasidagi munosabatlarga ishchilarning unumdorligiga ta’ sir ko’ rsatgan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "hech qanday tamoyilni yaratmagan\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ishchilarni rag‘batlantirish tamoyilini\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Inson resurslarini boshqarish qanday funksiyalarni o‘z ichiga oladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "rejalashtirish, tashkil etish, muvofiqlashtirish, nazorat\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ishga qabul qilish, boshatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mativatisya berish, rag‘batlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "mos funksiyasi yo‘q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kadrlar menejmenti-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "xodimlarning faoliyati va tashkilotning strategik maqsadlari o’ rtasidagi farqni kamaytirishga va o’rtada ko’prik vazifasini o’tashga yordam beradi\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ishga qabul qilish, boshatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mativatisya berish, rag‘batlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hech qanday funksiyasi yo‘q\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tashkilotlarda kadrlar menejerlarining ahamiyati bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Strategiyani boshqarish, foyda tahlili, o’ qitish va rivojlantirish, xodimlar ichidagi interaktivlik, nizolarni boshqarish, sog’ lom mehnat madaniyatini o’ rnatish\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " xodimlarning faoliyati va tashkilotning strategik maqsadlari o’ rtasidagi farqni kamaytirishga va o’rtada ko’prik vazifasini o’tashga yordam beradi\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "mativatisya berish, rag‘batlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "ishchilarni ishga qabul qilish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kadrlar strategiyasi-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "bu inson resurslari bo’ limi tomonidan ishlab chiqilgan puxta va tizimli harakatlar rejasi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "ba’ zi xodimlarning ish haqi tashkilotdagi boshqalarga nisbatan adolatsiz va tengsiz deb o’ ylashlariga imkon\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Sog’ lom mehnat madaniyatini o’ rnatish\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O’ qitish va rivojlantirish\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ulrichning ma’ muriy ekspert va funktsional ekspert modeli bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kadrlar bo’ yicha strategik reja bilan bog’ liq siyosat, protsedura va jarayonlarni tushunish va amalga oshirish qobiliyati.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "HR funktsiyasini tashkilot ehtiyojlariga muvofiqlashtirishni ta’ minlash uchun butun tashkilot bilan hamkorlik.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "HR funktsiyasi doirasidagi o’ zgarishlarni oldindan bilish va ularga javob berish qobiliyati, lekin umuman kompaniya sifatida.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Kelajakda kerak bo’ lishi rejalashtirilgan iste’ dodni rivojlantirish vositalari.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ish tahlilida qaysi qismlarga ajratiladi\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "ish tasnifi va ish xususiyati\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "malaka va ish joyiga\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "tajriba va trening\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "hech qanday qisimlarga ajratilmaydi\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Tanlov Intervyu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ariza topshiruvchilarning og’ zaki so’ rovlarga og’ zaki javoblari asosida kelajakdagi ish natijalarini taxmin qilish uchun mo’ ljallangan tanlov intervyusi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nazoratchi va xodim ishchining reytingi va tuzatilishi mumkin bo’ lgan harakatlarni muhokama qiladigan ish faoliyatini baholashdan so’ ng munozara.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ish joyi yoki unga tegishli masalalar bo’ yicha ish beruvchiga firma to’ g’ risida ba’ zi tushunchalar berish uchun intervyu.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ish vaqtidagi masalalar bo’ yicha ishchiga firma to’ g’ risida ba’ zi tushunchalar berish uchun intervyu.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Chiqish/ketish intervyu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ish joyi yoki unga tegishli masalalar bo’ yicha ish beruvchiga firma to’ g’ risida ba’ zi tushunchalar berish uchun intervyu\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": " Nazoratchi va xodim ishchining reytingi va tuzatilishi mumkin bo’ lgan harakatlarni muhokama qiladigan ish faoliyatini baholashdan so’ ng munozara.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ariza topshiruvchilarning og’ zaki so’ rovlarga og’ zaki javoblari asosida kelajakdagi ish natijalarini taxmin qilish uchun mo’ ljallangan tanlov intervyusi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishga davogarlarning og’ zaki so’ rovlarga og’ zaki javoblari asosida kelajakdagi ish natijalarini taxmin qilish uchun mo’ ljallangan tanlov intervyusi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Vaziyatli intervyu bu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Nomzodning muayyan vaziyatda o’ zini qanday tutishiga e’ tibor qaratadigan ish bilan bog’ liq bir qator savollar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ishga oid bir qator savollar, ular o’ tmishdagi haqiqiy vaziyatlarga qanday munosabatda bo’ lishlariga qaratilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "O’ tmishda ish bilan bog’ liq bo’ lgan xatti-harakatlarga e’ tibor qaratadigan ish bilan bog’ liq bir qator savollar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Suhbatdosh vaqti-vaqti bilan qo’ pol savollar bilan murojaat etuvchini bezovta qilmoqchi bo’ lgan intervyu, go’ yoki sezgir ariza topshiruvchilarni stressga nisbatan past yoki yuqori darajadagi tolerantlarni aniqlaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Xulq-atvor bo’ yicha intervyu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": " Ishga oid bir qator savollar, ular o’ tmishdagi haqiqiy vaziyatlarga qanday munosabatda bo’ lishlariga qaratilgan.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "O’ tmishda ish bilan bog’ liq bo’ lgan xatti-harakatlarga e’ tibor qaratadigan ish bilan bog’ liq bir qator savollar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Suhbatdosh vaqti-vaqti bilan qo’ pol savollar bilan murojaat etuvchini bezovta qilmoqchi bo’ lgan intervyu, go’ yoki sezgir ariza topshiruvchilarni stressga nisbatan past yoki yuqori darajadagi tolerantlarni aniqlaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Nomzodning muayyan vaziyatda o’ zini qanday tutishiga e’ tibor qaratadigan ish bilan bog’ liq bir qator savollar.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishga oid intervyu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "O’ tmishda ish bilan bog’ liq bo’ lgan xatti-harakatlarga e’ tibor qaratadigan ish bilan bog’ liq bir qator savollar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Suhbatdosh vaqti-vaqti bilan qo’ pol savollar bilan murojaat etuvchini bezovta qilmoqchi bo’ lgan intervyu, go’ yoki sezgir ariza topshiruvchilarni stressga nisbatan past yoki yuqori darajadagi tolerantlarni aniqlaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Nomzodning muayyan vaziyatda o’ zini qanday tutishiga e’ tibor qaratadigan ish bilan bog’ liq bir qator savollar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": " Ishga oid bir qator savollar, ular o’ tmishdagi haqiqiy vaziyatlarga qanday munosabatda bo’ lishlariga qaratilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Puzzle savollar\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Texnik, moliya va boshqa turdagi ishlarga yollovchilar nomzodlar bosim ostida qanday fikrda bo’ lishlarini ko’ rish uchun noyob (\"qutidan tashqarida\") yechimlarni talab qiladigan muammolarni tug’diradigan savollardan foydalanadilar.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Nomzodning muayyan vaziyatda o’ zini qanday tutishiga e’ tibor qaratadigan ish bilan bog’ liq bir qator savollar.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": " Ishga oid bir qator savollar, ular o’ tmishdagi haqiqiy vaziyatlarga qanday munosabatda bo’ lishlariga qaratilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "O’ tmishda ish bilan bog’ liq bo’ lgan xatti-harakatlarga e’ tibor qaratadigan ish bilan bog’ liq bir qator savollar.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Mass intervyu\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Panel intervyuda bir vaqtning o’ zida bir nechta nomzodlar bilan intervyu o’ tkazadi.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Bir guruh intervyuchilar murojaat etuvchiga savollar beradigan intervyu.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ishga oid bir qator savollar, ular o’ tmishdagi haqiqiy vaziyatlarga qanday munosabatda bo’ lishlariga qaratilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Intervyu komissiyasi murojaat etuvchiga savollar beradigan intervyu.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Kompyuterlashtirilgan tanlov suhbati\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Kompyuterlashtirilgan og’ zaki, vizual yoki yozma savollar va / yoki vaziyatlarga javoban ish nomzodining og’ zaki va / yoki kompyuterlashtirilgan javoblari olingan intervyu.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ariza beruvchiga ketma-ket bir nechta shaxslar tomonidan intervyu beriladigan intervyu; har biri talabnoma beruvchini standart shaklda baholaydi.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bir guruh intervyuchilar murojaat etuvchiga savollar beradigan intervyu.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ishga oid bir qator savollar, ular o’ tmishdagi haqiqiy vaziyatlarga qanday munosabatda bo’ lishlariga qaratilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Ishlashni baholash-\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Mehnat standartlarini belgilash, ish faoliyatini baholash va ishchilarni rag’ batlantirish, to’ g’ rilash va ish faoliyatini davom ettirish uchun xodimlarga fikr-mulohazalar berish.\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Xodimning faoliyati tashkilotning strategik maqsadlarini qo’ llab-quvvatlashi va ularga hissa qo’ shishini ta’ minlashga kompleks yondashuv.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Bir guruh intervyuchilar murojaat etuvchiga savollar beradigan intervyu.\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ishga oid bir qator savollar, ular o’ tmishdagi haqiqiy vaziyatlarga qanday munosabatda bo’ lishlariga qaratilgan.\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]
