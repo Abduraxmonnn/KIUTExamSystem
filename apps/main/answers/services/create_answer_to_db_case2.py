@@ -8,6 +8,13 @@ from apps.main.subjects.models import Subject
 from apps.services.get_user_by_token_service import get_student_by_token
 from apps.services.load_json_to_cache_service import get_json_data_from_cache
 
+groups_picker = {
+    'U': 'UZ',
+    'R': 'RU',
+    'E': 'EN',
+    'K': 'KR'
+}
+
 
 def create_answer_to_db_case_2(
         model,
@@ -18,13 +25,18 @@ def create_answer_to_db_case_2(
         picked):
     try:
         get_student = get_student_by_token(request)
-        get_question = Question.objects.get(subject__full_name=subject_name, stage=stage)
+        student_group_letter = get_student.group.code[-1]
+        get_question = Question.objects.get(
+            subject__full_name=subject_name,
+            stage=stage,
+            language=groups_picker[student_group_letter]
+        )
         get_subject = Subject.objects.get(full_name=subject_name)
     except Exception as ex:
         print('---------> 33 line: create_answer_service: ', ex)
         return Response({
             'status': 'error',
-            'message': 'Student / Question / Subject Does Not Exists or Error!'
+            'message': f'Student / Question / Subject Does Not Exists or Error! {ex}'
         }, status=status.HTTP_400_BAD_REQUEST)
 
     file_path = get_question.file.name
