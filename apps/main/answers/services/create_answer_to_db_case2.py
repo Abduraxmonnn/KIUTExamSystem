@@ -55,9 +55,10 @@ def create_answer_to_db_case_2(
     if question_id:
         for item in valid_questions:
             if int(question_id) == item['id']:
+                is_picked = item[picked][-1]['correct']
                 question[f'question_id__{question_id}']['question'].append(item)
-                question[f'question_id__{question_id}']['is_true'] = item[picked][1]['correct']
-                is_correct = item[picked][1]['correct']
+                question[f'question_id__{question_id}']['is_true'] = is_picked
+                is_correct = is_picked
                 break
 
     if not existing_answer:
