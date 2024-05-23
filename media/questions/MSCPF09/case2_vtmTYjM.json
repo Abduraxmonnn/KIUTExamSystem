@@ -1,0 +1,5062 @@
+[
+    {
+        "id": 111,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что является первым шагом в процессе оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ результатов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Внедрение политики\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Определение целей политики\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Оценка ресурсов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой метод оценки политики позволяет анализировать воздействие в реальном времени?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Суммативная оценка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Формативная оценка\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Терминальная оценка\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Интегративная оценка\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой инструмент не используется для количественной оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Делфийский метод\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Регрессионный анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Анализ временных рядов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Логистическая регрессия\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является целью оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Улучшение эффективности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Повышение прозрачности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Снижение уровня безработицы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Поддержка принятия решений\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой тип данных предпочтительнее для анализа влияния социальной политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Данные о погоде\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Финансовые отчеты компаний\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Демографические данные\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Данные о биржевых курсах\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой аспект является ключевым при оценке политики в области образования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Уровень грамотности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Годовой ВВП страны\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Темпы урбанизации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Индекс потребительских цен\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что такое \"теория изменений\" в контексте оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Модель, описывающая как и почему предполагаемые изменения должны произойти\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Метод определения финансовых потоков\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Система управления проектами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Инструмент стратегического планирования\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "В чем основная цель использования случайных испытаний в оценке политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Минимизация затрат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Проверка причинно-следственных связей\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Увеличение участников исследования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Гарантия политической поддержки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является прямым результатом оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Рост акций на бирже\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Улучшение программ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Рекомендации по изменению политики\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Повышение осведомленности заинтересованных сторон\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие из следующих элементов наиболее важны при оценке международной политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Культурные различия\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Локальные погодные условия\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Корпоративные финансовые отчеты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Местные законы о землепользовании\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой метод чаще всего используется для оценки экономической политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Стоимостно-выгодный анализ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Делфийский метод\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Социальные опросы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Анализ контента\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой фактор не является решающим при выборе метода оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Доступность данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Политическая ситуация в стране\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ресурсы на оценку\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Цели оценки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая ошибка может возникнуть при использовании данных из социальных сетей для оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Недостаточное количество данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Смещение выборки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Чрезмерная точность данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Недооценка эффективности политики\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой подход предпочтительнее для оценки долгосрочных эффектов политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Продольное исследование\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Мгновенный анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Кросс-секционное исследование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Экспертный опрос\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой вид оценки политики наиболее эффективен при анализе новаторских технологических проектов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Регрессионный анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Эконометрическое моделирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Пилотные проекты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Статистические методы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Что из перечисленного не является результатом эффективной оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Улучшение политических решений\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Увеличение числа населения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Повышение общественной поддержки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сокращение неэффективных расходов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как оценка воздействия может помочь в изменении политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Предоставляет данные о реальных эффектах политики\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Увеличивает бюджет на политику\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Снижает вовлеченность общественности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ограничивает политические дебаты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой индикатор наименее релевантен для оценки политики здравоохранения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Уровень доступности медицинских услуг\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Смертность\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Биржевые индексы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Качество медицинской помощи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие последствия могут быть у неудачной оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Рост эффективности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Расточительство ресурсов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Увеличение прозрачности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Повышение удовлетворенности граждан\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "В каком случае качественные методы оценки особенно важны?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "При анализе социальных и культурных аспектов политики\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "При расчете ВВП\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "В анализе стоимостной эффективности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "При оценке экономического роста\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какой подход к оценке политики помогает в изучении её практической реализации?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Кейс-стади (исследование случаев)\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Теоретический анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Финансовый аудит\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Логистическая регрессия\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие особенности оценки политики необходимо учитывать в мультикультурных обществах?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Разнообразие мнений и ценностей\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Однородность данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Стандартизация методов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ограниченное взаимодействие с общественностью\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая проблема может возникнуть при международной оценке политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Конфликт норм и стандартов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Гомогенность культурных практик\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Универсальность законодательных баз\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Недостаток международных оценщиков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы оценки политики эффективны при анализе влияния на окружающую среду?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Экологический аудит и моделирование воздействия\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Психологический анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Аудит финансовой отчетности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Демографические исследования\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как влияние политического давления может искажать результаты оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Предвзятость в интерпретации данных\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Улучшение точности данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Сокращение времени оценки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Увеличение объективности выводов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методологические подходы используются для изучения долгосрочных эффектов политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Продольные исследования\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Анкетирование\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Кросс-секционный анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Экспертные оценки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как принципы устойчивого развития интегрируются в процесс оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Через включение экологических и социальных индикаторов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Путем усиления финансовых ограничений\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "С помощью управленческого аудита\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Через международное правовое регулирование\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "В чем заключается сложность использования экспериментальных методов в оценке государственной политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Этические соображения и ограничения в реальных условиях\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Простота и доступность данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Низкая стоимость методов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Быстрота получения результатов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Каковы особенности оценки политики в сфере культуры?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Субъективность оценок и многообразие культурных ценностей\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Единообразие культурных стандартов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Прямая экономическая выгода\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Отсутствие культурных различий\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как анализ чувствительности применяется при оценке политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Для проверки устойчивости результатов к изменениям входных параметров\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Для снижения общего уровня неопределенности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Как основной метод сбора данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Для непосредственного прогнозирования исходов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какова роль экономических симуляций в процессе оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Моделирование различных сценариев для принятия решений\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Замена реальных экспериментов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Подготовка годовых отчетов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Оценка управленческих навыков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как процессы глобализации влияют на методы и подходы в оценке политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Требуют интеграции международных стандартов и учета глобальных влияний\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Упрощают процедуры оценки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ограничивают внешние влияния\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Снижают значимость международного сотрудничества\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие особенности оценки политики в сфере высоких технологий?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Сложность предсказания долгосрочных технологических трендов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Недостаток данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Простота анализа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Низкая динамика развития сектора\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "В чем заключается проблема политической зависимости результатов оценки?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Склонность к искажению данных в пользу текущего политического устройства\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Нейтральность и объективность выводов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Усиление аналитической независимости\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Стандартизация методов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как принципы этики применяются в процессе оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Через соблюдение конфиденциальности и обеспечение объективности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Путем прямого вмешательства в политические процессы\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "С помощью снижения стандартов точности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Через ограничение доступа к информации для исследователей\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Каковы последствия неправильно проведенной оценки политики для государственных программ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Может привести к неэффективному использованию государственных ресурсов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Увеличивает прозрачность решений\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Уменьшает участие общественности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Снижает стоимость государственных услуг\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "В чем заключается важность использования показателей устойчивости в оценке политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Помогает оценить долгосрочное воздействие политик на окружающую среду и общество\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Снижает необходимость в качественных методах анализа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Упрощает процесс сбора данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ограничивает объем анализируемой информации\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие вызовы связаны с оценкой политики в многоуровневых системах управления?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Комплексность координации и согласования различных уровней власти\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Упрощение процесса принятия решений\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Недостаток вовлеченности местных органов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Избыток регуляторной нагрузки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как технологии искусственного интеллекта могут улучшить оценку политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Повышение точности и скорости обработки больших объемов данных\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Уменьшение важности аналитического мышления\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ограничение вариативности методов анализа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Снижение потребности в профессиональных аналитиках\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "rate": 1,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы подходят для оценки воздействия социальной политики на уязвимые группы населения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование целевых групповых интервью и кейс-стади\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Базовый статистический анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Глобальный экономический обзор\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Поверхностный обзор литературы\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как изменения в международной политике влияют на локальные оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Требуют пересмотра внешнеполитических приоритетов и адаптации внутренних мер\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Стабилизируют внутренний политический климат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Уменьшают необходимость в международном сотрудничестве\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Обеспечивают устойчивость национальной валюты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие примеры успешной оценки политики могут служить ориентиром для разработки новых подходов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ эффективности национальных программ здравоохранения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ежегодные отчеты по инфляции\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Статистика посещаемости государственных сайтов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Мониторинг изменений климата\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы оценки политики наиболее эффективны для анализа воздействия финансовых регуляций?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Комплексный анализ финансовых отчетов и моделирование рыночных реакций\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Простой экономический анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Базовый аудит\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Проверка соблюдения нормативных актов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие основные трудности возникают при оценке воздействия экологической политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Измерение долгосрочных экологических изменений и их социально-экономических последствий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Расчет короткосрочных финансовых результатов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Недостаток данных о погодных условиях\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Избыток методологических разработок\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие инновационные методы оценки политики предлагаются современными исследованиями?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование больших данных и машинного обучения для прогнозирования эффектов политики\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Традиционные опросы населения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ручной сбор и анализ данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Применение классических эконометрических моделей\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие инструменты статистического анализа предпочтительны для оценки влияния образовательной политики на результаты учащихся?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Иерархический линейный моделирование\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Базовые дескриптивные статистики\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Простые процентные расчеты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Индекс потребительских цен\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие критерии необходимо учитывать при оценке долгосрочной политики устойчивого развития?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Воздействие на экологическое равновесие и социальную справедливость\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Только экономическую выгоду\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Сроки реализации проекта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Использование природных ресурсов без учета их возобновляемости\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как применение многомерного анализа может улучшить понимание эффективности государственной политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Позволяет одновременно учитывать множество переменных и их взаимосвязи\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Упрощает процесс анализа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Снижает стоимость оценки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Исключает необходимость качественного анализа\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие этические соображения должны руководить оценкой политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Конфиденциальность, справедливость и прозрачность методов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Использование только количественных методов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ограничение обратной связи от заинтересованных сторон\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Игнорирование культурных различий\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие сложности связаны с оценкой политики в многонациональных государствах?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Необходимость учета разнообразия культурных и этнических групп\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Взаимодействие только с федеральными властями\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Игнорирование региональных различий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ограниченное использование иностранных исследований\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как оценить эффективность политики по борьбе с безработицей?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ изменения уровня безработицы и занятости до и после введения политики\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Определение количества созданных рабочих мест\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Изучение только экономических показателей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение внимания на бюджетных ассигнованиях\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "В чем важность международного сотрудничества в оценке политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Обмен опытом и информацией может повысить качество и точность оценки\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ограничивает национальное управление политикой\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Увеличивает бюрократические задержки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Снижает влияние национальных исследований\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какая роль у компьютерного моделирования в оценке политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Помогает предсказать возможные исходы и анализировать сложные взаимодействия переменных\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Заменяет необходимость реального тестирования политики\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Снижает значимость экспертного мнения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Упрощает процесс принятия решений\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы оценки политики могут быть использованы для анализа воздействия национальной безопасности?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Сценарный анализ и стратегическое планирование\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Только качественные интервью\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Прямое наблюдение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ограниченное кейс-стади\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие последствия может иметь пренебрежение оценкой общественного мнения при разработке политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Может привести к снижению общественной поддержки и неэффективности политики\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Улучшает общественное восприятие\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ускоряет процесс реализации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Снижает стоимость реализации политики\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как принципы прозрачности влияют на процесс оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Способствуют доверию и участию общественности, повышая таким образом качество и приемлемость политических решений\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ограничивают доступ к информации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Снижают качество данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Увеличивают частоту ошибок в оценке\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы прогнозирования наиболее эффективны при оценке новых политик?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Делфийский метод, сценарное планирование и эконометрическое моделирование\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Только исторический анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Использование общественных опросов как основного инструмента\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Прямое копирование иностранных моделей\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие факторы могут искажать результаты оценки политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Предвзятость исследователей, недостаток данных, политическое давление\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Чрезмерное количество данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Высокая степень прозрачности исследования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Использование современных технологий\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие вызовы существуют при оценке трансграничных политик?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Необходимость учета различий в законодательстве, культурных и экономических условиях стран\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Гомогенность условий в разных странах\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Отсутствие необходимости в международной координации\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Простота в реализации и анализе\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие новые подходы в оценке политики предлагают современные исследования?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Внедрение больших данных, искусственного интеллекта и машинного обучения для более точного и быстрого анализа\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Исключение качественных методов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Отказ от использования технологий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Полное игнорирование международного опыта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие инструменты и методы можно применять для оценки влияния изменения климатической политики на национальную экономику?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Эконометрическое моделирование, системная динамика\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Опросы общественного мнения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Анализ социальных сетей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Интуитивные методы принятия решений\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "В чем заключается значение мультидисциплинарного подхода в оценке образовательной политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Обеспечивает учет разнообразных аспектов образовательного процесса и его влияние на различные группы населения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Упрощает процесс сбора данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Сокращает время анализа\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Снижает стоимость оценки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие специфические методы статистического анализа подходят для изучения эффектов здравоохранительной политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Сурвайвл анализ, логистическая регрессия\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Арифметическое среднее\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Простое перемещение средних\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Расчет стандартного отклонения\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как влияние глобализации на местные политические решения может быть измерено и оценено?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование компаративного анализа, индексов глобализации\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Методы одномерного сканирования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Напрямую, через международные рейтинги\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "С помощью анекдотических свидетельств\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие факторы затрудняют прямую оценку воздействия культурной политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Субъективность оценки, многообразие культурных выражений и отсутствие однозначных показателей успешности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Универсальность культурных стандартов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Наличие четких и измеримых критериев\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Простота интерпретации культурных событий\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы можно использовать для оценки влияния налоговой политики на инвестиционную активность?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Регрессионный анализ, анализ временных рядов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Опросы инвесторов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Прямое наблюдение\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Кейс-метод\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "В чем заключается роль сценарного планирования в процессе оценки государственной политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Позволяет моделировать различные будущие условия и оценивать потенциальные результаты внедрения политик\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Используется только для краткосрочного планирования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Служит для оценки прошлых событий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ограничивается финансовым анализом\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как можно оценить эффективность политики в области общественной безопасности?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ данных о преступности, исследование удовлетворенности граждан мерами безопасности\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на количестве полицейских патрулей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Измерение скорости реагирования на звонки\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Учет только статистики арестов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие вызовы возникают при оценке международной торговой политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Комплексность торговых систем, множество заинтересованных сторон и влияние глобальных экономических условий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ограниченный доступ к данным\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Отсутствие международных стандартов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Простота моделей оценки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы могут быть использованы для оценки воздействия изменений в законодательстве о труде?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ рынка труда, симуляционное моделирование экономических и социальных последствий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Непосредственное наблюдение за рабочими местами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Самооценка работодателей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ограниченные анкетирования среди населения\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие инновационные подходы в оценке политики предлагаются современными исследованиями?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Внедрение больших данных, искусственного интеллекта и машинного обучения для более точного и быстрого анализа\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Исключение качественных методов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Отказ от использования технологий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Полное игнорирование международного опыта\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как анализ чувствительности помогает в процессе оценки экономической политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Позволяет оценить реакцию различных экономических переменных на изменения в политике, выявляя наиболее устойчивые аспекты и потенциальные риски\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Снижает общую точность прогнозов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Исключает необходимость долгосрочного планирования\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ограничивает анализ только одним сценарием\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как можно оценить воздействие государственных инвестиций на инфраструктуру?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование моделей мультипликативного эффекта, которые учитывают прямые и косвенные эффекты на экономику\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Простой подсчет затрат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Анализ только первичного вклада в ВВП\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Игнорирование социальных изменений\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы лучше всего подходят для оценки политики социальной защиты?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Комбинирование количественных и качественных методов для всестороннего анализа воздействий на разные слои населения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Использование только государственных отчетов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на короткосрочных результатах\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Опросы только получателей помощи\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как проводится оценка воздействия изменений в налоговой политике на малый и средний бизнес?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование моделей финансового моделирования и анализ кэш-флоу для оценки долгосрочного влияния налоговых изменений\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Наблюдение за изменениями налоговых ставок\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Прямой аудит доходов компаний\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение внимания на крупных предприятиях\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие инструменты помогают в оценке эффективности публичной политики в области здравоохранения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Индексы здоровья населения, статистика заболеваемости и мортальности, а также экономический анализ доступности услуг\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Отзывы пациентов о качестве обслуживания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ограниченные клинические испытания\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Анализ только государственных расходов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие подходы используются для оценки воздействия образовательных политик на успеваемость студентов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Статистическое сравнение результатов экзаменов до и после внедрения политик, лонгитюдные исследования образовательных траекторий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Опросы учителей о их мнениях\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Наблюдение за поведением студентов в классе\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Исследование только школьных бюджетов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "rate": 2,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как применение смешанных методов может улучшить процесс оценки внешней торговли?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Интеграция количественного анализа торговых потоков с качественными интервью с ключевыми участниками рынка для глубокого понимания мотивов и барьеров торговли\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредоточение исключительно на государственных данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Использование только международных договоров\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Проведение поверхностных опросов потребителей\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие факторы учитываются при оценке воздействия экологической политики на устойчивое развитие?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ биоразнообразия, уровней загрязнения, изменений климата и социо-экономических последствий для местных сообществ\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Только экологические аспекты\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Исключительно экономические показатели\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Одноразовые экологические аудиты\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как оценить влияние изменений в законодательстве о защите данных на частные компании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Исследование изменений в системах управления данными компаний, анализ затрат на соответствие и мониторинг инцидентов связанных с данными\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Общий анализ жалоб потребителей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Простое сравнение старого и нового законодательства\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Изучение только технологических аспектов защиты данных\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие вызовы существуют при оценке воздействия международных санкций на национальные экономики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Комплексность экономических связей, разнообразие эффектов санкций на разные сектора и различия в устойчивости экономик\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на краткосрочных изменениях\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Игнорирование неформальной экономики\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Оценка только положительных аспектов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы и инструменты эффективны для оценки политики в области цифровой трансформации?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование индикаторов цифровизации, анализ воздействия на производительность и инновации, оценка изменений в потребительском поведении\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на количество новых технологий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Опросы о пользовательском опыте\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Только анализ инвестиций в технологии\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как можно оценить воздействие политики в области общественного здоровья на продолжительность жизни населения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ статистики здоровья, исследование продолжительности и качества жизни, использование моделей прогнозирования здоровья\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Непосредственное наблюдение за населением\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Сбор данных о смертности без контекста\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Исследование только медицинских учреждений\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие принципы должны руководить процессом оценки налоговой политики?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Непредвзятость, прозрачность, обоснованность и адаптивность к изменяющимся экономическим условиям и общественным ожиданиям\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Рассмотрение только краткосрочных фискальных целей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ограниченный анализ последствий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на мнениях налогоплательщиков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие аспекты важно учитывать при оценке эффективности государственных программ по снижению бедности?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Достижение целевых показателей, улучшение качества жизни бенефициаров, устойчивость результатов и воздействие на социальное неравенство\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Оценка только абсолютных показателей бедности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Исключение влияния на смежные сектора\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение исключительно на бюджетных расходах\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как можно оценить воздействие миграционной политики на рынок труда в приемной стране?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ данных о занятости и безработице, исследование влияния на зарплаты и условия труда\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Прямое наблюдение за изменениями в численности населения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Опросы местных жителей о их восприятии мигрантов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Изучение только легальной миграции\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы подходят для оценки влияния налоговых изменений на потребительские предпочтения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Эконометрический анализ потребительских расходов, анализ ценовой эластичности спроса\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сравнение цен до и после изменения налогов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Анализ социальных сетей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Исследование исключительно высокодоходных слоев населения\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как оценить эффективность программы по борьбе с коррупцией?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование индексов восприятия коррупции, анализ количества и результатов коррупционных дел\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ограничение оценки исключительно законодательными изменениями\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Непосредственное наблюдение за действиями чиновников\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Опросы населения о личных впечатлениях\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как можно оценить воздействие государственных инвестиций в цифровую инфраструктуру?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ доступности и качества интернет-соединения, оценка влияния на местное экономическое развитие\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на количестве новых рабочих мест в IT-секторе\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Изучение только государственных затрат\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Оценка удовлетворенности пользователей\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие факторы важно учитывать при оценке политики в сфере общественного транспорта?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Доступность, стоимость, надежность, влияние на окружающую среду и социальное включение\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Исключительно пассажиропоток\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Время ожидания транспорта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Мнения исключительно частных перевозчиков\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как оценить политику по сокращению выбросов углекислого газа?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Измерение уровней выбросов до и после введения политики, анализ эффективности внедренных технологий\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Опросы предприятий о легкости выполнения норм\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Сравнение с международными стандартами без учета местных условий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Исследование только крупных промышленных объектов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как анализ воздействия политики может помочь в принятии решений о ее корректировке?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Позволяет определить неэффективные аспекты и внести необходимые изменения для достижения целей\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредотачивается на немедленном отказе от политики при первых признаках неудач\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ограничивает обратную связь до внутренних отчетов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Игнорирует внешние экспертные оценки\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие подходы используются для оценки воздействия социальной политики на уязвимые группы населения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Специализированные исследования, анализ социальных переходов, изучение доступности и качества предоставляемых услуг\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Стандартный экономический анализ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Использование общих демографических данных\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ограничение анализа государственными отчетами\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы используются для количественной оценки эффективности государственных программ?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Статистический анализ, эконометрические модели, анализ доходов и расходов\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Простое сравнение бюджетных ассигнований\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Опросы участников программ\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Исключительное использование анекдотических данных\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как оценка политики может влиять на общественное доверие к государственным институтам?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Транспарентность процесса оценки и обратная связь могут усилить доверие и участие граждан в публичных делах\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Может вызвать сомнения при отсутствии публичного обсуждения результатов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Снижение доверия при чрезмерной зависимости от внешних консультантов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Повышение доверия только при положительных оценках\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие вызовы существуют при внедрении новой технологической политики в образовании?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Необходимость синхронизации технологий с учебными планами, обучение педагогов, адаптация учащихся и обеспечение инфраструктуры\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Фокус на исключительно высокотехнологичные решения\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ограниченное внимание к младшим классам\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Пренебрежение внеучебными мероприятиями\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы могут быть использованы для оценки политики в области устойчивого развития?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование индикаторов устойчивого развития, долгосрочное моделирование экономических и экологических эффектов, анализ социальной справедливости\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Краткосрочный финансовый аудит\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ограничение оценки единичными экологическими проектами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Исключение воздействия на местные сообщества\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как можно оценить влияние культурных инициатив на социальное благополучие населения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ участия в культурных мероприятиях, исследование их влияния на социальную интеграцию и психологическое благополучие\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Ограничение оценки билетными продажами\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Исключение нематериальных польз\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на доходах от мероприятий\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие инструменты эффективны для оценки политики здравоохранения на региональном уровне?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование данных о заболеваемости и смертности, анализ доступности и качества медицинских услуг, оценка воздействия на местные бюджеты\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Оценка только госпиталей\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Опросы медицинских работников\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на частных медицинских учреждениях\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как анализировать эффективность государственных мероприятий в сфере туризма?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Оценка воздействия на туристический поток, экономическую выгоду и местное население, использование индикаторов устойчивого туризма\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Исключительное внимание к количеству туристов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Опросы только индустрии гостеприимства\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на уровне занятости в секторе\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как оценить влияние государственных инвестиций в культурное наследие?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ воздействия на туризм, сохранение культурных ценностей, и экономическую активность местного населения\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на затратах на реставрацию\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ограничение анализа доходами от продажи билетов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Игнорирование международного интереса\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы используются для оценки государственной поддержки инновационных стартапов?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Изучение влияния на рост компаний, создание рабочих мест и инновационную активность\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Опросы учредителей стартапов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Анализ только финансовых вложений\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на краткосрочных результатах\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как можно оценить эффективность политики образования в улучшении профессиональных навыков населения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ соответствия образовательных программ требованиям рынка труда, исследование уровня занятости выпускников\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на успеваемости студентов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Опросы только образовательных учреждений\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Игнорирование неформального образования\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие подходы помогают оценить воздействие изменений в транспортной политике на уровень загрязнения окружающей среды?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование данных о выбросах, анализ изменений в транспортных потоках и модели прогнозирования качества воздуха\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Наблюдение за изменениями в количестве транспортных средств\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Анализ только городского транспорта\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на мнениях экологов\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие факторы важны при оценке политики управления водными ресурсами?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ доступности воды, качества воды, и воздействия на сельское хозяйство и население\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Изучение только потребления воды\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Ограничение оценки затратами на водоочистку\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на технических аспектах водоснабжения\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как оценить воздействие политики развития местного самоуправления на улучшение качества жизни населения?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Исследование уровня удовлетворенности услугами, доступностью инфраструктуры и прозрачностью управления\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Оценка только по количеству проведенных мероприятий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Анализ бюджетных расходов\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на мнении местных чиновников\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие вызовы возникают при оценке государственной поддержки сельского хозяйства?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Комплексный подход к анализу воздействия на продуктивность, экономическую выгоду и социальное благополучие фермеров\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Фокус на краткосрочных финансовых результатах\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Игнорирование экологических последствий\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Ограничение оценки дотациями\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как можно оценить воздействие фискальной стимуляции на восстановление после экономического кризиса?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Анализ макроэкономических показателей, таких как рост ВВП, уровень безработицы, и потребительское доверие\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на бюджетном дефиците\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Наблюдение за фондовым рынком\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Изучение только государственных инвестиций\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Какие методы эффективны для оценки изменений в социальной политике?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Многомерный подход, включающий количественный и качественный анализ, влияния политики на различные социальные группы\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на одном социальном параметре\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Опросы только государственных служащих\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Игнорирование долгосрочных социальных изменений\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "rate": 3,
+        "question": [
+            {
+                "type": "text",
+                "content": "Как оценить влияние технологических инноваций на производительность предприятий?\n"
+            }
+        ],
+        "option1": [
+            {
+                "type": "text",
+                "content": "Использование данных о производственной эффективности, инвестициях в технологии и их влиянии на рыночные позиции компаний\n"
+            },
+            {
+                "correct": true
+            }
+        ],
+        "option2": [
+            {
+                "type": "text",
+                "content": "Сосредоточение на уровне технологической оснащенности\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option3": [
+            {
+                "type": "text",
+                "content": "Наблюдение за изменениями в численности персонала\n"
+            },
+            {
+                "correct": false
+            }
+        ],
+        "option4": [
+            {
+                "type": "text",
+                "content": "Изучение только инноваций в ИТ-sector\n"
+            },
+            {
+                "correct": false
+            }
+        ]
+    }
+]
