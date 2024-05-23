@@ -20,12 +20,12 @@ T = TypeVar('T')
 
 def get_question_case_1_3(
         request: requests,
-        question: T,
+        question_obj: T,
         stage: T,
         question_id: T = None,
         num_questions: int = 5) -> Response:
 
-    file_path = question.file.name
+    file_path = question_obj.file.name
     json_data = get_json_data_from_cache(file_path=file_path)
 
     if 'error' in json_data:
@@ -34,9 +34,9 @@ def get_question_case_1_3(
         }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
     result = {
-        'specialization': question.specialization,
-        'language': question.language,
-        'academic_semester': question.academic_semester,
+        'specialization': question_obj.specialization,
+        'language': question_obj.language,
+        'academic_semester': question_obj.academic_semester,
         'questions': []
     }
 

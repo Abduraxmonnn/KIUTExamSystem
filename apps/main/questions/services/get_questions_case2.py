@@ -10,7 +10,11 @@ from apps.main.questions.models import Question
 from apps.services.load_json_to_cache_service import get_json_data_from_cache
 
 
-def get_question_case_2(question, file_path, question_id=None, num_questions: int = 20) -> Response:
+def get_question_case_2(
+        question_obj,
+        file_path,
+        question_id=None,
+        num_questions: int = 20) -> Response:
     try:
         # Convert question_id to integer if provided
         question_id_int = int(question_id) if question_id is not None else None
@@ -32,9 +36,9 @@ def get_question_case_2(question, file_path, question_id=None, num_questions: in
 
         # Prepare result list to collect selected questions
         result = {
-            'specialization': question.specialization,
-            'language': question.language,
-            'academic_semester': question.academic_semester,
+            'specialization': question_obj.specialization,
+            'language': question_obj.language,
+            'academic_semester': question_obj.academic_semester,
             'questions': []
         }
 

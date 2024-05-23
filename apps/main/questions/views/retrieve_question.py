@@ -26,7 +26,6 @@ class QuestionRetrieveAPIView(views.APIView):
         serializer = self.serializer_class(data=request.data)
         serializer.is_valid(raise_exception=True)
 
-        subject = serializer.validated_data.get('subject')
         subject_code = serializer.validated_data.get('subject_code')
         stage = serializer.validated_data.get('stage')
         number_of_questions = serializer.validated_data.get('number_of_questions')
@@ -34,12 +33,13 @@ class QuestionRetrieveAPIView(views.APIView):
 
         try:
             student_group_letter = get_student_by_token(request).group.code[-1]
+            print('here')
             get_questions = self.model.objects.get(
                 subject__code=subject_code,
-                subject__full_name=subject,
                 stage=stage,
                 language=groups_picker[student_group_letter]
             )
+            print('---> ', get_questions)
         except Question.DoesNotExist:
             return Response({
                 'status': 'error',
@@ -49,7 +49,7 @@ class QuestionRetrieveAPIView(views.APIView):
         if stage == 1 or stage == 3:
             response = get_question_case_1_3(
                 request=request,
-                question=get_questions,
+                question_obj=get_questions,
                 stage=stage,
                 question_id=question_id,
                 num_questions=number_of_questions
@@ -57,7 +57,7 @@ class QuestionRetrieveAPIView(views.APIView):
             return response
         elif stage == 2:
             response = get_question_case_2(
-                question=get_questions,
+                question_obj=get_questions,
                 file_path=get_questions.file.name,
                 question_id=question_id,
                 num_questions=number_of_questions

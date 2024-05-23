@@ -6,7 +6,6 @@ from apps.main.answers.models import Answer
 
 
 class AnswerCreateSerializer(serializers.ModelSerializer):
-    subject_name = serializers.CharField(max_length=255)
     subject_code = serializers.CharField(max_length=125)
     stage = serializers.IntegerField()
     question_id = serializers.CharField(max_length=125)
@@ -16,7 +15,6 @@ class AnswerCreateSerializer(serializers.ModelSerializer):
         model = Answer
         fields = [
             'question_id',
-            'subject_name',
             'subject_code',
             'stage',
             'picked',

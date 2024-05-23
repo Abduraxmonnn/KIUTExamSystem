@@ -30,7 +30,6 @@ class AnswerCreateAPIView(viewsets.ModelViewSet):
         serializer.is_valid(raise_exception=True)
 
         question_id = serializer.validated_data.get('question_id')
-        subject_name = serializer.validated_data.get('subject_name')
         subject_code = serializer.validated_data.get('subject_code')
         stage = serializer.validated_data.get('stage')
         picked = serializer.validated_data.get('picked', None)
@@ -41,10 +40,9 @@ class AnswerCreateAPIView(viewsets.ModelViewSet):
             student_group_letter = get_student.group.code[-1]
             get_question = Question.objects.get(
                 subject__code=subject_code,
-                subject__full_name=subject_name,
                 stage=stage,
                 language=groups_picker[student_group_letter])
-            get_subject = Subject.objects.get(code=subject_code, full_name=subject_name)
+            get_subject = Subject.objects.get(code=subject_code)
         except Exception as ex:
             print('---------> 49 line: create_answer_api: ', ex)
             return Response({
@@ -56,10 +54,9 @@ class AnswerCreateAPIView(viewsets.ModelViewSet):
             response = create_answer_case_1_3(
                 stage=stage,
                 request=request,
-                question=get_question,
-                subject=get_subject,
-                subject_name=subject_name,
-                student=get_student,
+                question_obj=get_question,
+                subject_obj=get_subject,
+                student_obj=get_student,
                 question_id=question_id,
                 answer_text=answer_text
             )
@@ -68,8 +65,8 @@ class AnswerCreateAPIView(viewsets.ModelViewSet):
             response = create_answer_to_db_case_2(
                 model=self.model,
                 request=request,
-                student=get_student,
-                subject=get_subject,
+                student_obj=get_student,
+                subject_obj=get_subject,
                 stage=stage,
                 question_obj=get_question,
                 question_id=question_id,

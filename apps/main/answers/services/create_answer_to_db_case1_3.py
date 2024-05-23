@@ -14,10 +14,9 @@ from apps.services.get_user_by_token_service import get_student_by_token
 
 def create_answer_case_1_3(stage,
                            request,
-                           question,
-                           subject,
-                           subject_name,
-                           student,
+                           question_obj,
+                           subject_obj,
+                           student_obj,
                            question_id,
                            answer_text) -> Response:
     """
@@ -29,18 +28,18 @@ def create_answer_case_1_3(stage,
     :return Response:
     """
     response = {
-        'subject_name': subject_name,
+        'subject_name': subject_obj.full_name,
         'question_id': question_id,
-        'student': question.subject.full_name,
+        'student': question_obj.subject.full_name,
         'answer_text': answer_text
     }
 
     try:
         Answer.objects.create(
-            subject=subject,
+            subject=subject_obj,
             stage=stage,
-            student=student,
-            question=question,
+            student=student_obj,
+            question=question_obj,
             question_ids=question_id,
             answer_text=answer_text
         ).save()

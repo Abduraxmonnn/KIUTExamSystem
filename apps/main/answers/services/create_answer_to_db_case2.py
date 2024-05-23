@@ -13,10 +13,10 @@ def create_answer_to_db_case_2(
         model,
         request,
         stage,
-        student,
+        student_obj,
         question_obj,
         question_id,
-        subject,
+        subject_obj,
         picked):
     file_path = question_obj.file.name
     json_data = get_json_data_from_cache(file_path=file_path)
@@ -37,8 +37,8 @@ def create_answer_to_db_case_2(
     }
 
     existing_answer = model.objects.filter(
-        student=student,
-        subject=subject,
+        student=student_obj,
+        subject=subject_obj,
         stage=stage,
     ).first()
 
@@ -54,10 +54,10 @@ def create_answer_to_db_case_2(
 
     if not existing_answer:
         created_answer = model.objects.create(
-            subject=subject,
+            subject=subject_obj,
             stage=stage,
             question=question_obj,
-            student=student,
+            student=student_obj,
             answer_json=question
         )
         obj = created_answer
