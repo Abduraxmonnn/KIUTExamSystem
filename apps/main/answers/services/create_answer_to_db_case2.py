@@ -8,38 +8,17 @@ from apps.main.subjects.models import Subject
 from apps.services.get_user_by_token_service import get_student_by_token
 from apps.services.load_json_to_cache_service import get_json_data_from_cache
 
-groups_picker = {
-    'U': 'UZ',
-    'R': 'RU',
-    'E': 'EN',
-    'K': 'KR'
-}
-
 
 def create_answer_to_db_case_2(
         model,
         request,
         stage,
+        student_obj,
+        question_obj,
         question_id,
-        subject_name,
+        subject_obj,
         picked):
-    try:
-        get_student = get_student_by_token(request)
-        student_group_letter = get_student.group.code[-1]
-        get_question = Question.objects.get(
-            subject__full_name=subject_name,
-            stage=stage,
-            language=groups_picker[student_group_letter]
-        )
-        get_subject = Subject.objects.get(full_name=subject_name)
-    except Exception as ex:
-        print('---------> 33 line: create_answer_service: ', ex)
-        return Response({
-            'status': 'error',
-            'message': f'Student / Question / Subject Does Not Exists or Error! {ex}'
-        }, status=status.HTTP_400_BAD_REQUEST)
-
-    file_path = get_question.file.name
+    file_path = question_obj.file.name
     json_data = get_json_data_from_cache(file_path=file_path)
 
     if 'error' in json_data:
@@ -58,8 +37,8 @@ def create_answer_to_db_case_2(
     }
 
     existing_answer = model.objects.filter(
-        student=get_student,
-        subject=get_subject,
+        student=student_obj,
+        subject=subject_obj,
         stage=stage,
     ).first()
 
@@ -75,10 +54,10 @@ def create_answer_to_db_case_2(
 
     if not existing_answer:
         created_answer = model.objects.create(
-            subject=get_subject,
+            subject=subject_obj,
             stage=stage,
-            question=get_question,
-            student=get_student,
+            question=question_obj,
+            student=student_obj,
             answer_json=question
         )
         obj = created_answer
@@ -103,3 +82,4 @@ def create_answer_to_db_case_2(
         'status': 'successfully',
         'message': question
     }, status=status.HTTP_200_OK)
+
