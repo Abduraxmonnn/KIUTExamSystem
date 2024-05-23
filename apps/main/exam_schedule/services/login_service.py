@@ -32,7 +32,7 @@ def login_data_checker(schedule):
         }, status=status.HTTP_401_UNAUTHORIZED)
 
     try:
-        question_stages = list(Question.objects.filter(subject=schedule.subject).values_list('stage', flat=True))
+        question_stages = set(Question.objects.filter(subject=schedule.subject, subject__code=schedule.subject.code).values_list('stage', flat=True))
 
     except Exception as ex:
         return Response({
