@@ -23,6 +23,8 @@ class QuestionRetrieveAPIView(views.APIView):
     permission_classes = [IsCustomTokenAuthenticatedPermission]
 
     def post(self, request):
+        student_group_letter = get_student_by_token(request).group.code[-1]
+
         serializer = self.serializer_class(data=request.data)
         serializer.is_valid(raise_exception=True)
 
@@ -32,14 +34,17 @@ class QuestionRetrieveAPIView(views.APIView):
         question_id = serializer.validated_data.get('question_id')
 
         try:
-            student_group_letter = get_student_by_token(request).group.code[-1]
-            print('here')
             get_questions = self.model.objects.get(
                 subject__code=subject_code,
                 stage=stage,
                 language=groups_picker[student_group_letter]
             )
-            print('---> ', get_questions)
+        #     ISSUE CATCHER
+        except Question.MultipleObjectsReturned as ex:
+            return Response({
+                'status': 'error',
+                'message': f'Check subject. That is not unique. exception: {ex}. query_params: {subject_code, stage, groups_picker[student_group_letter]}'
+            }, status=status.HTTP_400_BAD_REQUEST)
         except Question.DoesNotExist:
             return Response({
                 'status': 'error',
