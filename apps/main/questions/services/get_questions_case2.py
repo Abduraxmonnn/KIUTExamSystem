@@ -19,13 +19,12 @@ def get_question_case_2(
         # Convert question_id to integer if provided
         question_id_int = int(question_id) if question_id is not None else None
 
-
         json_data = get_json_data_from_cache(file_path=file_path)
 
         if 'error' in json_data:
             return Response({
-                        json_data
-                    }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+                json_data
+            }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
         # Filter valid questions with rates from JSON data
         valid_questions = [item for item in json_data if 'rate' in item]

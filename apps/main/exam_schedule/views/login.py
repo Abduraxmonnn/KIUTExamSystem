@@ -5,14 +5,14 @@ from rest_framework.views import APIView
 
 # Project
 from apps.main.exam_schedule.models import ExamSchedule
-from apps.main.exam_schedule.serializers import LogInSerializer
+from apps.main.exam_schedule.serializers import StudentLogInSerializer
 from apps.permissions import LogInUserPermission
 from apps.main.exam_schedule.services import login_data_checker
 
 
 class LogInAPIView(APIView):
     model = ExamSchedule
-    serializer_class = LogInSerializer
+    serializer_class = StudentLogInSerializer
     permission_classes = [LogInUserPermission]
 
     def post(self, request):

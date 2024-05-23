@@ -8,7 +8,7 @@ from apps.main.questions.models import Question
 
 @admin.register(Question)
 class QuestionAdmin(ModelAdmin):
-    list_display = ['id', 'subject', 'stage', 'language', 'get_file_name']
+    list_display = ['id', 'subject', 'stage', 'language', 'get_subject__code', 'get_file_name']
     list_display_links = ['subject', 'language']
     list_filter = ['stage', 'language']
 
@@ -16,3 +16,6 @@ class QuestionAdmin(ModelAdmin):
         file = obj.file.name
         file_name = file.split('/' or '\\')[-1]
         return file_name
+
+    def get_subject__code(self, obj):
+        return obj.subject.code
