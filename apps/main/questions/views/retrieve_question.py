@@ -27,6 +27,7 @@ class QuestionRetrieveAPIView(views.APIView):
         serializer.is_valid(raise_exception=True)
 
         subject = serializer.validated_data.get('subject')
+        subject_code = serializer.validated_data.get('subject_code')
         stage = serializer.validated_data.get('stage')
         number_of_questions = serializer.validated_data.get('number_of_questions')
         question_id = serializer.validated_data.get('question_id')
@@ -34,6 +35,7 @@ class QuestionRetrieveAPIView(views.APIView):
         try:
             student_group_letter = get_student_by_token(request).group.code[-1]
             get_questions = self.model.objects.get(
+                subject__code=subject_code,
                 subject__full_name=subject,
                 stage=stage,
                 language=groups_picker[student_group_letter]
