@@ -44,7 +44,7 @@ class AnswerCreateAPIView(viewsets.ModelViewSet):
                 subject__full_name=subject_name,
                 stage=stage,
                 language=groups_picker[student_group_letter])
-            get_subject = Subject.objects.get(full_name=subject_name)
+            get_subject = Subject.objects.get(code=subject_code, full_name=subject_name)
         except Exception as ex:
             print('---------> 49 line: create_answer_api: ', ex)
             return Response({
@@ -71,7 +71,7 @@ class AnswerCreateAPIView(viewsets.ModelViewSet):
                 student=get_student,
                 subject=get_subject,
                 stage=stage,
-                question=get_question,
+                question_obj=get_question,
                 question_id=question_id,
                 picked=picked
             )

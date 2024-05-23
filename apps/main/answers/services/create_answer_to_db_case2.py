@@ -14,11 +14,11 @@ def create_answer_to_db_case_2(
         request,
         stage,
         student,
-        question,
+        question_obj,
         question_id,
         subject,
         picked):
-    file_path = question.file.name
+    file_path = question_obj.file.name
     json_data = get_json_data_from_cache(file_path=file_path)
 
     if 'error' in json_data:
@@ -56,7 +56,7 @@ def create_answer_to_db_case_2(
         created_answer = model.objects.create(
             subject=subject,
             stage=stage,
-            question=question,
+            question=question_obj,
             student=student,
             answer_json=question
         )

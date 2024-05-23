@@ -31,7 +31,7 @@ def create_answer_case_1_3(stage,
     response = {
         'subject_name': subject_name,
         'question_id': question_id,
-        'student': question.full_name,
+        'student': question.subject.full_name,
         'answer_text': answer_text
     }
 
