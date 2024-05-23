@@ -24,7 +24,7 @@ class AnswerAdmin(ModelAdmin):
         """Function to display pretty version of our data"""
 
         # Convert the data to sorted, indented JSON
-        response = json.dumps(instance.answer_json, sort_keys=True, indent=2).encode('utf-8')  # <-- your field here
+        response = json.dumps(instance.answer_json, sort_keys=True, indent=2, ensure_ascii=False)  # <-- your field here
 
         # Truncate the data. Alter as needed
         response = response[:5000]
