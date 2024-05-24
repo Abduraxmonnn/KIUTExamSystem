@@ -10,7 +10,7 @@ from apps.main.auth_tokens.models import CustomToken
 from apps.main.questions.models import Question
 
 
-def login_data_checker(schedule):
+def student_login_data_checker(schedule):
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     exam_date_obj = schedule.exam_date.strftime("%Y-%m-%d %H:%M:%S")
 
@@ -42,7 +42,7 @@ def login_data_checker(schedule):
 
     try:
         generate_token = CustomToken().generate_key()
-        token, created = CustomToken.objects.get_or_create(schedule=schedule)
+        token, created = CustomToken.objects.get_or_create(schedule=schedule, is_student=True)
         if created:
             token.key = generate_token
             token.save()

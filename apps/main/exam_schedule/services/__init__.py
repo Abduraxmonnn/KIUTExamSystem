@@ -1,1 +1,1 @@
-from apps.main.exam_schedule.services.login_service import login_data_checker
+from apps.main.exam_schedule.services.student_login_service import student_login_data_checker

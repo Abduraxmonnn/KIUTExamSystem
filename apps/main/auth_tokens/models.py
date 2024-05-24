@@ -7,6 +7,7 @@ from django.db import models
 
 # Project
 from apps.main.exam_schedule.models import ExamSchedule
+from apps.main.teachers.models import Teacher
 
 
 class CustomToken(models.Model):
@@ -15,9 +16,16 @@ class CustomToken(models.Model):
     """
     key = models.CharField(max_length=40, primary_key=True)
     schedule = models.OneToOneField(
-        ExamSchedule, related_name='auth_token',
-        on_delete=models.CASCADE, verbose_name="Exam Schedule"
+        ExamSchedule, related_name='schedule_auth_token',
+        on_delete=models.CASCADE, verbose_name="Exam Schedule",
+        blank=True, null=True
     )
+    teacher = models.OneToOneField(
+        Teacher, related_name='teacher_auth_token',
+        on_delete=models.CASCADE, verbose_name="Teacher",
+        blank=True, null=True
+    )
+    is_student = models.BooleanField(default=False)
     created_date = models.DateTimeField(auto_now_add=True)
 
     class Meta:
