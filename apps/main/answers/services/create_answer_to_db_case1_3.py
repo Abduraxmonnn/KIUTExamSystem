@@ -9,7 +9,7 @@ from rest_framework.response import Response
 from apps.main.answers.models import Answer
 from apps.main.questions.models import Question
 from apps.main.subjects.models import Subject
-from apps.services.get_user_by_token_service import get_student_by_token
+from apps.services.get_user_by_token_service import get_user_by_token
 
 
 def create_answer_case_1_3(stage,

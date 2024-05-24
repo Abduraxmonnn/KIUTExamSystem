@@ -12,7 +12,7 @@ from rest_framework.response import Response
 # Project
 from apps.main.questions.models import Question
 
-from apps.services.get_user_by_token_service import get_student_by_token
+from apps.services.get_user_by_token_service import get_user_by_token
 from apps.services.load_json_to_cache_service import get_json_data_from_cache
 
 T = TypeVar('T')

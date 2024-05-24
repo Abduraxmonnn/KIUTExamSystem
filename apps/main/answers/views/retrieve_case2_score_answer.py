@@ -7,7 +7,7 @@ from rest_framework.response import Response
 from apps.main.answers.serializers import RetrieveCase2ScoreSerializer
 from apps.main.answers.models import Answer
 from apps.permissions import IsCustomTokenAuthenticatedPermission
-from apps.services.get_user_by_token_service import get_student_by_token
+from apps.services.get_user_by_token_service import get_user_by_token
 
 
 class RetrieveCase2ScoreViewSet(ModelViewSet):
@@ -19,7 +19,7 @@ class RetrieveCase2ScoreViewSet(ModelViewSet):
     def get_object(self):
         subject_name = self.request.data['subject_name']
         try:
-            get_student = get_student_by_token(self.request)
+            get_student = get_user_by_token(self.request)
             queryset = self.filter_queryset(self.get_queryset())
             obj = queryset.filter(subject__full_name=subject_name, student=get_student).first()
         except Exception as ex:

@@ -9,7 +9,7 @@ from apps.main.answers.services import create_answer_to_db_case_2, create_answer
 from apps.main.questions.models import Question
 from apps.main.subjects.models import Subject
 from apps.permissions import IsCustomTokenAuthenticatedPermission
-from apps.services.get_user_by_token_service import get_student_by_token
+from apps.services.get_user_by_token_service import get_user_by_token
 
 groups_picker = {
     'U': 'UZ',
@@ -36,7 +36,7 @@ class AnswerCreateAPIView(viewsets.ModelViewSet):
         answer_text = serializer.validated_data.get('answer_text', None)
 
         try:
-            get_student = get_student_by_token(request)
+            get_student = get_user_by_token(request)
             student_group_letter = get_student.group.code[-1]
             get_question = Question.objects.get(
                 subject__code=subject_code,

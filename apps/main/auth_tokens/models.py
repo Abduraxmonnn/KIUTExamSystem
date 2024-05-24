@@ -41,4 +41,7 @@ class CustomToken(models.Model):
         return binascii.hexlify(os.urandom(20)).decode()
 
     def __str__(self):
-        return self.schedule.student.full_name
+        if self.schedule:
+            return self.schedule.student.full_name
+        else:
+            return self.teacher.full_name

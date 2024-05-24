@@ -7,7 +7,7 @@ from apps.main.questions.models import Question
 from apps.main.questions.serializers import QuestionRetrieveSerializer
 from apps.main.questions.services import get_question_case_1_3, get_question_case_2
 from apps.permissions import IsCustomTokenAuthenticatedPermission
-from apps.services.get_user_by_token_service import get_student_by_token
+from apps.services.get_user_by_token_service import get_user_by_token
 
 groups_picker = {
     'U': 'UZ',
@@ -23,7 +23,7 @@ class QuestionRetrieveAPIView(views.APIView):
     permission_classes = [IsCustomTokenAuthenticatedPermission]
 
     def post(self, request):
-        student_group_letter = get_student_by_token(request).group.code[-1]
+        student_group_letter = get_user_by_token(request).group.code[-1]
 
         serializer = self.serializer_class(data=request.data)
         serializer.is_valid(raise_exception=True)
