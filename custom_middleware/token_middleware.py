@@ -24,9 +24,6 @@ class TokenAuthenticationMiddleware:
 
 def is_token_valid(token):
     try:
-        if token == os.environ.get('STATIC_TOKEN'):
-            return True
-
         exam_token = CustomToken.objects.get(key=token)
         if exam_token:
             return True

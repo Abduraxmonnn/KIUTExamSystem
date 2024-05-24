@@ -41,10 +41,12 @@ def student_login_data_checker(schedule):
         }, status=status.HTTP_400_BAD_REQUEST)
 
     try:
-        generate_token = CustomToken().generate_key()
-        token, created = CustomToken.objects.get_or_create(schedule=schedule, is_student=True)
-        if created:
-            token.key = generate_token
+        existing_token = CustomToken.objects.filter(schedule=schedule).first()
+
+        if existing_token:
+            token = existing_token
+        else:
+            token = CustomToken(schedule=schedule, is_student=True)
             token.save()
 
         if schedule.start_time is None:
@@ -57,7 +59,7 @@ def student_login_data_checker(schedule):
         }, status=status.HTTP_400_BAD_REQUEST)
 
     data = {
-        'token': generate_token if created else token.key,
+        'token': token.key,
         'fullname': schedule.student.full_name,
         'subject': schedule.subject.full_name,
         'subject_code': schedule.subject.code,

@@ -21,6 +21,7 @@ class LogInAPIView(APIView):
 
         login = serializer.validated_data.get('login')
         password = serializer.validated_data.get('password')
+        print('asdasdas')
 
         try:
             schedule = ExamSchedule.objects.get(login=login, password=password)

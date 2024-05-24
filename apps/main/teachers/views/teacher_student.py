@@ -5,14 +5,14 @@ from rest_framework.viewsets import ModelViewSet
 from apps.main.teachers.models import Teacher
 from apps.main.teachers.serializers import TeacherStudentsListSerializer, TeacherStudentsMaseScoreSerializer
 from apps.main.teachers.services import teacher_student_picker, teacher_make_score_to_student
-from apps.permissions import IsCustomTokenAuthenticatedPermission
+from apps.permissions import IsTeacherTokenAuthenticatedPermission
 
 
 class TeacherStudentsListViewSet(ModelViewSet):
     model = Teacher
     queryset = model.objects.all()
     serializer_class = TeacherStudentsListSerializer
-    permission_classes = [IsCustomTokenAuthenticatedPermission]
+    permission_classes = [IsTeacherTokenAuthenticatedPermission]
 
     def create(self, request, *args, **kwargs):
         serializer = self.serializer_class(data=request.data)
@@ -23,11 +23,11 @@ class TeacherStudentsListViewSet(ModelViewSet):
         return teacher_student_picker(request=request, subject_code=subject_code)
 
 
-class TeacherStudentsMaseScoreViewSet(ModelViewSet):
+class TeacherStudentsMakeScoreViewSet(ModelViewSet):
     model = Teacher
     queryset = model.objects.all()
     serializer_class = TeacherStudentsMaseScoreSerializer
-    permission_classes = [IsCustomTokenAuthenticatedPermission]
+    permission_classes = [IsTeacherTokenAuthenticatedPermission]
 
     def create(self, request, *args, **kwargs):
         serializer = self.serializer_class(data=request.data)

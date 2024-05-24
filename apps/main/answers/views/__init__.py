@@ -1,2 +1,3 @@
 from apps.main.answers.views.create_answer import AnswerCreateAPIView
+from apps.main.answers.views.retrieve_answer import RetrieveAnswerAPIView
 from apps.main.answers.views.retrieve_case2_score_answer import RetrieveCase2ScoreViewSet

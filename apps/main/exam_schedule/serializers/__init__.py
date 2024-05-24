@@ -1,2 +1,1 @@
 from apps.main.exam_schedule.serializers.login import StudentLogInSerializer
-from apps.main.exam_schedule.serializers.today_exam_schedule import TodayExamScheduleListSerializer

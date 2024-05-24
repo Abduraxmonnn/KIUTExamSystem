@@ -5,12 +5,10 @@ from django.urls import include, path
 from django.conf.urls.static import static
 
 # Project
-from apps.main.exam_schedule.views.today_exam_schedule import TodayExamScheduleListViewSet
 from config.yasg import urlpatterns as doc_urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('examschedule/<str:rfid>/', TodayExamScheduleListViewSet.as_view({'get': 'list'})),
     path('api/v1/', include('apps.urls')),
 
     path('__debug__/', include('debug_toolbar.urls')),

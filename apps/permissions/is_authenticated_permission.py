@@ -1,6 +1,3 @@
-# Python
-import os
-
 # RestFramework
 from rest_framework.permissions import BasePermission
 from rest_framework.exceptions import AuthenticationFailed
@@ -27,7 +24,7 @@ class IsCustomTokenAuthenticatedPermission(BasePermission):
             raise AuthenticationFailed('Invalid token.')
 
 
-class IsStaticTokenAuthenticatedPermission(BasePermission):
+class IsTeacherTokenAuthenticatedPermission(BasePermission):
     def has_permission(self, request, view):
         token = request.META.get('HTTP_AUTHORIZATION', '').split(' ')[
             1] if 'HTTP_AUTHORIZATION' in request.META else None
@@ -36,7 +33,8 @@ class IsStaticTokenAuthenticatedPermission(BasePermission):
             raise AuthenticationFailed('No token provided.')
 
         try:
-            if token == os.environ.get('STATIC_TOKEN'):
+            custom_token = CustomToken.objects.get(key=token, is_student=False)
+            if custom_token:
                 return True
             else:
                 raise AuthenticationFailed('Invalid token.')
