@@ -3,8 +3,8 @@ from rest_framework.viewsets import ModelViewSet
 
 # Project
 from apps.main.teachers.models import Teacher
-from apps.main.teachers.serializers import TeacherStudentsListSerializer, TeacherStudentsMaseScoreSerializer
-from apps.main.teachers.services import teacher_student_picker, teacher_make_score_to_student
+from apps.main.teachers.serializers import TeacherStudentsListSerializer, TeacherSetScoreSerializer
+from apps.main.teachers.services import teacher_student_picker, set_score_to_student
 from apps.permissions import IsTeacherTokenAuthenticatedPermission
 
 
@@ -23,10 +23,10 @@ class TeacherStudentsListViewSet(ModelViewSet):
         return teacher_student_picker(subject_code=subject_code)
 
 
-class TeacherStudentsMakeScoreViewSet(ModelViewSet):
+class TeacherSetScoreViewSet(ModelViewSet):
     model = Teacher
     queryset = model.objects.all()
-    serializer_class = TeacherStudentsMaseScoreSerializer
+    serializer_class = TeacherSetScoreSerializer
     permission_classes = [IsTeacherTokenAuthenticatedPermission]
 
     def create(self, request, *args, **kwargs):
@@ -34,14 +34,14 @@ class TeacherStudentsMakeScoreViewSet(ModelViewSet):
         serializer.is_valid(raise_exception=True)
 
         subject_code = serializer.validated_data.get('subject_code')
-        student_rfid = serializer.validated_data.get('student_rfid')
+        student_id = serializer.validated_data.get('student_id')
         score = serializer.validated_data.get('score')
         stage = serializer.validated_data.get('stage')
 
-        return teacher_make_score_to_student(
+        return set_score_to_student(
             request=request,
             subject_code=subject_code,
-            student_rfid=student_rfid,
+            student_id=student_id,
             score=score,
-            stage=stage,
+            stage=stage
         )

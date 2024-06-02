@@ -6,8 +6,8 @@ class TeacherStudentsListSerializer(serializers.Serializer):
     subject_code = serializers.CharField(max_length=125)
 
 
-class TeacherStudentsMaseScoreSerializer(serializers.Serializer):
-    subject_code = serializers.CharField(max_length=20)
-    student_rfid = serializers.CharField(max_length=30)
-    score = serializers.IntegerField()
+class TeacherSetScoreSerializer(serializers.Serializer):
+    subject_code = serializers.CharField(max_length=125)
     stage = serializers.IntegerField()
+    student_id = serializers.CharField(max_length=20)
+    score = serializers.IntegerField()
