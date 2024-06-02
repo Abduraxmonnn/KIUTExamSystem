@@ -15,10 +15,17 @@ from apps.main.answers.models import Answer
 
 @admin.register(Answer)
 class AnswerAdmin(ModelAdmin):
-    list_display = ['id', 'subject', 'stage', 'student', 'question', 'score', 'created_date']
-    list_display_links = ['subject', 'student']
+    list_display = ['id', 'subject', 'get_subject_code', 'stage', 'get_student_id', 'question', 'score', 'created_date']
+    # list_filter = ['stage']
+    list_display_links = ['get_subject_code', 'get_student_id']
     readonly_fields = ('pretty_json', )
     exclude = ('answer_json', )
+
+    def get_student_id(self, obj):
+        return obj.student.student_id
+
+    def get_subject_code(self, obj):
+        return obj.subject.code
 
     def pretty_json(self, instance):
         """Function to display pretty version of our data"""

@@ -17,5 +17,5 @@ class RetrieveCase2ScoreSerializer(serializers.ModelSerializer):
 
 class RetrieveAnswerSerializer(serializers.Serializer):
     subject_code = serializers.CharField(max_length=125)
-    student_rfid = serializers.CharField(max_length=30)
+    student_id = serializers.CharField(max_length=30)
     stage = serializers.IntegerField()
