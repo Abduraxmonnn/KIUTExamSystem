@@ -45,11 +45,11 @@ def teacher_student_picker(subject_code):
         students_list = list(students_dict.values())
     except Exception as ex:
         return Response({
-            'status': 'success',
+            'status': 'successfully',
             'message': f'raise error while collecting data. {ex}'
         }, status=status.HTTP_400_BAD_REQUEST)
 
     return Response({
-        'status': 'success',
+        'status': 'successfully',
         'message': students_list
     }, status=status.HTTP_200_OK)
