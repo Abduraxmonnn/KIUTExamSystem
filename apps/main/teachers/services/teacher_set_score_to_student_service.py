@@ -52,11 +52,17 @@ def set_score_to_student(
         'score': None,
     }
     for item in answer_obj:
+        if item.is_scored:
+            return Response({
+                'status': 'error',
+                'message': 'Student Scored!'
+            }, status=status.HTTP_400_BAD_REQUEST)
         item.score = score
         data['score'] = item.score
+        item.is_scored = True
         item.save()
 
     return Response({
         'status': 'successfully',
         'message': data
-    })
+    }, status=status.HTTP_200_OK)

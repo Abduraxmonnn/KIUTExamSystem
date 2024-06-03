@@ -22,6 +22,7 @@ class Answer(models.Model):
     question = models.ForeignKey(Question, on_delete=models.SET_NULL, null=True)
     question_ids = models.CharField(max_length=155, blank=True, null=True)
     score = models.PositiveIntegerField(default=0)
+    is_scored = models.BooleanField(default=False)
     answer_json = models.JSONField(blank=True, null=True)
     answer_text = models.TextField(blank=True, null=True)
     created_date = models.DateTimeField(auto_now_add=True)
