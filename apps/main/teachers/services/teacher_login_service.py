@@ -4,6 +4,7 @@ from rest_framework.response import Response
 
 # Project
 from apps.main.auth_tokens.models import CustomToken
+from apps.main.questions.models import Question
 from apps.main.teachers_subjects.models import TeacherSubject
 
 
@@ -30,7 +31,12 @@ def teacher_login_data_checker(teacher_obj):
 
     unique_subjects = get_subjects.distinct('subject__id')
     teacher_subject_code = [
-        {'name': item.subject.full_name, 'code': item.subject.code}
+        {
+            'name': item.subject.full_name,
+            'code': item.subject.code,
+            'subject_stages': set(
+                Question.objects.filter(subject=item.subject, subject__code=item.subject.code).values_list('stage',
+                                                                                                           flat=True))}
         for item in unique_subjects
     ]
 
