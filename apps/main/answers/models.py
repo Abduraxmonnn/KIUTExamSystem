@@ -25,6 +25,7 @@ class Answer(models.Model):
     is_scored = models.BooleanField(default=False)
     answer_json = models.JSONField(blank=True, null=True)
     answer_text = models.TextField(blank=True, null=True)
+    comment = models.TextField(blank=True, null=True)
     created_date = models.DateTimeField(auto_now_add=True)
     last_updated = models.DateTimeField(auto_now=True)
 
