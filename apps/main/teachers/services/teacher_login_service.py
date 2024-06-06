@@ -34,9 +34,13 @@ def teacher_login_data_checker(teacher_obj):
         {
             'name': item.subject.full_name,
             'code': item.subject.code,
+            'language': set(
+                Question.objects.filter(subject=item.subject, subject__code=item.subject.code).values_list('language',
+                                                                                                           flat=True)),
             'subject_stages': set(
                 Question.objects.filter(subject=item.subject, subject__code=item.subject.code).values_list('stage',
-                                                                                                           flat=True))}
+                                                                                                           flat=True))
+        }
         for item in unique_subjects
     ]
 

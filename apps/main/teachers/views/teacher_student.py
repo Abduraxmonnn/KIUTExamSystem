@@ -20,7 +20,7 @@ class TeacherStudentsListViewSet(ModelViewSet):
 
         subject_code = serializer.validated_data.get('subject_code')
 
-        return teacher_student_picker(subject_code=subject_code)
+        return teacher_student_picker(request=request, subject_code=subject_code)
 
 
 class TeacherSetScoreViewSet(ModelViewSet):
