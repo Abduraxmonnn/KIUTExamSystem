@@ -28,16 +28,16 @@ def teacher_student_picker(subject_code):
                 students_dict[student_id] = {
                     'student_id': student_id,
                     'case_1_score': 0,
-                    'case_2_score': 0,
+            #        'case_2_score': 0,
                     'case_3_score': 0
                 }
 
             if item.stage == 1:
                 students_dict[student_id]['case_1_score'] = get_deepest_element(item.score) if isinstance(item.score, (
                     tuple, list)) else item.score
-            elif item.stage == 2:
-                students_dict[student_id]['case_2_score'] = get_deepest_element(item.score) if isinstance(item.score, (
-                    tuple, list)) else item.score
+            # elif item.stage == 2:
+            #     students_dict[student_id]['case_2_score'] = get_deepest_element(item.score) if isinstance(item.score, (
+            #         tuple, list)) else item.score
             elif item.stage == 3:
                 students_dict[student_id]['case_3_score'] = get_deepest_element(item.score) if isinstance(item.score, (
                     tuple, list)) else item.score
