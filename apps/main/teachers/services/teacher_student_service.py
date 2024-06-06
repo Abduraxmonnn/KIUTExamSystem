@@ -23,7 +23,7 @@ def teacher_student_picker(request, subject_code):
     try:
         get_teacher = get_user_by_token(request)
         teacher_subject_obj = TeacherSubject.objects.filter(teacher=get_teacher)
-        teacher_subject_lang_list = [i.language for i in teacher_subject_obj]
+        teacher_subject_lang_list = set(i.language for i in teacher_subject_obj)
     except Exception as ex:
         return Response({
             'status': 'error',
@@ -58,7 +58,7 @@ def teacher_student_picker(request, subject_code):
                         item.score, (
                             tuple, list)) else item.score
 
-            students_list = students_dict.values()
+            students_list.append(students_dict.values())
         except Exception as ex:
             return Response({
                 'status': 'error',
