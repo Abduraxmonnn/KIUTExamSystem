@@ -29,12 +29,12 @@ def teacher_login_data_checker(teacher_obj):
         generate_token = CustomToken().generate_key()
         token = CustomToken.objects.create(teacher=teacher_obj, is_student=False, key=generate_token)
 
-    unique_subjects = get_subjects.distinct('subject__id')
+    unique_subjects = get_subjects  # .distinct('subject__id')  # # Do not remove comment and variable. This would be helpful in future
     teacher_subject_code = [
         {
-            'name': item.subject.full_name,
+            'name': f'{item.subject.full_name} {item.language}',
             'code': item.subject.code,
-            'language': set(i.language for i in get_subjects),
+            'language': item.language,
             'subject_stages': set(
                 Question.objects.filter(subject=item.subject, subject__code=item.subject.code).values_list('stage',
                                                                                                            flat=True))
