@@ -73,7 +73,14 @@ class TeacherWriteCommentViewSet(ModelViewSet):
             comment=comment,
         )
 
-    def retrieve(self, request, *args, **kwargs):
+
+class TeacherRetrieveCommentViewSet(ModelViewSet):
+    model = Teacher
+    queryset = model.objects.all()
+    serializer_class = TeacherWriteCommentSerializer
+    permission_classes = [IsTeacherTokenAuthenticatedPermission]
+
+    def create(self, request, *args, **kwargs):
         serializer = self.serializer_class(data=request.data)
         serializer.is_valid(raise_exception=True)
 
