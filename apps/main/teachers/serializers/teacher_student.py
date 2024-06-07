@@ -11,3 +11,4 @@ class TeacherSetScoreSerializer(serializers.Serializer):
     stage = serializers.IntegerField()
     student_id = serializers.CharField(max_length=20)
     score = serializers.IntegerField()
+    comment = serializers.CharField(max_length=1000)

@@ -63,7 +63,6 @@ class AnswerCreateAPIView(viewsets.ModelViewSet):
             return response
         elif stage == 2:
             response = create_answer_to_db_case_2(
-                model=self.model,
                 request=request,
                 student_obj=get_student,
                 subject_obj=get_subject,

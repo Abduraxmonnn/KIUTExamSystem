@@ -21,6 +21,7 @@ def set_score_to_student(
         subject_code,
         student_id,
         score,
+        comment,
         stage
 ):
     if stage == 2:
@@ -58,6 +59,7 @@ def set_score_to_student(
                 'message': 'Student Scored!'
             }, status=status.HTTP_400_BAD_REQUEST)
         item.score = score
+        item.comment = comment
         data['score'] = item.score
         item.is_scored = True
         item.save()

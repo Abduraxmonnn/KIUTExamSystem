@@ -3,21 +3,18 @@ from rest_framework import status
 from rest_framework.response import Response
 
 # Project
-from apps.main.questions.models import Question
-from apps.main.subjects.models import Subject
-from apps.services.get_user_by_token_service import get_user_by_token
+from apps.main.answers.models import Answer
 from apps.services.load_json_to_cache_service import get_json_data_from_cache
 
 
 def create_answer_to_db_case_2(
-        model,
         request,
         stage,
         student_obj,
         question_obj,
         question_id,
         subject_obj,
-        picked):
+        picked) -> Response:
     file_path = question_obj.file.name
     json_data = get_json_data_from_cache(file_path=file_path)
 
@@ -36,7 +33,7 @@ def create_answer_to_db_case_2(
         }
     }
 
-    existing_answer = model.objects.filter(
+    existing_answer = Answer.objects.filter(
         student=student_obj,
         subject=subject_obj,
         stage=stage,
@@ -53,7 +50,7 @@ def create_answer_to_db_case_2(
                 break
 
     if not existing_answer:
-        created_answer = model.objects.create(
+        created_answer = Answer.objects.create(
             subject=subject_obj,
             stage=stage,
             question=question_obj,
