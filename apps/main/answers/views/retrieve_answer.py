@@ -36,6 +36,7 @@ class RetrieveAnswerAPIView(APIView):
             )
         elif stage == 3:
             get_answer = get_answer_from_db_to_case_3(
+                request=request,
                 subject_code=subject_code,
                 student_id=student_id,
                 stage=stage
