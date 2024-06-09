@@ -40,14 +40,12 @@ class TeacherSetScoreViewSet(ModelViewSet):
         student_id = serializer.validated_data.get('student_id')
         score = serializer.validated_data.get('score')
         stage = serializer.validated_data.get('stage')
-        comment = serializer.validated_data.get('comment', None)
 
         return set_score_to_student(
             request=request,
             subject_code=subject_code,
             student_id=student_id,
             score=score,
-            comment=comment,
             stage=stage
         )
 
