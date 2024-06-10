@@ -13,6 +13,7 @@ from apps.services.load_json_to_cache_service import get_json_data_from_cache
 def get_question_case_2(
         question_obj,
         file_path,
+        testing,
         question_id=None,
         num_questions: int = 20) -> Response:
     try:
@@ -28,6 +29,7 @@ def get_question_case_2(
 
         # Filter valid questions with rates from JSON data
         valid_questions = [item for item in json_data if 'rate' in item]
+        random.shuffle(valid_questions)
 
         # Define target rates and initialize rate counters
         target_rates = {1: 6, 2: 8, 3: 6}
@@ -61,8 +63,16 @@ def get_question_case_2(
             for item in valid_questions:
                 rate = item.get('rate', None)
                 if rate in target_rates and rates[rate] < target_rates[rate]:
-                    result['questions'].append(item)
-                    rates[rate] += 1
+                    if testing:
+                        tmp = {
+                            'id': item['id'],
+                            'rate': item['rate']
+                        }
+                        result['questions'].append(tmp)
+                        rates[rate] += 1
+                    else:
+                        result['questions'].append(item)
+                        rates[rate] += 1
 
             # Check if we have collected enough questions, adjust if necessary
             while len(result['questions']) < num_questions:

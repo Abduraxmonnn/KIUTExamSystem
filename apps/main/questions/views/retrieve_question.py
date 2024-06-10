@@ -38,6 +38,7 @@ class QuestionRetrieveAPIView(views.APIView):
         stage = serializer.validated_data.get('stage')
         number_of_questions = serializer.validated_data.get('number_of_questions')
         question_id = serializer.validated_data.get('question_id')
+        testing = serializer.validated_data.get('testing')
     
         try:
             get_questions = self.model.objects.get(
@@ -45,7 +46,7 @@ class QuestionRetrieveAPIView(views.APIView):
                 stage=stage,
                 language=groups_picker[student_group_letter]
             )
-        #     ISSUE CATCHER
+        # ISSUE CATCHER
         except Question.MultipleObjectsReturned as ex:
             return Response({
                 'status': 'error',
@@ -71,7 +72,8 @@ class QuestionRetrieveAPIView(views.APIView):
                 question_obj=get_questions,
                 file_path=get_questions.file.name,
                 question_id=question_id,
-                num_questions=number_of_questions
+                num_questions=number_of_questions,
+                testing=testing
             )
             return response
         else:
