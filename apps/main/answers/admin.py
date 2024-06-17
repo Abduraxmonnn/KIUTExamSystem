@@ -19,6 +19,7 @@ class AnswerAdmin(ModelAdmin):
                     'get_question_lang', 'question', 'score', 'created_date']
     # list_filter = ['stage']
     list_display_links = ['get_subject_code', 'get_student_id']
+    search_fields = ['student__student_id']
     readonly_fields = ('pretty_json',)
     exclude = ('answer_json',)
 
