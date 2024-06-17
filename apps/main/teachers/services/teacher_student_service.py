@@ -4,17 +4,7 @@ from rest_framework.response import Response
 
 # Project
 from apps.main.answers.models import Answer
-
-
-def get_deepest_element(data):
-    if isinstance(data, (tuple, list)):
-        for item in data:
-            result = get_deepest_element(item)
-            if result is not None:
-                return result
-    else:
-        return data
-    return None
+from apps.services.get_deepest_element_serivce import get_deepest_element
 
 
 def teacher_student_list(request, subject_code, subject_lang):
