@@ -3,7 +3,6 @@ from django.core.validators import MinValueValidator, MaxValueValidator
 from django.db import models
 
 # Project
-from apps.main.teachers.models import Teacher
 from apps.main.directions.models import Direction
 
 
