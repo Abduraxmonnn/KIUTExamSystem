@@ -10,6 +10,7 @@ urlpatterns = [
     path('exam_schedule/', include('apps.main.exam_schedule.urls')),
     path('questions/', include('apps.main.questions.urls')),
     path('students/', include('apps.main.students.urls')),
+    path('department/students/', include('apps.main.students.urls')),
     path('subjects/', include('apps.main.subjects.urls')),
     path('teachers/', include('apps.main.teachers.urls')),
 ]
