@@ -4,8 +4,8 @@ from rest_framework import status
 
 # Project
 from apps.main.answers.models import Answer
+from apps.main.teachers_subjects.models import TeacherSubject
 from apps.services import merge_pdfs
-from apps.services.get_user_by_token_service import get_user_by_token
 from apps.services.load_json_to_cache_service import get_json_data_from_cache
 
 
@@ -13,7 +13,8 @@ def get_answer_from_db_to_case_3(request, subject_code, student_id, stage):
     try:
         answer_obj = Answer.objects.filter(subject__code=subject_code, student__student_id=student_id,
                                            stage=stage).last()
-        get_teacher = get_user_by_token(request)
+        get_teacher = TeacherSubject.objects.get(subject=answer_obj.subject,
+                                                 language=answer_obj.question.language)
     except Exception as ex:
         return {
             'status': 'error',
@@ -54,7 +55,7 @@ def get_answer_from_db_to_case_3(request, subject_code, student_id, stage):
             student_score=answer_obj.score,
             student_answer=answer_obj.answer_text,
             question_pdf_dir=question_data['content'],
-            teacher_name=get_teacher,
+            teacher_name=get_teacher.teacher,
             language=answer_obj.question.language
         )
         data['answer'] = merged_pdf

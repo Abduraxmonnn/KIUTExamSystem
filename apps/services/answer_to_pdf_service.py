@@ -1,30 +1,22 @@
+# Python
 import os
-
 import pdfkit
-import hashlib
 
 pdfkit_config = pdfkit.configuration(wkhtmltopdf='/usr/local/bin/wkhtmltopdf')
-
-
-def sha256_truncate(input_string, length=10):
-    sha256_hash = hashlib.sha256(input_string.encode()).hexdigest()
-    truncated_hash = sha256_hash[:length]
-    return truncated_hash
 
 
 def convert_answer_to_pdf(
         subject_code,
         subject_name,
-        student_id,
         score,
         student_answer,
         teacher_name,
-        language
+        output_file_name,
+        hashed_student_id
 ):
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
     media_dir = os.path.join(base_dir, 'media', 'answers')
 
-    hashed_student_id = sha256_truncate(student_id)
     html_content = f"""
     <!DOCTYPE html>
     <html>
@@ -72,7 +64,7 @@ def convert_answer_to_pdf(
     output_dir = os.path.join(media_dir, subject_code)
     os.makedirs(output_dir, exist_ok=True)
 
-    output_path = os.path.join(output_dir, f"{language}_{subject_name}_{hashed_student_id}.pdf")
+    output_path = os.path.join(output_dir, f'{output_file_name}')
 
     pdfkit.from_string(html_content, str(output_path), options=options, configuration=pdfkit_config)
 

@@ -4,9 +4,10 @@ from rest_framework.response import Response
 from rest_framework import status
 
 # Project
-from apps.main.answers.models import Answer
+from apps.services.get_user_by_token_service import get_user_by_token
 from apps.main.answers.serializers import RetrieveAnswerSerializer
-from apps.main.answers.services import get_answer_from_db_to_case_1, get_answer_from_db_to_case_3
+from apps.main.answers.services import get_answer_from_db_to_case_1, get_answer_from_db_to_case_3, \
+    get_answer_from_db_to_case_2
 from apps.permissions import IsTeacherTokenAuthenticatedPermission
 
 
@@ -21,13 +22,22 @@ class RetrieveAnswerAPIView(APIView):
         student_id = serializer.validated_data.get('student_id')
         stage = serializer.validated_data.get('stage')
 
-        if stage == 2:
-            return Response({
-                'status': 'error',
-                'message': 'Score is not changeable for case 2'
-            }, status=status.HTTP_400_BAD_REQUEST)
+        get_user = get_user_by_token(request)
+
+        teacher_split_name = get_user.full_name.split(None)
+        target_name = ['ALLAKULIEV', 'AKMAL']
+        print(teacher_split_name)
 
         get_answer = None
+        if stage == 2:
+            if target_name[0] not in teacher_split_name or target_name[1] not in teacher_split_name:
+                return Response({
+                    'status': 'error',
+                    'message': 'Score is not changeable for case 2'
+                }, status=status.HTTP_400_BAD_REQUEST)
+
+            get_answer = get_answer_from_db_to_case_2()
+
         if stage == 1:
             get_answer = get_answer_from_db_to_case_1(
                 subject_code=subject_code,
