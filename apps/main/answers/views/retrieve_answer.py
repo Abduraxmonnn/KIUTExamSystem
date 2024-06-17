@@ -26,7 +26,6 @@ class RetrieveAnswerAPIView(APIView):
 
         teacher_split_name = get_user.full_name.split(None)
         target_name = ['ALLAKULIEV', 'AKMAL']
-        print(teacher_split_name)
 
         get_answer = None
         if stage == 2:
