@@ -34,9 +34,6 @@ def create_pdf():
 
 
 class CreateCase2AnswerPDF:
-    pdf_file = create_pdf()
-    service = CreateCase2AnswerPDFService(pdf_file=pdf_file)
-
     query = """SELECT students_student.student_id, students_student.full_name, student_groups_studentgroup.code, directions_direction.code,
             directions_direction.name, subjects_subject.full_name, subjects_subject.code,teachers_teacher.full_name, score, answer_json, created_date from answers_answer
             join students_student on students_student.id = answers_answer.student_id
@@ -55,6 +52,8 @@ class CreateCase2AnswerPDF:
         self.student_id = student_id
         self.subject_code = subject_code
         self.language = language
+        self.pdf_file = create_pdf()
+        self.service = CreateCase2AnswerPDFService(pdf_file=self.pdf_file)
 
     def generate_and_save_pdf(self):
         host = default_db.settings_dict['HOST']
