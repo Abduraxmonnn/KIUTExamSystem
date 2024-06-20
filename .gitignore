@@ -2,7 +2,7 @@
 .venv
 venv
 *.pyc
-/static/
+#/static/
 #/media/
 .env
 db.sqlite3
