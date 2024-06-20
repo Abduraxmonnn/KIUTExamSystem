@@ -75,9 +75,6 @@ class CreateCase2AnswerPDF:
                 'message': 'connection to db is failed'
             }
 
-        print(self.pdf_file.get_y())
-        print(self.pdf_file.get_x())
-
         print_text(self.pdf_file, self.pdf_file.get_string_width('Student_id:') + 1, 7, "Student_id:",
                    ln=0,
                    align='L')
@@ -175,25 +172,18 @@ class CreateCase2AnswerPDF:
         list_options = ['option1', 'option2', 'option3', 'option4']
         count = 1
         for question_id, question_data in json_data.items():
-            print(f"Question ID: {question_id}")
-            print(f"Picked: {question_data['picked']}")
-            print(f"Is True: {question_data['is_true']}")
             for question in question_data['question']:
-                print(f"  Question ID: {question['id']}")
-                print(f"  Rate: {question['rate']}")
                 for i in range(question['rate']):
                     x, y = self.service.add_image(self.pdf_file, os.path.join(base_dir, 'static/rate.png'))
                     self.pdf_file.set_x(self.pdf_file.get_x() + x + 1)
                 variant = 0
                 set_bold_font(self.pdf_file)
-                print("QUESTION: ")
                 print_text(self.pdf_file, self.pdf_file.get_string_width(str(count) + ". ") + 1, 7,
                            str(count) + ". ", ln=0,
                            align='L')
                 for value in question["question"]:
                     if 'type' in value:
                         if value['type'] == 'text':
-                            print(value['content'])
                             temp_list = self.service.sizer(self.pdf_file, [value['content'].split()])
                             for i in range(len(temp_list)):
                                 print_text(self.pdf_file, 0, 7,
@@ -226,7 +216,6 @@ class CreateCase2AnswerPDF:
                     for value in option:
                         if 'type' in value:
                             if value['type'] == 'text':
-                                print(char + value['content'])
                                 temp_list = self.service.sizer(self.pdf_file, [value['content'].split()])
                                 for i in range(len(temp_list)):
                                     print_text(self.pdf_file, 0, 7,
@@ -235,7 +224,6 @@ class CreateCase2AnswerPDF:
             count += 1
             self.pdf_file.ln()
             self.pdf_file.ln()
-            print("\n")
 
         answer_obj = Answer.objects.filter(subject__code=self.subject_code, student__student_id=self.student_id,
                                            stage=2).last()
