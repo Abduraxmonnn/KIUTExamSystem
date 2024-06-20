@@ -1,3 +1,6 @@
+# Python
+from collections import OrderedDict
+
 # Rest-Framework
 from rest_framework import serializers
 
@@ -83,3 +86,42 @@ class StudentAnswerListSerializer(serializers.ModelSerializer):
             return ExamScheduleSerializer(exam_schedule).data
         except ExamSchedule.DoesNotExist:
             return None
+
+    def to_representation(self, instance):
+        data = super().to_representation(instance)
+        answer_data = (
+            Answer.objects
+            .filter(
+                subject__code=data['subject']['code'],
+                student__student_id=data['student']['student_id'],
+                question__language=groups_picker[data['student']['group']['code'][-1]]
+            )
+            .select_related('subject', 'subject__direction', 'student', 'student__direction',
+                            'student__group', 'question', 'question__subject',
+                            'question__subject__direction'))
+
+        students_dict = {
+            'case_1_score': None,
+            'case_2_score': None,
+            'case_3_score': None
+        }
+
+        for item in answer_data:
+            students_dict[f'case_{item.stage}_score'] = item.score
+
+        data['scores'] = students_dict
+        return data
+
+    @staticmethod
+    def remove_duplicate_students(data):
+        unique_entries = OrderedDict()
+        for entry in data:
+            student_subject_key = (entry['student']['student_id'], entry['subject']['id'])
+            if student_subject_key not in unique_entries:
+                unique_entries[student_subject_key] = entry
+        return list(unique_entries.values())
+
+    @classmethod
+    def to_representation_list(cls, instances):
+        serialized_data = [cls(instance).data for instance in instances]
+        return cls.remove_duplicate_students(serialized_data)
