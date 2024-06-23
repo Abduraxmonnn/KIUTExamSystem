@@ -3,12 +3,12 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 
-from apps.main.answers.services.get_answer_case_2 import CreateCase2AnswerPDF
+from apps.main.answers.services.get_answer_case_2 import generate_and_save_docx_case_2
 # Project
 from apps.services.get_user_by_token_service import get_user_by_token
 from apps.main.answers.serializers import RetrieveAnswerSerializer
 from apps.main.answers.services import get_answer_from_db_to_case_1, \
-    get_answer_from_db_to_case_3  # get_answer_from_db_to_case_2
+    get_answer_from_db_to_case_3
 from apps.permissions import IsTeacherTokenAuthenticatedPermission
 
 
@@ -36,7 +36,7 @@ class RetrieveAnswerAPIView(APIView):
                     'message': 'Score is not changeable for case 2'
                 }, status=status.HTTP_400_BAD_REQUEST)
 
-            get_answer = CreateCase2AnswerPDF(student_id=student_id, subject_code=subject_code).generate_and_save_pdf()
+            get_answer = generate_and_save_docx_case_2(student_id=student_id, subject_code=subject_code)
 
         if stage == 1:
             get_answer = get_answer_from_db_to_case_1(
