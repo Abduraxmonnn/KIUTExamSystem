@@ -8,6 +8,7 @@ from rest_framework.viewsets import ModelViewSet
 from apps.main.answers.models import Answer
 from apps.main.students.serializers import StudentAnswerListSerializer
 from apps.custom_pagination.standard_pagination import StandardResultsSetPagination
+from apps.permissions import IsDepartmentPermission
 
 
 class StudentAnswerListViewSet(ModelViewSet):
@@ -19,6 +20,7 @@ class StudentAnswerListViewSet(ModelViewSet):
     )
     serializer_class = StudentAnswerListSerializer
     pagination_class = StandardResultsSetPagination
+    permission_classes = [IsDepartmentPermission]
 
     filter_backends = [DjangoFilterBackend, SearchFilter, OrderingFilter]
     search_fields = [

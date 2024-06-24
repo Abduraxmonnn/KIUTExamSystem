@@ -4,6 +4,7 @@ from rest_framework.exceptions import AuthenticationFailed
 
 # Project
 from apps.main.auth_tokens.models import CustomToken
+from apps.services.get_user_by_token_service import get_user_by_token
 
 
 class IsCustomTokenAuthenticatedPermission(BasePermission):
@@ -40,3 +41,19 @@ class IsTeacherTokenAuthenticatedPermission(BasePermission):
                 raise AuthenticationFailed('Invalid token.')
         except CustomToken.DoesNotExist:
             raise AuthenticationFailed('Invalid token.')
+
+
+class IsDepartmentPermission(BasePermission):
+    def has_permission(self, request, view):
+        get_user = get_user_by_token(request)
+
+        if not get_user:
+            raise AuthenticationFailed('No token provided.')
+
+        teacher_split_name = get_user.full_name.split(None)
+        target_name = ['ALLAKULIEV', 'AKMAL']
+
+        if target_name[0] not in teacher_split_name or target_name[1] not in teacher_split_name:
+            raise AuthenticationFailed('Permission Died')
+
+        return True
