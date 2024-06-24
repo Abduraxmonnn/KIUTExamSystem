@@ -176,7 +176,7 @@ def generate_and_save_docx_case_2(student_id: str = None, subject_code: str = No
     response = {
         "student_id": student_id,
         "subject": answer_obj.subject.full_name,
-        "score": 2,
+        "score": answer_obj.score,
         "answer": relative_output_path
     }
     return {
