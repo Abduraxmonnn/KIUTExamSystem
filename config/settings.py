@@ -192,3 +192,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOW_HEADERS = default_headers + (
     'cache-control',
 )
+
